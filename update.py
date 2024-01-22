@@ -9,13 +9,15 @@ test = False
 
 date_format = '%y-%m-%d'
 
+shop = 'legend'
+
 url = urllib.request.urlopen("https://ddm999.github.io/gt7info/data.json")
 new_data = json.load(url)
 
 # Time stamp for latest data
 timestamp_date = new_data['updatetimestamp'][2:10]
 
-new_data = pd.DataFrame.from_dict(new_data['legend']['cars'])
+new_data = pd.DataFrame.from_dict(new_data[shop]['cars'])
 
 # load db
 legend_db = pd.read_csv('legend_historic.csv')
