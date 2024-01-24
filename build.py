@@ -1,9 +1,6 @@
 import urllib.request, json, os, sys, datetime
 import pandas as pd
 
-## TO DO
-# Replace 'legend' with a shop variable
-
 # Testing script
 test = False
 
@@ -46,9 +43,9 @@ for i, file in enumerate(sorted(dir, reverse=True)):
    # tmp_df['cr'] = tmp_df['cr'].map(int)
    tmp_df = tmp_df.rename({'cr': file_name}, axis='columns')
    if file_name == todays_date:
-      legend_db = tmp_df[[file_name]]
+      master_db = tmp_df[[file_name]]
    else:
-      legend_db = pd.merge(legend_db, tmp_df[[file_name]], how='outer', left_index=True, right_index=True)# .sort_index()
+      master_db = pd.merge(master_db, tmp_df[[file_name]], how='outer', left_index=True, right_index=True)# .sort_index()
    print("{0:0.1f}".format((i+1)/len(dir)*100), "% loaded", end="\r")
 
 if test:
@@ -74,14 +71,15 @@ countries = countries.rename({'ID': 'id', 'Name': 'Country', 'Code': 'Country Sh
 countries['id'] = countries['id'].map(str)
 countries.set_index('id', inplace=True)
 
-legend_db = pd.merge(legend_db, cars, how='left', left_index=True, right_index=True)
-legend_db = pd.merge(legend_db, makers, how='left', left_on='Maker', right_index=True)
-legend_db = pd.merge(legend_db, countries, how='left', left_on='Country Code', right_index=True)
+master_db = pd.merge(master_db, cars, how='left', left_index=True, right_index=True)
+master_db = pd.merge(master_db, makers, how='left', left_on='Maker', right_index=True)
+master_db = pd.merge(master_db, countries, how='left', left_on='Country Code', right_index=True)
 
-cols = legend_db.columns.tolist()
+cols = master_db.columns.tolist()
 cols = ['Country', 'Manufacturer', 'Model'] + cols[:-6] + ['Country Short', 'Maker', 'Country Code']
-legend_db = legend_db[cols]
-legend_db = legend_db.sort_values(by=['Manufacturer'])
+master_db = master_db[cols]
+master_db = master_db.sort_values(by=['Manufacturer'])
 
-pd.DataFrame.from_dict(legend_db).to_csv("legend_historic.csv")
+export_file = shop + "_historic.csv"
+pd.DataFrame.from_dict(master_db).to_csv("export_file")
 print("DB created.\n")
