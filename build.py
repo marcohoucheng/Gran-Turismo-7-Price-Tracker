@@ -1,37 +1,37 @@
 import urllib.request, json, os, sys, datetime
 import pandas as pd
 
-# Testing script
-test = False
+if len(sys.argv) > 2:
+    print("Too many arguments. Please specify the shop name as an argument. Default is 'legend'.")
+    sys.exit(1)
+
+if len(sys.argv) == 1:
+   shop = 'legend'
+else:
+   shop = sys.argv[1]
 
 # legend or used shop
 shop = 'legend'
 
 date_format = '%y-%m-%d'
 
-# Need to write a code to check we have today's data
-if test:
-   # newest file in local directory
-   todays_date = '24-01-15'
-   path = "./github_data/" + shop + "/"
-   dir = os.listdir(path)
-else:
-   todays_date = datetime.date.today().strftime(date_format)
-   path = "https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/" + shop + "/"
-   dir = [] # Initialize a list to store the dates from today back to 22-03-03
 
-   # Set the start and end dates
-   start_date = datetime.date(2022, 3, 3)
-   end_date = datetime.date.today()
+todays_date = datetime.date.today().strftime(date_format)
+path = "https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/" + shop + "/"
+dir = [] # Initialize a list to store the dates from today back to 22-03-03
 
-   # Iterate through the dates from start_date to end_date
-   while start_date <= end_date:
-      # Include extension
-      file = start_date.strftime(date_format) + ".csv"
-      # Append the file name to the list
-      dir.append(file)
-      # Add one day to the start_date
-      start_date += datetime.timedelta(days=1)
+# Set the start and end dates
+start_date = datetime.date(2022, 3, 3)
+end_date = datetime.date.today()
+
+# Iterate through the dates from start_date to end_date
+while start_date <= end_date:
+   # Include extension
+   file = start_date.strftime(date_format) + ".csv"
+   # Append the file name to the list
+   dir.append(file)
+   # Add one day to the start_date
+   start_date += datetime.timedelta(days=1)
 
 for i, file in enumerate(sorted(dir, reverse=True)):
    file_name = file[:-4]
@@ -48,14 +48,9 @@ for i, file in enumerate(sorted(dir, reverse=True)):
       master_db = pd.merge(master_db, tmp_df[[file_name]], how='outer', left_index=True, right_index=True)# .sort_index()
    print("{0:0.1f}".format((i+1)/len(dir)*100), "% loaded", end="\r")
 
-if test:
-   cars = pd.read_csv("./github_data/db/cars.csv")
-   makers = pd.read_csv("./github_data/db/maker.csv")
-   countries = pd.read_csv("./github_data/db/country.csv")
-else:
-   cars = pd.read_csv("https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/db/cars.csv")
-   makers = pd.read_csv("https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/db/maker.csv")
-   countries = pd.read_csv("https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/db/country.csv")
+cars = pd.read_csv("https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/db/cars.csv")
+makers = pd.read_csv("https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/db/maker.csv")
+countries = pd.read_csv("https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/db/country.csv")
 
 cars = cars.rename({'ID': 'id', 'ShortName': 'Model'}, axis='columns')
 cars['id'] = cars['id'].map(str)
