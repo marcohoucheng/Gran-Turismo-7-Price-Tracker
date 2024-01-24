@@ -36,9 +36,9 @@ def build(shop):
       local_path = path + file
       tmp_df = pd.read_csv(local_path)
       tmp_df[tmp_df['state'] != 'soldout']
-      tmp_df['id'] = tmp_df['id'].map(str)
+      tmp_df['id'] = tmp_df['id'].astype(str)
+      tmp_df['cr'] = tmp_df['cr'].astype('Int64')
       tmp_df.set_index('id', inplace=True)
-      # tmp_df['cr'] = tmp_df['cr'].map(int)
       tmp_df = tmp_df.rename({'cr': file_name}, axis='columns')
       if file_name == todays_date:
          master_db = tmp_df[[file_name]]
@@ -71,7 +71,7 @@ def build(shop):
    cols = master_db.columns.tolist()
    cols = ['Country', 'Manufacturer', 'Model'] + cols[:-6] + ['Country Short', 'Maker', 'Country Code']
    master_db = master_db[cols]
-   master_db = master_db.sort_values(by=['Manufacturer'])
+   master_db = master_db.sort_values(by=['Country', 'Manufacturer', 'Model'])
 
    export_file = shop + "_historic.csv"
    pd.DataFrame.from_dict(master_db).to_csv("./data/" + export_file)
