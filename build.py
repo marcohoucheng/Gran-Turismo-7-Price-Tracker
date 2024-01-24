@@ -35,7 +35,7 @@ def build(shop):
       file_name = file[:-4]
       local_path = path + file
       tmp_df = pd.read_csv(local_path)
-      tmp_df[tmp_df['state'] != 'soldout']
+      tmp_df = tmp_df[tmp_df['state'] != 'soldout']
       tmp_df['id'] = tmp_df['id'].astype(str)
       tmp_df['cr'] = tmp_df['cr'].astype('Int64')
       tmp_df.set_index('id', inplace=True)
@@ -73,8 +73,7 @@ def build(shop):
    master_db = master_db[cols]
    master_db = master_db.sort_values(by=['Country', 'Manufacturer', 'Model'])
 
-   export_file = shop + "_historic.csv"
-   pd.DataFrame.from_dict(master_db).to_csv("./data/" + export_file)
+   pd.DataFrame.from_dict(master_db).to_csv("./data/" + shop + "_historic.csv")
    print("DB created for", shop, "shop \n")
 
    return 0
