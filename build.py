@@ -2,14 +2,19 @@ import urllib.request, json, os, sys, datetime
 import pandas as pd
 
 if len(sys.argv) > 2:
-    print("Too many arguments. Please specify the shop name as an argument. Default is 'legend'.")
+    print("Too many arguments. Please specify the shop name as an argument. Default is both shops.")
     sys.exit(0)
 
 def build(shop):
 
+   if os.path.exists(shop + "_historic.csv"):
+      print("DB already exists for", shop, "shop. \nPlease run update.py to see if there are any new information.")
+      return 0
+
    date_format = '%y-%m-%d'
 
    todays_date = datetime.date.today().strftime(date_format)
+   # path = "./gt7info-web-new/_data/" + shop + "/"
    path = "https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/" + shop + "/"
    dir = [] # Initialize a list to store the dates from today back to 22-03-03
 
@@ -69,7 +74,7 @@ def build(shop):
    master_db = master_db.sort_values(by=['Manufacturer'])
 
    export_file = shop + "_historic.csv"
-   pd.DataFrame.from_dict(master_db).to_csv("export_file")
+   pd.DataFrame.from_dict(master_db).to_csv("./data/" + export_file)
    print("DB created for", shop, "shop \n")
 
    return 0
