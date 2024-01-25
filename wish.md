@@ -9,7 +9,7 @@
 | Aston Martin | Valkyrie '21 | 4,000,000 | |
 | Red Bull | X2014 Standard | 3,000,000 | |
 | Red Bull | X2019 Competition | 3,000,000 | Complete S-License with all Golds |
-| | 16,500,000 | |
+| | | 16,500,000 | |
 
 # Legend Cars
 
@@ -23,7 +23,7 @@
 | Porsche | Spyder type 550/1500RS '55 | 4,500,000 | |
 | Shelby | Cobra 427 '66 | 2,500,000 | |
 | Shelby | G.T.350 '65 | 500,000 | |
-| | 22,662,000 | |
+| | | 22,662,000 | |
 
 # Awaiting Invitation
 
@@ -32,4 +32,6 @@
 | Ferrari | Enzo Ferrari '02 | 2,500,000 | |
 | Ferrari | Ferrari LaFerrari '13 | 1,600,000 | |
 | Ferrari | FXX K '14 | 3,600,000 | |
-| | 10,200,000 | |
+| | | 10,200,000 | |
+
+Credits total: cr. 49,362,000
