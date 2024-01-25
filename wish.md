@@ -5,8 +5,8 @@
 | Alpine | VGT Race Mode | 1,000,000 | |
 | Lexus | LFA '10 | 1,500,000 | Complete Master International B-License with all Golds |
 | Bugatti | VGT | 1,000,000 | |
-| Bugatti | Chiron | '16 3,000,000 | |
-| Aston Martin | Valkyrie | '21 4,000,000 | |
+| Bugatti | Chiron '16 | 3,000,000 | |
+| Aston Martin | Valkyrie '21 | 4,000,000 | |
 | Red Bull | X2014 Standard | 3,000,000 | |
 | Red Bull | X2019 Competition | 3,000,000 | Gold on S License |
 
