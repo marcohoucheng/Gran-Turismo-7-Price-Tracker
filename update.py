@@ -4,7 +4,7 @@ import pandas as pd
 ## TO DO 
 # Improve implementation of adding missing car information
 
-def update(shop):
+def update(shop, test = False):
 
     test = True
 
