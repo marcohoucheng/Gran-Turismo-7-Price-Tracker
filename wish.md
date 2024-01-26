@@ -2,28 +2,24 @@
 
 | Brand  | Model | Credits | Gift |
 | ------------- | ------------- | ------------- | ------------- |
-| Alpine | VGT Race Mode | 1,000,000 | |
-| Lexus | LFA '10 | 1,500,000 | Complete Master International B-License with all Golds |
-| Bugatti | VGT | 1,000,000 | |
-| Bugatti | Chiron '16 | 3,000,000 | |
-| Aston Martin | Valkyrie '21 | 4,000,000 | |
 | Red Bull | X2014 Standard | 3,000,000 | |
 | Red Bull | X2019 Competition | 3,000,000 | Complete S-License with all Golds |
-| | | 16,500,000 | |
+| | | 6,000,000 | |
 
 # Legend Cars
 
 | Brand  | Model | Credits | Gift |
 | ------------- | ------------- | ------------- | ------------- |
+| Dodge | Charger R/T 426 Hemi '68 | 158,000 | |
 | Maserati | A6GCS/53 Spyder '54 | 2,500,000 | |
 | McLaren | MP4/4 '88 | 10,000,000 | Complete Master S-License with all Golds |
+| Nissan | R92CP '92 | 2,000,000 | |
 | Nissan | Skyline Hard Top 2000GT-R (KPGC10) '70 | 167,000 | |
+| Nissan | Skyline Super Silhouette '84 | 1,150,000 | |
 | Porsche | 911 Carrera RS (901) '73 | 745,000 | |
 | Porsche | 959 '87 | 1,750,000 | |
 | Porsche | Spyder type 550/1500RS '55 | 4,500,000 | |
-| Shelby | Cobra 427 '66 | 2,500,000 | |
-| Shelby | G.T.350 '65 | 500,000 | |
-| | | 22,662,000 | |
+| | | 22,970,000 | |
 
 # Awaiting Invitation
 
@@ -34,4 +30,4 @@
 | Ferrari | FXX K '14 | 3,600,000 | | |
 | | | 10,200,000 | | |
 
-Credits total: cr. 49,362,000
+Credits total: cr. 39,170,000
