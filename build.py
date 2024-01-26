@@ -1,6 +1,20 @@
 import urllib.request, json, os, sys, datetime
 import pandas as pd
 
+# Update how file name is created.
+'''
+import os
+path = "2024-01.csv" # your file name
+root, ext = os.path.splitext(path) # split into root and extension
+filename = os.path.basename(root) # get the last component of the root
+print(filename) # output: 2024-01
+
+from pathlib import Path
+path = Path("2024-01.csv") # create a Path object
+filename = path.stem # get the stem attribute
+print(filename) # output: 2024-01
+'''
+
 if len(sys.argv) > 2:
     print("Too many arguments. Please specify the shop name as an argument. Default is both shops.")
     sys.exit(0)

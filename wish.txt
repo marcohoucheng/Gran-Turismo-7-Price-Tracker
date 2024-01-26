@@ -1,27 +1,23 @@
 Brand Central
-RC F GT500 '16
-NSX CONCEPT-GT '16
-Alpine VGT Race
-LC500 '17
-LFA '10
-MC20 '20
-Bugatti VGT
-Chiron '16
-Ford GT '17
-DB11 '16
-Valkyrie '21
-Enzo Ferrari '02
-LaFerrari '13
-Red Bull X2014 Standard
-Red Bull X2019 Competition
+Alpine VGT Race Mode 1,000,000
+Lexus LFA '10 (1,500,000 (Complete Master International B-License with all Golds)
+Bugatti VGT 1,000,000
+Bugatti Chiron '16 3,000,000
+Aston Martin Valkyrie '21 4,000,000
+Red Bull X2014 Standard 3,000,000
+Red Bull X2019 Competition 3,000,000 (Gold on S License)
 
-Others
-Skyline Hard Top 2000GT-R (KPGC10) '70
-911 Carrera RS (901) '73
-Merak SS '80
-A6GCS/53 Spyder '54
-Cobra 427 '66
-G.T.350 '65
-959 '87
-Spyder type 550/1500RS '55
-MP4/4 '88
+Ferrari Enzo Ferrari '02 2,500,000
+Ferrari LaFerrari '13 1,600,000
+Ferrari FXX K '14 3,600,000
+
+Legend Cars
+Maserati  A6GCS/53 Spyder '54 2,500,000
+McLaren MP4/4 '88 10,000,000 (Master S-License with all Golds)
+Nissan Skyline Hard Top 2000GT-R (KPGC10) '70 167,000
+Porsche 911 Carrera RS (901) '73 745,000
+Porsche 959 '87 1,750,000
+Porsche Spyder type 550/1500RS '55 4,500,000
+Shelby Cobra 427 '66 2,500,000
+Shelby G.T.350 '65 500,000
+ 
