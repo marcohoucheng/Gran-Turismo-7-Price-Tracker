@@ -21,9 +21,13 @@ if len(sys.argv) > 2:
 
 def build(shop):
 
-   if os.path.exists(shop + "_historic.csv"):
+   if os.path.exists("./data/" + shop + "_historic.csv"):
       print("DB already exists for", shop, "shop. \nPlease run update.py to see if there are any new information.")
       return 0
+   
+   # Create folder if not exist
+   if not os.path.exists("./data"):
+      os.makedirs("./data")
 
    date_format = '%y-%m-%d'
 
