@@ -6,8 +6,6 @@ import pandas as pd
 
 def update(shop, test = False):
 
-    test = True
-
     date_format = '%y-%m-%d'
 
     url = urllib.request.urlopen("https://ddm999.github.io/gt7info/data.json")
