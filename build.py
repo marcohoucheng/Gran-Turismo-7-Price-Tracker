@@ -50,9 +50,10 @@ def build(shop):
       start_date += datetime.timedelta(days=1)
 
    for i, file in enumerate(sorted(dir, reverse=True)):
-      file_name = file[:-4]
-      local_path = path + file
-      tmp_df = pd.read_csv(local_path)
+      file_name, _ = os.path.splitext(file) # split into root and extension
+      # file_name = os.path.basename(file_name) # get the last component of the root
+      file_path = os.path.join(path, file)
+      tmp_df = pd.read_csv(file_path)
       tmp_df = tmp_df[tmp_df['state'] != 'soldout']
       tmp_df['id'] = tmp_df['id'].astype(str)
       tmp_df['cr'] = tmp_df['cr'].astype('Int64')
