@@ -15,15 +15,8 @@ makers['id'] = makers['id'].map(str)
 makers['Country Code'] = makers['Country Code'].map(str)
 makers.set_index('id', inplace=True)
 
-cars = cars.merge(makers, how='left', left_index=True, right_index=True)
-
-cols = master_db.columns.tolist()
-cols = ['Country', 'Manufacturer', 'Model'] + cols[:-6] + ['Country Short', 'Maker', 'Country Code']
-master_db = master_db[cols]
-master_db = master_db.sort_values(by=['Country', 'Manufacturer', 'Model'])
-
-pd.DataFrame.from_dict(master_db).to_csv("./data/" + shop + "_historic.csv")
-print("DB created for", shop, "shop \n")
+tab = pd.merge(cars, makers, how='left', left_on='Maker', right_index=True)
+tab = tab[['Manufacturer', 'Model']].sort_values(by=['Manufacturer', 'Model'])
 
 # Provide a search list for users to select (multiple cars)
 # Store the list of cars ID
