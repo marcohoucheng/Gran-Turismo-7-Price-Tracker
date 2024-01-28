@@ -16,10 +16,9 @@
 | Nissan | R92CP '92 | 2,000,000 | |
 | Nissan | Skyline Hard Top 2000GT-R (KPGC10) '70 | 167,000 | |
 | Nissan | Skyline Super Silhouette '84 | 1,150,000 | |
-| Porsche | 911 Carrera RS (901) '73 | 745,000 | |
 | Porsche | 959 '87 | 1,750,000 | |
 | Porsche | Spyder type 550/1500RS '55 | 4,500,000 | |
-| | | 22,970,000 | |
+| | | 22,225,000 | |
 
 # Awaiting Invitation
 
