@@ -29,4 +29,4 @@
 | Ferrari | FXX K '14 | 3,600,000 | | |
 | | | 10,200,000 | | |
 
-Credits total: cr. 39,170,000
+Credits total: cr. 38,425,000
