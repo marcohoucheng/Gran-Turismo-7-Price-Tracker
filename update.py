@@ -8,6 +8,10 @@ def update(shop, test = False):
 
     date_format = '%y-%m-%d'
 
+    if not(os.path.exists("./data/" + shop + "_historic.csv")):
+        print(shop, "shop DB not found in the data folder.\nPlease run build.py to create a new DB.")
+        return 0
+
     url = urllib.request.urlopen("https://ddm999.github.io/gt7info/data.json")
     new_data = json.load(url)
 
@@ -34,14 +38,14 @@ def update(shop, test = False):
 
     # if timestamp is the same or older than the recorded date, exit
     if datetime.datetime.strptime(timestamp_date, date_format) < datetime.datetime.strptime(latest_recorded_date, date_format):
-        print("No new data available.\nExiting...")
-        sys.exit(0)
+        print("No new data available for", shop, "shop.\nExiting...")
+        return 0
     elif datetime.datetime.strptime(timestamp_date, date_format) == datetime.datetime.strptime(latest_recorded_date, date_format):
-        print("Today's data not available yet. Please try again later.\nExiting...")
-        sys.exit(0)
+        print("Today's data not available yet for", shop, "shop. Please try again later.\nExiting...")
+        return 0
     elif (datetime.datetime.strptime(timestamp_date, date_format) - datetime.datetime.strptime(latest_recorded_date, date_format)).days > 1:
         # missing more than one day of data, need to dig from github...
-        print("Last updated on", latest_recorded_date, ".")
+        print("Last updated", shop, "shop on", latest_recorded_date, ".")
         print("Missing data for", (datetime.datetime.strptime(timestamp_date, date_format) - datetime.datetime.strptime(latest_recorded_date, date_format)).days, "days.")
         start_date = datetime.datetime.strptime(latest_recorded_date, date_format) + datetime.timedelta(days=1)
         end_date = datetime.datetime.strptime(timestamp_date, date_format)
@@ -71,7 +75,8 @@ def update(shop, test = False):
         master_db = master_db[cols]
         # Check timestamp date is today's date, if not then print warning message
         if datetime.datetime.strptime(timestamp_date, date_format).date() < datetime.datetime.today().date():
-            print("Today's data not available yet. DB updated up to yesterday's data.\nExiting...")
+            print("Today's data not available yet for", shop, "shop. DB updated up to yesterday's data.\nExiting...")
+            return 0
     else:
         print("Pulling new data from JSON file...")
         new_data['credits'] = new_data['credits'].astype('Int64')
@@ -123,7 +128,6 @@ def update(shop, test = False):
         pd.DataFrame.from_dict(master_db).to_csv("./data/" + shop + "_historic_test.csv")
     else:
         pd.DataFrame.from_dict(master_db).to_csv("./data/" + shop + "_historic.csv")
-
     print(shop, "shop DB updated.\n")
 
 def main():
