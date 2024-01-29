@@ -17,8 +17,7 @@
 | Nissan | Skyline Hard Top 2000GT-R (KPGC10) '70 | 167,000 | |
 | Nissan | Skyline Super Silhouette '84 | 1,150,000 | |
 | Porsche | 959 '87 | 1,750,000 | |
-| Porsche | Spyder type 550/1500RS '55 | 4,500,000 | |
-| | | 22,225,000 | |
+| | | 17,725,000 | |
 
 # Awaiting Invitation
 
