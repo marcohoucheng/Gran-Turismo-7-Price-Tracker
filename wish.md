@@ -14,10 +14,9 @@
 | Maserati | A6GCS/53 Spyder '54 | 2,500,000 | |
 | McLaren | MP4/4 '88 | 10,000,000 | Complete Master S-License with all Golds |
 | Nissan | R92CP '92 | 2,000,000 | |
-| Nissan | Skyline Hard Top 2000GT-R (KPGC10) '70 | 167,000 | |
 | Nissan | Skyline Super Silhouette '84 | 1,150,000 | |
 | Porsche | 959 '87 | 1,750,000 | |
-| | | 17,725,000 | |
+| | | 17,558,000 | |
 
 # Awaiting Invitation
 
@@ -28,4 +27,4 @@
 | Ferrari | FXX K '14 | 3,600,000 | | |
 | | | 10,200,000 | | |
 
-Credits total: cr. 33,925,000
+Credits total: cr. 33,758,000
