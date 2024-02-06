@@ -14,8 +14,7 @@
 | Maserati | A6GCS/53 Spyder '54 | 2,500,000 | |
 | McLaren | MP4/4 '88 | 10,000,000 | Complete Master S-License with all Golds |
 | Nissan | GT-R GT500 '99 | 2,700,000 | |
-| Nissan | R92CP '92 | 2,000,000 | |
-| | | 17,358,000 | |
+| | | 15,358,000 | |
 
 # Awaiting Invitation
 
@@ -26,4 +25,4 @@
 | Ferrari | FXX K '14 | 3,600,000 | | |
 | | | 10,200,000 | | |
 
-Credits total: cr. 33,558,000
+Credits total: cr. 31,558,000
