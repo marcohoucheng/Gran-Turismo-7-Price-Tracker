@@ -1,11 +1,3 @@
-# Brand Central
-
-| Brand  | Model | Credits | Gift |
-| ------------- | ------------- | ------------- | ------------- |
-| Red Bull | X2014 Standard | 3,000,000 | |
-| Red Bull | X2019 Competition | 3,000,000 | Complete S-License with all Golds |
-| | | 6,000,000 | |
-
 # Legend Cars
 
 | Brand  | Model | Credits | Gift |
@@ -24,4 +16,4 @@
 | Ferrari | FXX K '14 | 3,600,000 | | |
 | | | 10,200,000 | | |
 
-Credits total: cr. 31,400,000
+Credits total: cr. 25,400,000
