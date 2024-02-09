@@ -63,6 +63,7 @@ def build(shop):
          master_db = tmp_df[[file_name]]
       else:
          master_db = pd.merge(master_db, tmp_df[[file_name]], how='outer', left_index=True, right_index=True)# .sort_index()
+      del tmp_df
       print("{0:0.1f}".format((i+1)/len(dir)*100), "% loaded", end="\r")
 
    cars = pd.read_csv("https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/db/cars.csv")
