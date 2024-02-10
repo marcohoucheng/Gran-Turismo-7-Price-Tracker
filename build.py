@@ -37,7 +37,7 @@ def build(shop):
    dir = [] # Initialize a list to store the dates from today back to 22-03-03
 
    # Set the start and end dates
-   start_date = datetime.date(2022, 3, 3)
+   start_date = datetime.date(2022, 8, 18)
    end_date = datetime.date.today()
 
    # Iterate through the dates from start_date to end_date
@@ -94,7 +94,7 @@ def build(shop):
    master_db = master_db.sort_values(by=['Country', 'Manufacturer', 'Model'])
 
    pd.DataFrame.from_dict(master_db).to_csv("./data/" + shop + "_historic.csv")
-   print("DB created for", shop, "shop \n")
+   print("DB created for", shop, "shop.\n")
 
    return 0
 
