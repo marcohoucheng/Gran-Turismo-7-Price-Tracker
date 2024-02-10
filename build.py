@@ -37,7 +37,10 @@ def build(shop):
    dir = [] # Initialize a list to store the dates from today back to 22-03-03
 
    # Set the start and end dates
-   start_date = datetime.date(2022, 8, 18)
+   if shop == 'legend':
+      start_date = datetime.date(2022, 3, 3)
+   else:
+      start_date = datetime.date(2022, 8, 18)
    end_date = datetime.date.today()
 
    # Iterate through the dates from start_date to end_date
