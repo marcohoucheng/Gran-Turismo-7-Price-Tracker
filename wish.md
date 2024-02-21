@@ -3,8 +3,7 @@
 | Brand  | Model | Credits |
 | ------------- | ------------- | ------------- |
 | Ferrari | F50 '95 | 4,750,000 |
-| Maserati | A6GCS/53 Spyder '54 | 2,500,000 |
-| | | 7,250,000 |
+| | | 4,750,000 |
 
 # Awaiting Invitation
 
@@ -16,4 +15,4 @@
 | Ferrari | FXX K '14 | 3,600,000 | | |
 | | | 11,200,000 | | |
 
-Credits total: cr. 18,450,000
+Credits total: cr. 15,950,000
