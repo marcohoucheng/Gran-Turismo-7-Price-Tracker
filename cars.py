@@ -20,7 +20,7 @@ def main():
     cars = pd.merge(cars, makers, how='left', left_on='Maker', right_index=True)
     cars = cars[['Manufacturer', 'Model']].sort_values(by=['Manufacturer', 'Model'])
 
-    pd.DataFrame.from_dict(cars).to_csv("./data/" + "cars.csv")
+    pd.DataFrame.from_dict(cars).to_csv("./data/cars.csv")
     print("DB created for cars metadata.\n")
     return 0
 
