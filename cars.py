@@ -1,4 +1,4 @@
-# Create table for cars' information
+# Create table for cars' metadata
 
 import pandas as pd
 
@@ -21,7 +21,7 @@ def main():
     cars = cars[['Manufacturer', 'Model']].sort_values(by=['Manufacturer', 'Model'])
 
     pd.DataFrame.from_dict(cars).to_csv("./data/" + "cars.csv")
-    print("DB created for shop information.\n")
+    print("DB created for cars metadata.\n")
     return 0
 
 if __name__ == "__main__":
