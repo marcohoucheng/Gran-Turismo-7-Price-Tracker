@@ -19,21 +19,17 @@ def main():
     legend_db = pd.read_csv("./data/legend_historic.csv")
     legend_db['id'] = legend_db['id'].astype(str)
     legend_db.set_index('id', inplace=True)
-    cols = legend_db.columns.tolist()
-    legend_db[cols[3:-3]] = legend_db[cols[3:-3]].astype('Int64')
 
     used_db = pd.read_csv("./data/used_historic.csv")
     used_db['id'] = used_db['id'].astype(str)
     used_db.set_index('id', inplace=True)
-    cols = used_db.columns.tolist()
-    used_db[cols[3:-3]] = used_db[cols[3:-3]].astype('Int64')
 
     ## add 3 columns (for 3 shops) and flag which store they belong to
     cars['legend'] = cars.index.isin(legend_db.index)
     cars['used'] = cars.index.isin(used_db.index)
     cars['central'] = ( ~cars['legend'] & ~cars['used'] ) | cars.index.isin(central_db.index)
 
-    pd.DataFrame.from_dict(cars).to_csv("./data/" + "shop.csv")
+    pd.DataFrame.from_dict(cars).to_csv("./data/shop.csv")
     print("DB created for shop information.\n")
     return 0
 
