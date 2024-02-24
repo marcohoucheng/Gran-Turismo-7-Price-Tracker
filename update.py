@@ -37,12 +37,12 @@ def update(shop, test = False):
     latest_recorded_date = cols[3]
 
     # if timestamp is the same or older than the recorded date, exit
-    if datetime.datetime.strptime(timestamp_date, date_format) < datetime.datetime.strptime(latest_recorded_date, date_format):
+    if datetime.datetime.strptime(timestamp_date, date_format) <= datetime.datetime.strptime(latest_recorded_date, date_format):
         print("No new data available for", shop, "shop.\nExiting...")
         return 0
-    elif datetime.datetime.strptime(timestamp_date, date_format) == datetime.datetime.strptime(latest_recorded_date, date_format):
-        print("Today's data not available yet for", shop, "shop. Please try again later.\nExiting...")
-        return 0
+    # elif datetime.datetime.strptime(timestamp_date, date_format) == datetime.datetime.strptime(latest_recorded_date, date_format):
+    #     print("Today's data not available yet for", shop, "shop. Please try again later.\nExiting...")
+    #     return 0
     elif (datetime.datetime.strptime(timestamp_date, date_format) - datetime.datetime.strptime(latest_recorded_date, date_format)).days > 1:
         # missing more than one day of data, need to dig from github...
         print("Last updated", shop, "shop on", latest_recorded_date, ".")
