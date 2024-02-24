@@ -3,3 +3,4 @@ tmp.ipynb
 gt7info-web-new/
 data/
 build_tmp.py
+__pycache__/

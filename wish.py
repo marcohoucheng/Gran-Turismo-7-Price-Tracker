@@ -7,8 +7,10 @@ def main():
 
     # list of cars from the game, should be a user input
     wish = [216,773,810,1565,1984,2167,3362]
-
     wish = pd.DataFrame(wish).astype(str)
+
+    today_shop = []
+    past_shop = []
 
     shops = pd.read_csv("./data/shop.csv")
     shops['id'] = shops['id'].astype(str)
@@ -41,9 +43,11 @@ def main():
         prices = legend_db.loc[[car_id]].dropna(axis=1, how='all')
         last_avail = prices.columns.tolist()[3]
         if last_avail == datetime.date.today().strftime("%y-%m-%d"):
-            print(car_info[0] + " " + car_info[1], " is in the shop today at price", int(prices[last_avail]), "cr.")
+            today_shop.append([car_info[0] + " " + car_info[1], int(prices[last_avail]), "Legend"])
+            # print(car_info[0] + " " + car_info[1], " is in the shop today at price", int(prices[last_avail]), "cr.")
         else:
-            print(car_info[0] + " " + car_info[1], " was last in the legend shop on " + last_avail + " at price", int(prices[last_avail]), "cr.")
+            past_shop.append([car_info[0] + " " + car_info[1], last_avail, int(prices[last_avail]), "Legend"])
+            # print(car_info[0] + " " + car_info[1], " was last in the legend shop on " + last_avail + " at price", int(prices[last_avail]), "cr.")
 
 
     ## Used
@@ -57,16 +61,28 @@ def main():
     used_db.set_index('id', inplace=True)
     cols = used_db.columns.tolist()
     used_db[cols[3:-3]] = used_db[cols[3:-3]].astype('Int64')
-
+    
     for car in range(wish_used.size):
         car_id = wish_used[0].tolist()[car]
         car_info = cars.loc[car_id]
         prices = used_db.loc[[car_id]].dropna(axis=1, how='all')
         last_avail = prices.columns.tolist()[3]
+        
         if last_avail == datetime.date.today().strftime("%y-%m-%d"):
-            print(car_info[0] + " " + car_info[1], " is in the shop today at price", int(prices[last_avail]), "cr.")
+            today_shop.append([car_info[0] + " " + car_info[1], int(prices[last_avail]), "Used"])
+            # print(car_info[0] + " " + car_info[1], " is in the shop today at price", int(prices[last_avail]), "cr.")
         else:
-            print(car_info[0] + " " + car_info[1], " was last in the used shop on " + last_avail + " at price", int(prices[last_avail]), "cr.")
+            past_shop.append([car_info[0] + " " + car_info[1], last_avail, int(prices[last_avail]), "Used"])
+            # print(car_info[0] + " " + car_info[1], " was last in the used shop on " + last_avail + " at price", int(prices[last_avail]), "cr.")
+
+    if len(today_shop) > 0:
+        print("\nAvailable today:")
+        for car in today_shop:
+            print(car[0], "is available at price", car[1], "cr. in the", car[2], "shop.")
+    if len(past_shop) > 0:
+        print("\nNot available today:")
+        for car in past_shop:
+            print(car[0], "was last available on", car[1], "at price", car[2], "cr. in the", car[3], "shop.")
     return 0
 
 if __name__ == "__main__":
