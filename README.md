@@ -10,10 +10,9 @@ A similar service is already available on https://gtdb.io. However, an account i
 
 # Outlook
 
-1. Create a more seamless solution to build and run script.
-2. Provide a method to return cars avaialbe of the day.
-3. Provide a method to allow creating wish lists within the mail subscription.
-4. A web app to show historic prices of cars and specs.
+1. Provide a method to return cars avaialbe of the day.
+2. Provide a method to allow creating wish lists within the mail subscription.
+3. A web app to show historic prices of cars and specs.
 
 # How to use
 

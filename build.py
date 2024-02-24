@@ -107,6 +107,12 @@ def main():
       build('used')
    else:
       build(sys.argv[1])
+   if not os.path.exists("./data/cars.csv"):
+      import cars
+      cars.main()
+   if not os.path.exists("./data/shop.csv"):
+      import shop
+      shop.main()
 
 if __name__ == "__main__":
    main()

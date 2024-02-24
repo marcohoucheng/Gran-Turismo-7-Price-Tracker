@@ -1,7 +1,10 @@
 import urllib.request, json, os, sys, datetime
 import pandas as pd
+import update
 
 def main():
+    update.main()
+
     # list of cars from the game, should be a user input
     wish = [216,773,810,1565,1984,2167,3362]
 
