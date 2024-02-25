@@ -1,10 +1,3 @@
-# Legend Cars
-
-| Brand  | Model | Credits |
-| ------------- | ------------- | ------------- |
-| Ferrari | F50 '95 | 4,750,000 |
-| | | 4,750,000 |
-
 # Awaiting Invitation
 
 | Brand  | Model | Credits | Gift | Notes |
