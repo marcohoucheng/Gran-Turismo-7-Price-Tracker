@@ -16,5 +16,9 @@ A similar service is already available on https://gtdb.io. However, an account i
 
 # How to use
 
-1. Build databases by running `build.py`, `shop.py` and `car.py`.
-2. Run `update.py` before running `wish.py` when checking whather cars on wish list are available.
+1. Build databases by running `build.py`. It will also detect whether `shop.py` and `car.py` should be run.
+    - Only the respective shop will be built if ran with flag `used` or `legend`. Nevertheless, `shop.py` and `car.py` will still be triggered if necessary.
+2. Run `update.py` to update the local shop databases.
+    - Similar to `build.py`, `used` or `legend` flags can be called.
+3. Running `wish.py` will automatically run `update.py` when checking whather cars on wish list are available.
+4. Running `today.py` returns items available in the shops today. With flag `new` the script will only return new days of the day.
