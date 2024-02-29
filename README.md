@@ -10,7 +10,7 @@ A similar service is already available on https://gtdb.io. However, an account i
 
 # Outlook
 
-1. Provide a method to return cars avaialbe of the day.
+1. Provide a method to allow creating wish lists.
 2. Provide a method to allow creating wish lists within the mail subscription.
 3. A web app to show historic prices of cars and specs.
 

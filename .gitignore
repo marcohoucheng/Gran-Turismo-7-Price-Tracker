@@ -1,6 +1,5 @@
 .DS_Store
-tmp.ipynb
-gt7info-web-new/
 data/
-build_tmp.py
 __pycache__/
+References/
+build_tmp.py
