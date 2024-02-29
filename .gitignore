@@ -1,5 +1,5 @@
 .DS_Store
-data/
+github_data/
 __pycache__/
 References/
 build_tmp.py

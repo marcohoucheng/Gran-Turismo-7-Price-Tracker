@@ -1,0 +1,496 @@
+id,Manufacturer,Model
+3388,AMG,300 SEL 6.8 AMG '71
+2170,AMG,A 45 AMG '13
+3531,AMG,GT3 '20
+3458,AMG,Mercedes-AMG C 63 S '15
+3485,AMG,Mercedes-AMG GT Black Series '20
+3416,AMG,Mercedes-AMG GT R '17
+2149,AMG,Mercedes-AMG GT S '15
+3210,AMG,Mercedes-AMG GT Safety Car
+3224,AMG,Mercedes-AMG GT3 '16
+2055,AMG,Mercedes-Benz AMG VGT
+2076,AMG,Mercedes-Benz AMG VGT Racing Series
+1507,AMG,SLS AMG '10
+1797,AMG,SLS AMG GT3 '11
+3192,AMG,SLS AMG Gr.4
+1932,Abarth,1500 Biposto Bertone B.A.T 1 '52
+1973,Abarth,Abarth 500 '09
+3438,Abarth,Abarth 595 SS '70
+365,Alfa Romeo,155 2.5 V6 TI '93
+2136,Alfa Romeo,4C '14
+3185,Alfa Romeo,4C Gr.3
+3299,Alfa Romeo,4C Gr.3 Road Car
+2166,Alfa Romeo,4C Gr.4
+3415,Alfa Romeo,8C 2900B Touring Berlinetta '38
+1578,Alfa Romeo,8C Competizione '08
+1645,Alfa Romeo,GIULIA TZ2 carrozzata da ZAGATO '65
+3411,Alfa Romeo,Giulia GTAm '20
+3530,Alfa Romeo,Giulia Sprint GT Veloce '67
+1933,Alfa Romeo,MiTo '09
+3337,Alpine,A110 '17
+1796,Alpine,A110 '72
+3457,Alpine,A220 Race Car '68
+2112,Alpine,Alpine VGT
+3187,Alpine,Alpine VGT '17
+2116,Alpine,Alpine VGT Race
+1549,Amuse,Amuse NISMO 380RS Super Leggera
+1433,Amuse,Amuse S2000 GT1 Turbo
+3343,Aston Martin,DB11 '16
+3363,Aston Martin,DB3S '53
+3445,Aston Martin,DB5 '64
+3394,Aston Martin,DBR9 GT1 '10
+2103,Aston Martin,DP-100 VGT
+1898,Aston Martin,One-77 '11
+2131,Aston Martin,V12 Vantage GT3 '12
+2157,Aston Martin,V8 Vantage Gr.4
+2175,Aston Martin,V8 Vantage S '15
+3532,Aston Martin,Valkyrie '21
+3309,Aston Martin,Vulcan '16
+3314,Audi,Audi VGT
+3351,Audi,Audi e-tron VGT
+3334,Audi,R18 '16
+1965,Audi,R18 TDI '11
+1365,Audi,R8 4.2 '07
+2143,Audi,R8 LMS '15
+3405,Audi,R8 LMS Evo '19
+3523,Audi,RS 5 Turbo DTM '19
+1927,Audi,Sport quattro S1 Pikes Peak '87
+959,Audi,TT Coupe 3.2 quattro '03
+3298,Audi,TT Cup '16
+2169,Audi,TTS Coupe '14
+3442,Autobianchi,A112 Abarth '85
+3409,BAC,Mono '16
+3454,BMW,3.0 CSL '71
+3422,BMW,3.0 CSL '73
+2087,BMW,BMW VGT
+3483,BMW,M2 Competition '18
+3389,BMW,M3 '03
+1399,BMW,M3 '07
+3453,BMW,M3 '89
+1904,BMW,M3 GT '11
+3344,BMW,M3 Sport Evolution '89
+2074,BMW,M4 '14
+3245,BMW,M4 Gr.4
+3209,BMW,M4 Safety Car
+3218,BMW,M6 GT3 Endurance Model '16
+3221,BMW,M6 GT3 Sprint Model '16
+216,BMW,McLaren F1 GTR Race Car '97
+1902,BMW,Z4 GT3 '11
+1893,BMW,Z8 '01
+3266,BMW,i3 '15
+3541,BVLGARI,BVLGARI Aluminium VGT
+2134,Bugatti,Bugatti VGT
+2179,Bugatti,Bugatti VGT (Gr.1)
+3473,Bugatti,Chiron '16
+2049,Bugatti,Veyron 16.4 '13
+3246,Bugatti,Veyron Gr.4
+1069,Chaparral,2J '70
+2107,Chaparral,Chaparral 2X VGT
+3217,Chevrolet,Camaro SS '16
+31,Chevrolet,Camaro Z28 '69
+3387,Chevrolet,Camaro ZL1 1LE Package '18
+3464,Chevrolet,Corvette (C1) '58
+818,Chevrolet,Corvette (C2) '63
+1916,Chevrolet,Corvette C7 '14
+2183,Chevrolet,Corvette C7 Gr.3
+3296,Chevrolet,Corvette C7 Gr.3 Road Car
+3247,Chevrolet,Corvette C7 Gr.4
+3449,Chevrolet,Corvette C7 ZR1 '19
+3518,Chevrolet,Corvette C8 Stingray '20
+1542,Chevrolet,Corvette Convertible (C3) '69
+41,Chevrolet,Corvette Stingray (C3) '69
+2059,Chevrolet,Corvette Stingray Racer Concept '59
+942,Chevrolet,Corvette ZR-1 (C4) '89
+1480,Chevrolet,Corvette ZR1 (C6) '09
+3338,Chris Holstrom Concepts,CHC 1967 Chevy Nova
+3514,Citroen,DS 21 Pallas '70
+3248,Citroen,GT by Citroen Gr.4
+2190,Citroen,GT by Citroen Race Car (Gr.3)
+1581,Citroen,GT by Citroen Road Car
+1027,DMC,DeLorean S2 '04
+2172,DS AUTOMOBILES,DS 3 Racing '11
+3316,Daihatsu,COPEN RJ VGT
+145,Daihatsu,Copen '02
+3437,De Tomaso,Mangusta '69
+3505,De Tomaso,Mangusta (Christian Dior)
+3341,De Tomaso,Pantera '71
+1543,Dodge,Challenger R/T '70
+3486,Dodge,Challenger SRT Demon '18
+3538,Dodge,Charger R/T 426 Hemi '68
+2152,Dodge,Charger SRT Hellcat '15
+3406,Dodge,Charger SRT Hellcat Safety Car
+2110,Dodge,SRT Tomahawk GTS-R VGT
+2111,Dodge,SRT Tomahawk S VGT
+3188,Dodge,SRT Tomahawk VGT (Gr.1)
+2108,Dodge,SRT Tomahawk X VGT
+3377,Dodge,Super Bee '70
+1373,Dodge,Viper GTS '02
+1956,Dodge,Viper GTS '13
+3249,Dodge,Viper Gr.4
+3223,Dodge,Viper SRT GT3-R '15
+1402,Dodge,Viper SRT10 Coupe '06
+3346,Eckert's Rod & Custom,Mach Forty
+1931,Ferrari,250 GT Berlinetta passo corto '61
+2010,Ferrari,250 GTO '62
+3443,Ferrari,308 GTB '75
+1551,Ferrari,330 P4 '67
+2018,Ferrari,365 GTB4 '71
+1504,Ferrari,458 Italia '09
+2158,Ferrari,458 Italia GT3 '13
+3263,Ferrari,458 Italia Gr.4
+2011,Ferrari,500 Mondial Pinin Farina Coupe '54
+1410,Ferrari,512 BB '76
+1895,Ferrari,Dino 246 GT '71
+1474,Ferrari,Enzo Ferrari '02
+3267,Ferrari,F12berlinetta '12
+1409,Ferrari,F40 '92
+1378,Ferrari,F430 '06
+3362,Ferrari,F50 '95
+3469,Ferrari,F8 Tributo '19
+3433,Ferrari,FXX K '14
+3510,Ferrari,Ferrari Vision Gran Turismo
+2017,Ferrari,GTO '84
+2162,Ferrari,LaFerrari '13
+3434,Ferrari,Testarossa '91
+1527,Fiat,500 1.2 8V Lounge SS '08
+1523,Fiat,500 F '68
+3444,Ford,1932 Ford Roadster Hot Rod
+3336,Ford,F-150 SVT Raptor '11
+3264,Ford,Focus Gr.B Rally Car
+3420,Ford,Focus RS '18
+2145,Ford,Focus ST '15
+1426,Ford,Ford GT '06
+3402,Ford,Ford GT '17
+1040,Ford,Ford GT LM Race Car Spec II
+1425,Ford,Ford GT LM Spec II Test Car
+3436,Ford,Ford GT Race Car '18
+1935,Ford,GT40 Mark I '66
+1565,Ford,Mark IV Race Car '67
+3487,Ford,Mustang Boss 429 '69
+2138,Ford,Mustang GT '15
+2159,Ford,Mustang Gr.3
+3300,Ford,Mustang Gr.3 Road Car
+2164,Ford,Mustang Gr.4
+3229,Ford,Mustang Gr.B Rally Car
+1729,Ford,Mustang Mach 1 '71
+3391,Ford,Shelby GT350R '16
+3466,Ford,Sierra RS 500 Cosworth '87
+3526,Garage RCR,Civic
+3500,Genesis,G70 3.3T AWD Prestige Package '22
+3501,Genesis,G70 GR4
+3502,Genesis,Genesis X GR3
+3543,Genesis,Genesis X Gran Berlinetta VGT Concept
+3342,Gran Turismo,F1500T-A
+2060,Gran Turismo,Racing Kart 125 Shifter
+2078,Gran Turismo,Red Bull X2014 Junior
+2077,Gran Turismo,Red Bull X2014 Standard
+3517,Gran Turismo,Red Bull X2019 25th Anniversary
+3374,Gran Turismo,Red Bull X2019 Competition
+3364,Greddy,Greddy Fugu Z
+3522,Greening Auto Company,Maverick
+2156,Honda,2&4 powered by RC213V
+137,Honda,Beat '91
+821,Honda,Civic Type R (EK) '97
+204,Honda,Civic Type R (EK) '98
+1689,Honda,Civic Type R (EK) Touring Car
+3214,Honda,Civic Type R (FK2) '15
+3536,Honda,Civic Type R (FL5) '22
+3467,Honda,Civic Type R Limited Edition (FK8) '20
+3370,Honda,Fit Hybrid '14
+2121,Honda,Honda Sports VGT
+688,Honda,Integra Type R (DC2) '95
+203,Honda,Integra Type R (DC2) '98
+3219,Honda,NSX '17
+3348,Honda,NSX CONCEPT-GT '16
+1510,Honda,NSX GT500 '08
+3235,Honda,NSX Gr.3
+3251,Honda,NSX Gr.4
+3239,Honda,NSX Gr.B Rally Car
+396,Honda,NSX Type R '02
+293,Honda,NSX Type R '92
+3525,Honda,RA272 '65
+514,Honda,S2000 '99
+3357,Honda,S660 '15
+135,Honda,S800 '66
+2051,Hyundai,Genesis Coupe 3.8 '13
+2160,Hyundai,Genesis Gr.3
+2163,Hyundai,Genesis Gr.4
+3234,Hyundai,Genesis Gr.B Rally Car
+2135,Hyundai,HYUNDAI N 2025 VGT
+2180,Hyundai,HYUNDAI N 2025 VGT (Gr.1)
+2117,Infiniti,INFINITI CONCEPT VGT
+2120,Italdesign,Italdesign VGT Off-road Mode
+2119,Italdesign,Italdesign VGT Street Mode
+3376,Jaguar,D-type '54
+3361,Jaguar,E-type Coupe '61
+2184,Jaguar,F-type Gr.3
+3252,Jaguar,F-type Gr.4
+2146,Jaguar,F-type R '14
+3396,Jaguar,Jaguar VGT Coupe
+3479,Jaguar,Jaguar VGT Roadster
+3417,Jaguar,Jaguar VGT SV
+1553,Jaguar,XJ13 '66
+543,Jaguar,XJ220 '92
+1067,Jaguar,XJR-9 '88
+3430,Jeep,Willys MB '45
+1907,KTM,X-BOW R '12
+1770,Lamborghini,Aventador LP 700-4 '11
+3392,Lamborghini,Aventador LP 750-4 SV '15
+1481,Lamborghini,Countach 25th Anniversary '88
+1484,Lamborghini,Countach LP400 '74
+1990,Lamborghini,Diablo GT '00
+2177,Lamborghini,Huracan GT3 '15
+3253,Lamborghini,Huracan Gr.4
+2171,Lamborghini,Huracan LP 610-4 '15
+3414,Lamborghini,Lambo V12 VGT
+1582,Lamborghini,Miura P400 Bertone Prototype '67
+1545,Lamborghini,Murcielago LP 640 '09
+2147,Lamborghini,Veneno '14
+829,Lancia,Delta HF Integrale Evoluzione '91
+533,Lancia,Stratos '73
+3227,Lexus,LC500 '17
+2123,Lexus,LF-LC GT VGT
+1562,Lexus,LFA '10
+2139,Lexus,RC F '14
+3340,Lexus,RC F GT3 '17
+3228,Lexus,RC F GT3 prototype '16
+3349,Lexus,RC F GT500 '16
+3254,Lexus,RC F Gr.4
+1516,Lexus,SC430 GT500 '08
+2109,MINI,MINI Clubman VGT
+1370,MINI,MINI Cooper S '05
+3356,MINI,Mini-Cooper 'S' '65
+3489,Maserati,A6GCS/53 Spyder '54
+1539,Maserati,GranTurismo S '08
+3533,Maserati,MC20 '20
+3421,Maserati,Merak SS '80
+296,Mazda,787B '91
+3237,Mazda,Atenza Gr.3
+3306,Mazda,Atenza Gr.3 Road Car
+3256,Mazda,Atenza Gr.4
+2173,Mazda,Atenza Sedan XD L Package '15
+3383,Mazda,Demio XD Touring '15
+201,Mazda,Eunos Roadster (NA) '89
+2118,Mazda,LM55 VGT
+2181,Mazda,LM55 VGT (Gr.1)
+3537,Mazda,MAZDA3 Gr.4
+3521,Mazda,Mazda3 '19
+374,Mazda,RX-7 GT-X (FC) '90
+205,Mazda,RX-7 Spirit R Type A (FD) '02
+3427,Mazda,RX-8 Spirit R '12
+3495,Mazda,RX-VISION '15
+3419,Mazda,RX-VISION GT3 CONCEPT
+3503,Mazda,RX-VISION GT3 CONCEPT Stealth Model
+1975,Mazda,RX500 '70
+3512,Mazda,Roadster NR-A (ND) '22
+2148,Mazda,Roadster S (ND) '15
+1746,Mazda,Roadster Touring Car
+2174,McLaren,650S '14
+2182,McLaren,650S GT3 '15
+3257,McLaren,650S Gr.4
+1722,McLaren,MP4-12C '10
+3475,McLaren,MP4/4 '88
+1540,McLaren,McLaren F1 '94
+1984,McLaren,McLaren F1 GTR - BMW '95
+3360,McLaren,McLaren P1 GTR '16
+3315,McLaren,McLaren VGT
+3335,McLaren,McLaren VGT (Gr.1)
+575,Mercedes-Benz,190 E 2.5-16 Evolution II '91
+3441,Mercedes-Benz,300 SL (W194) '52
+387,Mercedes-Benz,300 SL Coupe '54
+3397,Mercedes-Benz,CLK-LM '98
+3428,Mercedes-Benz,S Barker Tourer '29
+1528,Mercedes-Benz,SLR McLaren '09
+998,Mercedes-Benz,Sauber Mercedes C9 '89
+2095,Mitsubishi,Concept XR-PHEV EVOLUTION VGT
+3384,Mitsubishi,GTO Twin Turbo '91
+2150,Mitsubishi,Lancer Evolution Final '15
+2185,Mitsubishi,Lancer Evolution Final Gr.3
+3258,Mitsubishi,Lancer Evolution Final Gr.4
+3230,Mitsubishi,Lancer Evolution Final Gr.B Rally Car
+3301,Mitsubishi,Lancer Evolution Final Gr.B Road Car
+931,Mitsubishi,Lancer Evolution III GSR '95
+301,Mitsubishi,Lancer Evolution IV GSR '96
+211,Mitsubishi,Lancer Evolution V GSR '98
+1508,Mitsubishi,Lancer Evolution VI GSR T.M. SCP '99
+3520,NISMO,400R '95
+24,Nissan,180SX Type X '96
+48,Nissan,Fairlady 240ZG (HS30) '71
+1458,Nissan,Fairlady Z (Z34) '08
+709,Nissan,Fairlady Z 300ZX TT 2seater '89
+3429,Nissan,Fairlady Z 432 '69
+1384,Nissan,Fairlady Z Version S (Z33) '07
+2167,Nissan,GT-R '17
+1466,Nissan,GT-R GT500 '08
+485,Nissan,GT-R GT500 '99
+2161,Nissan,GT-R Gr.4
+3241,Nissan,GT-R Gr.B Rally Car
+2127,Nissan,GT-R LM NISMO '15
+3345,Nissan,GT-R NISMO '17
+3524,Nissan,GT-R NISMO (R32) '90
+1905,Nissan,GT-R NISMO GT3 '13
+3450,Nissan,GT-R NISMO GT3 '18
+3350,Nissan,GT-R NISMO GT500 '16
+3225,Nissan,GT-R Safety Car
+2142,Nissan,NISSAN CONCEPT 2020 VGT
+773,Nissan,R32 GT-R V-spec II '94
+489,Nissan,R33 GT-R V-spec '97
+210,Nissan,R34 GT-R V-spec II Nur '02
+954,Nissan,R92CP '92
+1448,Nissan,SILVIA spec-R Aero (S15) '02
+104,Nissan,Sileighty '98
+78,Nissan,Silvia K's Aero (S14) '96
+1461,Nissan,Silvia K's Dia Selection (S13) '90
+3513,Nissan,Silvia K's Type S (S14) '94
+919,Nissan,Silvia Q's (S13) '88
+3477,Nissan,Silvia spec-R Aero (S15) Touring Car
+836,Nissan,Skyline 2000GT-R (KPGC110) '73
+837,Nissan,Skyline Hard Top 2000GT-R (KPGC10) '70
+3493,Nissan,Skyline Super Silhouette Group 5 '84
+3504,Nissan,Z Performance '23
+2050,Pagani,Huayra '13
+1536,Pagani,Zonda R '09
+105,Peugeot,205 Turbo 16 Evolution 2 '86
+3215,Peugeot,208 GTi by Peugeot Sport '14
+1646,Peugeot,908 HDi FAP '10
+3332,Peugeot,L500R HYbrid VGT 2017
+3333,Peugeot,L750R HYbrid VGT 2017
+2113,Peugeot,PEUGEOT VGT
+3183,Peugeot,PEUGEOT VGT (Gr.3)
+2176,Peugeot,RCZ GT Line '15
+3238,Peugeot,RCZ Gr.3
+3303,Peugeot,RCZ Gr.3 Road Car
+3259,Peugeot,RCZ Gr.4
+3242,Peugeot,RCZ Gr.B Rally Car
+665,Plymouth,Superbird '70
+1900,Plymouth,XNR Ghia Roadster '60
+1985,Pontiac,Firebird Trans Am '78
+3462,Pontiac,GTO 'The Judge' '69
+3375,Porsche,356 A/1500 GS Carrera '56
+3365,Porsche,356 A/1500 GS GT Carrera Speedster '56
+3509,Porsche,911 Carrera RS (901) '73
+3431,Porsche,911 Carrera RS (964) '92
+3439,Porsche,911 Carrera RS (993) '95
+3404,Porsche,911 Carrera RS CS (993) '95
+3400,Porsche,911 GT1 Strassenversion '97
+3358,Porsche,911 GT3 (996) '01
+3359,Porsche,911 GT3 (997) '09
+3268,Porsche,911 GT3 RS (991) '16
+3539,Porsche,911 GT3 RS (992) '22
+3311,Porsche,911 RSR (991) '17
+3385,Porsche,911 Turbo (930) '81
+3452,Porsche,917 LIVING LEGEND
+3410,Porsche,917K '70
+3459,Porsche,918 Spyder '13
+3313,Porsche,919 Hybrid '16
+3519,Porsche,959 '87
+3373,Porsche,962 C '88
+3393,Porsche,Carrera GT '04
+3490,Porsche,Carrera GTS (904) '64
+3488,Porsche,Cayman GT4 '16
+3310,Porsche,Cayman GT4 Clubsport '16
+3478,Porsche,Porsche VGT
+3507,Porsche,Porsche VGT Spyder
+3446,Porsche,Spyder type 550/1500RS '55
+3390,Porsche,Taycan Turbo S '19
+1431,RE Amemiya,RE Amemiya FD3S RX-7
+3398,RUF,CTR3 '07
+3369,Radical,SR3 SL '13
+3220,Renault,Clio R.S. 220 Trophy '15
+3353,Renault,Clio R.S. 220 Trophy '16
+334,Renault,Clio V6 24V '00
+3260,Renault,Megane Gr.4
+1987,Renault,Megane R.S. Trophy '11
+3407,Renault,Megane R.S. Trophy Safety Car
+1563,Renault,Megane Trophy '11
+3216,Renault,R.S.01 '16
+2188,Renault,R.S.01 GT3 '16
+173,Renault,R5 Turbo '80
+1986,Renault,R8 Gordini '66
+3426,Roadster Shop,Roadster Shop Rampage
+315,Shelby,Cobra 427 '66
+1926,Shelby,Cobra Daytona Coupe '64
+1925,Shelby,G.T.350 '65
+3339,Subaru,BRZ Drift Car '17
+3474,Subaru,BRZ GT300 '21
+3354,Subaru,BRZ S '15
+3506,Subaru,BRZ S '21
+3413,Subaru,BRZ STI Sport '18
+451,Subaru,Impreza 22B-STi '98
+379,Subaru,Impreza Coupe WRX Type R STi Ver.VI '99
+3432,Subaru,Impreza Sedan WRX STi '04
+2099,Subaru,VIZIV GT VGT
+2186,Subaru,WRX Gr.3
+3261,Subaru,WRX Gr.4
+3232,Subaru,WRX Gr.B Rally Car
+3304,Subaru,WRX Gr.B Road Car
+3297,Subaru,WRX STI Isle of Man '16
+2153,Subaru,WRX STI Type S '14
+3372,Super Formula (Dallara),SF19 Super Formula / Honda '19
+3371,Super Formula (Dallara),SF19 Super Formula / Toyota '19
+3528,Super Formula (Dallara),SF23 Super Formula / Honda '23
+3529,Super Formula (Dallara),SF23 Super Formula / Toyota '23
+779,Suzuki,Cappuccino (EA11R) '91
+3545,Suzuki,Jimny XC '18
+3508,Suzuki,SUZUKI Vision Gran Turismo (Gr.3 Version)
+3476,Suzuki,Suzuki Vision Gran Turismo
+1385,Suzuki,Swift Sport '07
+3456,Suzuki,Swift Sport '17
+3480,Suzuki,Swift Sport Gr.4
+808,Suzuki,V6 Escudo Pikes Peak Special spec.98
+187,TVR,Tuscan Speed 6 '00
+3540,Tesla,Model 3 Performance '23
+1896,Tesla,Model S Signature Performance '12
+604,Toyota,2000GT '67
+3222,Toyota,86 GRMN '16
+2154,Toyota,86 GT '15
+3295,Toyota,86 GT 'Limited' '16
+3262,Toyota,86 Gr.4
+3265,Toyota,86 Gr.B Rally Car
+3494,Toyota,Alphard Executive Lounge '18
+3534,Toyota,Ambulance Himedic '21
+2026,Toyota,Aqua S '11
+781,Toyota,Celica GT-FOUR Rally Car (ST205) '95
+3471,Toyota,Celica GT-Four (ST205) '94
+63,Toyota,Corolla Levin 1600GT APEX (AE86) '83
+3401,Toyota,Crown Athlete G '13
+3408,Toyota,Crown Athlete G Safety Car
+2080,Toyota,FT-1
+2106,Toyota,FT-1 VGT
+2187,Toyota,FT-1 VGT (Gr.3)
+3535,Toyota,GR Corolla MORIZO Edition '22
+3367,Toyota,GR Supra RZ '19
+3418,Toyota,GR Supra RZ '20
+3399,Toyota,GR Supra Race Car '19
+3352,Toyota,GR Supra Racing Concept '18
+3451,Toyota,GR Yaris RZ 'High performance' '20
+3499,Toyota,GR010 HYBRID '21
+3515,Toyota,GR010 HYBRID (Olympic Esports Series) '21
+3481,Toyota,GR86 RZ '21
+207,Toyota,MR2 GT-S '97
+1537,Toyota,Prius G '09
+2144,Toyota,S-FR '15
+2178,Toyota,S-FR Racing Concept '16
+1044,Toyota,Sports 800 '65
+810,Toyota,Sprinter Trueno 1600GT APEX (AE86) '83
+345,Toyota,Sprinter Trueno 1600GT APEX (S.Shigeno Version)
+843,Toyota,Supra 3.0GT Turbo A '88
+1470,Toyota,Supra GT500 '97
+82,Toyota,Supra RZ '97
+2101,Toyota,TS030 Hybrid '12
+3312,Toyota,TS050 - Hybrid '16
+3368,Toyota,Tundra TRD Pro '19
+3305,Volkswagen,Beetle Gr.3
+2098,Volkswagen,GTI Roadster VGT
+2124,Volkswagen,GTI Supersport VGT
+3403,Volkswagen,Golf I GTI '83
+2141,Volkswagen,Golf VII GTI '14
+3511,Volkswagen,ID.R '19
+2155,Volkswagen,Polo GTI '14
+1671,Volkswagen,Sambabus Typ 2 '62
+3231,Volkswagen,Scirocco Gr.4
+1773,Volkswagen,Scirocco R '10
+1778,Volkswagen,Volkswagen 1200 '66
+2192,Volkswagen,Volkswagen GTI VGT (Gr.3)
+3423,Wicked Fabrication,Wicked Fabrication GT 51
+2122,Zagato,IsoRivolta Zagato VGT

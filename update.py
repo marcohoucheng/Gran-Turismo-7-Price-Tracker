@@ -1,9 +1,6 @@
 import urllib.request, json, os, sys, datetime
 import pandas as pd
 
-## TO DO 
-# Improve implementation of adding missing car information
-
 def update(shop, test = False):
 
     date_format = '%y-%m-%d'
