@@ -6,7 +6,14 @@ def main():
     update.main()
 
     # list of cars from the game, should be a user input
-    wish = [216,773,810,1565,1984,2167,3362]
+    # wish = [216,773,810,1565,1984,2167,3362]
+    with open("wish_list.txt", "r") as file:
+    # Loop through each line in the file
+        for line in file:
+            # Remove the newline character at the end of the line
+            line = line.strip()
+            # Split the line on comma and convert it into a list
+            wish = line.split(",")
     wish = pd.DataFrame(wish).astype(str)
 
     today_legend_shop = []
