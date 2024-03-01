@@ -3,7 +3,8 @@
 | Brand | Model | Credits |
 | ------------- | ------------- | ------------- |
 | Lamborghini | Miura P400 Bertone Prototype '67 | 3,500,000 |
-| | | 3,500,000 |
+| Nismo | 400R '95 | 1,800,000 |
+| | | 5,300,000 |
 
 # Awaiting Invitation
 
@@ -15,4 +16,4 @@
 | Ferrari | FXX K '14 | 3,600,000 | | |
 | | | 11,200,000 | | |
 
-Credits total: cr. 14,700,000
+Credits total: cr. 16,500,000
