@@ -17,3 +17,13 @@ jobs:
           pip install -r requirements.txt
       - name: Run update.py
         run: python update.py
+      - name: Configure git
+        run: |
+          git config user.name marcohoucheng
+          git config user.email marcohoucheng@gmail.com
+      - name: Add, commit, and push file
+        run: |
+          git add .
+          git commit -m "Update file from script"
+          git push
+
