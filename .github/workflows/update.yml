@@ -20,8 +20,6 @@ jobs:
           pip install -r requirements.txt
       - name: Run update.py
         run: python update.py
-      - name: Run today_email.py
-        run: python today_email.py
       - name: Configure git
         run: |
           git config user.name marcohoucheng
@@ -31,3 +29,9 @@ jobs:
           git add .
           git commit -m "Update file from script"
           git push
+      - name: Run today_email.py
+        env:
+          GMAIL_ADDRESS = ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_PASSWORD = ${{ secrets.GMAIL_PASSWORD }}
+        run: python today_email.py
+      
