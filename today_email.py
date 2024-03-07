@@ -61,8 +61,8 @@ def main():
     import os, ssl
 
     # Step 4: Load secrets from .env
-    gmail_address = os.environ("GMAIL_ADDRESS")
-    gmail_password = os.environ("GMAIL_PASSWORD")
+    gmail_address = os.environ.get("GMAIL_ADDRESS")
+    gmail_password = os.environ.get("GMAIL_PASSWORD")
 
     # Step 5: Create the email
     email = EmailMessage()
