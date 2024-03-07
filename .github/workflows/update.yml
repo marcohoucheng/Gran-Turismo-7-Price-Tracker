@@ -20,6 +20,8 @@ jobs:
           pip install -r requirements.txt
       - name: Run update.py
         run: python update.py
+      - name: Run today_email.py
+        run: python today_email.py
       - name: Configure git
         run: |
           git config user.name marcohoucheng
