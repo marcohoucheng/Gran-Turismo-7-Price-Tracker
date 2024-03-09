@@ -9,8 +9,7 @@
 
 | Brand | Model | Credits | Gift | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Ferrari | FXX K '14 | 3,600,000 | | |
+| Ferrari | LaFerrari '13 | 1,600,000 | | |
 | | | 3,600,000 | | |
 
-With 2 engine swaps.
-Credits total: cr. 6,800,000
+Credits total: cr. 3,400,000
