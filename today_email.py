@@ -78,6 +78,7 @@ def main():
     # Sender of the email
     email["From"] = gmail_address
 
+    email.set_content(return_str)
     # Add HTML content to the email
     html = markdown.markdown(md_str)
     email.add_alternative(html, subtype="html")
@@ -92,7 +93,7 @@ def main():
     # """, subtype="html")
 
     # Add plaintext alternative as fallback option
-    email.set_content(return_str)
+    # email.set_content(return_str)
 
     # Step 6: Send the email to the newsletter subscribers
     subscriber_email_addresses = json.loads(recipients)
