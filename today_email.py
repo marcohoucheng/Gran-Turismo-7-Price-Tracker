@@ -5,7 +5,6 @@ import pandas as pd
 from dotenv import load_dotenv
 from email.message import EmailMessage
 
-
 def main():
 
     def today(shop, data, new_data_only):
@@ -20,8 +19,8 @@ def main():
         shop_data = shop_data.sort_values(by=['manufacturer', 'name'])
 
         if len(shop_data) == 0:
-            md_str = md_str + "\nNo new items available in " + shop + " shop.\n"
-            return_str = return_str + "\nNo new items available in " + shop + " shop.\n"
+            md_str = md_str + "\nNo new items available in " + shop.capitalize() + " shop.\n"
+            return_str = return_str + "\nNo new items available in " + shop.capitalize() + " shop.\n"
             return 0
 
         md_str = md_str + "\n\n## " + shop + " shop:\n"
@@ -31,13 +30,13 @@ def main():
             if row['state'] == 'soldout':
                 continue
             elif row['state'] == 'limited':
-                md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (Leaving Soon)"
+                md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (Leaving Soon)\n"
                 return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (Leaving Soon)"
             elif row['new'] == 'True':
-                md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (New)"
+                md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (New)\n"
                 return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (New)"
             else:
-                md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr."
+                md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr.\n"
                 return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr."
 
     if len(sys.argv) == 1:
@@ -78,6 +77,7 @@ def main():
     # Sender of the email
     email["From"] = gmail_address
 
+    # Add plaintext alternative as fallback option
     email.set_content(return_str)
     # Add HTML content to the email
     html = markdown.markdown(md_str)
@@ -92,9 +92,6 @@ def main():
     # </html>
     # """, subtype="html")
 
-    # Add plaintext alternative as fallback option
-    # email.set_content(return_str)
-
     # Step 6: Send the email to the newsletter subscribers
     subscriber_email_addresses = json.loads(recipients)
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context()) as smtp_server:
@@ -106,5 +103,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-    # pip3 install python-dotenv
