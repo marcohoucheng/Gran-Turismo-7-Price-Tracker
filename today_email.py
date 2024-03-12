@@ -63,6 +63,7 @@ def main():
     # Step 4: Load secrets from .env
     gmail_address = os.environ.get("GMAIL_ADDRESS")
     gmail_password = os.environ.get("GMAIL_PASSWORD")
+    recipients = os.environ.get("RECIPIENTS")
 
     # Step 5: Create the email
     email = EmailMessage()
@@ -86,7 +87,7 @@ def main():
     email.set_content(return_string)
 
     # Step 6: Send the email to the newsletter subscribers
-    subscriber_email_addresses = ['marcohoucheng@gmail.com']
+    subscriber_email_addresses = json.loads(recipients)
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context()) as smtp_server:
         smtp_server.login(gmail_address, gmail_password)
         for subsciber_email_address in subscriber_email_addresses:
