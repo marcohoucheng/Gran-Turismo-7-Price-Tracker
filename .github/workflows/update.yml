@@ -33,5 +33,6 @@ jobs:
         env:
           GMAIL_ADDRESS : ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_PASSWORD : ${{ secrets.GMAIL_PASSWORD }}
+          RECIPIENTS : ${{ secrets.RECIPIENTS }}
         run: python today_email.py
       
