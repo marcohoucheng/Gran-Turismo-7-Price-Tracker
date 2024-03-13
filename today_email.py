@@ -13,31 +13,58 @@ def main():
 
         shop_data = pd.DataFrame.from_dict(data[shop]['cars'])
 
+        shop_data = shop_data[shop_data['state'] != 'soldout']
+
         if new_data_only:
             shop_data = shop_data[shop_data['new'] == 'True']
         
         shop_data = shop_data.sort_values(by=['manufacturer', 'name'])
 
-        if len(shop_data) == 0:
+        if len(shop_data) == 0 and new_data_only:
             md_str = md_str + "\nNo new items available in " + shop.capitalize() + " shop.\n"
             return_str = return_str + "\nNo new items available in " + shop.capitalize() + " shop.\n"
             return 0
+        elif len(shop_data) == 0:
+            md_str = md_str + "\nNo items available in " + shop.capitalize() + " shop.\n"
+            return_str = return_str + "\nNo items available in " + shop.capitalize() + " shop.\n"
+            return 0
+        else:
+            new_shop_data = shop_data[shop_data['new'] == 'True']
+            limited_shop_data = shop_data[shop_data['state'] == 'limited']
+            shop_data = shop_data[shop_data['new'] != 'True' and shop_data['state'] != 'limited']
 
-        md_str = md_str + "\n\n## " + shop + " shop:\n"
-        return_str = return_str + "\n\nAvailable in " + shop + " shop:\n"
+            md_str = md_str + "\n\n## " + shop.capitalize() + " shop:\n"
+            return_str = return_str + "\n\nAvailable in " + shop.capitalize() + " shop:\n"
 
-        for _, row in shop_data.iterrows():
-            if row['state'] == 'soldout':
-                continue
-            elif row['state'] == 'limited':
-                md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (Leaving Soon)\n"
-                return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (Leaving Soon)"
-            elif row['new'] == 'True':
-                md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (New)\n"
-                return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (New)"
-            else:
-                md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr.\n"
-                return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr."
+            if len(new_shop_data) > 0:
+                md_str = md_str + "\n### New:\n"
+                return_str = return_str + "\nNew:\n"
+                for _, row in new_shop_data.iterrows():
+                    md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr.\n"
+                    return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr."
+            if len(limited_shop_data) > 0:
+                md_str = md_str + "\n### Leaving Soon:\n"
+                return_str = return_str + "\nLeaving Soon:\n"
+                for _, row in limited_shop_data.iterrows():
+                    md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr.\n"
+                    return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr."
+            if len(shop_data) > 0:
+                md_str = md_str + "\n### Available:\n"
+                return_str = return_str + "\nAvailable:\n" 
+                for _, row in shop_data.iterrows():
+                    md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr.\n"
+                    return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr."
+
+            # for _, row in shop_data.iterrows():
+            #     if row['state'] == 'limited':
+            #         md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (Leaving Soon)\n"
+            #         return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (Leaving Soon)"
+            #     elif row['new'] == 'True':
+            #         md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (New)\n"
+            #         return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr. (New)"
+            #     else:
+            #         md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr.\n"
+            #         return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr."
 
     if len(sys.argv) == 1:
         new_data_only = False
