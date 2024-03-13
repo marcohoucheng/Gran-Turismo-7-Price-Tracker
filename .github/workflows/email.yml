@@ -1,6 +1,7 @@
-name: Manual Email
+name: Scheduled Email
 on:
-  workflow_dispatch
+  schedule:
+    - cron: '0 4 * * *'
 jobs:
   email:
     runs-on: macos-latest
