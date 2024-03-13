@@ -35,7 +35,7 @@ def main():
             limited_shop_data = shop_data[shop_data['state'] == 'limited']
             shop_data = shop_data[(shop_data['new'] != 'True') & (shop_data['state'] != 'limited')]
 
-            md_str = md_str + "\n\n## " + shop.capitalize() + " shop:\n"
+            md_str = md_str + "\n\n## " + shop.capitalize() + " shop\n"
             return_str = return_str + "\n\nAvailable in " + shop.capitalize() + " shop:\n"
 
             if len(new_shop_data) > 0:
