@@ -20,6 +20,8 @@ def main():
         
         shop_data = shop_data.sort_values(by=['manufacturer', 'name'])
 
+        shop_data['credits'] = shop_data['credits'].apply(lambda x: f'{x:,}')
+
         if len(shop_data) == 0 and new_data_only:
             md_str = md_str + "\nNo new items available in " + shop.capitalize() + " shop.\n"
             return_str = return_str + "\nNo new items available in " + shop.capitalize() + " shop.\n"
