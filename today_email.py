@@ -109,7 +109,7 @@ def main():
     # Add plaintext alternative as fallback option
     email.set_content(return_str)
     # Add HTML content to the email
-    html = markdown.markdown(md_str)
+    html = markdown.markdown(md_str, extensions=['tables'])
     email.add_alternative(html, subtype="html")
     
     # email.add_alternative(f"""\
