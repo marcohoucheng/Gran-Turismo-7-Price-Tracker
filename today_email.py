@@ -79,7 +79,7 @@ def main():
     # Time stamp for latest data
     timestamp_date = data['updatetimestamp'][2:10]
     # Reformat the date
-    timestamp_date = datetime.strptime(timestamp_date, '%y-%m-%d').strftime('%d-%B-%Y')
+    timestamp_date = datetime.datetime.strptime(timestamp_date, '%y-%m-%d').strftime('%d-%B-%Y')
 
     # if datetime.datetime.strptime(timestamp_date, date_format).date() < datetime.date.today():
     #     print("\nToday's data is not available yet. The latest data is from", timestamp_date, "\n")
