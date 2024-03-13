@@ -37,22 +37,22 @@ def main():
             return_str = return_str + "\n\nAvailable in " + shop.capitalize() + " shop:\n"
 
             if len(new_shop_data) > 0:
-                md_str = md_str + "\n### New:\n"
+                md_str = md_str + "\n### New:\n | Manufacturer | Model | Credits |\n | --- | --- | --- |\n"
                 return_str = return_str + "\nNew:\n"
                 for _, row in new_shop_data.iterrows():
-                    md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr.\n"
+                    md_str = md_str + "|" + row['manufacturer'] + "|" + row['name'] + "|" + str(row['credits']) + "|\n"
                     return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr."
             if len(limited_shop_data) > 0:
                 md_str = md_str + "\n### Leaving Soon:\n"
                 return_str = return_str + "\nLeaving Soon:\n"
                 for _, row in limited_shop_data.iterrows():
-                    md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr.\n"
+                    md_str = md_str + "|" + row['manufacturer'] + "|" + row['name'] + "|" + str(row['credits']) + "|\n"
                     return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : " + str(row['credits']) + "cr."
             if len(shop_data) > 0:
                 md_str = md_str + "\n### Available:\n"
                 return_str = return_str + "\nAvailable:\n" 
                 for _, row in shop_data.iterrows():
-                    md_str = md_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr.\n"
+                    md_str = md_str + "|" + row['manufacturer'] + "|" + row['name'] + "|" + str(row['credits']) + "|\n"
                     return_str = return_str + "\n" + row['manufacturer'] + " " + row['name'] + " : "+ str(row['credits']) + "cr."
 
             # for _, row in shop_data.iterrows():
@@ -78,15 +78,17 @@ def main():
 
     # Time stamp for latest data
     timestamp_date = data['updatetimestamp'][2:10]
+    # Reformat the date
+    timestamp_date = datetime.strptime(timestamp_date, '%y-%m-%d').strftime('%d-%B-%Y')
 
     # if datetime.datetime.strptime(timestamp_date, date_format).date() < datetime.date.today():
     #     print("\nToday's data is not available yet. The latest data is from", timestamp_date, "\n")
     # else:
     #     print("\nToday's data is available.\n")
 
-    md_str = "# Gran Turismo 7 shops for " + timestamp_date + "\n\n"
+    md_str = "# Gran Turismo 7 Shops for " + timestamp_date + "\n\n"
 
-    return_str = "Gran Turismo 7 shops for " + timestamp_date + "\n\n"
+    return_str = "Gran Turismo 7 Shops for " + timestamp_date + "\n\n"
 
     today('legend', data, new_data_only)
     today('used', data, new_data_only)
@@ -100,7 +102,7 @@ def main():
     email = EmailMessage()
 
     # Subject line of the email
-    email["Subject"] = "Gran Turismo 7 shops update"
+    email["Subject"] = "Gran Turismo 7 Daily Shops Update"
     # Sender of the email
     email["From"] = gmail_address
 
