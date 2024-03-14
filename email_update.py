@@ -73,13 +73,17 @@ def main():
     else:
         new_data_only = sys.argv[1] == 'new'
     
-    # date_format = '%y-%m-%d'
-
     url = urllib.request.urlopen("https://ddm999.github.io/gt7info/data.json")
     data = json.load(url)
 
     # Time stamp for latest data
     timestamp_date = data['updatetimestamp'][2:10]
+
+    while datetime.datetime.utcnow().date() > datetime.datetime.strptime(timestamp_date, '%y-%m-%d').date():
+        time.sleep(30*60)
+        new_data = json.load(url)
+        timestamp_date = data['updatetimestamp'][2:10]
+    
     # Reformat the date
     timestamp_date = datetime.datetime.strptime(timestamp_date, '%y-%m-%d').strftime('%d-%B-%Y')
 
