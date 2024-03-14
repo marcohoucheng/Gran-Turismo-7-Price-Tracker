@@ -1,7 +1,7 @@
 name: Scheduled Email
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '0 0 * * *'
 jobs:
   email:
     runs-on: macos-latest
