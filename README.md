@@ -1,6 +1,6 @@
 # Gran Turismo 7 tracker for in-game dynamic prices for cars
 
-This is a personal project built on Python to...
+This is a personal project built on Python to obtain in-game stores information of Gran Turismo 7 without the necessarity to manually start the game on PlayStation 5. It has the following functionalities:
 
 - An automated daily email to list updates in game.
 - Aggregate data to build a local database of cars' historical prices,
