@@ -1,4 +1,4 @@
-import urllib.request, json, os, sys, datetime
+import urllib.request, json, os, sys, datetime, time
 import pandas as pd
 
 def update(shop, test = False):
@@ -14,6 +14,11 @@ def update(shop, test = False):
 
     # Time stamp for latest data
     timestamp_date = new_data['updatetimestamp'][2:10]
+
+    while datetime.datetime.utcnow().date() > datetime.datetime.strptime(timestamp_date, '%y-%m-%d').date():
+        time.sleep(30*60)
+        new_data = json.load(url)
+        timestamp_date = data['updatetimestamp'][2:10]
 
     new_data = pd.DataFrame.from_dict(new_data[shop]['cars'])
 
