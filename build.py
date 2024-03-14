@@ -1,20 +1,6 @@
 import urllib.request, json, os, sys, datetime
 import pandas as pd
 
-# Update how file name is created.
-'''
-import os
-path = "2024-01.csv" # your file name
-root, ext = os.path.splitext(path) # split into root and extension
-filename = os.path.basename(root) # get the last component of the root
-print(filename) # output: 2024-01
-
-from pathlib import Path
-path = Path("2024-01.csv") # create a Path object
-filename = path.stem # get the stem attribute
-print(filename) # output: 2024-01
-'''
-
 if len(sys.argv) > 2:
     print("Too many arguments. Please specify the shop name as an argument. Default is both shops.")
     sys.exit(0)
@@ -26,8 +12,7 @@ def build(shop):
       return 0
    
    # Create folder if not exist
-   if not os.path.exists("./data"):
-      os.makedirs("./data")
+   os.makedirs("./data", exist_ok = True)
 
    date_format = '%y-%m-%d'
 
@@ -54,7 +39,7 @@ def build(shop):
 
    for i, file in enumerate(sorted(dir, reverse=True)):
       file_name, _ = os.path.splitext(file) # split into root and extension
-      # file_name = os.path.basename(file_name) # get the last component of the root
+      file_name = os.path.basename(file_name) # get the last component of the root
       file_path = os.path.join(path, file)
       tmp_df = pd.read_csv(file_path)
       tmp_df = tmp_df[tmp_df['state'] != 'soldout']
