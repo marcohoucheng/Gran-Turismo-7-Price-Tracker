@@ -1,6 +1,6 @@
 # Script to simply return the available items in shops today.
 
-import urllib.request, json, os, sys, ssl, datetime, smtplib, markdown
+import urllib.request, json, os, sys, ssl, datetime, smtplib, markdown, time
 import pandas as pd
 from dotenv import load_dotenv
 from email.message import EmailMessage
