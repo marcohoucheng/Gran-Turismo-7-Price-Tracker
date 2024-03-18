@@ -1,6 +1,8 @@
 name: Manual Email
 on:
   workflow_dispatch
+permissions:
+  contents: write
 jobs:
   email:
     runs-on: macos-latest
@@ -21,3 +23,13 @@ jobs:
           GMAIL_PASSWORD : ${{ secrets.GMAIL_PASSWORD }}
           RECIPIENTS : ${{ secrets.RECIPIENTS }}
         run: python email_update.py
+      - name: Configure git
+        run: |
+          git config user.name marcohoucheng
+          git config user.email marcohoucheng@gmail.com
+      - name: Add, commit, and push file
+        run: |
+          git add .
+          git commit -m "Update file from script"
+          git push
+

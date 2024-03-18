@@ -2,7 +2,6 @@
 
 import urllib.request, json, os, sys, ssl, datetime, smtplib, markdown, time
 import pandas as pd
-from dotenv import load_dotenv
 from email.message import EmailMessage
 
 def main():
@@ -135,6 +134,26 @@ def main():
             # Set the recipient for the email
             email["To"] = subsciber_email_address
             smtp_server.send_message(email)
+    
+    # Specify the path to the existing markdown file
+    input_filename = './data/README_baseline.md'
+
+    # Specify the new content to be added
+    extra_string = '\n\n' + md_str
+
+    # Specify the filename for the new file to be saved in the root folder
+    output_filename = 'README.md'
+
+    # Read the existing markdown content
+    with open(input_filename, 'r') as file:
+        content = file.read()
+
+    # Append the extra string to the content
+    content += extra_string
+
+    # Write the updated content to the new file in the root folder
+    with open(output_filename, 'w') as file:
+        file.write(content)
 
 if __name__ == "__main__":
     main()
