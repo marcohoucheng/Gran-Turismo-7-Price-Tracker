@@ -14,7 +14,7 @@ The approach of this project is to provide a solution without setting an account
 
 ## Daily Email
 
-A scheduled Github Action is currently set up. However, the user can easily set up a similar system. Only `email_update.py` is needed in this case with the appropriate environment varibles for `SENDER_EMAIL`, `PASSWORD` and `RECIPIENTS`. A [screenshot](https://raw.githubusercontent.com/marcohoucheng/Gran-Turismo-7-Price-Tracker/main/data/email_screenshot.png) of the email.
+A scheduled Github Action is currently set up. However, the user can easily set up a similar system. Only `email_update.py` is needed in this case with the appropriate environment varibles for `SENDER_EMAIL`, `PASSWORD` and `RECIPIENTS`. A [screenshot](https://raw.githubusercontent.com/marcohoucheng/Gran-Turismo-7-Price-Tracker/main/data/email_screenshot.png) of the email and the latest html copy is shown below.
 
 ## Wish list and local database
 
@@ -25,7 +25,3 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 3. `wish.py` checks whether cars in the wish list `wish_list.txt` are available today. If so, then it will return the price. Otherwise, it returns the last available date and the price.
     - This script will automatically run `update.py` when checking whather cars on wish list are available.
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
-
-A screenshot of the email
-
-![email](https://raw.githubusercontent.com/marcohoucheng/Gran-Turismo-7-Price-Tracker/main/data/email_screenshot.png)
