@@ -27,16 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-March-2024
+# Gran Turismo 7 Shops for 21-March-2024
 
 
 
 ## Legend shop
 
-### Leaving Soon
+### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|De Tomaso|Mangusta (Christian Dior)|500,000|
+|Plymouth|Superbird '70|529,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -57,37 +58,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mustang Mach 1 '71|37,500|
+|Mazda|RX-7 Spirit R Type A (FD) '02|221,200|
+|Porsche|911 Carrera RS (993) '95|215,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|203,800|
+|Abarth|Abarth 500 '09|23,300|
 |Fiat|500 1.2 8V Lounge SS '08|13,800|
-|Ford|Ford GT '06|409,800|
-|Honda|Civic Type R (EK) '97|55,600|
+|Mitsubishi|Lancer Evolution V GSR '98|69,200|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Nissan|Fairlady Z Version S (Z33) '07|27,400|
+|Nissan|Silvia K's Aero (S14) '96|59,000|
+|Nissan|Silvia K's Dia Selection (S13) '90|48,200|
 |Porsche|911 Turbo (930) '81|218,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|23,300|
 |BMW|M3 '03|61,900|
 |BMW|M3 '07|70,000|
 |DMC|DeLorean S2 '04|427,500|
 |Ferrari|F430 '06|200,500|
+|Ford|Mustang Mach 1 '71|37,500|
 |Honda|Beat '91|15,900|
 |Honda|Integra Type R (DC2) '98|61,400|
 |Honda|S800 '66|58,000|
 |Mazda|Eunos Roadster (NA) '89|30,700|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,600|
-|Mitsubishi|Lancer Evolution V GSR '98|69,200|
 |Nissan|GT-R NISMO (R32) '90|389,500|
 |Nissan|R32 GT-R V-spec II '94|179,900|
-|Nissan|Silvia K's Aero (S14) '96|59,000|
-|Nissan|Silvia K's Dia Selection (S13) '90|48,200|
 |Pontiac|Firebird Trans Am '78|87,400|
 |Porsche|911 Carrera RS (964) '92|220,700|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,600|
