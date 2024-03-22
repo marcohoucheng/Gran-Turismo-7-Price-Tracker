@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-March-2024
+# Gran Turismo 7 Shops for 22-March-2024
 
 
 
@@ -36,8 +36,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Plymouth|Superbird '70|529,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
+|Jaguar|XJ13 '66|12,000,000|
+
+### Leaving Soon
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Mercedes-Benz|CLK-LM '98|8,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -47,9 +51,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|McLaren F1 GTR Race Car '97|14,000,000|
 |Ford|Mustang Boss 429 '69|317,000|
 |Honda|RA272 '65|2,500,000|
-|Mercedes-Benz|CLK-LM '98|8,500,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,100,000|
+|Plymouth|Superbird '70|529,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
 
@@ -58,19 +63,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|RX-7 Spirit R Type A (FD) '02|221,200|
-|Porsche|911 Carrera RS (993) '95|215,200|
+|Alfa Romeo|8C Competizione '08|314,100|
+|Lamborghini|Diablo GT '00|817,800|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|49,300|
+|Volkswagen|Golf I GTI '83|49,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|23,300|
-|Fiat|500 1.2 8V Lounge SS '08|13,800|
+|Honda|Beat '91|15,900|
+|Mazda|Eunos Roadster (NA) '89|30,700|
 |Mitsubishi|Lancer Evolution V GSR '98|69,200|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|Silvia K's Aero (S14) '96|59,000|
 |Nissan|Silvia K's Dia Selection (S13) '90|48,200|
-|Porsche|911 Turbo (930) '81|218,100|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -80,15 +86,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |DMC|DeLorean S2 '04|427,500|
 |Ferrari|F430 '06|200,500|
 |Ford|Mustang Mach 1 '71|37,500|
-|Honda|Beat '91|15,900|
 |Honda|Integra Type R (DC2) '98|61,400|
 |Honda|S800 '66|58,000|
-|Mazda|Eunos Roadster (NA) '89|30,700|
+|Mazda|RX-7 Spirit R Type A (FD) '02|221,200|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,600|
 |Nissan|GT-R NISMO (R32) '90|389,500|
 |Nissan|R32 GT-R V-spec II '94|179,900|
 |Pontiac|Firebird Trans Am '78|87,400|
 |Porsche|911 Carrera RS (964) '92|220,700|
+|Porsche|911 Carrera RS (993) '95|215,200|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,600|
 |TVR|Tuscan Speed 6 '00|80,600|
 |Toyota|Supra 3.0GT Turbo A '88|105,500|
