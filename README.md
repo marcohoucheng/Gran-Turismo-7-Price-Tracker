@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 25-March-2024
+# Gran Turismo 7 Shops for 26-March-2024
 
 
 
@@ -36,19 +36,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|250 GTO '62|20,000,000|
+|Chevrolet|Corvette (C1) '58|121,000|
+|Nissan|GT-R GT500 '99|2,700,000|
+|Toyota|2000GT '67|936,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mustang Boss 429 '69|317,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
-|Peugeot|205 Turbo 16 Evolution 2 '86|1,100,000|
+|BMW|McLaren F1 GTR Race Car '97|14,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|14,000,000|
+|Ferrari|250 GTO '62|20,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Plymouth|Superbird '70|529,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
@@ -60,36 +60,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|132,900|
-|Daihatsu|Copen '02|13,400|
+|Audi|TT Coupe 3.2 quattro '03|44,200|
+|BMW|3.0 CSL '73|250,000|
+|BMW|M3 '89|83,100|
+|Chevrolet|Corvette ZR-1 (C4) '89|86,500|
+|Chevrolet|Corvette ZR1 (C6) '09|104,900|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '07|70,000|
+|BMW|M3 '03|61,900|
+|DMC|DeLorean S2 '04|427,500|
 |Ford|Mustang Mach 1 '71|37,500|
 |Honda|Integra Type R (DC2) '98|61,400|
 |Nissan|R32 GT-R V-spec II '94|179,900|
-|Porsche|911 Carrera RS (964) '92|220,700|
-|Porsche|911 Carrera RS (993) '95|215,200|
+|Pontiac|Firebird Trans Am '78|87,400|
 |Toyota|Supra 3.0GT Turbo A '88|105,500|
-|Volkswagen|Volkswagen 1200 '66|31,900|
+|Volkswagen|Golf I GTI '83|49,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|314,100|
-|BMW|M3 '03|61,900|
-|DMC|DeLorean S2 '04|427,500|
+|Alpine|A110 '72|132,900|
+|Daihatsu|Copen '02|13,400|
 |Lamborghini|Diablo GT '00|817,800|
 |MINI|Mini-Cooper 'S' '65|38,200|
 |Mazda|RX-7 GT-X (FC) '90|60,200|
 |Mazda|RX-7 Spirit R Type A (FD) '02|221,200|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|178,300|
 |Nissan|Silvia K's Type S (S14) '94|53,800|
-|Pontiac|Firebird Trans Am '78|87,400|
 |Renault|Clio V6 24V '00|86,100|
 |Suzuki|Swift Sport '07|13,600|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|49,300|
-|Volkswagen|Golf I GTI '83|49,100|
 |Volkswagen|Sambabus Typ 2 '62|59,000|
