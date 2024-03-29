@@ -27,18 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 28-March-2024
+# Gran Turismo 7 Shops for 29-March-2024
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ferrari|F40 '92|3,100,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Jaguar|XJ13 '66|12,000,000|
 |Plymouth|Superbird '70|529,000|
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -49,8 +54,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Jaguar|XJR-9 '88|3,000,000|
 |Nissan|GT-R GT500 '99|2,700,000|
 |Pontiac|GTO 'The Judge' '69|279,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|2000GT '67|936,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 
 ## Used shop
@@ -58,19 +63,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Stingray (C3) '69|59,200|
-|Honda|Integra Type R (DC2) '95|54,300|
-|Subaru|Impreza 22B-STi '98|170,400|
-|Toyota|MR2 GT-S '97|51,500|
+|Alfa Romeo|MiTo '09|22,400|
+|De Tomaso|Pantera '71|162,200|
+|Mercedes-Benz|SLR McLaren '09|493,500|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|314,100|
+|Audi|TT Coupe 3.2 quattro '03|44,200|
+|BMW|M3 '89|83,100|
 |Lamborghini|Diablo GT '00|817,800|
-|Mazda|RX-7 Spirit R Type A (FD) '02|221,200|
+|Mazda|RX-7 GT-X (FC) '90|60,200|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|178,300|
 |Nissan|Silvia K's Type S (S14) '94|53,800|
+|Renault|Clio V6 24V '00|86,100|
+|Suzuki|Swift Sport '07|13,600|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|49,300|
 |Volkswagen|Sambabus Typ 2 '62|59,000|
 
@@ -79,17 +88,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Alpine|A110 '72|132,900|
 |Audi|R8 4.2 '07|137,800|
-|Audi|TT Coupe 3.2 quattro '03|44,200|
 |BMW|3.0 CSL '73|250,000|
-|BMW|M3 '89|83,100|
+|Chevrolet|Corvette Stingray (C3) '69|59,200|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,500|
 |Chevrolet|Corvette ZR1 (C6) '09|104,900|
 |Daihatsu|Copen '02|13,400|
+|Honda|Integra Type R (DC2) '95|54,300|
 |Honda|NSX Type R '02|430,000|
 |MINI|Mini-Cooper 'S' '65|38,200|
-|Mazda|RX-7 GT-X (FC) '90|60,200|
 |Nissan|R33 GT-R V-spec '97|156,200|
-|Renault|Clio V6 24V '00|86,100|
-|Suzuki|Swift Sport '07|13,600|
+|Subaru|Impreza 22B-STi '98|170,400|
+|Toyota|MR2 GT-S '97|51,500|
 |Toyota|Sports 800 '65|43,200|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,900|
