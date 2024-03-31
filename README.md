@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 30-March-2024
+# Gran Turismo 7 Shops for 31-March-2024
 
 
 
@@ -36,21 +36,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mark IV Race Car '67|6,750,000|
+|Renault|R8 Gordini '66|32,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|250 GTO '62|20,000,000|
 |Nissan|GT-R GT500 '99|2,700,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|300 SEL 6.8 AMG '71|700,000|
 |Chevrolet|Corvette (C1) '58|121,000|
-|Ferrari|250 GTO '62|20,000,000|
 |Ferrari|F40 '92|3,100,000|
+|Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
 |Pontiac|GTO 'The Judge' '69|279,000|
 |Toyota|2000GT '67|936,000|
@@ -62,19 +62,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Countach 25th Anniversary '88|711,800|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|167,300|
+|Fiat|500 F '68|17,800|
+|McLaren|MP4-12C '10|197,300|
+|Nissan|SILVIA spec-R Aero (S15) '02|61,100|
+|Nissan|Silvia Q's (S13) '88|31,900|
+|Porsche|911 Carrera RS (993) '95|215,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|44,200|
 |BMW|3.0 CSL '73|250,000|
-|BMW|M3 '89|83,100|
 |Chevrolet|Corvette ZR1 (C6) '09|104,900|
 |MINI|Mini-Cooper 'S' '65|38,200|
-|Mazda|RX-7 GT-X (FC) '90|60,200|
-|Renault|Clio V6 24V '00|86,100|
-|Suzuki|Swift Sport '07|13,600|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,900|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -88,10 +89,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |De Tomaso|Pantera '71|162,200|
 |Honda|Integra Type R (DC2) '95|54,300|
 |Honda|NSX Type R '02|430,000|
+|Lamborghini|Countach 25th Anniversary '88|711,800|
 |Mercedes-Benz|SLR McLaren '09|493,500|
 |Nissan|R33 GT-R V-spec '97|156,200|
 |Subaru|Impreza 22B-STi '98|170,400|
 |Toyota|MR2 GT-S '97|51,500|
 |Toyota|Sports 800 '65|43,200|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,900|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,900|
