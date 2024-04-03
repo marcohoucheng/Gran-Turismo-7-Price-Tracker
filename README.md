@@ -27,17 +27,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 02-April-2024
+# Gran Turismo 7 Shops for 03-April-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|300 SEL 6.8 AMG '71|700,000|
-|Chevrolet|Corvette (C1) '58|121,000|
 |Pontiac|GTO 'The Judge' '69|279,000|
 |Toyota|2000GT '67|936,000|
 
@@ -48,6 +52,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
 |Mazda|787B '91|3,300,000|
+|McLaren|MP4/4 '88|10,000,000|
 |Renault|R8 Gordini '66|32,500|
 |Toyota|GT-One (TS020) '99|2,500,000|
 
@@ -57,19 +62,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Type R (EK) '98|47,400|
-|RUF|CTR3 '07|801,800|
+|Nissan|R34 GT-R V-spec II Nur '02|396,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|132,900|
 |Audi|R8 4.2 '07|137,800|
-|Chevrolet|Corvette Stingray (C3) '69|59,200|
-|Chevrolet|Corvette ZR-1 (C4) '89|86,500|
-|Daihatsu|Copen '02|13,400|
+|Fiat|500 F '68|17,800|
 |Honda|NSX Type R '02|430,000|
+|Lamborghini|Countach 25th Anniversary '88|711,800|
 |Nissan|R33 GT-R V-spec '97|156,200|
+|Subaru|Impreza 22B-STi '98|170,400|
 |Toyota|MR2 GT-S '97|51,500|
 |Toyota|Sports 800 '65|43,200|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,900|
@@ -82,15 +85,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 Sport Evolution '89|179,700|
 |De Tomaso|Pantera '71|162,200|
 |Ferrari|308 GTB '75|166,400|
-|Fiat|500 F '68|17,800|
+|Ferrari|Dino 246 GT '71|400,000|
+|Honda|Civic Type R (EK) '98|47,400|
 |Honda|Integra Type R (DC2) '95|54,300|
-|Lamborghini|Countach 25th Anniversary '88|711,800|
 |McLaren|MP4-12C '10|197,300|
 |Mercedes-Benz|SLR McLaren '09|493,500|
 |Mitsubishi|Lancer Evolution III GSR '95|87,800|
 |Nissan|SILVIA spec-R Aero (S15) '02|61,100|
 |Nissan|Silvia Q's (S13) '88|31,900|
 |Porsche|911 Carrera RS (993) '95|215,600|
-|Subaru|Impreza 22B-STi '98|170,400|
+|RUF|CTR3 '07|801,800|
 |Toyota|Prius G '09|21,400|
 |Volkswagen|Scirocco R '10|42,000|
