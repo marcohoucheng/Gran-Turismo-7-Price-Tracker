@@ -27,35 +27,31 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-April-2024
+# Gran Turismo 7 Shops for 06-April-2024
 
 
 
 ## Legend shop
-
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|GTO '84|3,550,000|
-|Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
-|Plymouth|Superbird '70|529,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|F40 '92|3,100,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|McLaren|MP4/4 '88|10,000,000|
 |Renault|R8 Gordini '66|32,500|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
+|Ferrari|GTO '84|3,550,000|
 |Ford|Mark IV Race Car '67|6,750,000|
+|Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
 |Mazda|787B '91|3,300,000|
-|McLaren|MP4/4 '88|10,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
+|Plymouth|Superbird '70|529,000|
 
 
 ## Used shop
@@ -63,22 +59,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|31,800|
-|BMW|Z8 '01|259,100|
-|Ford|Sierra RS 500 Cosworth '87|193,500|
-|Honda|Civic Type R (EK) Touring Car|115,400|
-|Honda|S800 '66|49,600|
-|Maserati|GranTurismo S '08|147,400|
+|Lancia|Delta HF Integrale Evoluzione '91|101,900|
+|Nissan|Sileighty '98|72,400|
+|Porsche|911 GT3 (997) '09|142,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|167,300|
-|De Tomaso|Pantera '71|162,200|
+|Ferrari|Dino 246 GT '71|400,000|
 |Honda|Integra Type R (DC2) '95|54,300|
-|Mercedes-Benz|SLR McLaren '09|493,500|
-|Nissan|SILVIA spec-R Aero (S15) '02|61,100|
-|Porsche|911 Carrera RS (993) '95|215,600|
 |Toyota|Prius G '09|21,400|
 
 ### Available
@@ -87,11 +77,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |AMG|SLS AMG '10|308,300|
 |Abarth|Abarth 595 SS '70|57,000|
 |Alfa Romeo|MiTo '09|22,400|
+|Autobianchi|A112 Abarth '85|31,800|
 |BMW|M3 Sport Evolution '89|179,700|
+|BMW|Z8 '01|259,100|
 |Ferrari|308 GTB '75|166,400|
-|Ferrari|Dino 246 GT '71|400,000|
+|Ford|Sierra RS 500 Cosworth '87|193,500|
 |Honda|Civic Type R (EK) '98|47,400|
+|Honda|Civic Type R (EK) Touring Car|115,400|
 |Honda|S2000 '99|100,100|
+|Honda|S800 '66|49,600|
+|Maserati|GranTurismo S '08|147,400|
 |McLaren|MP4-12C '10|197,300|
 |Mitsubishi|Lancer Evolution III GSR '95|87,800|
 |Nissan|R34 GT-R V-spec II Nur '02|396,600|
