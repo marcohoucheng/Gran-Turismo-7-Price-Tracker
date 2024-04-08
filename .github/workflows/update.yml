@@ -30,4 +30,4 @@ jobs:
           git pull origin master
           git add .
           git commit -m "Update file from script"
-          git push
+          git push origin master
