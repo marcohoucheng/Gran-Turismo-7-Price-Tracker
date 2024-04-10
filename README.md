@@ -27,21 +27,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-April-2024
+# Gran Turismo 7 Shops for 10-April-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Lamborghini|Countach LP400 '74|1,250,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mark IV Race Car '67|6,750,000|
 |Mazda|787B '91|3,300,000|
 
 ### Available
@@ -50,6 +44,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
 |Ferrari|GTO '84|3,550,000|
 |Ford|GT40 Mark I '66|6,700,000|
+|Lamborghini|Countach LP400 '74|1,250,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
@@ -62,23 +57,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|911 Carrera RS (993) '95|260,000|
+|BMW|3.0 CSL '73|211,200|
+|Ferrari|Dino 246 GT '71|343,900|
+|Mitsubishi|GTO Twin Turbo '91|40,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|308,300|
-|Honda|Civic Type R (EK) '98|47,400|
-|McLaren|MP4-12C '10|197,300|
-|Nissan|Silvia Q's (S13) '88|31,900|
-|Volkswagen|Scirocco R '10|42,000|
+|Autobianchi|A112 Abarth '85|31,800|
+|BMW|M3 Sport Evolution '89|179,700|
+|Porsche|911 GT3 (997) '09|142,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|57,000|
-|Autobianchi|A112 Abarth '85|31,800|
-|BMW|M3 Sport Evolution '89|179,700|
 |BMW|Z8 '01|259,100|
 |Dodge|Super Bee '70|71,900|
 |Ferrari|458 Italia '09|248,000|
@@ -93,7 +87,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Fairlady 240ZG (HS30) '71|98,500|
 |Nissan|R34 GT-R V-spec II Nur '02|396,600|
 |Nissan|Sileighty '98|72,400|
-|Porsche|911 GT3 (997) '09|142,500|
+|Porsche|911 Carrera RS (993) '95|260,000|
 |RUF|CTR3 '07|801,800|
 |Renault|R4 GTL '85|30,000|
 |Renault|R5 Turbo '80|147,400|
