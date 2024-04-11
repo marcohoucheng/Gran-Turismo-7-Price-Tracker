@@ -28,4 +28,4 @@ jobs:
         run: |
           git add .
           git commit -m "Update file from script"
-          git push origin master -f
+          git push origin main -f
