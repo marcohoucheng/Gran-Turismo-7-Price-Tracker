@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 17-April-2024
+# Gran Turismo 7 Shops for 18-April-2024
 
 
 
@@ -36,15 +36,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|RA272 '65|2,500,000|
+|De Tomaso|Mangusta '69|333,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|McLaren F1 GTR Race Car '97|14,000,000|
-|Ford|GT40 Mark I '66|6,700,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
+|Plymouth|Superbird '70|529,000|
+|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,500,000|
 |Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Available
@@ -55,8 +56,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Camaro Z28 '69|119,000|
 |Citroen|DS 21 Pallas '70|49,600|
 |Dodge|Challenger R/T '70|233,000|
-|Plymouth|Superbird '70|529,000|
-|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,500,000|
+|Honda|RA272 '65|2,500,000|
 |Shelby|Cobra 427 '66|2,400,000|
 |Shelby|G.T.350 '65|460,000|
 
@@ -66,29 +66,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|22,100|
-|Chevrolet|Corvette Convertible (C3) '69|50,900|
-|Ferrari|512 BB '76|309,000|
-|Ford|Mustang Mach 1 '71|36,800|
-|Honda|Integra Type R (DC2) '98|62,100|
-|Renault|R4 GTL '85|24,100|
+|Volkswagen|Sambabus Typ 2 '62|57,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|458 Italia '09|248,000|
-|Ferrari|Testarossa '91|372,000|
+|BMW|3.0 CSL '73|211,200|
+|Honda|Civic Type R (EK) '97|58,100|
+|Porsche|911 Carrera RS CS (993) '95|409,500|
+|Porsche|911 Turbo (930) '81|215,600|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 500 '09|22,100|
 |Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
-|BMW|3.0 CSL '73|211,200|
+|Chevrolet|Corvette Convertible (C3) '69|50,900|
 |Dodge|Viper GTS '02|105,600|
 |Dodge|Viper SRT10 Coupe '06|115,000|
+|Ferrari|512 BB '76|309,000|
 |Fiat|500 1.2 8V Lounge SS '08|13,300|
+|Ford|Mustang Mach 1 '71|36,800|
 |Honda|Beat '91|16,800|
-|Honda|Civic Type R (EK) '97|58,100|
+|Honda|Integra Type R (DC2) '98|62,100|
 |Honda|NSX Type R '92|398,700|
 |Mazda|Eunos Roadster (NA) '89|26,500|
 |Mitsubishi|Lancer Evolution IV GSR '96|44,200|
@@ -98,9 +98,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|R32 GT-R V-spec II '94|176,500|
 |Nissan|Silvia K's Aero (S14) '96|59,300|
 |Nissan|Silvia K's Dia Selection (S13) '90|49,700|
-|Porsche|911 Carrera RS CS (993) '95|409,500|
 |Porsche|911 GT3 (996) '01|155,500|
-|Porsche|911 Turbo (930) '81|215,600|
+|Renault|R4 GTL '85|24,100|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,600|
 |Toyota|Supra 3.0GT Turbo A '88|115,900|
 |Volkswagen|Volkswagen 1200 '66|35,800|
