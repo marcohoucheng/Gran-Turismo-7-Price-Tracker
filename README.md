@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-April-2024
+# Gran Turismo 7 Shops for 19-April-2024
 
 
 
@@ -36,17 +36,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|De Tomaso|Mangusta '69|333,000|
+|Audi|Sport quattro S1 Pikes Peak '87|1,900,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|14,000,000|
-|Mercedes-Benz|300 SL (W194) '52|20,000,000|
-|Mercedes-Benz|CLK-LM '98|8,500,000|
+|Dodge|Challenger R/T '70|233,000|
 |Plymouth|Superbird '70|529,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,500,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -55,7 +52,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alpine|A220 Race Car '68|330,000|
 |Chevrolet|Camaro Z28 '69|119,000|
 |Citroen|DS 21 Pallas '70|49,600|
-|Dodge|Challenger R/T '70|233,000|
+|De Tomaso|Mangusta '69|333,000|
 |Honda|RA272 '65|2,500,000|
 |Shelby|Cobra 427 '66|2,400,000|
 |Shelby|G.T.350 '65|460,000|
@@ -66,13 +63,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Volkswagen|Sambabus Typ 2 '62|57,100|
+|Nissan|Fairlady Z Version S (Z33) '07|26,800|
+|Toyota|Supra RZ '97|192,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '73|211,200|
 |Honda|Civic Type R (EK) '97|58,100|
+|Honda|NSX Type R '92|398,700|
+|Mazda|Eunos Roadster (NA) '89|26,500|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|99,700|
+|Nissan|Silvia K's Aero (S14) '96|59,300|
 |Porsche|911 Carrera RS CS (993) '95|409,500|
 |Porsche|911 Turbo (930) '81|215,600|
 
@@ -89,17 +91,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Mustang Mach 1 '71|36,800|
 |Honda|Beat '91|16,800|
 |Honda|Integra Type R (DC2) '98|62,100|
-|Honda|NSX Type R '92|398,700|
-|Mazda|Eunos Roadster (NA) '89|26,500|
 |Mitsubishi|Lancer Evolution IV GSR '96|44,200|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|99,700|
 |Mitsubishi|Lancer Evolution V GSR '98|77,500|
 |Nissan|Fairlady Z (Z34) '08|36,000|
 |Nissan|R32 GT-R V-spec II '94|176,500|
-|Nissan|Silvia K's Aero (S14) '96|59,300|
 |Nissan|Silvia K's Dia Selection (S13) '90|49,700|
 |Porsche|911 GT3 (996) '01|155,500|
 |Renault|R4 GTL '85|24,100|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,600|
 |Toyota|Supra 3.0GT Turbo A '88|115,900|
+|Volkswagen|Sambabus Typ 2 '62|57,100|
 |Volkswagen|Volkswagen 1200 '66|35,800|
