@@ -27,18 +27,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-April-2024
+# Gran Turismo 7 Shops for 22-April-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|NISMO|400R '95|1,800,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,750,000|
-|Alpine|A220 Race Car '68|330,000|
-|Chevrolet|Camaro Z28 '69|119,000|
 |Shelby|G.T.350 '65|460,000|
 
 ### Available
@@ -57,38 +60,37 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F430 '06|201,100|
-|Mazda|RX-7 GT-X (FC) '90|61,100|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
-|Toyota|Sports 800 '65|48,100|
+|Ford|Ford GT '06|399,300|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|168,100|
+|Pontiac|Firebird Trans Am '78|81,700|
+|TVR|Tuscan Speed 6 '00|72,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|22,100|
-|Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
 |Dodge|Viper GTS '02|105,600|
-|Dodge|Viper SRT10 Coupe '06|115,000|
 |Ferrari|512 BB '76|309,000|
-|Fiat|500 1.2 8V Lounge SS '08|13,300|
+|Ford|Mustang Mach 1 '71|36,800|
+|Honda|Beat '91|16,800|
 |Mitsubishi|Lancer Evolution IV GSR '96|44,200|
-|Mitsubishi|Lancer Evolution V GSR '98|77,500|
-|Nissan|Fairlady Z (Z34) '08|36,000|
 |Nissan|Silvia K's Dia Selection (S13) '90|49,700|
+|Porsche|911 GT3 (996) '01|155,500|
 |Renault|R4 GTL '85|24,100|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,600|
+|Toyota|Supra 3.0GT Turbo A '88|115,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Convertible (C3) '69|50,900|
-|Ford|Mustang Mach 1 '71|36,800|
-|Honda|Beat '91|16,800|
+|Ferrari|F430 '06|201,100|
 |Honda|Integra Type R (DC2) '98|62,100|
+|Mazda|RX-7 GT-X (FC) '90|61,100|
 |Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|R32 GT-R V-spec II '94|176,500|
-|Porsche|911 GT3 (996) '01|155,500|
-|Toyota|Supra 3.0GT Turbo A '88|115,900|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
+|Toyota|Sports 800 '65|48,100|
 |Toyota|Supra RZ '97|192,300|
 |Volkswagen|Sambabus Typ 2 '62|57,100|
 |Volkswagen|Volkswagen 1200 '66|35,800|
