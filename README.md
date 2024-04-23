@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 22-April-2024
+# Gran Turismo 7 Shops for 23-April-2024
 
 
 
@@ -36,22 +36,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|NISMO|400R '95|1,800,000|
+|Ferrari|365 GTB4 '71|640,000|
+|Porsche|911 Carrera RS (901) '73|745,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,750,000|
-|Shelby|G.T.350 '65|460,000|
+|Citroen|DS 21 Pallas '70|49,600|
+|De Tomaso|Mangusta '69|333,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,900,000|
-|Citroen|DS 21 Pallas '70|49,600|
-|De Tomaso|Mangusta '69|333,000|
 |Ferrari|330 P4 '67|20,000,000|
 |Honda|RA272 '65|2,500,000|
+|NISMO|400R '95|1,800,000|
 |Shelby|Cobra 427 '66|2,400,000|
 
 
@@ -60,35 +60,33 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Ford GT '06|399,300|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|168,100|
-|Pontiac|Firebird Trans Am '78|81,700|
-|TVR|Tuscan Speed 6 '00|72,500|
+|BMW|M3 '07|69,900|
+|Daihatsu|Copen '02|13,000|
+|Ferrari|Testarossa '91|450,000|
+|Nissan|GT-R NISMO (R32) '90|390,000|
+|Toyota|Celica GT-Four (ST205) '94|80,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|22,100|
-|Dodge|Viper GTS '02|105,600|
-|Ferrari|512 BB '76|309,000|
+|Chevrolet|Corvette Convertible (C3) '69|50,900|
 |Ford|Mustang Mach 1 '71|36,800|
 |Honda|Beat '91|16,800|
-|Mitsubishi|Lancer Evolution IV GSR '96|44,200|
-|Nissan|Silvia K's Dia Selection (S13) '90|49,700|
+|Honda|Integra Type R (DC2) '98|62,100|
+|Nissan|R32 GT-R V-spec II '94|176,500|
 |Porsche|911 GT3 (996) '01|155,500|
-|Renault|R4 GTL '85|24,100|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,600|
 |Toyota|Supra 3.0GT Turbo A '88|115,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Convertible (C3) '69|50,900|
 |Ferrari|F430 '06|201,100|
-|Honda|Integra Type R (DC2) '98|62,100|
+|Ford|Ford GT '06|399,300|
 |Mazda|RX-7 GT-X (FC) '90|61,100|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|168,100|
 |Nissan|Fairlady Z Version S (Z33) '07|26,800|
-|Nissan|R32 GT-R V-spec II '94|176,500|
+|Pontiac|Firebird Trans Am '78|81,700|
+|TVR|Tuscan Speed 6 '00|72,500|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
 |Toyota|Sports 800 '65|48,100|
 |Toyota|Supra RZ '97|192,300|
