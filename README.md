@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 23-April-2024
+# Gran Turismo 7 Shops for 24-April-2024
 
 
 
@@ -36,8 +36,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|365 GTB4 '71|640,000|
-|Porsche|911 Carrera RS (901) '73|745,000|
+|Chevrolet|Camaro Z28 '69|119,000|
+|Jeep|Willys MB '45|30,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -50,8 +50,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,900,000|
 |Ferrari|330 P4 '67|20,000,000|
+|Ferrari|365 GTB4 '71|640,000|
 |Honda|RA272 '65|2,500,000|
 |NISMO|400R '95|1,800,000|
+|Porsche|911 Carrera RS (901) '73|745,000|
 |Shelby|Cobra 427 '66|2,400,000|
 
 
@@ -60,35 +62,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '07|69,900|
-|Daihatsu|Copen '02|13,000|
-|Ferrari|Testarossa '91|450,000|
-|Nissan|GT-R NISMO (R32) '90|390,000|
-|Toyota|Celica GT-Four (ST205) '94|80,700|
+|Alpine|A110 '72|137,500|
+|Audi|TTS Coupe '09|63,100|
+|DMC|DeLorean S2 '04|451,600|
+|Nissan|180SX Type X '96|48,500|
+|Porsche|911 Carrera RS (964) '92|226,500|
+|Suzuki|Swift Sport '07|12,200|
+|Volkswagen|Golf I GTI '83|46,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Convertible (C3) '69|50,900|
-|Ford|Mustang Mach 1 '71|36,800|
-|Honda|Beat '91|16,800|
 |Honda|Integra Type R (DC2) '98|62,100|
+|Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|R32 GT-R V-spec II '94|176,500|
-|Porsche|911 GT3 (996) '01|155,500|
-|Toyota|Supra 3.0GT Turbo A '88|115,900|
+|Toyota|Supra RZ '97|192,300|
+|Volkswagen|Sambabus Typ 2 '62|57,100|
+|Volkswagen|Volkswagen 1200 '66|35,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|BMW|M3 '07|69,900|
+|Daihatsu|Copen '02|13,000|
 |Ferrari|F430 '06|201,100|
+|Ferrari|Testarossa '91|450,000|
 |Ford|Ford GT '06|399,300|
 |Mazda|RX-7 GT-X (FC) '90|61,100|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|168,100|
-|Nissan|Fairlady Z Version S (Z33) '07|26,800|
+|Nissan|GT-R NISMO (R32) '90|390,000|
 |Pontiac|Firebird Trans Am '78|81,700|
 |TVR|Tuscan Speed 6 '00|72,500|
+|Toyota|Celica GT-Four (ST205) '94|80,700|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
 |Toyota|Sports 800 '65|48,100|
-|Toyota|Supra RZ '97|192,300|
-|Volkswagen|Sambabus Typ 2 '62|57,100|
-|Volkswagen|Volkswagen 1200 '66|35,800|
