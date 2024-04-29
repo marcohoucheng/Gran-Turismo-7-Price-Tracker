@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 28-April-2024
+# Gran Turismo 7 Shops for 29-April-2024
 
 
 
@@ -36,14 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
+|Jaguar|D-type '54|6,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|330 P4 '67|20,000,000|
-|Honda|RA272 '65|2,500,000|
 |NISMO|400R '95|1,800,000|
+|Porsche|911 Carrera RS (901) '73|745,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -52,22 +51,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|163,000|
 |Ferrari|365 GTB4 '71|640,000|
 |Jeep|Willys MB '45|30,100|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|167,000|
-|Porsche|911 Carrera RS (901) '73|745,000|
 |Porsche|Spyder type 550/1500RS '55|4,500,000|
 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Alfa Romeo|MiTo '09|22,400|
+|Audi|R8 4.2 '07|137,600|
+|Subaru|Impreza 22B-STi '98|177,300|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Audi|TTS Coupe '09|63,100|
+|BMW|M3 '07|69,900|
 |DMC|DeLorean S2 '04|451,600|
+|Ferrari|F430 '06|201,100|
 |MINI|MINI Cooper S '05|21,900|
 |Mazda|RX-7 GT-X (FC) '90|61,100|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|168,100|
-|Nissan|180SX Type X '96|48,500|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|62,300|
+|Nissan|GT-R NISMO (R32) '90|390,000|
+|Porsche|911 Carrera RS (964) '92|226,500|
+|TVR|Tuscan Speed 6 '00|72,500|
 |Volkswagen|Golf I GTI '83|46,700|
 
 ### Available
@@ -75,25 +86,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Alpine|A110 '72|137,500|
 |Audi|TT Coupe 3.2 quattro '03|45,400|
-|Audi|TTS Coupe '09|63,100|
 |BMW|M3 '03|72,800|
-|BMW|M3 '07|69,900|
 |BMW|M3 '89|75,700|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,100|
 |Daihatsu|Copen '02|13,000|
-|Ferrari|F430 '06|201,100|
 |Ferrari|Testarossa '91|450,000|
 |Honda|Civic Type R (EK) '97|65,000|
 |Honda|Civic Type R (EK) '98|65,000|
 |Honda|Civic Type R (EK) Touring Car|140,000|
 |Honda|NSX Type R '02|431,600|
 |MINI|Mini-Cooper 'S' '65|40,600|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|62,300|
-|Nissan|GT-R NISMO (R32) '90|390,000|
 |Nissan|Silvia K's Type S (S14) '94|53,900|
-|Porsche|911 Carrera RS (964) '92|226,500|
 |Renault|Clio V6 24V '00|82,300|
 |Suzuki|Swift Sport '07|12,200|
-|TVR|Tuscan Speed 6 '00|72,500|
 |Toyota|Sports 800 '65|48,100|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,900|
