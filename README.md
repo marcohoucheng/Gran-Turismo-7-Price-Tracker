@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 02-May-2024
+# Gran Turismo 7 Shops for 03-May-2024
 
 
 
@@ -36,17 +36,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|XJ13 '66|12,000,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Jaguar|XJR-9 '88|3,000,000|
-|Mazda|787B '91|3,300,000|
-|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
-|Nissan|R92CP '92|2,000,000|
-|Porsche|962 C '88|1,500,000|
-|Porsche|Spyder type 550/1500RS '55|4,500,000|
+|Dodge|Charger R/T 426 Hemi '68|158,000|
+|Lamborghini|Countach LP400 '74|1,250,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -54,6 +45,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|163,000|
 |Ferrari|365 GTB4 '71|640,000|
 |Jaguar|D-type '54|6,000,000|
+|Jaguar|XJ13 '66|12,000,000|
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
@@ -63,48 +55,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|287,200|
-|Chevrolet|Corvette ZR1 (C6) '09|98,400|
-|Lamborghini|Diablo GT '00|789,300|
-|Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
-|Nissan|R33 GT-R V-spec '97|155,200|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
-|Volkswagen|Scirocco R '10|42,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|72,800|
+|Audi|TT Coupe 3.2 quattro '03|45,400|
+|BMW|M3 '89|75,700|
+|Daihatsu|Copen '02|13,000|
+|Fiat|500 F '68|17,800|
 |Honda|Civic Type R (EK) '97|65,000|
 |Honda|Civic Type R (EK) '98|65,000|
 |Honda|Civic Type R (EK) Touring Car|140,000|
-|Nissan|Silvia K's Type S (S14) '94|53,900|
 |Renault|Clio V6 24V '00|82,300|
-|Suzuki|Swift Sport '07|12,200|
 |Toyota|Sports 800 '65|48,100|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|8C Competizione '08|287,200|
 |Alfa Romeo|Giulia Sprint GT Veloce '67|167,300|
 |Alfa Romeo|MiTo '09|22,400|
 |Alpine|A110 '72|137,500|
 |Audi|R8 4.2 '07|137,600|
-|Audi|TT Coupe 3.2 quattro '03|45,400|
-|BMW|M3 '89|75,700|
 |Chevrolet|Corvette Stingray (C3) '69|51,500|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,100|
-|Daihatsu|Copen '02|13,000|
+|Chevrolet|Corvette ZR1 (C6) '09|98,400|
 |De Tomaso|Pantera '71|162,200|
 |Ferrari|Testarossa '91|450,000|
-|Fiat|500 F '68|17,800|
 |Honda|Integra Type R (DC2) '95|61,200|
 |Honda|NSX Type R '02|431,600|
+|Lamborghini|Diablo GT '00|789,300|
 |MINI|Mini-Cooper 'S' '65|40,600|
+|Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
+|Nissan|R33 GT-R V-spec '97|155,200|
 |Nissan|SILVIA spec-R Aero (S15) '02|61,100|
 |Subaru|Impreza 22B-STi '98|177,300|
 |Toyota|MR2 GT-S '97|58,100|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
+|Volkswagen|Scirocco R '10|42,000|
