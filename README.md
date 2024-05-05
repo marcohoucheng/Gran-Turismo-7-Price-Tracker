@@ -27,22 +27,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 04-May-2024
+# Gran Turismo 7 Shops for 05-May-2024
 
 
 
 ## Legend shop
-
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Nissan|GT-R GT500 '99|2,700,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|163,000|
 |Ferrari|365 GTB4 '71|640,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|167,000|
 
 ### Available
@@ -53,9 +49,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Nissan|GT-R GT500 '99|2,700,000|
 
 
 ## Used shop
@@ -63,21 +59,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Type R (EK) '98|47,400|
-|Mercedes-Benz|SLR McLaren '09|493,500|
-|Nissan|Silvia Q's (S13) '88|31,900|
-|Toyota|Prius G '09|21,400|
+|BMW|M3 Sport Evolution '89|179,700|
+|Renault|R5 Turbo '80|147,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|137,500|
-|Audi|TT Coupe 3.2 quattro '03|45,400|
-|BMW|M3 '89|75,700|
 |Chevrolet|Corvette Stingray (C3) '69|51,500|
-|Daihatsu|Copen '02|13,000|
 |Ferrari|Testarossa '91|450,000|
-|Fiat|500 F '68|17,800|
+|MINI|Mini-Cooper 'S' '65|40,600|
+|Nissan|SILVIA spec-R Aero (S15) '02|61,100|
+|Subaru|Impreza 22B-STi '98|177,300|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -89,14 +82,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette ZR-1 (C4) '89|86,100|
 |Chevrolet|Corvette ZR1 (C6) '09|98,400|
 |De Tomaso|Pantera '71|162,200|
+|Honda|Civic Type R (EK) '98|47,400|
 |Honda|Integra Type R (DC2) '95|61,200|
 |Honda|NSX Type R '02|431,600|
 |Lamborghini|Diablo GT '00|789,300|
-|MINI|Mini-Cooper 'S' '65|40,600|
 |Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
+|Mercedes-Benz|SLR McLaren '09|493,500|
 |Nissan|R33 GT-R V-spec '97|155,200|
-|Nissan|SILVIA spec-R Aero (S15) '02|61,100|
-|Subaru|Impreza 22B-STi '98|177,300|
+|Nissan|Silvia Q's (S13) '88|31,900|
 |Toyota|MR2 GT-S '97|58,100|
+|Toyota|Prius G '09|21,400|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
 |Volkswagen|Scirocco R '10|42,000|
