@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-May-2024
+# Gran Turismo 7 Shops for 10-May-2024
 
 
 
@@ -36,21 +36,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
-|Nissan|Fairlady Z 432 '69|190,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|D-type '54|6,000,000|
+|Dodge|Charger R/T 426 Hemi '68|158,000|
+|Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|158,000|
+|Aston Martin|DB5 '64|892,000|
 |Ferrari|250 GT Berlinetta passo corto '61|8,400,000|
-|Jaguar|XJ13 '66|12,000,000|
+|Nissan|Fairlady Z 432 '69|190,000|
 |Nissan|GT-R GT500 '99|2,700,000|
 |Pontiac|GTO 'The Judge' '69|279,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
@@ -61,39 +61,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Countach 25th Anniversary '88|711,800|
-|Lancia|Stratos '73|495,800|
-|Suzuki|Cappuccino (EA11R) '91|17,700|
+|Dodge|Super Bee '70|71,900|
+|McLaren|MP4-12C '10|197,300|
+|Porsche|911 Carrera RS (993) '95|215,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|287,200|
-|Alfa Romeo|MiTo '09|22,400|
+|Audi|R8 4.2 '07|137,600|
+|Chevrolet|Corvette ZR1 (C6) '09|98,400|
+|Honda|Civic Type R (EK) '98|47,400|
 |Honda|Integra Type R (DC2) '95|61,200|
-|Lamborghini|Diablo GT '00|789,300|
-|Toyota|Prius G '09|21,400|
+|Mercedes-Benz|SLR McLaren '09|493,500|
 |Volkswagen|Scirocco R '10|42,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|57,000|
-|Audi|R8 4.2 '07|137,600|
 |Autobianchi|A112 Abarth '85|31,800|
 |BMW|M3 Sport Evolution '89|179,700|
-|Chevrolet|Corvette ZR1 (C6) '09|98,400|
 |Ferrari|308 GTB '75|166,400|
 |Ford|Sierra RS 500 Cosworth '87|193,500|
-|Honda|Civic Type R (EK) '98|47,400|
 |Honda|S2000 '99|100,100|
 |Honda|S800 '66|49,600|
+|Lamborghini|Countach 25th Anniversary '88|711,800|
 |Lancia|Delta HF Integrale Evoluzione '91|101,900|
-|Mercedes-Benz|SLR McLaren '09|493,500|
+|Lancia|Stratos '73|495,800|
 |Mitsubishi|Lancer Evolution III GSR '95|87,800|
 |Nissan|R33 GT-R V-spec '97|155,200|
 |Nissan|Sileighty '98|72,400|
 |Nissan|Silvia Q's (S13) '88|31,900|
 |Pontiac|Firebird Trans Am '78|110,000|
 |Renault|R5 Turbo '80|147,400|
+|Suzuki|Cappuccino (EA11R) '91|17,700|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
