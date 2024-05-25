@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-May-2024
+# Gran Turismo 7 Shops for 25-May-2024
 
 
 
@@ -36,12 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|959 '87|1,750,000|
+|Alfa Romeo|155 2.5 V6 TI '93|800,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Plymouth|Superbird '70|529,000|
+|Maserati|A6GCS/53 Spyder '54|2,500,000|
+|McLaren|McLaren F1 '94|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -50,12 +51,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|F50 '95|4,450,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJ220 '92|615,000|
-|Maserati|A6GCS/53 Spyder '54|2,500,000|
 |Mazda|RX500 '70|600,000|
-|McLaren|McLaren F1 '94|20,000,000|
 |Plymouth|XNR Ghia Roadster '60|1,600,000|
 |Porsche|356 A/1500 GS Carrera '56|615,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Porsche|959 '87|1,750,000|
 
 
 ## Used shop
@@ -63,18 +63,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Fairlady Z (Z34) '08|36,000|
+|Daihatsu|Copen '02|13,000|
+|Mazda|RX-7 GT-X (FC) '90|61,100|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|168,100|
+|Pontiac|Firebird Trans Am '78|81,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|22,100|
-|Honda|Beat '91|16,800|
-|Honda|Civic Type R (EK) Touring Car|115,400|
-|Mazda|Eunos Roadster (NA) '89|26,500|
+|Ferrari|Dino 246 GT '71|400,000|
+|Ford|Mustang Mach 1 '71|36,800|
 |Mitsubishi|Lancer Evolution IV GSR '96|44,200|
-|Mitsubishi|Lancer Evolution V GSR '98|77,500|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,600|
+|Toyota|Supra 3.0GT Turbo A '88|115,900|
+|Volkswagen|Volkswagen 1200 '66|35,800|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -83,18 +84,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Dodge|Viper GTS '02|105,600|
 |Dodge|Viper SRT10 Coupe '06|115,000|
 |Ferrari|458 Italia '09|248,000|
-|Ferrari|Dino 246 GT '71|400,000|
 |Ferrari|Testarossa '91|372,000|
-|Ford|Mustang Mach 1 '71|36,800|
 |Honda|Integra Type R (DC2) '98|62,100|
 |Honda|NSX Type R '92|398,700|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|99,700|
+|Nissan|Fairlady Z (Z34) '08|36,000|
 |Nissan|R32 GT-R V-spec II '94|176,500|
 |Porsche|911 Carrera RS CS (993) '95|409,500|
 |Porsche|911 GT3 (996) '01|155,500|
 |Renault|R4 GTL '85|24,100|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
 |Toyota|Sports 800 '65|48,100|
-|Toyota|Supra 3.0GT Turbo A '88|115,900|
 |Volkswagen|Sambabus Typ 2 '62|57,100|
-|Volkswagen|Volkswagen 1200 '66|35,800|
