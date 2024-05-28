@@ -27,15 +27,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 27-May-2024
+# Gran Turismo 7 Shops for 28-May-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Chevrolet|Corvette (C2) '63|249,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|F50 '95|4,450,000|
 |Jaguar|XJ220 '92|615,000|
 |Mazda|RX500 '70|600,000|
 
@@ -44,7 +50,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Ferrari|F40 '92|3,100,000|
-|Ferrari|F50 '95|4,450,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Plymouth|XNR Ghia Roadster '60|1,600,000|
 |Porsche|356 A/1500 GS Carrera '56|615,000|
@@ -57,39 +62,37 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|DMC|DeLorean S2 '04|451,600|
-|Nissan|Silvia K's Type S (S14) '94|53,900|
+|MINI|MINI Cooper S '05|21,900|
+|MINI|Mini-Cooper 'S' '65|40,600|
+|Renault|Clio V6 24V '00|82,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|458 Italia '09|248,000|
-|Ferrari|Testarossa '91|372,000|
-|Honda|Integra Type R (DC2) '98|62,100|
-|Nissan|R32 GT-R V-spec II '94|176,500|
+|Chevrolet|Corvette Convertible (C3) '69|50,900|
+|Honda|NSX Type R '92|398,700|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|99,700|
+|Nissan|Fairlady Z (Z34) '08|36,000|
 |Porsche|911 Carrera RS CS (993) '95|409,500|
-|Volkswagen|Sambabus Typ 2 '62|57,100|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|137,500|
-|Chevrolet|Corvette Convertible (C3) '69|50,900|
+|DMC|DeLorean S2 '04|451,600|
 |Daihatsu|Copen '02|13,000|
 |Dodge|Viper GTS '02|105,600|
 |Dodge|Viper SRT10 Coupe '06|115,000|
 |Ferrari|512 BB '76|309,000|
-|Honda|NSX Type R '92|398,700|
 |Mazda|RX-7 GT-X (FC) '90|61,100|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|99,700|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|168,100|
 |Nissan|180SX Type X '96|48,500|
-|Nissan|Fairlady Z (Z34) '08|36,000|
+|Nissan|Silvia K's Type S (S14) '94|53,900|
 |Pontiac|Firebird Trans Am '78|81,700|
 |Porsche|911 GT3 (996) '01|155,500|
 |Renault|R4 GTL '85|24,100|
 |Suzuki|Swift Sport '07|12,200|
 |Toyota|Celica GT-Four (ST205) '94|80,700|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
 |Toyota|Sports 800 '65|48,100|
 |Volkswagen|Golf I GTI '83|46,700|
