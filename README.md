@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 04-June-2024
+# Gran Turismo 7 Shops for 05-June-2024
 
 
 
@@ -36,12 +36,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|1932 Ford Roadster Hot Rod|400,000|
+|McLaren|McLaren F1 '94|20,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C2) '63|249,000|
+|Ferrari|500 Mondial Pinin Farina Coupe '54|2,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -49,7 +49,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chaparral|2J '70|2,500,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|172,000|
 |Ferrari|330 P4 '67|20,000,000|
-|Ferrari|500 Mondial Pinin Farina Coupe '54|2,700,000|
+|Ford|1932 Ford Roadster Hot Rod|400,000|
 |Honda|NSX GT500 '00|1,500,000|
 |Jaguar|E-type Coupe '61|227,000|
 |Nissan|GT-R GT500 '99|2,500,000|
@@ -63,43 +63,43 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|SILVIA spec-R Aero (S15) '02|61,100|
-|Volkswagen|Scirocco R '10|42,000|
+|Honda|Civic Type R (EK) '98|47,400|
+|Nissan|Silvia Q's (S13) '88|31,900|
+|Toyota|Prius G '09|21,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alpine|A110 '72|137,500|
+|Audi|TT Coupe 3.2 quattro '03|45,400|
+|Chevrolet|Corvette Stingray (C3) '69|51,500|
 |Daihatsu|Copen '02|13,000|
 |Fiat|500 F '68|17,800|
 |Ford|Ford GT '06|399,300|
-|Nissan|Fairlady Z Version S (Z33) '07|26,800|
+|MINI|Mini-Cooper 'S' '65|40,600|
 |Renault|Clio V6 24V '00|82,300|
-|Toyota|Sports 800 '65|48,100|
-|Toyota|Supra RZ '97|192,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|167,300|
 |Alfa Romeo|MiTo '09|22,400|
-|Alpine|A110 '72|137,500|
-|Audi|TT Coupe 3.2 quattro '03|45,400|
 |Audi|TTS Coupe '09|63,100|
 |BMW|M3 '07|69,900|
 |BMW|M3 '89|75,700|
-|Chevrolet|Corvette Stingray (C3) '69|51,500|
 |De Tomaso|Pantera '71|162,200|
 |Ferrari|F430 '06|201,100|
 |Honda|Beat '91|20,000|
 |Honda|Civic SiR-II (EG) '93|52,100|
 |Honda|Integra Type R (DC2) '95|61,200|
 |Honda|NSX Type R '02|431,600|
-|MINI|Mini-Cooper 'S' '65|40,600|
 |Nissan|GT-R NISMO (R32) '90|390,000|
+|Nissan|SILVIA spec-R Aero (S15) '02|61,100|
 |Nissan|Skyline GTS-R (R31) '87|176,600|
 |Porsche|911 Carrera RS (964) '92|226,500|
 |Subaru|Impreza 22B-STi '98|177,300|
 |Suzuki|Cappuccino (EA11R) '91|20,000|
 |TVR|Tuscan Speed 6 '00|72,500|
 |Toyota|MR2 GT-S '97|58,100|
+|Volkswagen|Scirocco R '10|42,000|
 |Volvo|240 SE Estate '93|40,800|
