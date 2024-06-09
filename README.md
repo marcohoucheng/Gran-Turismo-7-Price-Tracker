@@ -27,32 +27,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 08-June-2024
+# Gran Turismo 7 Shops for 09-June-2024
 
 
 
 ## Legend shop
-
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|De Tomaso|Mangusta (Christian Dior)|500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chaparral|2J '70|2,500,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|172,000|
+|Ferrari|330 P4 '67|20,000,000|
 |Jaguar|E-type Coupe '61|227,000|
-|Porsche|917K '70|18,000,000|
-|Porsche|962 C '88|1,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB3S '53|6,000,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Ferrari|330 P4 '67|20,000,000|
+|De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|F40 '92|3,100,000|
 |Ford|1932 Ford Roadster Hot Rod|400,000|
 |Honda|NSX GT500 '00|1,500,000|
@@ -67,46 +61,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|31,800|
-|Ferrari|308 GTB '75|166,400|
-|Lancia|Delta HF Integrale Evoluzione '91|101,900|
-|Mitsubishi|Lancer Evolution III GSR '95|87,800|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|167,300|
-|Audi|TTS Coupe '09|63,100|
-|BMW|M3 '07|69,900|
-|BMW|M3 '89|75,700|
-|Ferrari|F430 '06|201,100|
+|Alfa Romeo|MiTo '09|22,400|
+|De Tomaso|Pantera '71|162,200|
 |Nissan|SILVIA spec-R Aero (S15) '02|61,100|
-|Porsche|911 Carrera RS (964) '92|226,500|
-|Subaru|Impreza 22B-STi '98|177,300|
-|TVR|Tuscan Speed 6 '00|72,500|
 |Toyota|MR2 GT-S '97|58,100|
+|Toyota|Prius G '09|21,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|57,000|
-|Alfa Romeo|MiTo '09|22,400|
 |Audi|R8 4.2 '07|137,600|
+|Autobianchi|A112 Abarth '85|31,800|
 |BMW|M3 '03|72,800|
 |BMW|M3 Sport Evolution '89|179,700|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,100|
-|De Tomaso|Pantera '71|162,200|
+|Ferrari|308 GTB '75|166,400|
 |Honda|Civic SiR-II (EG) '93|52,100|
 |Honda|Civic Type R (EK) '98|47,400|
 |Honda|Integra Type R (DC2) '95|61,200|
 |Honda|NSX Type R '02|431,600|
 |Honda|S800 '66|49,600|
 |Lamborghini|Diablo GT '00|789,300|
+|Lancia|Delta HF Integrale Evoluzione '91|101,900|
+|Mitsubishi|Lancer Evolution III GSR '95|87,800|
 |Nissan|GT-R NISMO (R32) '90|390,000|
 |Nissan|Silvia Q's (S13) '88|31,900|
 |Nissan|Skyline GTS-R (R31) '87|176,600|
 |Porsche|911 Carrera RS (993) '95|260,000|
 |Renault|R5 Turbo '80|147,400|
-|Toyota|Prius G '09|21,400|
 |Volkswagen|Scirocco R '10|42,000|
 |Volvo|240 SE Estate '93|40,800|
