@@ -27,19 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-June-2024
+# Gran Turismo 7 Shops for 10-June-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
+|Ferrari|365 GTB4 '71|610,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chaparral|2J '70|2,500,000|
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|172,000|
 |Ferrari|330 P4 '67|20,000,000|
-|Jaguar|E-type Coupe '61|227,000|
+|Ford|1932 Ford Roadster Hot Rod|400,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -48,7 +52,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|F40 '92|3,100,000|
-|Ford|1932 Ford Roadster Hot Rod|400,000|
 |Honda|NSX GT500 '00|1,500,000|
 |McLaren|McLaren F1 '94|20,000,000|
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
@@ -61,15 +64,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
+|Alfa Romeo|8C Competizione '08|287,200|
+|Chevrolet|Corvette ZR1 (C6) '09|98,400|
+|Ford|Sierra RS 500 Cosworth '87|193,500|
+|Honda|S2000 '99|100,100|
+|Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
+|Nissan|R33 GT-R V-spec '97|155,200|
+|Suzuki|Cappuccino (EA11R) '91|17,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|MiTo '09|22,400|
+|BMW|M3 '03|72,800|
 |De Tomaso|Pantera '71|162,200|
-|Nissan|SILVIA spec-R Aero (S15) '02|61,100|
-|Toyota|MR2 GT-S '97|58,100|
 |Toyota|Prius G '09|21,400|
 
 ### Available
@@ -78,7 +86,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 595 SS '70|57,000|
 |Audi|R8 4.2 '07|137,600|
 |Autobianchi|A112 Abarth '85|31,800|
-|BMW|M3 '03|72,800|
 |BMW|M3 Sport Evolution '89|179,700|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,100|
 |Ferrari|308 GTB '75|166,400|
@@ -95,5 +102,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Skyline GTS-R (R31) '87|176,600|
 |Porsche|911 Carrera RS (993) '95|260,000|
 |Renault|R5 Turbo '80|147,400|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
 |Volkswagen|Scirocco R '10|42,000|
 |Volvo|240 SE Estate '93|40,800|
