@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 10-June-2024
+# Gran Turismo 7 Shops for 11-June-2024
 
 
 
@@ -36,21 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|Ferrari|365 GTB4 '71|610,000|
+|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
+|Mercedes-Benz|CLK-LM '98|8,500,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|330 P4 '67|20,000,000|
 |Ford|1932 Ford Roadster Hot Rod|400,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Aston Martin|DB3S '53|6,000,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
+|Ferrari|365 GTB4 '71|610,000|
 |Ferrari|F40 '92|3,100,000|
 |Honda|NSX GT500 '00|1,500,000|
 |McLaren|McLaren F1 '94|20,000,000|
@@ -64,44 +66,43 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|287,200|
-|Chevrolet|Corvette ZR1 (C6) '09|98,400|
-|Ford|Sierra RS 500 Cosworth '87|193,500|
-|Honda|S2000 '99|100,100|
-|Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
-|Nissan|R33 GT-R V-spec '97|155,200|
-|Suzuki|Cappuccino (EA11R) '91|17,700|
+|Lancia|Stratos '73|495,800|
+|Nissan|Sileighty '98|72,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|MiTo '09|22,400|
 |BMW|M3 '03|72,800|
-|De Tomaso|Pantera '71|162,200|
-|Toyota|Prius G '09|21,400|
+|Honda|Civic Type R (EK) '98|47,400|
+|Honda|Integra Type R (DC2) '95|61,200|
+|Volkswagen|Scirocco R '10|42,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|57,000|
+|Alfa Romeo|8C Competizione '08|287,200|
 |Audi|R8 4.2 '07|137,600|
 |Autobianchi|A112 Abarth '85|31,800|
 |BMW|M3 Sport Evolution '89|179,700|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,100|
+|Chevrolet|Corvette ZR1 (C6) '09|98,400|
 |Ferrari|308 GTB '75|166,400|
+|Ford|Sierra RS 500 Cosworth '87|193,500|
 |Honda|Civic SiR-II (EG) '93|52,100|
-|Honda|Civic Type R (EK) '98|47,400|
-|Honda|Integra Type R (DC2) '95|61,200|
 |Honda|NSX Type R '02|431,600|
+|Honda|S2000 '99|100,100|
 |Honda|S800 '66|49,600|
 |Lamborghini|Diablo GT '00|789,300|
 |Lancia|Delta HF Integrale Evoluzione '91|101,900|
+|Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
 |Mitsubishi|Lancer Evolution III GSR '95|87,800|
 |Nissan|GT-R NISMO (R32) '90|390,000|
+|Nissan|R33 GT-R V-spec '97|155,200|
 |Nissan|Silvia Q's (S13) '88|31,900|
 |Nissan|Skyline GTS-R (R31) '87|176,600|
 |Porsche|911 Carrera RS (993) '95|260,000|
 |Renault|R5 Turbo '80|147,400|
+|Suzuki|Cappuccino (EA11R) '91|17,700|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
-|Volkswagen|Scirocco R '10|42,000|
 |Volvo|240 SE Estate '93|40,800|
