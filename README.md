@@ -27,19 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-June-2024
+# Gran Turismo 7 Shops for 16-June-2024
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
+|Ford|Mustang Boss 429 '69|346,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
+
+### Leaving Soon
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|De Tomaso|Mangusta (Christian Dior)|500,000|
+|Ferrari|365 GTB4 '71|610,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
-|De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|365 GTB4 '71|610,000|
 |Ferrari|F40 '92|3,100,000|
 |Ferrari|F50 '95|4,450,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
@@ -49,36 +60,37 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Honda|Civic Type R (EK) '97|58,100|
+|Lamborghini|Countach 25th Anniversary '88|711,800|
+|Mazda|Eunos Roadster (NA) '89|26,500|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|57,000|
-|Ferrari|308 GTB '75|166,400|
+|Alfa Romeo|8C Competizione '08|287,200|
+|BMW|M3 Sport Evolution '89|179,700|
+|Chevrolet|Corvette ZR-1 (C4) '89|86,100|
 |Ferrari|512 BB '76|350,000|
-|Honda|S800 '66|49,600|
+|Lamborghini|Diablo GT '00|789,300|
+|Lancia|Delta HF Integrale Evoluzione '91|101,900|
 |Lancia|Stratos '73|495,800|
 |Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
-|Mitsubishi|Lancer Evolution III GSR '95|87,800|
-|Renault|R5 Turbo '80|147,400|
-|Suzuki|Cappuccino (EA11R) '91|17,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|287,200|
 |Audi|R8 4.2 '07|137,600|
 |BMW|3.0 CSL '71|141,500|
 |BMW|3.0 CSL '73|211,200|
-|BMW|M3 Sport Evolution '89|179,700|
-|Chevrolet|Corvette ZR-1 (C4) '89|86,100|
 |Chevrolet|Corvette ZR1 (C6) '09|98,400|
 |Dodge|Super Bee '70|71,900|
 |Ferrari|Dino 246 GT '71|343,900|
 |Ford|Sierra RS 500 Cosworth '87|193,500|
 |Honda|Civic SiR-II (EG) '93|52,100|
 |Honda|S2000 '99|100,100|
-|Lamborghini|Diablo GT '00|789,300|
-|Lancia|Delta HF Integrale Evoluzione '91|101,900|
 |Mercedes-Benz|SLR McLaren '09|493,500|
 |Nissan|Fairlady 240ZG (HS30) '71|98,500|
 |Nissan|R33 GT-R V-spec '97|155,200|
