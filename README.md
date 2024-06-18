@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 17-June-2024
+# Gran Turismo 7 Shops for 18-June-2024
 
 
 
@@ -36,15 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|365 GTB4 '71|610,000|
+|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Ferrari|F40 '92|3,100,000|
 |Ferrari|F50 '95|4,450,000|
@@ -59,42 +57,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Fiat|500 1.2 8V Lounge SS '08|13,300|
-|Honda|Beat '91|16,800|
-|Mitsubishi|GTO Twin Turbo '91|40,000|
-|Nissan|Silvia K's Dia Selection (S13) '90|49,700|
-|Porsche|911 Turbo (930) '81|215,600|
-|Volkswagen|Volkswagen 1200 '66|35,800|
+|Mitsubishi|Lancer Evolution V GSR '98|77,500|
+|Porsche|911 Carrera RS (993) '95|215,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|287,200|
-|BMW|M3 Sport Evolution '89|179,700|
-|Chevrolet|Corvette ZR-1 (C4) '89|86,100|
-|Lamborghini|Diablo GT '00|789,300|
-|Lancia|Delta HF Integrale Evoluzione '91|101,900|
+|Audi|R8 4.2 '07|137,600|
+|BMW|3.0 CSL '71|141,500|
+|Chevrolet|Corvette ZR1 (C6) '09|98,400|
+|Dodge|Super Bee '70|71,900|
+|Ferrari|Dino 246 GT '71|343,900|
+|Honda|S2000 '99|100,100|
+|Nissan|Fairlady 240ZG (HS30) '71|98,500|
+|Nissan|Sileighty '98|72,400|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|137,600|
-|BMW|3.0 CSL '71|141,500|
 |BMW|3.0 CSL '73|211,200|
-|Chevrolet|Corvette ZR1 (C6) '09|98,400|
-|Dodge|Super Bee '70|71,900|
-|Ferrari|Dino 246 GT '71|343,900|
+|Fiat|500 1.2 8V Lounge SS '08|13,300|
 |Ford|Sierra RS 500 Cosworth '87|193,500|
+|Honda|Beat '91|16,800|
 |Honda|Civic SiR-II (EG) '93|52,100|
 |Honda|Civic Type R (EK) '97|58,100|
-|Honda|S2000 '99|100,100|
 |Lamborghini|Countach 25th Anniversary '88|711,800|
 |Mazda|Eunos Roadster (NA) '89|26,500|
 |Mercedes-Benz|SLR McLaren '09|493,500|
-|Nissan|Fairlady 240ZG (HS30) '71|98,500|
+|Mitsubishi|GTO Twin Turbo '91|40,000|
 |Nissan|R33 GT-R V-spec '97|155,200|
-|Nissan|Sileighty '98|72,400|
+|Nissan|Silvia K's Dia Selection (S13) '90|49,700|
 |Nissan|Skyline GTS-R (R31) '87|176,600|
+|Porsche|911 Turbo (930) '81|215,600|
 |Subaru|Impreza Sedan WRX STi '04|47,100|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
+|Volkswagen|Volkswagen 1200 '66|35,800|
 |Volvo|240 SE Estate '93|40,800|
