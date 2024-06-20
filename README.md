@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 19-June-2024
+# Gran Turismo 7 Shops for 20-June-2024
 
 
 
@@ -36,72 +36,59 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|XJ13 '66|12,000,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
+|Ferrari|250 GTO '62|20,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
+|Ferrari|F40 '92|3,100,000|
+|Ferrari|F50 '95|4,450,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
+|Peugeot|205 Turbo 16 Evolution 2 '86|1,100,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB5 '64|892,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Ferrari|F40 '92|3,100,000|
-|Ferrari|F50 '95|4,450,000|
 |Ford|Mustang Boss 429 '69|346,000|
-|Peugeot|205 Turbo 16 Evolution 2 '86|1,100,000|
+|Jaguar|XJ13 '66|12,000,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Abarth|Abarth 500 '09|22,100|
-|McLaren|MP4-12C '10|197,300|
-|Nissan|R34 GT-R V-spec II Nur '02|396,600|
-|Nissan|Silvia K's Aero (S14) '96|59,300|
-|RUF|CTR3 '07|801,800|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|137,600|
-|BMW|3.0 CSL '71|141,500|
-|Chevrolet|Corvette ZR1 (C6) '09|98,400|
-|Dodge|Super Bee '70|71,900|
-|Ferrari|Dino 246 GT '71|343,900|
+|BMW|3.0 CSL '73|211,200|
 |Ford|Sierra RS 500 Cosworth '87|193,500|
-|Honda|S2000 '99|100,100|
+|Lamborghini|Countach 25th Anniversary '88|711,800|
 |Mercedes-Benz|SLR McLaren '09|493,500|
-|Nissan|Fairlady 240ZG (HS30) '71|98,500|
-|Nissan|Sileighty '98|72,400|
 |Subaru|Impreza Sedan WRX STi '04|47,100|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|211,200|
+|Abarth|Abarth 500 '09|22,100|
 |Fiat|500 1.2 8V Lounge SS '08|13,300|
 |Honda|Beat '91|16,800|
 |Honda|Civic SiR-II (EG) '93|52,100|
 |Honda|Civic Type R (EK) '97|58,100|
-|Lamborghini|Countach 25th Anniversary '88|711,800|
 |Mazda|Eunos Roadster (NA) '89|26,500|
+|McLaren|MP4-12C '10|197,300|
 |Mitsubishi|GTO Twin Turbo '91|40,000|
 |Mitsubishi|Lancer Evolution V GSR '98|77,500|
 |Nissan|R33 GT-R V-spec '97|155,200|
+|Nissan|R34 GT-R V-spec II Nur '02|396,600|
+|Nissan|Silvia K's Aero (S14) '96|59,300|
 |Nissan|Silvia K's Dia Selection (S13) '90|49,700|
 |Nissan|Skyline GTS-R (R31) '87|176,600|
 |Porsche|911 Carrera RS (993) '95|215,600|
 |Porsche|911 Turbo (930) '81|215,600|
+|RUF|CTR3 '07|801,800|
 |TVR|Tuscan Speed 6 '00|95,000|
 |Volkswagen|Volkswagen 1200 '66|35,800|
 |Volvo|240 SE Estate '93|40,800|
