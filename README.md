@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-June-2024
+# Gran Turismo 7 Shops for 21-June-2024
 
 
 
@@ -36,15 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|250 GTO '62|20,000,000|
+|Chevrolet|Corvette (C1) '58|119,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Ferrari|F40 '92|3,100,000|
 |Ferrari|F50 '95|4,450,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,100,000|
 
 ### Available
@@ -52,6 +50,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Aston Martin|DB5 '64|892,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
+|Ferrari|250 GTO '62|20,000,000|
 |Ford|Mustang Boss 429 '69|346,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
@@ -60,14 +59,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|AMG|SLS AMG '10|308,300|
+|BMW|Z8 '01|259,100|
+|Maserati|GranTurismo S '08|147,400|
+|Mitsubishi|Lancer Evolution IV GSR '96|44,200|
+|Nissan|R32 GT-R V-spec II '94|176,500|
+|Renault|R4 GTL '85|24,100|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,600|
+|Toyota|Supra 3.0GT Turbo A '88|115,900|
+|Volkswagen|Sambabus Typ 2 '62|57,100|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '73|211,200|
-|Ford|Sierra RS 500 Cosworth '87|193,500|
+|Honda|Civic Type R (EK) '97|58,100|
 |Lamborghini|Countach 25th Anniversary '88|711,800|
-|Mercedes-Benz|SLR McLaren '09|493,500|
-|Subaru|Impreza Sedan WRX STi '04|47,100|
+|Mitsubishi|GTO Twin Turbo '91|40,000|
+|Nissan|R33 GT-R V-spec '97|155,200|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -76,12 +88,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Fiat|500 1.2 8V Lounge SS '08|13,300|
 |Honda|Beat '91|16,800|
 |Honda|Civic SiR-II (EG) '93|52,100|
-|Honda|Civic Type R (EK) '97|58,100|
 |Mazda|Eunos Roadster (NA) '89|26,500|
 |McLaren|MP4-12C '10|197,300|
-|Mitsubishi|GTO Twin Turbo '91|40,000|
 |Mitsubishi|Lancer Evolution V GSR '98|77,500|
-|Nissan|R33 GT-R V-spec '97|155,200|
 |Nissan|R34 GT-R V-spec II Nur '02|396,600|
 |Nissan|Silvia K's Aero (S14) '96|59,300|
 |Nissan|Silvia K's Dia Selection (S13) '90|49,700|
