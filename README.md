@@ -27,22 +27,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 23-June-2024
+# Gran Turismo 7 Shops for 24-June-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Pontiac|GTO 'The Judge' '69|268,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Ford|Mustang Boss 429 '69|346,000|
 
 ### Available
@@ -52,6 +45,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|250 GTO '62|20,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|Pontiac|GTO 'The Judge' '69|268,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|2000GT '67|992,000|
 |Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
@@ -62,20 +56,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|911 GT3 (997) '09|142,500|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
+|Chevrolet|Corvette Convertible (C3) '69|50,900|
+|Lamborghini|Murcielago LP 640 '09|337,200|
+|Toyota|Sports 800 '65|48,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|22,100|
 |Fiat|500 1.2 8V Lounge SS '08|13,300|
-|Honda|Civic SiR-II (EG) '93|52,100|
+|Honda|Beat '91|16,800|
+|Mazda|Eunos Roadster (NA) '89|26,500|
+|Nissan|Silvia K's Aero (S14) '96|59,300|
 |Nissan|Silvia K's Dia Selection (S13) '90|49,700|
-|Nissan|Skyline GTS-R (R31) '87|176,600|
-|Porsche|911 Carrera RS (993) '95|215,600|
-|TVR|Tuscan Speed 6 '00|95,000|
-|Volvo|240 SE Estate '93|40,800|
+|Porsche|911 Turbo (930) '81|215,600|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -83,21 +77,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |AMG|SLS AMG '10|308,300|
 |BMW|Z8 '01|259,100|
 |Ford|Mustang Mach 1 '71|36,800|
-|Honda|Beat '91|16,800|
 |Honda|Civic Type R (EK) Touring Car|115,400|
 |Honda|Integra Type R (DC2) '98|62,100|
 |Maserati|GranTurismo S '08|147,400|
-|Mazda|Eunos Roadster (NA) '89|26,500|
 |McLaren|MP4-12C '10|197,300|
 |Mitsubishi|Lancer Evolution IV GSR '96|44,200|
 |Mitsubishi|Lancer Evolution V GSR '98|77,500|
 |Nissan|R32 GT-R V-spec II '94|176,500|
 |Nissan|R34 GT-R V-spec II Nur '02|396,600|
-|Nissan|Silvia K's Aero (S14) '96|59,300|
-|Porsche|911 Turbo (930) '81|215,600|
+|Porsche|911 GT3 (997) '09|142,500|
 |RUF|CTR3 '07|801,800|
 |Renault|R4 GTL '85|24,100|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,600|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
 |Toyota|Supra 3.0GT Turbo A '88|115,900|
 |Volkswagen|Sambabus Typ 2 '62|57,100|
 |Volkswagen|Volkswagen 1200 '66|35,800|
