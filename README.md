@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 29-June-2024
+# Gran Turismo 7 Shops for 30-June-2024
 
 
 
@@ -36,7 +36,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|787B '91|3,300,000|
+|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
+|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -52,6 +53,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|F40 '92|3,100,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|Mazda|787B '91|3,300,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
 |Renault|R8 Gordini '66|32,500|
@@ -62,35 +64,36 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|DMC|DeLorean S2 '04|451,600|
-|Ferrari|Testarossa '91|372,000|
-|MINI|Mini-Cooper 'S' '65|40,600|
-|Nissan|180SX Type X '96|48,500|
+|Dodge|Viper SRT10 Coupe '06|115,000|
+|Honda|NSX Type R '92|398,700|
+|MINI|MINI Cooper S '05|21,900|
+|Porsche|911 Carrera RS CS (993) '95|409,500|
+|Porsche|911 GT3 (996) '01|155,500|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|Z8 '01|259,100|
-|Honda|Integra Type R (DC2) '98|62,100|
-|Lamborghini|Murcielago LP 640 '09|337,200|
+|Chevrolet|Corvette Convertible (C3) '69|50,900|
 |Mitsubishi|Lancer Evolution III GSR '95|100,000|
-|Nissan|R32 GT-R V-spec II '94|176,500|
-|RUF|CTR3 '07|801,800|
+|Pontiac|Firebird Trans Am '78|81,700|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
-|Toyota|Supra 3.0GT Turbo A '88|115,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|137,500|
-|Chevrolet|Corvette Convertible (C3) '69|50,900|
+|DMC|DeLorean S2 '04|451,600|
 |Daihatsu|Copen '02|13,000|
 |Ferrari|458 Italia '09|248,000|
+|Ferrari|Testarossa '91|372,000|
 |Honda|Civic Type R (EK) Touring Car|115,400|
+|MINI|Mini-Cooper 'S' '65|40,600|
 |Mazda|RX-7 GT-X (FC) '90|61,100|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|168,100|
+|Nissan|180SX Type X '96|48,500|
 |Nissan|Silvia K's Type S (S14) '94|53,900|
-|Pontiac|Firebird Trans Am '78|81,700|
 |Suzuki|Swift Sport '07|12,200|
 |Toyota|Celica GT-Four (ST205) '94|80,700|
 |Toyota|Sports 800 '65|48,100|
