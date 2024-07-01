@@ -27,33 +27,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 30-June-2024
+# Gran Turismo 7 Shops for 01-July-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
-|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
-|Pontiac|GTO 'The Judge' '69|268,000|
-|Toyota|2000GT '67|992,000|
+|AMG|300 SEL 6.8 AMG '71|700,000|
+|Jaguar|XJR-9 '88|3,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
+|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
 |Ferrari|F40 '92|3,100,000|
 |Ford|Mark IV Race Car '67|6,750,000|
-|Jaguar|XJR-9 '88|3,000,000|
 |Mazda|787B '91|3,300,000|
+|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
 |Renault|R8 Gordini '66|32,500|
@@ -64,21 +57,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Viper SRT10 Coupe '06|115,000|
-|Honda|NSX Type R '92|398,700|
-|MINI|MINI Cooper S '05|21,900|
-|Porsche|911 Carrera RS CS (993) '95|409,500|
-|Porsche|911 GT3 (996) '01|155,500|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,900|
+|Audi|TT Coupe 3.2 quattro '03|45,400|
+|Dodge|Viper GTS '02|105,600|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|99,700|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|62,300|
+|Renault|Clio V6 24V '00|82,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z8 '01|259,100|
 |Chevrolet|Corvette Convertible (C3) '69|50,900|
-|Mitsubishi|Lancer Evolution III GSR '95|100,000|
+|Honda|Civic Type R (EK) Touring Car|115,400|
 |Pontiac|Firebird Trans Am '78|81,700|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
+|Toyota|Celica GT-Four (ST205) '94|80,700|
+|Volkswagen|Golf I GTI '83|46,700|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -86,15 +78,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alpine|A110 '72|137,500|
 |DMC|DeLorean S2 '04|451,600|
 |Daihatsu|Copen '02|13,000|
+|Dodge|Viper SRT10 Coupe '06|115,000|
 |Ferrari|458 Italia '09|248,000|
 |Ferrari|Testarossa '91|372,000|
-|Honda|Civic Type R (EK) Touring Car|115,400|
+|Honda|NSX Type R '92|398,700|
+|MINI|MINI Cooper S '05|21,900|
 |MINI|Mini-Cooper 'S' '65|40,600|
 |Mazda|RX-7 GT-X (FC) '90|61,100|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|168,100|
 |Nissan|180SX Type X '96|48,500|
 |Nissan|Silvia K's Type S (S14) '94|53,900|
+|Porsche|911 Carrera RS CS (993) '95|409,500|
+|Porsche|911 GT3 (996) '01|155,500|
 |Suzuki|Swift Sport '07|12,200|
-|Toyota|Celica GT-Four (ST205) '94|80,700|
 |Toyota|Sports 800 '65|48,100|
-|Volkswagen|Golf I GTI '83|46,700|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,900|
