@@ -27,25 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 04-July-2024
+# Gran Turismo 7 Shops for 05-July-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
-|Mercedes-Benz|300 SL (W194) '52|20,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F40 '92|3,100,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
-|Renault|R8 Gordini '66|32,500|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -53,7 +45,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
 |Ferrari|GTO '84|3,500,000|
 |Ford|Mark IV Race Car '67|6,750,000|
+|Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
 |Mazda|787B '91|3,300,000|
+|Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Plymouth|Superbird '70|402,000|
 |Shelby|Cobra 427 '66|2,500,000|
@@ -64,27 +58,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|167,300|
-|Ferrari|512 BB '76|309,000|
-|Subaru|Impreza 22B-STi '98|177,300|
+|Chevrolet|Corvette Stingray (C3) '69|51,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|DMC|DeLorean S2 '04|451,600|
 |Ferrari|458 Italia '09|248,000|
 |Ferrari|Testarossa '91|372,000|
-|MINI|MINI Cooper S '05|21,900|
 |Mazda|RX-7 GT-X (FC) '90|61,100|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|168,100|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|62,300|
 |Nissan|Silvia K's Type S (S14) '94|53,900|
-|Suzuki|Swift Sport '07|12,200|
+|Toyota|Sports 800 '65|48,100|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|167,300|
 |Alfa Romeo|MiTo '09|22,400|
 |Alpine|A110 '72|137,500|
 |Audi|TT Coupe 3.2 quattro '03|45,400|
@@ -92,6 +82,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Daihatsu|Copen '02|13,000|
 |Dodge|Viper GTS '02|105,600|
 |Dodge|Viper SRT10 Coupe '06|115,000|
+|Ferrari|512 BB '76|309,000|
 |Fiat|500 F '68|17,800|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
 |Honda|NSX Type R '92|398,700|
@@ -101,4 +92,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Porsche|911 Carrera RS CS (993) '95|409,500|
 |Porsche|911 GT3 (996) '01|155,500|
 |Renault|Clio V6 24V '00|82,300|
-|Toyota|Sports 800 '65|48,100|
+|Subaru|Impreza 22B-STi '98|177,300|
