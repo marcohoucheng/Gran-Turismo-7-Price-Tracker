@@ -27,24 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 14-July-2024
+# Gran Turismo 7 Shops for 15-July-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Porsche|911 Carrera RS (901) '73|750,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|365 GTB4 '71|610,000|
 |Ford|GT40 Mark I '66|6,700,000|
-|Mercedes-Benz|300 SL (W194) '52|20,000,000|
-|Nissan|R92CP '92|2,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -59,6 +51,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
+|Porsche|911 Carrera RS (901) '73|750,000|
 |Shelby|G.T.350 '65|469,000|
 |Toyota|Supra GT500 '97|1,800,000|
 
@@ -68,17 +61,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|211,200|
-|Lancia|Stratos '73|495,800|
-|Nissan|Fairlady 240ZG (HS30) '71|98,500|
-|Nissan|Sileighty '98|72,400|
+|BMW|M3 '03|72,800|
+|Chevrolet|Corvette ZR-1 (C4) '89|86,100|
+|Dodge|Super Bee '70|71,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|Testarossa '91|450,000|
-|Ford|Ford GT '06|399,300|
-|Honda|Civic Type R (EK) '98|47,400|
+|Autobianchi|A112 Abarth '85|31,800|
+|BMW|M3 '07|69,900|
 |Honda|Integra Type R (DC2) '95|61,200|
 |Nissan|Silvia Q's (S13) '88|31,900|
 |Volkswagen|Scirocco R '10|42,000|
@@ -88,8 +79,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|57,000|
 |Audi|TTS Coupe '09|63,100|
-|Autobianchi|A112 Abarth '85|31,800|
-|BMW|M3 '07|69,900|
+|BMW|3.0 CSL '73|211,200|
 |BMW|M3 Sport Evolution '89|179,700|
 |Ferrari|308 GTB '75|166,400|
 |Ferrari|F430 '06|201,100|
@@ -99,8 +89,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|S800 '66|49,600|
 |Lamborghini|Diablo GT '00|789,300|
 |Lancia|Delta HF Integrale Evoluzione '91|101,900|
+|Lancia|Stratos '73|495,800|
 |Mitsubishi|Lancer Evolution III GSR '95|87,800|
+|Nissan|Fairlady 240ZG (HS30) '71|98,500|
 |Nissan|GT-R NISMO (R32) '90|390,000|
+|Nissan|Sileighty '98|72,400|
 |Porsche|911 Carrera RS (964) '92|226,500|
 |Porsche|911 Carrera RS (993) '95|260,000|
 |Renault|R5 Turbo '80|147,400|
