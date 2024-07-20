@@ -27,26 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-July-2024
+# Gran Turismo 7 Shops for 20-July-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|De Tomaso|Mangusta '69|315,000|
+|Jeep|Willys MB '45|30,100|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
-|Alpine|A220 Race Car '68|330,000|
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Dodge|Challenger R/T '70|214,000|
-|Ferrari|330 P4 '67|20,000,000|
-|Ferrari|F40 '92|3,100,000|
-|Honda|NSX GT500 '00|1,500,000|
-|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
-|Nissan|GT-R GT500 '99|2,500,000|
-|Shelby|G.T.350 '65|469,000|
-|Toyota|Supra GT500 '97|1,800,000|
+|Porsche|911 Carrera RS (901) '73|750,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -54,7 +50,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Camaro Z28 '69|133,000|
 |Honda|RA272 '65|2,500,000|
 |NISMO|400R '95|1,800,000|
-|Porsche|911 Carrera RS (901) '73|750,000|
+|Shelby|Cobra 427 '66|2,500,000|
 
 
 ## Used shop
@@ -62,38 +58,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|287,200|
-|Honda|Civic Type R (EK) '97|58,100|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
+|Chevrolet|Corvette ZR1 (C6) '09|98,400|
+|Mitsubishi|GTO Twin Turbo '91|40,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|308 GTB '75|166,400|
-|Ferrari|F430 '06|201,100|
-|Lancia|Delta HF Integrale Evoluzione '91|101,900|
-|Lancia|Stratos '73|495,800|
-|Mitsubishi|Lancer Evolution III GSR '95|87,800|
-|Nissan|GT-R NISMO (R32) '90|390,000|
-|Porsche|911 Carrera RS (993) '95|260,000|
+|BMW|3.0 CSL '71|141,500|
+|BMW|M3 '03|72,800|
+|BMW|M3 Sport Evolution '89|179,700|
+|Nissan|Fairlady 240ZG (HS30) '71|98,500|
+|Nissan|Silvia K's Type S (S14) '94|60,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|8C Competizione '08|287,200|
 |Audi|R8 4.2 '07|137,600|
-|BMW|3.0 CSL '71|141,500|
 |BMW|3.0 CSL '73|211,200|
-|BMW|M3 '03|72,800|
-|BMW|M3 Sport Evolution '89|179,700|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,100|
 |Dodge|Super Bee '70|71,900|
 |Ferrari|Dino 246 GT '71|343,900|
+|Fiat|500 1.2 8V Lounge SS '08|13,300|
 |Ford|Sierra RS 500 Cosworth '87|193,500|
+|Honda|Beat '91|16,800|
+|Honda|Civic Type R (EK) '97|58,100|
 |Honda|NSX Type R '02|431,600|
 |Honda|S2000 '99|100,100|
 |Lamborghini|Diablo GT '00|789,300|
 |Mazda|Eunos Roadster (NA) '89|26,500|
-|Nissan|Fairlady 240ZG (HS30) '71|98,500|
+|Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
+|Nissan|R33 GT-R V-spec '97|155,200|
 |Nissan|Sileighty '98|72,400|
-|Nissan|Silvia K's Type S (S14) '94|60,000|
+|Nissan|Silvia K's Dia Selection (S13) '90|49,700|
 |Subaru|Impreza Sedan WRX STi '04|47,100|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
+|Volkswagen|Volkswagen 1200 '66|35,800|
