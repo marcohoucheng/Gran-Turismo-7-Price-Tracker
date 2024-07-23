@@ -27,16 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 22-July-2024
+# Gran Turismo 7 Shops for 23-July-2024
 
 
 
 ## Legend shop
 
-### Leaving Soon
+### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|NISMO|400R '95|1,800,000|
+|McLaren|McLaren F1 '94|20,000,000|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -56,18 +57,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|SLR McLaren '09|493,500|
+|Chevrolet|Corvette Stingray (C3) '69|71,500|
+|Nissan|Silvia K's Aero (S14) '96|59,300|
+|Renault|R4 GTL '85|24,100|
+|Volkswagen|Sambabus Typ 2 '62|57,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '73|211,200|
-|Dodge|Super Bee '70|71,900|
-|Ferrari|Dino 246 GT '71|343,900|
 |Ford|Sierra RS 500 Cosworth '87|193,500|
+|Honda|Civic Type R (EK) '97|58,100|
 |Honda|NSX Type R '02|431,600|
-|Honda|S2000 '99|100,100|
-|Nissan|Sileighty '98|72,400|
 |Subaru|Impreza Sedan WRX STi '04|47,100|
 
 ### Available
@@ -80,10 +81,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette ZR1 (C6) '09|98,400|
 |Fiat|500 1.2 8V Lounge SS '08|13,300|
 |Honda|Beat '91|16,800|
-|Honda|Civic Type R (EK) '97|58,100|
 |Lamborghini|Diablo GT '00|789,300|
 |Mazda|Eunos Roadster (NA) '89|26,500|
 |Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
+|Mercedes-Benz|SLR McLaren '09|493,500|
 |Mitsubishi|GTO Twin Turbo '91|40,000|
 |Mitsubishi|Lancer Evolution V GSR '98|77,500|
 |Nissan|R33 GT-R V-spec '97|155,200|
