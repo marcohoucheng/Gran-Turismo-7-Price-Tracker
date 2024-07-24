@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 23-July-2024
+# Gran Turismo 7 Shops for 24-July-2024
 
 
 
@@ -36,18 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|McLaren|McLaren F1 '94|20,000,000|
-|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
+
+### Leaving Soon
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Chevrolet|Camaro Z28 '69|133,000|
+|De Tomaso|Mangusta '69|315,000|
+|Honda|RA272 '65|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,900,000|
-|Chevrolet|Camaro Z28 '69|133,000|
 |Citroen|DS 21 Pallas '70|47,600|
-|De Tomaso|Mangusta '69|315,000|
-|Honda|RA272 '65|2,500,000|
 |Jeep|Willys MB '45|30,100|
+|McLaren|McLaren F1 '94|20,000,000|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 |Porsche|Spyder type 550/1500RS '55|4,850,000|
 |Shelby|Cobra 427 '66|2,500,000|
 
@@ -57,38 +62,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Stingray (C3) '69|71,500|
-|Nissan|Silvia K's Aero (S14) '96|59,300|
-|Renault|R4 GTL '85|24,100|
-|Volkswagen|Sambabus Typ 2 '62|57,100|
+|Mitsubishi|Lancer Evolution IV GSR '96|44,200|
+|Nissan|R32 GT-R V-spec II '94|176,500|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,600|
+|Toyota|Supra 3.0GT Turbo A '88|115,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|211,200|
-|Ford|Sierra RS 500 Cosworth '87|193,500|
+|Alfa Romeo|8C Competizione '08|287,200|
 |Honda|Civic Type R (EK) '97|58,100|
-|Honda|NSX Type R '02|431,600|
-|Subaru|Impreza Sedan WRX STi '04|47,100|
+|Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
+|Mitsubishi|GTO Twin Turbo '91|40,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|22,100|
-|Alfa Romeo|8C Competizione '08|287,200|
 |Audi|R8 4.2 '07|137,600|
+|Chevrolet|Corvette Stingray (C3) '69|71,500|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,100|
 |Chevrolet|Corvette ZR1 (C6) '09|98,400|
 |Fiat|500 1.2 8V Lounge SS '08|13,300|
 |Honda|Beat '91|16,800|
 |Lamborghini|Diablo GT '00|789,300|
 |Mazda|Eunos Roadster (NA) '89|26,500|
-|Mazda|RX-7 Spirit R Type A (FD) '02|214,300|
 |Mercedes-Benz|SLR McLaren '09|493,500|
-|Mitsubishi|GTO Twin Turbo '91|40,000|
 |Mitsubishi|Lancer Evolution V GSR '98|77,500|
 |Nissan|R33 GT-R V-spec '97|155,200|
+|Nissan|Silvia K's Aero (S14) '96|59,300|
 |Nissan|Silvia K's Dia Selection (S13) '90|49,700|
 |Porsche|911 Turbo (930) '81|215,600|
+|Renault|R4 GTL '85|24,100|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
+|Volkswagen|Sambabus Typ 2 '62|57,100|
 |Volkswagen|Volkswagen 1200 '66|35,800|
