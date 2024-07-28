@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 27-July-2024
+# Gran Turismo 7 Shops for 28-July-2024
 
 
 
@@ -36,23 +36,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|NSX GT500 '00|1,500,000|
-|Jaguar|D-type '54|6,000,000|
-|Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
+|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,900,000|
-|Jeep|Willys MB '45|30,100|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 |Porsche|Spyder type 550/1500RS '55|4,850,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Honda|NSX GT500 '00|1,500,000|
+|Jaguar|D-type '54|6,000,000|
 |McLaren|McLaren F1 '94|20,000,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
-|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+|Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |Subaru|Impreza Rally Car '98|650,000|
 
 
@@ -61,22 +62,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|McLaren|MP4-12C '10|194,100|
-|Nissan|Skyline GTS-R (R31) '87|162,200|
-|Porsche|911 Carrera RS (993) '95|229,200|
+|Daihatsu|Copen '02|15,700|
+|Nissan|R34 GT-R V-spec II Nur '02|401,100|
+|Pontiac|Firebird Trans Am '78|87,900|
+|RUF|CTR3 '07|770,800|
+|Toyota|Sports 800 '65|46,300|
+|Volvo|240 SE Estate '93|47,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Stingray (C3) '69|71,500|
-|Chevrolet|Corvette ZR1 (C6) '09|98,400|
-|Mercedes-Benz|SLR McLaren '09|493,500|
-|Mitsubishi|Lancer Evolution V GSR '98|77,500|
+|Honda|Beat '91|16,800|
+|Mitsubishi|Lancer Evolution IV GSR '96|44,200|
+|Nissan|R32 GT-R V-spec II '94|176,500|
 |Nissan|Silvia K's Aero (S14) '96|59,300|
-|Porsche|911 Turbo (930) '81|215,600|
+|Renault|R4 GTL '85|24,100|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,600|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|97,800|
+|Toyota|Supra 3.0GT Turbo A '88|115,900|
 |Volkswagen|Sambabus Typ 2 '62|57,100|
-|Volkswagen|Volkswagen 1200 '66|35,800|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -85,15 +90,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 '97|74,600|
 |Ferrari|430 Scuderia '07|366,700|
 |Ford|Mustang Mach 1 '71|36,800|
-|Honda|Beat '91|16,800|
 |Honda|Civic SiR-II (EG) '93|52,500|
 |Honda|Integra Type R (DC2) '98|62,100|
 |Lamborghini|Countach 25th Anniversary '88|711,800|
 |Lamborghini|Gallardo LP 560-4 '08|253,100|
-|Mitsubishi|Lancer Evolution IV GSR '96|44,200|
-|Nissan|R32 GT-R V-spec II '94|176,500|
+|McLaren|MP4-12C '10|194,100|
 |Nissan|R33 GT-R V-spec '97|155,200|
-|Renault|R4 GTL '85|24,100|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,600|
+|Nissan|Skyline GTS-R (R31) '87|162,200|
+|Porsche|911 Carrera RS (993) '95|229,200|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
-|Toyota|Supra 3.0GT Turbo A '88|115,900|
