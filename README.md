@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 31-July-2024
+# Gran Turismo 7 Shops for 01-August-2024
 
 
 
@@ -36,12 +36,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|GT-R GT500 '99|2,500,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
+|Porsche|356 A/1500 GS Carrera '56|618,000|
+|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -55,6 +51,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Nissan|GT-R GT500 '99|2,500,000|
 |Subaru|Impreza Rally Car '98|650,000|
 
 
@@ -63,18 +60,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|142,200|
-|Dodge|Super Bee '70|61,100|
-|Ferrari|Dino 246 GT '71|338,000|
-|Mazda|RX-7 GT-X (FC) '90|53,800|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|174,200|
-|Nissan|Silvia K's Type S (S14) '94|51,400|
+|Honda|Civic Type R (EK) Touring Car|122,400|
+|Lamborghini|Murcielago LP 640 '09|318,700|
+|Porsche|911 GT3 (997) '09|140,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mustang Mach 1 '71|36,800|
 |Honda|Integra Type R (DC2) '98|62,100|
+|Pontiac|Firebird Trans Am '78|87,900|
 |Porsche|911 Carrera RS (993) '95|229,200|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
 
@@ -82,21 +76,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|310,900|
+|Alpine|A110 '72|142,200|
 |BMW|M3 '97|74,600|
 |BMW|Z8 '01|267,200|
 |Chevrolet|Corvette Convertible (C3) '69|58,200|
 |Daihatsu|Copen '02|15,700|
+|Dodge|Super Bee '70|61,100|
 |Ferrari|430 Scuderia '07|366,700|
+|Ferrari|Dino 246 GT '71|338,000|
 |Honda|Civic SiR-II (EG) '93|52,500|
 |Lamborghini|Gallardo LP 560-4 '08|253,100|
 |Lancia|Stratos '73|539,300|
 |Maserati|GranTurismo S '08|137,700|
+|Mazda|RX-7 GT-X (FC) '90|53,800|
 |McLaren|MP4-12C '10|194,100|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|174,200|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|70,000|
 |Nissan|R34 GT-R V-spec II Nur '02|401,100|
 |Nissan|Sileighty '98|81,600|
+|Nissan|Silvia K's Type S (S14) '94|51,400|
 |Nissan|Skyline GTS-R (R31) '87|162,200|
-|Pontiac|Firebird Trans Am '78|87,900|
 |RUF|CTR3 '07|770,800|
 |Suzuki|Swift Sport '07|11,800|
 |Toyota|Sports 800 '65|46,300|
