@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-August-2024
+# Gran Turismo 7 Shops for 02-August-2024
 
 
 
@@ -36,8 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|356 A/1500 GS Carrera '56|618,000|
-|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
+
+### Leaving Soon
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
+|Mercedes-Benz|S Barker Tourer '29|13,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -48,10 +53,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,350,000|
 |McLaren|McLaren F1 '94|20,000,000|
-|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
-|Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |Nissan|GT-R GT500 '99|2,500,000|
+|Porsche|356 A/1500 GS Carrera '56|618,000|
+|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
 |Subaru|Impreza Rally Car '98|650,000|
 
 
@@ -60,17 +65,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Type R (EK) Touring Car|122,400|
-|Lamborghini|Murcielago LP 640 '09|318,700|
-|Porsche|911 GT3 (997) '09|140,200|
+|Toyota|Celica GT-Four (ST205) '94|65,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Integra Type R (DC2) '98|62,100|
+|Honda|Civic SiR-II (EG) '93|52,500|
 |Pontiac|Firebird Trans Am '78|87,900|
-|Porsche|911 Carrera RS (993) '95|229,200|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|46,800|
+|Volvo|240 SE Estate '93|47,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -84,8 +86,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Dodge|Super Bee '70|61,100|
 |Ferrari|430 Scuderia '07|366,700|
 |Ferrari|Dino 246 GT '71|338,000|
-|Honda|Civic SiR-II (EG) '93|52,500|
+|Honda|Civic Type R (EK) Touring Car|122,400|
 |Lamborghini|Gallardo LP 560-4 '08|253,100|
+|Lamborghini|Murcielago LP 640 '09|318,700|
 |Lancia|Stratos '73|539,300|
 |Maserati|GranTurismo S '08|137,700|
 |Mazda|RX-7 GT-X (FC) '90|53,800|
@@ -96,8 +99,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Sileighty '98|81,600|
 |Nissan|Silvia K's Type S (S14) '94|51,400|
 |Nissan|Skyline GTS-R (R31) '87|162,200|
+|Porsche|911 GT3 (997) '09|140,200|
 |RUF|CTR3 '07|770,800|
 |Suzuki|Swift Sport '07|11,800|
 |Toyota|Sports 800 '65|46,300|
 |Volkswagen|Golf I GTI '83|40,500|
-|Volvo|240 SE Estate '93|47,000|
