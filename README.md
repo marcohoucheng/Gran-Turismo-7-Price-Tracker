@@ -27,20 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 02-August-2024
+# Gran Turismo 7 Shops for 03-August-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Honda|NSX GT500 '00|1,500,000|
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
 
@@ -48,7 +44,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Charger R/T 426 Hemi '68|158,000|
-|Honda|NSX GT500 '00|1,500,000|
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,350,000|
@@ -57,6 +52,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|GT-R GT500 '99|2,500,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
 |Subaru|Impreza Rally Car '98|650,000|
 
 
@@ -65,19 +61,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Toyota|Celica GT-Four (ST205) '94|65,100|
+|Ferrari|458 Italia '09|243,200|
+|MINI|Mini-Cooper 'S' '65|40,800|
+|Nissan|180SX Type X '96|48,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|SLS AMG '10|310,900|
 |Honda|Civic SiR-II (EG) '93|52,500|
-|Pontiac|Firebird Trans Am '78|87,900|
+|Lancia|Stratos '73|539,300|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|70,000|
+|Volkswagen|Golf I GTI '83|40,500|
 |Volvo|240 SE Estate '93|47,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|310,900|
 |Alpine|A110 '72|142,200|
 |BMW|M3 '97|74,600|
 |BMW|Z8 '01|267,200|
@@ -89,12 +89,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|Civic Type R (EK) Touring Car|122,400|
 |Lamborghini|Gallardo LP 560-4 '08|253,100|
 |Lamborghini|Murcielago LP 640 '09|318,700|
-|Lancia|Stratos '73|539,300|
 |Maserati|GranTurismo S '08|137,700|
 |Mazda|RX-7 GT-X (FC) '90|53,800|
 |McLaren|MP4-12C '10|194,100|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|174,200|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|70,000|
 |Nissan|R34 GT-R V-spec II Nur '02|401,100|
 |Nissan|Sileighty '98|81,600|
 |Nissan|Silvia K's Type S (S14) '94|51,400|
@@ -102,5 +100,5 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Porsche|911 GT3 (997) '09|140,200|
 |RUF|CTR3 '07|770,800|
 |Suzuki|Swift Sport '07|11,800|
+|Toyota|Celica GT-Four (ST205) '94|65,100|
 |Toyota|Sports 800 '65|46,300|
-|Volkswagen|Golf I GTI '83|40,500|
