@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-August-2024
+# Gran Turismo 7 Shops for 04-August-2024
 
 
 
@@ -37,8 +37,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Honda|NSX GT500 '00|1,500,000|
-|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
-|Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -48,7 +47,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,350,000|
 |McLaren|McLaren F1 '94|20,000,000|
-|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
@@ -61,19 +59,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|458 Italia '09|243,200|
-|MINI|Mini-Cooper 'S' '65|40,800|
-|Nissan|180SX Type X '96|48,900|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|51,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|310,900|
-|Honda|Civic SiR-II (EG) '93|52,500|
+|Chevrolet|Corvette Convertible (C3) '69|58,200|
+|Daihatsu|Copen '02|15,700|
+|Ferrari|Dino 246 GT '71|338,000|
 |Lancia|Stratos '73|539,300|
+|Maserati|GranTurismo S '08|137,700|
+|McLaren|MP4-12C '10|194,100|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|70,000|
+|Nissan|Skyline GTS-R (R31) '87|162,200|
 |Volkswagen|Golf I GTI '83|40,500|
-|Volvo|240 SE Estate '93|47,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -81,22 +81,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alpine|A110 '72|142,200|
 |BMW|M3 '97|74,600|
 |BMW|Z8 '01|267,200|
-|Chevrolet|Corvette Convertible (C3) '69|58,200|
-|Daihatsu|Copen '02|15,700|
 |Dodge|Super Bee '70|61,100|
 |Ferrari|430 Scuderia '07|366,700|
-|Ferrari|Dino 246 GT '71|338,000|
+|Ferrari|458 Italia '09|243,200|
 |Honda|Civic Type R (EK) Touring Car|122,400|
 |Lamborghini|Gallardo LP 560-4 '08|253,100|
 |Lamborghini|Murcielago LP 640 '09|318,700|
-|Maserati|GranTurismo S '08|137,700|
+|MINI|Mini-Cooper 'S' '65|40,800|
 |Mazda|RX-7 GT-X (FC) '90|53,800|
-|McLaren|MP4-12C '10|194,100|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|174,200|
+|Nissan|180SX Type X '96|48,900|
 |Nissan|R34 GT-R V-spec II Nur '02|401,100|
 |Nissan|Sileighty '98|81,600|
 |Nissan|Silvia K's Type S (S14) '94|51,400|
-|Nissan|Skyline GTS-R (R31) '87|162,200|
 |Porsche|911 GT3 (997) '09|140,200|
 |RUF|CTR3 '07|770,800|
 |Suzuki|Swift Sport '07|11,800|
