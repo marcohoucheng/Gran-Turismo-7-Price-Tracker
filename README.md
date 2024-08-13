@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 12-August-2024
+# Gran Turismo 7 Shops for 13-August-2024
 
 
 
@@ -36,13 +36,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Toyota|Supra GT500 '97|1,800,000|
+|Chevrolet|Corvette (C1) '58|119,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Fairlady Z 432 '69|312,000|
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -53,19 +52,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |McLaren|MP4/4 '88|12,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Porsche|Carrera GTS (904) '64|2,300,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
+|Toyota|Supra GT500 '97|1,800,000|
 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|De Tomaso|Pantera '71|170,400|
+|Mercedes-Benz|SLR McLaren '09|495,200|
+|Nissan|SILVIA spec-R Aero (S15) '02|59,900|
+|Volvo|240 SE Estate '93|50,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
+|Chevrolet|Corvette Stingray (C3) '69|63,100|
 |Ferrari|458 Italia '09|243,200|
-|Ferrari|Testarossa '91|392,500|
-|MINI|Mini-Cooper 'S' '65|40,800|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|52,500|
+|Honda|NSX Type R '92|398,200|
+|Porsche|911 Carrera RS CS (993) '95|413,800|
 |Toyota|Prius G '09|18,500|
 
 ### Available
@@ -77,16 +83,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|TT Coupe 3.2 quattro '03|42,100|
 |Autobianchi|A112 Abarth '85|29,800|
 |BMW|M3 '89|86,100|
-|Chevrolet|Corvette Stingray (C3) '69|63,100|
 |Chevrolet|Corvette ZR-1 (C4) '89|77,800|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Viper SRT10 Coupe '06|114,400|
 |Honda|Civic Type R (EK) '98|58,100|
 |Honda|Integra Type R (DC2) '95|62,300|
-|Honda|NSX Type R '92|398,200|
 |Honda|S800 '66|48,700|
 |Nissan|Silvia Q's (S13) '88|31,800|
-|Porsche|911 Carrera RS CS (993) '95|413,800|
 |Porsche|911 GT3 (996) '01|161,700|
 |Renault|Clio V6 24V '00|81,900|
 |Renault|R5 Turbo '80|151,900|
