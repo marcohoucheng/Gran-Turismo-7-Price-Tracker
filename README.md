@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 13-August-2024
+# Gran Turismo 7 Shops for 14-August-2024
 
 
 
@@ -36,20 +36,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C1) '58|119,000|
+|Jaguar|XJ220 '92|615,000|
+|Maserati|A6GCS/53 Spyder '54|2,500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Aston Martin|DB5 '64|892,000|
+|Ferrari|250 GT Berlinetta passo corto '61|8,100,000|
+|McLaren|MP4/4 '88|12,000,000|
 |Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
-|Ferrari|250 GT Berlinetta passo corto '61|8,100,000|
+|Chevrolet|Corvette (C1) '58|119,000|
 |Maserati|Merak SS '80|64,200|
-|McLaren|MP4/4 '88|12,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Porsche|Carrera GTS (904) '64|2,300,000|
 |Toyota|Supra GT500 '97|1,800,000|
@@ -60,38 +62,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|De Tomaso|Pantera '71|170,400|
-|Mercedes-Benz|SLR McLaren '09|495,200|
-|Nissan|SILVIA spec-R Aero (S15) '02|59,900|
-|Volvo|240 SE Estate '93|50,000|
+|Lancia|Delta HF Integrale Evoluzione '91|98,900|
+|Nissan|R33 GT-R V-spec '97|154,300|
+|Suzuki|Cappuccino (EA11R) '91|16,000|
+|Volkswagen|Scirocco R '10|37,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|MiTo '09|22,700|
+|Audi|TT Coupe 3.2 quattro '03|42,100|
 |Chevrolet|Corvette Stingray (C3) '69|63,100|
-|Ferrari|458 Italia '09|243,200|
+|Dodge|Viper SRT10 Coupe '06|114,400|
+|Honda|Civic Type R (EK) '98|58,100|
 |Honda|NSX Type R '92|398,200|
 |Porsche|911 Carrera RS CS (993) '95|413,800|
-|Toyota|Prius G '09|18,500|
+|Renault|Clio V6 24V '00|81,900|
+|Toyota|MR2 GT-S '97|53,600|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|58,200|
-|Alfa Romeo|MiTo '09|22,700|
 |Audi|R8 4.2 '07|135,900|
-|Audi|TT Coupe 3.2 quattro '03|42,100|
 |Autobianchi|A112 Abarth '85|29,800|
 |BMW|M3 '89|86,100|
 |Chevrolet|Corvette ZR-1 (C4) '89|77,800|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
-|Dodge|Viper SRT10 Coupe '06|114,400|
-|Honda|Civic Type R (EK) '98|58,100|
+|De Tomaso|Pantera '71|170,400|
 |Honda|Integra Type R (DC2) '95|62,300|
 |Honda|S800 '66|48,700|
+|Mercedes-Benz|SLR McLaren '09|495,200|
+|Nissan|SILVIA spec-R Aero (S15) '02|59,900|
 |Nissan|Silvia Q's (S13) '88|31,800|
 |Porsche|911 GT3 (996) '01|161,700|
-|Renault|Clio V6 24V '00|81,900|
 |Renault|R5 Turbo '80|151,900|
 |Subaru|Impreza 22B-STi '98|176,100|
-|Toyota|MR2 GT-S '97|53,600|
+|Volvo|240 SE Estate '93|50,000|
