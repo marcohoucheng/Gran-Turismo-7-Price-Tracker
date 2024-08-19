@@ -27,17 +27,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-August-2024
+# Gran Turismo 7 Shops for 19-August-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Plymouth|XNR Ghia Roadster '60|1,600,000|
+|Porsche|959 '87|1,950,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C1) '58|119,000|
-|Maserati|Merak SS '80|64,200|
 |Toyota|Supra GT500 '97|1,800,000|
 
 ### Available
@@ -56,20 +60,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Silvia K's Aero (S14) '96|59,900|
-|Toyota|Supra 3.0GT Turbo A '88|107,000|
-|Volkswagen|Volkswagen 1200 '66|28,800|
+|Alfa Romeo|8C Competizione '08|290,200|
+|Honda|Civic Type R (EK) '97|48,200|
+|Lamborghini|Countach 25th Anniversary '88|701,600|
+|Renault|R4 GTL '85|26,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette ZR-1 (C4) '89|77,800|
+|De Tomaso|Pantera '71|170,400|
 |Honda|Integra Type R (DC2) '95|62,300|
 |Honda|S800 '66|48,700|
-|Nissan|SILVIA spec-R Aero (S15) '02|59,900|
-|Renault|R5 Turbo '80|151,900|
 |Suzuki|Cappuccino (EA11R) '91|16,000|
-|Volvo|240 SE Estate '93|50,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -77,7 +79,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|R8 4.2 '07|135,900|
 |BMW|3.0 CSL '71|140,400|
 |BMW|M3 Sport Evolution '89|168,400|
-|De Tomaso|Pantera '71|170,400|
 |Ferrari|308 GTB '75|165,200|
 |Fiat|500 1.2 8V Lounge SS '08|12,900|
 |Honda|S2000 '99|106,000|
@@ -89,5 +90,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mitsubishi|Lancer Evolution IX MR GSR '06|91,400|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|R33 GT-R V-spec '97|154,300|
+|Nissan|Silvia K's Aero (S14) '96|59,900|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
+|Toyota|Supra 3.0GT Turbo A '88|107,000|
 |Volkswagen|Scirocco R '10|37,900|
+|Volkswagen|Volkswagen 1200 '66|28,800|
