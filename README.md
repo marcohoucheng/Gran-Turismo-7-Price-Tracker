@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 22-August-2024
+# Gran Turismo 7 Shops for 23-August-2024
 
 
 
@@ -36,30 +36,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Ferrari|F40 '92|3,100,000|
-|Honda|NSX GT500 '00|1,500,000|
-|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
-|Nissan|GT-R GT500 '99|2,500,000|
-|Toyota|Supra GT500 '97|1,800,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|F50 '95|4,450,000|
-|Jaguar|XJ220 '92|615,000|
-|Mazda|RX500 '70|600,000|
+|Ford|Mark IV Race Car '67|6,750,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Chevrolet|Corvette (C2) '63|239,000|
-|Ford|Mark IV Race Car '67|6,750,000|
+|Ferrari|F40 '92|3,100,000|
+|Honda|NSX GT500 '00|1,500,000|
+|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
+|Nissan|GT-R GT500 '99|2,500,000|
 |Plymouth|Superbird '70|402,000|
 |Plymouth|XNR Ghia Roadster '60|1,600,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|959 '87|1,950,000|
+|Toyota|Supra GT500 '97|1,800,000|
 
 
 ## Used shop
@@ -67,18 +66,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mitsubishi|GTO Twin Turbo '91|45,300|
-|Nissan|GT-R NISMO (R32) '90|386,600|
+|McLaren|MP4-12C '10|194,100|
+|RUF|CTR3 '07|770,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '71|140,400|
+|Ferrari|308 GTB '75|165,200|
+|Lamborghini|Countach 25th Anniversary '88|701,600|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
-|Mazda|RX-7 Spirit R Type A (FD) '02|216,300|
-|Mercedes-Benz|SLR McLaren '09|495,200|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Volkswagen|Scirocco R '10|37,900|
+|Mitsubishi|Lancer Evolution III GSR '95|91,100|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -86,15 +83,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 500 '09|22,200|
 |Alfa Romeo|8C Competizione '08|290,200|
 |BMW|M3 Sport Evolution '89|168,400|
-|Ferrari|308 GTB '75|165,200|
 |Fiat|500 1.2 8V Lounge SS '08|12,900|
 |Ford|Sierra RS 500 Cosworth '87|185,400|
 |Honda|Beat '91|14,400|
 |Honda|Civic Type R (EK) '97|48,200|
 |Honda|S2000 '99|106,000|
-|Lamborghini|Countach 25th Anniversary '88|701,600|
 |Lamborghini|Diablo GT '00|779,000|
-|Mitsubishi|Lancer Evolution III GSR '95|91,100|
+|Mitsubishi|GTO Twin Turbo '91|45,300|
+|Nissan|GT-R NISMO (R32) '90|386,600|
 |Nissan|R33 GT-R V-spec '97|154,300|
 |Nissan|Silvia K's Aero (S14) '96|59,900|
 |Nissan|Silvia K's Dia Selection (S13) '90|55,200|
