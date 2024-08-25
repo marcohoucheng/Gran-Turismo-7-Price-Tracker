@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-August-2024
+# Gran Turismo 7 Shops for 25-August-2024
 
 
 
@@ -36,14 +36,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|500 Mondial Pinin Farina Coupe '54|2,600,000|
-|Porsche|962 C '88|1,300,000|
+|Jaguar|E-type Coupe '61|227,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mark IV Race Car '67|6,750,000|
 |Plymouth|Superbird '70|402,000|
+|Plymouth|XNR Ghia Roadster '60|1,600,000|
+|Porsche|356 A/1500 GS Carrera '56|618,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -51,14 +51,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Chevrolet|Corvette (C2) '63|239,000|
+|Ferrari|500 Mondial Pinin Farina Coupe '54|2,600,000|
 |Ferrari|F40 '92|3,100,000|
 |Honda|NSX GT500 '00|1,500,000|
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Nissan|GT-R GT500 '99|2,500,000|
-|Plymouth|XNR Ghia Roadster '60|1,600,000|
-|Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|959 '87|1,950,000|
+|Porsche|962 C '88|1,300,000|
 |Toyota|Supra GT500 '97|1,800,000|
 
 
@@ -67,42 +67,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|310,900|
-|Mazda|Eunos Roadster (NA) '89|28,600|
-|Nissan|R34 GT-R V-spec II Nur '02|401,100|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
-|Volkswagen|Sambabus Typ 2 '62|67,400|
+|BMW|3.0 CSL '73|214,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|308 GTB '75|165,200|
+|Alfa Romeo|8C Competizione '08|290,200|
+|BMW|M3 Sport Evolution '89|168,400|
 |Fiat|500 1.2 8V Lounge SS '08|12,900|
+|Ford|Sierra RS 500 Cosworth '87|185,400|
 |Honda|Civic Type R (EK) '97|48,200|
-|Lamborghini|Countach 25th Anniversary '88|701,600|
-|Mitsubishi|Lancer Evolution III GSR '95|91,100|
+|Honda|S2000 '99|106,000|
+|Nissan|R33 GT-R V-spec '97|154,300|
 |TVR|Tuscan Speed 6 '00|95,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|SLS AMG '10|310,900|
 |Abarth|Abarth 500 '09|22,200|
-|Alfa Romeo|8C Competizione '08|290,200|
-|BMW|M3 Sport Evolution '89|168,400|
-|Ford|Sierra RS 500 Cosworth '87|185,400|
 |Honda|Beat '91|14,400|
-|Honda|S2000 '99|106,000|
 |Lamborghini|Diablo GT '00|779,000|
+|Mazda|Eunos Roadster (NA) '89|28,600|
 |McLaren|MP4-12C '10|194,100|
 |Mitsubishi|GTO Twin Turbo '91|45,300|
 |Nissan|GT-R NISMO (R32) '90|386,600|
-|Nissan|R33 GT-R V-spec '97|154,300|
+|Nissan|R34 GT-R V-spec II Nur '02|401,100|
 |Nissan|Silvia K's Aero (S14) '96|59,900|
 |Nissan|Silvia K's Dia Selection (S13) '90|55,200|
 |Porsche|911 Carrera RS (993) '95|229,200|
 |Porsche|911 Turbo (930) '81|220,000|
 |RUF|CTR3 '07|770,800|
 |Renault|R4 GTL '85|26,700|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
 |Toyota|Supra 3.0GT Turbo A '88|107,000|
+|Volkswagen|Sambabus Typ 2 '62|67,400|
 |Volkswagen|Volkswagen 1200 '66|28,800|
