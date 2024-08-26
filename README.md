@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 25-August-2024
+# Gran Turismo 7 Shops for 26-August-2024
 
 
 
@@ -36,24 +36,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|E-type Coupe '61|227,000|
+|Chevrolet|Chevelle SS 454 Sport Coupé '70|172,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Plymouth|Superbird '70|402,000|
+|Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Plymouth|XNR Ghia Roadster '60|1,600,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Chevrolet|Corvette (C2) '63|239,000|
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,600,000|
 |Ferrari|F40 '92|3,100,000|
 |Honda|NSX GT500 '00|1,500,000|
+|Jaguar|E-type Coupe '61|227,000|
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
@@ -67,25 +67,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|214,100|
+|BMW|Z8 '01|267,200|
+|Maserati|GranTurismo S '08|137,700|
+|Mitsubishi|Lancer Evolution V GSR '98|80,100|
+|Subaru|Impreza Sedan WRX STi '04|42,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|290,200|
 |BMW|M3 Sport Evolution '89|168,400|
-|Fiat|500 1.2 8V Lounge SS '08|12,900|
 |Ford|Sierra RS 500 Cosworth '87|185,400|
-|Honda|Civic Type R (EK) '97|48,200|
 |Honda|S2000 '99|106,000|
 |Nissan|R33 GT-R V-spec '97|154,300|
-|TVR|Tuscan Speed 6 '00|95,000|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
+|Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|310,900|
 |Abarth|Abarth 500 '09|22,200|
+|BMW|3.0 CSL '73|214,100|
 |Honda|Beat '91|14,400|
 |Lamborghini|Diablo GT '00|779,000|
 |Mazda|Eunos Roadster (NA) '89|28,600|
@@ -100,7 +103,5 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |RUF|CTR3 '07|770,800|
 |Renault|R4 GTL '85|26,700|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
 |Toyota|Supra 3.0GT Turbo A '88|107,000|
 |Volkswagen|Sambabus Typ 2 '62|67,400|
-|Volkswagen|Volkswagen 1200 '66|28,800|
