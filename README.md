@@ -27,21 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 29-August-2024
+# Gran Turismo 7 Shops for 30-August-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|330 P4 '67|20,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
+|Ferrari|500 Mondial Pinin Farina Coupe '54|2,600,000|
 |Ferrari|F40 '92|3,100,000|
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
@@ -53,7 +49,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chaparral|2J '70|2,500,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|172,000|
 |Chevrolet|Corvette (C2) '63|239,000|
-|Ferrari|500 Mondial Pinin Farina Coupe '54|2,600,000|
+|Ferrari|330 P4 '67|20,000,000|
 |Honda|NSX GT500 '00|1,500,000|
 |Jaguar|E-type Coupe '61|227,000|
 |Nissan|GT-R GT500 '99|2,500,000|
@@ -67,30 +63,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|458 Italia '09|243,200|
-|Volvo|240 SE Estate '93|47,000|
+|Ford|Mustang Mach 1 '71|40,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|310,900|
-|Abarth|Abarth 500 '09|22,200|
 |BMW|3.0 CSL '73|214,100|
+|Honda|Beat '91|14,400|
 |Lamborghini|Diablo GT '00|779,000|
-|Mitsubishi|GTO Twin Turbo '91|45,300|
 |Nissan|GT-R NISMO (R32) '90|386,600|
-|Nissan|Silvia K's Dia Selection (S13) '90|55,200|
 |Porsche|911 Carrera RS (993) '95|229,200|
-|Porsche|911 Turbo (930) '81|220,000|
 |Renault|R4 GTL '85|26,700|
-|Toyota|Supra 3.0GT Turbo A '88|107,000|
+|Subaru|Impreza Sedan WRX STi '04|42,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|Z8 '01|267,200|
+|Ferrari|458 Italia '09|243,200|
 |Ferrari|Dino 246 GT '71|400,000|
-|Honda|Beat '91|14,400|
 |Honda|Civic SiR-II (EG) '93|52,500|
 |Honda|Civic Type R (EK) Touring Car|122,400|
 |Honda|Integra Type R (DC2) '98|62,200|
@@ -105,6 +97,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Porsche|911 GT3 (997) '09|140,200|
 |RUF|CTR3 '07|770,800|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
-|Subaru|Impreza Sedan WRX STi '04|42,000|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|48,900|
 |Volkswagen|Sambabus Typ 2 '62|67,400|
+|Volvo|240 SE Estate '93|47,000|
