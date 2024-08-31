@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 30-August-2024
+# Gran Turismo 7 Shops for 31-August-2024
 
 
 
@@ -36,12 +36,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,600,000|
-|Ferrari|F40 '92|3,100,000|
-|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|959 '87|1,950,000|
+|Honda|NSX GT500 '00|1,500,000|
+|Nissan|GT-R GT500 '99|2,500,000|
+|Toyota|Supra GT500 '97|1,800,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -50,12 +48,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|172,000|
 |Chevrolet|Corvette (C2) '63|239,000|
 |Ferrari|330 P4 '67|20,000,000|
-|Honda|NSX GT500 '00|1,500,000|
 |Jaguar|E-type Coupe '61|227,000|
-|Nissan|GT-R GT500 '99|2,500,000|
 |Porsche|917K '70|18,000,000|
 |Porsche|962 C '88|1,300,000|
-|Toyota|Supra GT500 '97|1,800,000|
 
 
 ## Used shop
@@ -63,18 +58,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mustang Mach 1 '71|40,800|
+|Chevrolet|Corvette Convertible (C3) '69|58,200|
+|Nissan|Sileighty '98|81,600|
+|Nissan|Skyline GTS-R (R31) '87|162,200|
+|Pontiac|Firebird Trans Am '78|87,900|
+|Toyota|Sports 800 '65|46,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|310,900|
-|BMW|3.0 CSL '73|214,100|
+|Ferrari|Dino 246 GT '71|400,000|
 |Honda|Beat '91|14,400|
-|Lamborghini|Diablo GT '00|779,000|
-|Nissan|GT-R NISMO (R32) '90|386,600|
-|Porsche|911 Carrera RS (993) '95|229,200|
-|Renault|R4 GTL '85|26,700|
+|Mazda|Eunos Roadster (NA) '89|28,600|
+|McLaren|MP4-12C '10|194,100|
 |Subaru|Impreza Sedan WRX STi '04|42,000|
 
 ### Available
@@ -82,14 +78,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |BMW|Z8 '01|267,200|
 |Ferrari|458 Italia '09|243,200|
-|Ferrari|Dino 246 GT '71|400,000|
+|Ford|Mustang Mach 1 '71|40,800|
 |Honda|Civic SiR-II (EG) '93|52,500|
 |Honda|Civic Type R (EK) Touring Car|122,400|
 |Honda|Integra Type R (DC2) '98|62,200|
 |Lamborghini|Murcielago LP 640 '09|318,700|
 |Maserati|GranTurismo S '08|137,700|
-|Mazda|Eunos Roadster (NA) '89|28,600|
-|McLaren|MP4-12C '10|194,100|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,600|
 |Mitsubishi|Lancer Evolution V GSR '98|80,100|
 |Nissan|R32 GT-R V-spec II '94|178,600|
