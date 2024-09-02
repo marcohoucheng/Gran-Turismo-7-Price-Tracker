@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-September-2024
+# Gran Turismo 7 Shops for 02-September-2024
 
 
 
@@ -36,25 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|1932 Ford Roadster Hot Rod|400,000|
-|McLaren|McLaren F1 '94|20,000,000|
+|Aston Martin|DB3S '53|6,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Chevelle SS 454 Sport Coupé '70|172,000|
 |Chevrolet|Corvette (C2) '63|239,000|
-|Honda|NSX GT500 '00|1,500,000|
-|Nissan|GT-R GT500 '99|2,500,000|
+|Jaguar|E-type Coupe '61|227,000|
 |Porsche|962 C '88|1,300,000|
-|Toyota|Supra GT500 '97|1,800,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chaparral|2J '70|2,500,000|
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|172,000|
 |Ferrari|330 P4 '67|20,000,000|
-|Jaguar|E-type Coupe '61|227,000|
+|Ford|1932 Ford Roadster Hot Rod|400,000|
+|McLaren|McLaren F1 '94|20,000,000|
 |Porsche|917K '70|18,000,000|
 
 
@@ -63,28 +61,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Daihatsu|Copen '02|15,700|
-|Ferrari|Testarossa '91|392,500|
-|Suzuki|Swift Sport '07|11,800|
+|Lancia|Stratos '73|539,300|
+|Volkswagen|Golf I GTI '83|40,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|Dino 246 GT '71|400,000|
 |Lamborghini|Murcielago LP 640 '09|318,700|
 |Maserati|GranTurismo S '08|137,700|
-|Mazda|Eunos Roadster (NA) '89|28,600|
-|McLaren|MP4-12C '10|194,100|
 |Nissan|R34 GT-R V-spec II Nur '02|401,100|
 |Porsche|911 GT3 (997) '09|140,200|
 |RUF|CTR3 '07|770,800|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|48,900|
+|Volkswagen|Sambabus Typ 2 '62|67,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|Z8 '01|267,200|
 |Chevrolet|Corvette Convertible (C3) '69|58,200|
+|Daihatsu|Copen '02|15,700|
 |Ferrari|458 Italia '09|243,200|
+|Ferrari|Testarossa '91|392,500|
 |Ford|Mustang Mach 1 '71|40,800|
 |Honda|Civic SiR-II (EG) '93|52,500|
 |Honda|Civic Type R (EK) Touring Car|122,400|
@@ -96,7 +94,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Skyline GTS-R (R31) '87|162,200|
 |Pontiac|Firebird Trans Am '78|87,900|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|48,900|
+|Suzuki|Swift Sport '07|11,800|
 |Toyota|Sports 800 '65|46,300|
-|Volkswagen|Sambabus Typ 2 '62|67,400|
 |Volvo|240 SE Estate '93|47,000|
