@@ -27,27 +27,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-September-2024
+# Gran Turismo 7 Shops for 04-September-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|De Tomaso|Mangusta (Christian Dior)|500,000|
+|Ferrari|365 GTB4 '71|610,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|172,000|
-|Jaguar|E-type Coupe '61|227,000|
+|Chaparral|2J '70|2,500,000|
 |Porsche|917K '70|18,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB3S '53|6,000,000|
-|Chaparral|2J '70|2,500,000|
 |Ferrari|330 P4 '67|20,000,000|
 |Ford|1932 Ford Roadster Hot Rod|400,000|
 |McLaren|McLaren F1 '94|20,000,000|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 
 
 ## Used shop
@@ -55,36 +60,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|142,200|
-|Porsche|911 Carrera RS CS (993) '95|413,800|
+|Audi|R8 4.2 '07|135,900|
+|Chevrolet|Corvette ZR1 (C6) '09|99,000|
+|Dodge|Viper SRT10 Coupe '06|114,400|
+|Honda|NSX Type R '92|398,200|
+|Porsche|911 GT3 (996) '01|161,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|Z8 '01|267,200|
+|Ford|Mustang Mach 1 '71|40,800|
 |Honda|Civic SiR-II (EG) '93|52,500|
 |Honda|Integra Type R (DC2) '98|62,200|
 |Mitsubishi|Lancer Evolution V GSR '98|80,100|
+|Pontiac|Firebird Trans Am '78|87,900|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|48,900|
-|Volkswagen|Sambabus Typ 2 '62|67,400|
 |Volvo|240 SE Estate '93|47,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alpine|A110 '72|142,200|
 |Chevrolet|Corvette Convertible (C3) '69|58,200|
 |Daihatsu|Copen '02|15,700|
 |Ferrari|458 Italia '09|243,200|
 |Ferrari|Testarossa '91|392,500|
-|Ford|Mustang Mach 1 '71|40,800|
 |Honda|Civic Type R (EK) Touring Car|122,400|
 |Lancia|Stratos '73|539,300|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,600|
 |Nissan|R32 GT-R V-spec II '94|178,600|
 |Nissan|Sileighty '98|81,600|
+|Nissan|Silvia K's Dia Selection (S13) '90|65,000|
 |Nissan|Skyline GTS-R (R31) '87|162,200|
-|Pontiac|Firebird Trans Am '78|87,900|
+|Porsche|911 Carrera RS CS (993) '95|413,800|
 |Suzuki|Swift Sport '07|11,800|
 |Toyota|Sports 800 '65|46,300|
 |Volkswagen|Golf I GTI '83|40,500|
