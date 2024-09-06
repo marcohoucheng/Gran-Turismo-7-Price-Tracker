@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-September-2024
+# Gran Turismo 7 Shops for 06-September-2024
 
 
 
@@ -36,23 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
+|Mercedes-Benz|CLK-LM '98|8,500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chaparral|2J '70|2,500,000|
+|Ferrari|330 P4 '67|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Aston Martin|DB3S '53|6,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|330 P4 '67|20,000,000|
 |Ferrari|365 GTB4 '71|610,000|
 |Ford|1932 Ford Roadster Hot Rod|400,000|
 |McLaren|McLaren F1 '94|20,000,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 
 
@@ -61,36 +61,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|MINI|Mini-Cooper 'S' '65|40,800|
-|Nissan|Silvia K's Type S (S14) '94|51,400|
+|Alfa Romeo|MiTo '09|22,700|
+|Chevrolet|Corvette ZR-1 (C4) '89|77,800|
+|Dodge|Super Bee '70|61,100|
+|Ferrari|Dino 246 GT '71|338,000|
+|Mazda|RX-7 GT-X (FC) '90|53,800|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|51,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mustang Mach 1 '71|40,800|
+|Chevrolet|Corvette Convertible (C3) '69|58,200|
+|Ferrari|Testarossa '91|392,500|
 |Honda|Civic Type R (EK) Touring Car|122,400|
-|Pontiac|Firebird Trans Am '78|87,900|
+|Lancia|Stratos '73|539,300|
+|Volkswagen|Golf I GTI '83|40,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|142,200|
 |Audi|R8 4.2 '07|135,900|
-|Chevrolet|Corvette Convertible (C3) '69|58,200|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Daihatsu|Copen '02|15,700|
 |Dodge|Viper SRT10 Coupe '06|114,400|
 |Ferrari|458 Italia '09|243,200|
-|Ferrari|Testarossa '91|392,500|
 |Honda|NSX Type R '92|398,200|
-|Lancia|Stratos '73|539,300|
+|MINI|Mini-Cooper 'S' '65|40,800|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,600|
 |Nissan|R32 GT-R V-spec II '94|178,600|
 |Nissan|Sileighty '98|81,600|
 |Nissan|Silvia K's Dia Selection (S13) '90|65,000|
+|Nissan|Silvia K's Type S (S14) '94|51,400|
 |Nissan|Skyline GTS-R (R31) '87|162,200|
 |Porsche|911 Carrera RS CS (993) '95|413,800|
 |Porsche|911 GT3 (996) '01|161,700|
 |Suzuki|Swift Sport '07|11,800|
 |Toyota|Sports 800 '65|46,300|
-|Volkswagen|Golf I GTI '83|40,500|
