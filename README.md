@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-September-2024
+# Gran Turismo 7 Shops for 10-September-2024
 
 
 
@@ -36,12 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Peugeot|205 Turbo 16 Evolution 2 '86|1,100,000|
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB3S '53|6,000,000|
+|Ferrari|365 GTB4 '71|610,000|
 |McLaren|McLaren F1 '94|20,000,000|
 
 ### Available
@@ -50,9 +51,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|365 GTB4 '71|610,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
+|Peugeot|205 Turbo 16 Evolution 2 '86|1,100,000|
 
 
 ## Used shop
@@ -60,37 +61,37 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
-|Nissan|180SX Type X '96|48,900|
-|Nissan|R33 GT-R V-spec '97|154,300|
-|Toyota|Celica GT-Four (ST205) '94|65,100|
+|DMC|DeLorean S2 '04|472,300|
+|MINI|MINI Cooper S '05|24,100|
+|Mazda|RX-7 Spirit R Type A (FD) '02|216,300|
+|Renault|Clio V6 24V '00|81,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|142,200|
-|Daihatsu|Copen '02|15,700|
-|Nissan|Skyline GTS-R (R31) '87|162,200|
+|Dodge|Viper SRT10 Coupe '06|114,400|
+|Ferrari|Dino 246 GT '71|338,000|
+|Fiat|500 F '68|15,500|
+|Honda|NSX Type R '92|398,200|
 |Porsche|911 Carrera RS CS (993) '95|413,800|
-|Suzuki|Swift Sport '07|11,800|
-|Toyota|Sports 800 '65|46,300|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|51,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
 |Alfa Romeo|MiTo '09|22,700|
 |Audi|R8 4.2 '07|135,900|
 |Chevrolet|Corvette ZR-1 (C4) '89|77,800|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Super Bee '70|61,100|
-|Dodge|Viper SRT10 Coupe '06|114,400|
-|Ferrari|Dino 246 GT '71|338,000|
-|Fiat|500 F '68|15,500|
-|Honda|NSX Type R '92|398,200|
 |MINI|Mini-Cooper 'S' '65|40,800|
 |Mazda|RX-7 GT-X (FC) '90|53,800|
 |Mercedes-Benz|SLR McLaren '09|495,200|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|174,200|
+|Nissan|180SX Type X '96|48,900|
+|Nissan|R33 GT-R V-spec '97|154,300|
 |Nissan|Silvia K's Type S (S14) '94|51,400|
 |Porsche|911 GT3 (996) '01|161,700|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|51,900|
+|Toyota|Celica GT-Four (ST205) '94|65,100|
