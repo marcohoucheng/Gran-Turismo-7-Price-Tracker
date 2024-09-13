@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 12-September-2024
+# Gran Turismo 7 Shops for 13-September-2024
 
 
 
@@ -36,14 +36,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mustang Boss 429 '69|346,000|
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -51,8 +51,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
+|Ford|Mustang Boss 429 '69|346,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,100,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
 
 ## Used shop
@@ -60,16 +61,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Diablo GT '00|779,000|
-|Renault|R5 Turbo '80|151,900|
+|Abarth|Abarth 595 SS '70|58,200|
+|Honda|S800 '66|48,700|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|91,400|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|52,500|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Corvette ZR-1 (C4) '89|77,800|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Super Bee '70|61,100|
+|MINI|MINI Cooper S '05|24,100|
+|MINI|Mini-Cooper 'S' '65|40,800|
+|Mazda|RX-7 GT-X (FC) '90|53,800|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|174,200|
 |Nissan|180SX Type X '96|48,900|
-|Nissan|Silvia K's Type S (S14) '94|51,400|
 |Porsche|911 GT3 (996) '01|161,700|
 |Toyota|Celica GT-Four (ST205) '94|65,100|
 
@@ -80,16 +88,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|MiTo '09|22,700|
 |Audi|R8 4.2 '07|135,900|
 |Audi|TT Coupe 3.2 quattro '03|42,100|
-|Chevrolet|Corvette ZR-1 (C4) '89|77,800|
 |DMC|DeLorean S2 '04|472,300|
 |Honda|Civic Type R (EK) '98|58,100|
-|MINI|MINI Cooper S '05|24,100|
-|MINI|Mini-Cooper 'S' '65|40,800|
-|Mazda|RX-7 GT-X (FC) '90|53,800|
+|Lamborghini|Diablo GT '00|779,000|
 |Mazda|RX-7 Spirit R Type A (FD) '02|216,300|
 |Mercedes-Benz|SLR McLaren '09|495,200|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|174,200|
 |Nissan|R33 GT-R V-spec '97|154,300|
 |Nissan|Silvia Q's (S13) '88|31,800|
 |Renault|Clio V6 24V '00|81,900|
+|Renault|R5 Turbo '80|151,900|
 |Toyota|Prius G '09|18,500|
