@@ -27,11 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 14-September-2024
+# Gran Turismo 7 Shops for 15-September-2024
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ferrari|250 GTO '62|20,000,000|
+|Jaguar|XJ13 '66|12,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -39,7 +45,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |Chevrolet|Corvette (C2) '63|239,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -58,27 +63,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|29,800|
+|Alfa Romeo|8C Competizione '08|290,200|
+|BMW|M3 '89|86,100|
+|Chevrolet|Corvette Stingray (C3) '69|63,100|
+|Lamborghini|Countach 25th Anniversary '88|701,600|
+|Subaru|Impreza 22B-STi '98|176,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
-|Chevrolet|Corvette ZR-1 (C4) '89|77,800|
+|Alfa Romeo|MiTo '09|22,700|
+|Audi|R8 4.2 '07|135,900|
 |DMC|DeLorean S2 '04|472,300|
-|MINI|MINI Cooper S '05|24,100|
-|MINI|Mini-Cooper 'S' '65|40,800|
-|Mazda|RX-7 GT-X (FC) '90|53,800|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|174,200|
 |Pontiac|Firebird Trans Am '78|110,000|
+|Toyota|Prius G '09|18,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|58,200|
-|Alfa Romeo|MiTo '09|22,700|
-|Audi|R8 4.2 '07|135,900|
 |Audi|TT Coupe 3.2 quattro '03|42,100|
+|Autobianchi|A112 Abarth '85|29,800|
 |Honda|Civic Type R (EK) '98|58,100|
 |Honda|S800 '66|48,700|
 |Lamborghini|Diablo GT '00|779,000|
@@ -90,5 +96,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Silvia Q's (S13) '88|31,800|
 |Renault|Clio V6 24V '00|81,900|
 |Renault|R5 Turbo '80|151,900|
-|Toyota|Prius G '09|18,500|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
