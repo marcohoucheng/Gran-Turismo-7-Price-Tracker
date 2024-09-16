@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-September-2024
+# Gran Turismo 7 Shops for 16-September-2024
 
 
 
@@ -36,21 +36,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|250 GTO '62|20,000,000|
-|Jaguar|XJ13 '66|12,000,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
-|Chevrolet|Corvette (C2) '63|239,000|
+|Chevrolet|Corvette (C1) '58|119,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
+|Ferrari|250 GTO '62|20,000,000|
 |Ford|Mustang Boss 429 '69|346,000|
+|Jaguar|XJ13 '66|12,000,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,100,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
@@ -63,37 +57,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|290,200|
-|BMW|M3 '89|86,100|
-|Chevrolet|Corvette Stingray (C3) '69|63,100|
-|Lamborghini|Countach 25th Anniversary '88|701,600|
-|Subaru|Impreza 22B-STi '98|176,100|
+|De Tomaso|Pantera '71|170,400|
+|Honda|Integra Type R (DC2) '95|62,300|
+|Lancia|Delta HF Integrale Evoluzione '91|98,900|
+|Porsche|911 Carrera RS (993) '95|229,200|
+|Toyota|MR2 GT-S '97|53,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
 |Alfa Romeo|MiTo '09|22,700|
 |Audi|R8 4.2 '07|135,900|
-|DMC|DeLorean S2 '04|472,300|
-|Pontiac|Firebird Trans Am '78|110,000|
+|Mazda|RX-7 Spirit R Type A (FD) '02|216,300|
+|Mercedes-Benz|SLR McLaren '09|495,200|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|52,500|
 |Toyota|Prius G '09|18,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|58,200|
+|Alfa Romeo|8C Competizione '08|290,200|
 |Audi|TT Coupe 3.2 quattro '03|42,100|
 |Autobianchi|A112 Abarth '85|29,800|
+|BMW|M3 '89|86,100|
+|Chevrolet|Corvette Stingray (C3) '69|63,100|
 |Honda|Civic Type R (EK) '98|58,100|
 |Honda|S800 '66|48,700|
+|Lamborghini|Countach 25th Anniversary '88|701,600|
 |Lamborghini|Diablo GT '00|779,000|
-|Mazda|RX-7 Spirit R Type A (FD) '02|216,300|
-|Mercedes-Benz|SLR McLaren '09|495,200|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|91,400|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|52,500|
 |Nissan|R33 GT-R V-spec '97|154,300|
 |Nissan|Silvia Q's (S13) '88|31,800|
 |Renault|Clio V6 24V '00|81,900|
 |Renault|R5 Turbo '80|151,900|
+|Subaru|Impreza 22B-STi '98|176,100|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
