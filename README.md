@@ -27,11 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 19-September-2024
+# Gran Turismo 7 Shops for 20-September-2024
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Pontiac|GTO 'The Judge' '69|268,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -59,39 +64,41 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|R34 GT-R V-spec II Nur '02|401,100|
-|RUF|CTR3 '07|770,800|
-|Volkswagen|Scirocco R '10|37,900|
+|AMG|SLS AMG '10|310,900|
+|BMW|M3 Sport Evolution '89|168,400|
+|Fiat|500 1.2 8V Lounge SS '08|12,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|42,100|
+|Abarth|Abarth 595 SS '70|58,200|
 |Autobianchi|A112 Abarth '85|29,800|
 |Chevrolet|Corvette Stingray (C3) '69|63,100|
+|Honda|S800 '66|48,700|
 |Lamborghini|Countach 25th Anniversary '88|701,600|
 |Lamborghini|Diablo GT '00|779,000|
+|Nissan|R33 GT-R V-spec '97|154,300|
 |Nissan|Silvia Q's (S13) '88|31,800|
+|Porsche|911 Carrera RS (993) '95|229,200|
+|Renault|R5 Turbo '80|151,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|58,200|
 |Alfa Romeo|8C Competizione '08|290,200|
 |BMW|3.0 CSL '71|140,400|
 |BMW|M3 '89|86,100|
 |De Tomaso|Pantera '71|170,400|
 |Ferrari|512 BB '76|350,000|
 |Honda|Integra Type R (DC2) '95|62,300|
-|Honda|S800 '66|48,700|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |McLaren|MP4-12C '10|194,100|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Nissan|R33 GT-R V-spec '97|154,300|
+|Nissan|R34 GT-R V-spec II Nur '02|401,100|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,900|
-|Porsche|911 Carrera RS (993) '95|229,200|
-|Renault|R5 Turbo '80|151,900|
+|RUF|CTR3 '07|770,800|
 |Subaru|Impreza 22B-STi '98|176,100|
 |Suzuki|Cappuccino (EA11R) '91|16,000|
 |Toyota|MR2 GT-S '97|53,600|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
+|Volkswagen|Scirocco R '10|37,900|
