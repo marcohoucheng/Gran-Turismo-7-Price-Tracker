@@ -27,36 +27,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-September-2024
+# Gran Turismo 7 Shops for 21-September-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Pontiac|GTO 'The Judge' '69|268,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Ford|Mustang Boss 429 '69|346,000|
-|Porsche|356 A/1500 GS Carrera '56|618,000|
-|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
+|Aston Martin|DB5 '64|892,000|
+|Ferrari|250 GTO '62|20,000,000|
+|Jaguar|XJ13 '66|12,000,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
 |Chevrolet|Corvette (C1) '58|119,000|
-|Ferrari|250 GTO '62|20,000,000|
-|Jaguar|XJ13 '66|12,000,000|
 |Jaguar|XJR-9 '88|3,000,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
+|Pontiac|GTO 'The Judge' '69|268,000|
 |Toyota|2000GT '67|992,000|
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
 
 ## Used shop
@@ -64,41 +56,37 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|310,900|
-|BMW|M3 Sport Evolution '89|168,400|
-|Fiat|500 1.2 8V Lounge SS '08|12,900|
+|Ferrari|308 GTB '75|165,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|58,200|
-|Autobianchi|A112 Abarth '85|29,800|
-|Chevrolet|Corvette Stingray (C3) '69|63,100|
+|Alfa Romeo|8C Competizione '08|290,200|
+|Ferrari|512 BB '76|350,000|
 |Honda|S800 '66|48,700|
-|Lamborghini|Countach 25th Anniversary '88|701,600|
-|Lamborghini|Diablo GT '00|779,000|
 |Nissan|R33 GT-R V-spec '97|154,300|
-|Nissan|Silvia Q's (S13) '88|31,800|
+|Nissan|SILVIA spec-R Aero (S15) '02|59,900|
 |Porsche|911 Carrera RS (993) '95|229,200|
 |Renault|R5 Turbo '80|151,900|
+|Subaru|Impreza 22B-STi '98|176,100|
+|Suzuki|Cappuccino (EA11R) '91|16,000|
+|Toyota|MR2 GT-S '97|53,600|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|290,200|
+|AMG|SLS AMG '10|310,900|
 |BMW|3.0 CSL '71|140,400|
 |BMW|M3 '89|86,100|
+|BMW|M3 Sport Evolution '89|168,400|
 |De Tomaso|Pantera '71|170,400|
-|Ferrari|512 BB '76|350,000|
+|Fiat|500 1.2 8V Lounge SS '08|12,900|
 |Honda|Integra Type R (DC2) '95|62,300|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |McLaren|MP4-12C '10|194,100|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|R34 GT-R V-spec II Nur '02|401,100|
-|Nissan|SILVIA spec-R Aero (S15) '02|59,900|
 |RUF|CTR3 '07|770,800|
-|Subaru|Impreza 22B-STi '98|176,100|
-|Suzuki|Cappuccino (EA11R) '91|16,000|
-|Toyota|MR2 GT-S '97|53,600|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
 |Volkswagen|Scirocco R '10|37,900|
