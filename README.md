@@ -27,16 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-September-2024
+# Gran Turismo 7 Shops for 22-September-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|AMG|300 SEL 6.8 AMG '71|700,000|
+|Ferrari|F40 '92|3,100,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB5 '64|892,000|
+|Chevrolet|Corvette (C1) '58|119,000|
 |Ferrari|250 GTO '62|20,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
@@ -45,7 +52,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C1) '58|119,000|
 |Jaguar|XJR-9 '88|3,000,000|
 |Pontiac|GTO 'The Judge' '69|268,000|
 |Toyota|2000GT '67|992,000|
@@ -56,31 +62,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|308 GTB '75|165,200|
+|BMW|Z8 '01|267,200|
+|Maserati|GranTurismo S '08|137,700|
+|Mitsubishi|Lancer Evolution III GSR '95|91,100|
+|Renault|R4 GTL '85|26,700|
+|Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|58,200|
 |Alfa Romeo|8C Competizione '08|290,200|
+|BMW|3.0 CSL '71|140,400|
+|BMW|M3 '89|86,100|
+|De Tomaso|Pantera '71|170,400|
 |Ferrari|512 BB '76|350,000|
-|Honda|S800 '66|48,700|
-|Nissan|R33 GT-R V-spec '97|154,300|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,900|
-|Porsche|911 Carrera RS (993) '95|229,200|
-|Renault|R5 Turbo '80|151,900|
 |Subaru|Impreza 22B-STi '98|176,100|
 |Suzuki|Cappuccino (EA11R) '91|16,000|
 |Toyota|MR2 GT-S '97|53,600|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|310,900|
-|BMW|3.0 CSL '71|140,400|
-|BMW|M3 '89|86,100|
 |BMW|M3 Sport Evolution '89|168,400|
-|De Tomaso|Pantera '71|170,400|
+|Ferrari|308 GTB '75|165,200|
 |Fiat|500 1.2 8V Lounge SS '08|12,900|
 |Honda|Integra Type R (DC2) '95|62,300|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
@@ -88,5 +95,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|R34 GT-R V-spec II Nur '02|401,100|
 |RUF|CTR3 '07|770,800|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
 |Volkswagen|Scirocco R '10|37,900|
