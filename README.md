@@ -27,16 +27,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 23-September-2024
+# Gran Turismo 7 Shops for 24-September-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
+|Ford|Mark IV Race Car '67|6,750,000|
+|Mazda|787B '91|3,300,000|
+|NISMO|400R '95|1,800,000|
+|Renault|R8 Gordini '66|32,500|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C1) '58|119,000|
+|Toyota|2000GT '67|992,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -45,7 +54,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|F40 '92|3,100,000|
 |Jaguar|XJR-9 '88|3,000,000|
 |Pontiac|GTO 'The Judge' '69|268,000|
-|Toyota|2000GT '67|992,000|
 
 
 ## Used shop
@@ -53,35 +61,37 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|22,200|
-|Honda|Beat '91|14,400|
-|Honda|Civic Type R (EK) '97|48,200|
-|Honda|Civic Type R (EK) Touring Car|122,400|
-|Porsche|911 GT3 (997) '09|140,200|
+|Honda|S2000 '99|106,000|
+|Lamborghini|Murcielago LP 640 '09|318,700|
+|Mitsubishi|Lancer Evolution IV GSR '96|55,000|
+|Nissan|Silvia K's Aero (S14) '96|59,900|
+|Nissan|Silvia K's Dia Selection (S13) '90|55,200|
+|Toyota|Supra 3.0GT Turbo A '88|107,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '71|140,400|
-|BMW|M3 '89|86,100|
-|De Tomaso|Pantera '71|170,400|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|106,700|
+|Honda|Integra Type R (DC2) '95|62,300|
+|Lancia|Delta HF Integrale Evoluzione '91|98,900|
+|Nissan|Fairlady 240ZG (HS30) '71|106,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|310,900|
+|Abarth|Abarth 500 '09|22,200|
 |BMW|M3 Sport Evolution '89|168,400|
 |BMW|Z8 '01|267,200|
 |Ferrari|308 GTB '75|165,200|
 |Fiat|500 1.2 8V Lounge SS '08|12,900|
-|Honda|Integra Type R (DC2) '95|62,300|
-|Lancia|Delta HF Integrale Evoluzione '91|98,900|
+|Honda|Beat '91|14,400|
+|Honda|Civic Type R (EK) '97|48,200|
+|Honda|Civic Type R (EK) Touring Car|122,400|
 |Maserati|GranTurismo S '08|137,700|
 |McLaren|MP4-12C '10|194,100|
 |Mitsubishi|Lancer Evolution III GSR '95|91,100|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|R34 GT-R V-spec II Nur '02|401,100|
+|Porsche|911 GT3 (997) '09|140,200|
 |RUF|CTR3 '07|770,800|
 |Renault|R4 GTL '85|26,700|
 |Volkswagen|Scirocco R '10|37,900|
