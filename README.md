@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-September-2024
+# Gran Turismo 7 Shops for 25-September-2024
 
 
 
@@ -36,11 +36,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
-|Ford|Mark IV Race Car '67|6,750,000|
-|Mazda|787B '91|3,300,000|
-|NISMO|400R '95|1,800,000|
-|Renault|R8 Gordini '66|32,500|
+|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -51,9 +47,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|300 SEL 6.8 AMG '71|700,000|
+|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
 |Ferrari|F40 '92|3,100,000|
+|Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|Mazda|787B '91|3,300,000|
+|NISMO|400R '95|1,800,000|
 |Pontiac|GTO 'The Judge' '69|268,000|
+|Renault|R8 Gordini '66|32,500|
 
 
 ## Used shop
@@ -63,7 +64,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Honda|S2000 '99|106,000|
 |Lamborghini|Murcielago LP 640 '09|318,700|
-|Mitsubishi|Lancer Evolution IV GSR '96|55,000|
 |Nissan|Silvia K's Aero (S14) '96|59,900|
 |Nissan|Silvia K's Dia Selection (S13) '90|55,200|
 |Toyota|Supra 3.0GT Turbo A '88|107,000|
@@ -90,6 +90,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Maserati|GranTurismo S '08|137,700|
 |McLaren|MP4-12C '10|194,100|
 |Mitsubishi|Lancer Evolution III GSR '95|91,100|
+|Mitsubishi|Lancer Evolution IV GSR '96|55,000|
 |Nissan|R34 GT-R V-spec II Nur '02|401,100|
 |Porsche|911 GT3 (997) '09|140,200|
 |RUF|CTR3 '07|770,800|
