@@ -27,11 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 26-September-2024
+# Gran Turismo 7 Shops for 27-September-2024
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Plymouth|Superbird '70|402,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -54,11 +59,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|BMW|3.0 CSL '73|214,100|
+|Mitsubishi|GTO Twin Turbo '91|45,300|
+|Volkswagen|Sambabus Typ 2 '62|67,400|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|310,900|
+|Ferrari|308 GTB '75|165,200|
+|Fiat|500 1.2 8V Lounge SS '08|12,900|
 |McLaren|MP4-12C '10|194,100|
+|Nissan|R34 GT-R V-spec II Nur '02|401,100|
+|Porsche|911 GT3 (997) '09|140,200|
 |Volkswagen|Scirocco R '10|37,900|
 
 ### Available
@@ -67,9 +82,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 500 '09|22,200|
 |BMW|M3 Sport Evolution '89|168,400|
 |BMW|Z8 '01|267,200|
-|Ferrari|308 GTB '75|165,200|
 |Ferrari|458 Italia '09|243,200|
-|Fiat|500 1.2 8V Lounge SS '08|12,900|
 |Ford|Sierra RS 500 Cosworth '87|185,400|
 |Honda|Beat '91|14,400|
 |Honda|Civic Type R (EK) '97|48,200|
@@ -80,10 +93,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mazda|Eunos Roadster (NA) '89|28,600|
 |Mitsubishi|Lancer Evolution III GSR '95|91,100|
 |Mitsubishi|Lancer Evolution IV GSR '96|55,000|
-|Nissan|R34 GT-R V-spec II Nur '02|401,100|
 |Nissan|Silvia K's Aero (S14) '96|59,900|
 |Nissan|Silvia K's Dia Selection (S13) '90|55,200|
-|Porsche|911 GT3 (997) '09|140,200|
 |Porsche|911 Turbo (930) '81|220,000|
 |RUF|CTR3 '07|770,800|
 |Renault|R4 GTL '85|26,700|
