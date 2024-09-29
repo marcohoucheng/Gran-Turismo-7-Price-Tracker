@@ -27,28 +27,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 28-September-2024
+# Gran Turismo 7 Shops for 29-September-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ferrari|GTO '84|3,500,000|
+|Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|300 SEL 6.8 AMG '71|700,000|
+|Ferrari|F40 '92|3,100,000|
 |NISMO|400R '95|1,800,000|
+|Renault|R8 Gordini '66|32,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
-|Ferrari|F40 '92|3,100,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Mazda|787B '91|3,300,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Plymouth|Superbird '70|402,000|
-|Renault|R8 Gordini '66|32,500|
 
 
 ## Used shop
@@ -56,20 +62,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|Testarossa '91|392,500|
+|Porsche|911 Carrera RS CS (993) '95|413,800|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|308 GTB '75|165,200|
-|Fiat|500 1.2 8V Lounge SS '08|12,900|
+|BMW|M3 Sport Evolution '89|168,400|
+|Ford|Sierra RS 500 Cosworth '87|185,400|
 |Honda|Civic Type R (EK) '97|48,200|
 |Lamborghini|Murcielago LP 640 '09|318,700|
 |Maserati|GranTurismo S '08|137,700|
 |Mitsubishi|Lancer Evolution III GSR '95|91,100|
 |Mitsubishi|Lancer Evolution IV GSR '96|55,000|
-|Nissan|R34 GT-R V-spec II Nur '02|401,100|
-|Porsche|911 GT3 (997) '09|140,200|
 |RUF|CTR3 '07|770,800|
 
 ### Available
@@ -77,10 +82,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|22,200|
 |BMW|3.0 CSL '73|214,100|
-|BMW|M3 Sport Evolution '89|168,400|
 |BMW|Z8 '01|267,200|
 |Ferrari|458 Italia '09|243,200|
-|Ford|Sierra RS 500 Cosworth '87|185,400|
+|Ferrari|Testarossa '91|392,500|
 |Honda|Beat '91|14,400|
 |Honda|Civic Type R (EK) Touring Car|122,400|
 |Honda|S2000 '99|106,000|
