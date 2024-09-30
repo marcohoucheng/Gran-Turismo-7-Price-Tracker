@@ -27,31 +27,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 29-September-2024
+# Gran Turismo 7 Shops for 30-September-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|GTO '84|3,500,000|
-|Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
 |Ferrari|F40 '92|3,100,000|
-|NISMO|400R '95|1,800,000|
 |Renault|R8 Gordini '66|32,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
+|Ferrari|GTO '84|3,500,000|
 |Ford|Mark IV Race Car '67|6,750,000|
+|Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
 |Mazda|787B '91|3,300,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Plymouth|Superbird '70|402,000|
@@ -62,27 +56,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|911 Carrera RS CS (993) '95|413,800|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
+|Honda|NSX Type R '92|398,200|
+|Mitsubishi|Lancer Evolution V GSR '98|80,100|
+|Porsche|911 GT3 (996) '01|161,700|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|48,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 500 '09|22,200|
 |BMW|M3 Sport Evolution '89|168,400|
+|BMW|Z8 '01|267,200|
 |Ford|Sierra RS 500 Cosworth '87|185,400|
-|Honda|Civic Type R (EK) '97|48,200|
-|Lamborghini|Murcielago LP 640 '09|318,700|
-|Maserati|GranTurismo S '08|137,700|
-|Mitsubishi|Lancer Evolution III GSR '95|91,100|
-|Mitsubishi|Lancer Evolution IV GSR '96|55,000|
-|RUF|CTR3 '07|770,800|
+|Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|22,200|
 |BMW|3.0 CSL '73|214,100|
-|BMW|Z8 '01|267,200|
 |Ferrari|458 Italia '09|243,200|
 |Ferrari|Testarossa '91|392,500|
 |Honda|Beat '91|14,400|
@@ -92,8 +83,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mitsubishi|GTO Twin Turbo '91|45,300|
 |Nissan|Silvia K's Aero (S14) '96|59,900|
 |Nissan|Silvia K's Dia Selection (S13) '90|55,200|
+|Porsche|911 Carrera RS CS (993) '95|413,800|
 |Porsche|911 Turbo (930) '81|220,000|
 |Renault|R4 GTL '85|26,700|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
 |Toyota|Supra 3.0GT Turbo A '88|107,000|
 |Volkswagen|Sambabus Typ 2 '62|67,400|
-|Volkswagen|Volkswagen 1200 '66|28,800|
