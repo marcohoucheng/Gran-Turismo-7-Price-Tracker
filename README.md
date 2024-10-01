@@ -27,17 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 30-September-2024
+# Gran Turismo 7 Shops for 01-October-2024
 
 
 
 ## Legend shop
 
-### Leaving Soon
+### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F40 '92|3,100,000|
-|Renault|R8 Gordini '66|32,500|
+|Alfa Romeo|155 2.5 V6 TI '93|800,000|
+|Mercedes-Benz|300 SL (W194) '52|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -56,36 +56,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|NSX Type R '92|398,200|
-|Mitsubishi|Lancer Evolution V GSR '98|80,100|
-|Porsche|911 GT3 (996) '01|161,700|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|48,900|
+|Audi|R8 4.2 '07|135,900|
+|Chevrolet|Corvette ZR1 (C6) '09|99,000|
+|Dodge|Viper SRT10 Coupe '06|114,400|
+|Honda|Civic SiR-II (EG) '93|52,500|
+|Nissan|Silvia Q's (S13) '88|40,000|
+|Subaru|Impreza Sedan WRX STi '04|42,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|22,200|
-|BMW|M3 Sport Evolution '89|168,400|
+|BMW|3.0 CSL '73|214,100|
 |BMW|Z8 '01|267,200|
-|Ford|Sierra RS 500 Cosworth '87|185,400|
+|Nissan|Silvia K's Dia Selection (S13) '90|55,200|
 |Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|214,100|
 |Ferrari|458 Italia '09|243,200|
 |Ferrari|Testarossa '91|392,500|
 |Honda|Beat '91|14,400|
 |Honda|Civic Type R (EK) Touring Car|122,400|
+|Honda|NSX Type R '92|398,200|
 |Honda|S2000 '99|106,000|
 |Mazda|Eunos Roadster (NA) '89|28,600|
 |Mitsubishi|GTO Twin Turbo '91|45,300|
+|Mitsubishi|Lancer Evolution V GSR '98|80,100|
 |Nissan|Silvia K's Aero (S14) '96|59,900|
-|Nissan|Silvia K's Dia Selection (S13) '90|55,200|
 |Porsche|911 Carrera RS CS (993) '95|413,800|
+|Porsche|911 GT3 (996) '01|161,700|
 |Porsche|911 Turbo (930) '81|220,000|
 |Renault|R4 GTL '85|26,700|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|48,900|
 |Toyota|Supra 3.0GT Turbo A '88|107,000|
 |Volkswagen|Sambabus Typ 2 '62|67,400|
