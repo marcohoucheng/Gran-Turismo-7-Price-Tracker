@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-October-2024
+# Gran Turismo 7 Shops for 04-October-2024
 
 
 
@@ -38,8 +38,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
 |Ford|Mark IV Race Car '67|6,750,000|
-|Mazda|787B '91|3,300,000|
-|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
+|Plymouth|Superbird '70|402,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -48,9 +47,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|GTO '84|3,500,000|
 |Ford|GT40 Mark I '66|6,700,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Nissan|R92CP '92|2,000,000|
-|Plymouth|Superbird '70|402,000|
 
 
 ## Used shop
@@ -58,40 +57,41 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette ZR-1 (C4) '89|77,800|
-|Toyota|Sports 800 '65|46,300|
-|Volvo|240 SE Estate '93|47,000|
+|Fiat|500 1.2 8V Lounge SS '08|14,100|
+|Honda|Civic Type R (EK) '97|53,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|458 Italia '09|243,200|
 |Ferrari|Testarossa '91|392,500|
 |Honda|Beat '91|14,400|
-|Honda|Civic Type R (EK) Touring Car|122,400|
-|Honda|S2000 '99|106,000|
-|Mazda|Eunos Roadster (NA) '89|28,600|
+|Honda|Civic SiR-II (EG) '93|52,500|
 |Mitsubishi|GTO Twin Turbo '91|45,300|
 |Nissan|Silvia K's Aero (S14) '96|59,900|
 |Porsche|911 Turbo (930) '81|220,000|
-|Renault|R4 GTL '85|26,700|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|48,900|
+|Toyota|Supra 3.0GT Turbo A '88|107,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|R8 4.2 '07|135,900|
+|BMW|M3 Sport Evolution '89|200,000|
+|Chevrolet|Corvette ZR-1 (C4) '89|77,800|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Viper SRT10 Coupe '06|114,400|
-|Ferrari|458 Italia '09|243,200|
-|Honda|Civic SiR-II (EG) '93|52,500|
+|Ford|Sierra RS 500 Cosworth '87|200,000|
 |Honda|NSX Type R '92|398,200|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,600|
 |Mitsubishi|Lancer Evolution V GSR '98|80,100|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,800|
 |Nissan|R32 GT-R V-spec II '94|178,600|
 |Nissan|Silvia Q's (S13) '88|40,000|
 |Porsche|911 Carrera RS CS (993) '95|413,800|
 |Porsche|911 GT3 (996) '01|161,700|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
 |Subaru|Impreza Sedan WRX STi '04|42,000|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|48,900|
-|Toyota|Supra 3.0GT Turbo A '88|107,000|
+|Toyota|Sports 800 '65|46,300|
 |Volkswagen|Sambabus Typ 2 '62|67,400|
+|Volvo|240 SE Estate '93|47,000|
