@@ -27,26 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 04-October-2024
+# Gran Turismo 7 Shops for 05-October-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Dodge|Challenger R/T '70|214,000|
+|Subaru|Impreza Rally Car '98|650,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
-|Ford|Mark IV Race Car '67|6,750,000|
+|Ferrari|GTO '84|3,500,000|
+|Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
 |Plymouth|Superbird '70|402,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
-|Ferrari|GTO '84|3,500,000|
 |Ford|GT40 Mark I '66|6,700,000|
-|Lamborghini|Miura P400 Bertone Prototype '67|3,750,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Nissan|R92CP '92|2,000,000|
@@ -57,19 +61,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Fiat|500 1.2 8V Lounge SS '08|14,100|
-|Honda|Civic Type R (EK) '97|53,600|
+|BMW|M3 '97|85,500|
+|Daihatsu|Copen '02|15,700|
+|Lamborghini|Gallardo LP 560-4 '08|243,800|
+|Pontiac|Firebird Trans Am '78|87,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|458 Italia '09|243,200|
-|Ferrari|Testarossa '91|392,500|
-|Honda|Beat '91|14,400|
 |Honda|Civic SiR-II (EG) '93|52,500|
-|Mitsubishi|GTO Twin Turbo '91|45,300|
-|Nissan|Silvia K's Aero (S14) '96|59,900|
-|Porsche|911 Turbo (930) '81|220,000|
+|Porsche|911 Carrera RS CS (993) '95|413,800|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|48,900|
 |Toyota|Supra 3.0GT Turbo A '88|107,000|
 
@@ -81,16 +84,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette ZR-1 (C4) '89|77,800|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Viper SRT10 Coupe '06|114,400|
+|Fiat|500 1.2 8V Lounge SS '08|14,400|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
+|Honda|Civic Type R (EK) '97|50,200|
 |Honda|NSX Type R '92|398,200|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,600|
 |Mitsubishi|Lancer Evolution V GSR '98|80,100|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|65,800|
 |Nissan|R32 GT-R V-spec II '94|178,600|
 |Nissan|Silvia Q's (S13) '88|40,000|
-|Porsche|911 Carrera RS CS (993) '95|413,800|
 |Porsche|911 GT3 (996) '01|161,700|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|55,000|
 |Subaru|Impreza Sedan WRX STi '04|42,000|
 |Toyota|Sports 800 '65|46,300|
 |Volkswagen|Sambabus Typ 2 '62|67,400|
