@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 07-October-2024
+# Gran Turismo 7 Shops for 08-October-2024
 
 
 
@@ -36,13 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Shelby|G.T.350 '65|469,000|
+|Alpine|A220 Race Car '68|330,000|
+|Ferrari|330 P4 '67|20,000,000|
+|Ferrari|F50 '95|4,450,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|GT40 Mark I '66|6,700,000|
-|Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Nissan|R92CP '92|2,000,000|
 
 ### Available
@@ -53,6 +53,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Dodge|Challenger R/T '70|214,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
+|Shelby|G.T.350 '65|469,000|
 |Subaru|Impreza Rally Car '98|650,000|
 
 
@@ -61,10 +62,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|138,100|
-|Chevrolet|Corvette Convertible (C3) '69|51,900|
-|Lamborghini|Murcielago LP 640 '09|321,600|
-|Volkswagen|Golf I GTI '83|45,700|
+|Mitsubishi|GTO Twin Turbo '91|55,000|
+|Nissan|Fairlady Z (Z34) '08|34,900|
+|Nissan|Sileighty '98|79,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -72,32 +72,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|R8 4.2 '07|135,900|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Viper SRT10 Coupe '06|114,400|
-|Honda|NSX Type R '92|398,200|
-|Mitsubishi|Lancer Evolution V GSR '98|80,100|
-|Porsche|911 GT3 (996) '01|161,700|
+|Mitsubishi|Lancer Evolution IV GSR '96|39,600|
+|Nissan|R32 GT-R V-spec II '94|178,600|
 |Subaru|Impreza Sedan WRX STi '04|42,000|
-|Volkswagen|Sambabus Typ 2 '62|67,400|
+|Volvo|240 SE Estate '93|47,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '97|75,300|
+|Alpine|A110 '72|142,200|
+|BMW|M3 '97|85,500|
 |BMW|M3 Sport Evolution '89|200,000|
+|Chevrolet|Corvette Convertible (C3) '69|51,000|
 |Chevrolet|Corvette ZR-1 (C4) '89|77,800|
-|Daihatsu|Copen '02|14,300|
-|Fiat|500 1.2 8V Lounge SS '08|14,100|
-|Ford|Mustang Mach 1 '71|42,300|
+|Daihatsu|Copen '02|15,700|
+|Fiat|500 1.2 8V Lounge SS '08|14,400|
+|Ford|Mustang Mach 1 '71|41,500|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
-|Honda|Civic Type R (EK) '97|53,600|
-|Honda|Integra Type R (DC2) '98|59,100|
-|Lamborghini|Gallardo LP 560-4 '08|258,500|
-|Mitsubishi|Lancer Evolution IV GSR '96|39,600|
+|Honda|Civic Type R (EK) '97|50,200|
+|Honda|Integra Type R (DC2) '98|58,000|
+|Lamborghini|Gallardo LP 560-4 '08|243,800|
+|Lamborghini|Murcielago LP 640 '09|322,500|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|65,800|
-|Nissan|R32 GT-R V-spec II '94|178,600|
 |Nissan|Silvia Q's (S13) '88|40,000|
-|Nissan|Skyline GTS-R (R31) '87|167,300|
-|Pontiac|Firebird Trans Am '78|86,300|
-|Porsche|911 GT3 (997) '09|143,800|
-|Suzuki|Swift Sport '07|12,300|
+|Nissan|Skyline GTS-R (R31) '87|172,400|
+|Pontiac|Firebird Trans Am '78|87,900|
+|Porsche|911 GT3 (997) '09|141,900|
+|Suzuki|Swift Sport '07|11,800|
 |Toyota|Sports 800 '65|46,300|
-|Volvo|240 SE Estate '93|47,000|
+|Volkswagen|Golf I GTI '83|40,500|
