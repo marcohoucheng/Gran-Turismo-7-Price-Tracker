@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 13-October-2024
+# Gran Turismo 7 Shops for 14-October-2024
 
 
 
@@ -40,17 +40,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alpine|A220 Race Car '68|330,000|
 |Dodge|Challenger R/T '70|214,000|
 |Ferrari|330 P4 '67|20,000,000|
-|Ferrari|F50 '95|4,450,000|
-|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
-|Subaru|Impreza Rally Car '98|650,000|
+|NISMO|400R '95|1,800,000|
+|Shelby|G.T.350 '65|469,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Jeep|Willys MB '45|30,100|
-|NISMO|400R '95|1,800,000|
 |Porsche|911 Carrera RS (901) '73|750,000|
-|Shelby|G.T.350 '65|469,000|
 
 
 ## Used shop
@@ -58,22 +55,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|GT-R NISMO (R32) '90|393,800|
-|TVR|Tuscan Speed 6 '00|70,100|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
+|BMW|M3 '07|70,200|
+|Fiat|500 F '68|15,500|
+|Nissan|Silvia Q's (S13) '88|31,800|
+|Porsche|911 Carrera RS (964) '92|220,000|
+|Toyota|Celica GT-Four (ST205) '94|67,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|142,200|
 |Chevrolet|Corvette Convertible (C3) '69|53,000|
-|Daihatsu|Copen '02|15,700|
 |Ferrari|512 BB '76|288,600|
-|Honda|Integra Type R (DC2) '98|61,200|
+|Ford|Ford GT '06|397,100|
 |Lancia|Stratos '73|499,300|
-|Mitsubishi|GTO Twin Turbo '91|55,000|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|65,800|
-|Nissan|Fairlady Z (Z34) '08|33,000|
+|Nissan|Skyline GTS-R (R31) '87|179,600|
 |Suzuki|Swift Sport '07|11,800|
+|Toyota|Supra RZ '97|194,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -82,7 +82,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Dodge|Super Bee '70|63,200|
 |Ferrari|Dino 246 GT '71|333,900|
 |Ferrari|F430 '06|207,400|
-|Ford|Ford GT '06|397,100|
 |MINI|Mini-Cooper 'S' '65|40,800|
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Mazda|RX-7 GT-X (FC) '90|58,900|
@@ -91,8 +90,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mitsubishi|Lancer Evolution V GSR '98|90,000|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|200,000|
 |Nissan|Fairlady Z Version S (Z33) '07|30,800|
+|Nissan|GT-R NISMO (R32) '90|393,800|
 |Nissan|Sileighty '98|89,700|
 |Nissan|Silvia K's Type S (S14) '94|51,400|
-|Nissan|Skyline GTS-R (R31) '87|179,600|
+|TVR|Tuscan Speed 6 '00|70,100|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|51,900|
-|Toyota|Supra RZ '97|194,000|
