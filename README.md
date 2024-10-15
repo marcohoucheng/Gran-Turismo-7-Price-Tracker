@@ -27,27 +27,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 14-October-2024
+# Gran Turismo 7 Shops for 15-October-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Citroen|DS 21 Pallas '70|47,600|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
-|Alpine|A220 Race Car '68|330,000|
-|Dodge|Challenger R/T '70|214,000|
-|Ferrari|330 P4 '67|20,000,000|
 |NISMO|400R '95|1,800,000|
+|Porsche|911 Carrera RS (901) '73|750,000|
 |Shelby|G.T.350 '65|469,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Jeep|Willys MB '45|30,100|
-|Porsche|911 Carrera RS (901) '73|750,000|
 
 
 ## Used shop
@@ -55,33 +57,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
-|BMW|M3 '07|70,200|
-|Fiat|500 F '68|15,500|
-|Nissan|Silvia Q's (S13) '88|31,800|
-|Porsche|911 Carrera RS (964) '92|220,000|
-|Toyota|Celica GT-Four (ST205) '94|67,700|
+|Audi|TTS Coupe '09|67,600|
+|Nissan|180SX Type X '96|58,400|
+|Toyota|Prius G '09|18,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|142,200|
-|Chevrolet|Corvette Convertible (C3) '69|53,000|
-|Ferrari|512 BB '76|288,600|
+|Ferrari|Dino 246 GT '71|333,900|
 |Ford|Ford GT '06|397,100|
-|Lancia|Stratos '73|499,300|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,800|
+|Nissan|Fairlady Z Version S (Z33) '07|30,800|
+|Nissan|Sileighty '98|89,700|
+|Nissan|Silvia K's Type S (S14) '94|51,400|
 |Nissan|Skyline GTS-R (R31) '87|179,600|
-|Suzuki|Swift Sport '07|11,800|
 |Toyota|Supra RZ '97|194,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
 |Alfa Romeo|MiTo '09|22,700|
+|BMW|M3 '07|70,200|
 |Dodge|Super Bee '70|63,200|
-|Ferrari|Dino 246 GT '71|333,900|
 |Ferrari|F430 '06|207,400|
+|Fiat|500 F '68|15,500|
 |MINI|Mini-Cooper 'S' '65|40,800|
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Mazda|RX-7 GT-X (FC) '90|58,900|
@@ -89,9 +88,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mitsubishi|Lancer Evolution IV GSR '96|55,000|
 |Mitsubishi|Lancer Evolution V GSR '98|90,000|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|200,000|
-|Nissan|Fairlady Z Version S (Z33) '07|30,800|
 |Nissan|GT-R NISMO (R32) '90|393,800|
-|Nissan|Sileighty '98|89,700|
-|Nissan|Silvia K's Type S (S14) '94|51,400|
+|Nissan|Silvia Q's (S13) '88|31,800|
+|Porsche|911 Carrera RS (964) '92|220,000|
 |TVR|Tuscan Speed 6 '00|70,100|
+|Toyota|Celica GT-Four (ST205) '94|67,700|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|51,900|
