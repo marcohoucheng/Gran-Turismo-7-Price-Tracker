@@ -27,11 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 19-October-2024
+# Gran Turismo 7 Shops for 20-October-2024
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Honda|NSX GT500 '00|1,500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -57,21 +62,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '89|86,100|
-|Honda|S800 '66|48,700|
+|Autobianchi|A112 Abarth '85|29,800|
+|Subaru|Impreza 22B-STi '98|178,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
-|Ferrari|F430 '06|207,400|
+|Audi|TTS Coupe '09|67,600|
+|BMW|M3 '07|70,200|
+|DMC|DeLorean S2 '04|458,900|
 |Ford|Mustang Mach 1 '71|50,000|
 |MINI|MINI Cooper S '05|23,300|
 |MINI|Mini-Cooper 'S' '65|40,800|
-|Mazda|RX-7 GT-X (FC) '90|58,900|
-|Nissan|180SX Type X '96|58,400|
 |Nissan|GT-R NISMO (R32) '90|393,800|
 |Porsche|911 Carrera RS (964) '92|220,000|
+|TVR|Tuscan Speed 6 '00|70,100|
 |Toyota|Prius G '09|18,500|
 
 ### Available
@@ -80,16 +86,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 595 SS '70|58,200|
 |Alfa Romeo|MiTo '09|22,700|
 |Audi|TT Coupe 3.2 quattro '03|43,300|
-|Audi|TTS Coupe '09|67,600|
 |BMW|M3 '03|72,700|
-|BMW|M3 '07|70,200|
-|DMC|DeLorean S2 '04|458,900|
+|BMW|M3 '89|86,100|
 |Dodge|Viper GTS '02|106,400|
 |Ferrari|430 Scuderia '07|363,500|
 |Honda|Civic Type R (EK) '98|58,100|
 |Honda|NSX Type R '02|440,400|
+|Honda|S800 '66|48,700|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
 |Nissan|Silvia Q's (S13) '88|31,800|
 |Renault|Clio V6 24V '00|72,800|
 |Renault|R5 Turbo '80|151,900|
-|TVR|Tuscan Speed 6 '00|70,100|
