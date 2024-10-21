@@ -27,30 +27,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-October-2024
+# Gran Turismo 7 Shops for 21-October-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Honda|NSX GT500 '00|1,500,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|158,000|
+|Citroen|DS 21 Pallas '70|47,600|
+|Honda|RA272 '65|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,900,000|
 |Chevrolet|Camaro Z28 '69|133,000|
-|Citroen|DS 21 Pallas '70|47,600|
 |De Tomaso|Mangusta '69|315,000|
-|Honda|RA272 '65|2,500,000|
+|Honda|NSX GT500 '00|1,500,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 |Porsche|Spyder type 550/1500RS '55|4,850,000|
@@ -62,38 +57,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|29,800|
-|Subaru|Impreza 22B-STi '98|178,300|
+|Chevrolet|Corvette Stingray (C3) '69|54,700|
+|Mercedes-Benz|SLR McLaren '09|492,000|
+|Toyota|MR2 GT-S '97|58,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
+|Alfa Romeo|MiTo '09|22,700|
 |Audi|TTS Coupe '09|67,600|
+|BMW|M3 '03|72,700|
 |BMW|M3 '07|70,200|
 |DMC|DeLorean S2 '04|458,900|
-|Ford|Mustang Mach 1 '71|50,000|
-|MINI|MINI Cooper S '05|23,300|
-|MINI|Mini-Cooper 'S' '65|40,800|
-|Nissan|GT-R NISMO (R32) '90|393,800|
-|Porsche|911 Carrera RS (964) '92|220,000|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
 |TVR|Tuscan Speed 6 '00|70,100|
-|Toyota|Prius G '09|18,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|58,200|
-|Alfa Romeo|MiTo '09|22,700|
 |Audi|TT Coupe 3.2 quattro '03|43,300|
-|BMW|M3 '03|72,700|
+|Autobianchi|A112 Abarth '85|29,800|
 |BMW|M3 '89|86,100|
 |Dodge|Viper GTS '02|106,400|
 |Ferrari|430 Scuderia '07|363,500|
 |Honda|Civic Type R (EK) '98|58,100|
 |Honda|NSX Type R '02|440,400|
 |Honda|S800 '66|48,700|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
 |Nissan|Silvia Q's (S13) '88|31,800|
 |Renault|Clio V6 24V '00|72,800|
 |Renault|R5 Turbo '80|151,900|
+|Subaru|Impreza 22B-STi '98|178,300|
