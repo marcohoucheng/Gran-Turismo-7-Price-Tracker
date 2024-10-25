@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-October-2024
+# Gran Turismo 7 Shops for 25-October-2024
 
 
 
@@ -36,21 +36,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|155 2.5 V6 TI '93|800,000|
-|Jaguar|D-type '54|6,000,000|
-|Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Jaguar|XJ13 '66|12,000,000|
+|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
+|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,900,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Honda|NSX GT500 '00|1,500,000|
+|Jaguar|D-type '54|6,000,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
+|Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|Spyder type 550/1500RS '55|4,850,000|
 
@@ -60,30 +64,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|313,400|
-|BMW|3.0 CSL '71|140,400|
-|BMW|M3 Sport Evolution '89|200,000|
-|Ford|Sierra RS 500 Cosworth '87|200,000|
-|Volkswagen|Scirocco R '10|40,300|
+|Honda|Civic SiR-II (EG) '93|50,800|
+|Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|430 Scuderia '07|363,500|
-|Honda|NSX Type R '02|440,400|
+|Abarth|Abarth 595 SS '70|58,200|
+|Audi|TT Coupe 3.2 quattro '03|43,300|
+|Autobianchi|A112 Abarth '85|29,800|
+|Chevrolet|Corvette Stingray (C3) '69|54,700|
+|Dodge|Viper GTS '02|106,400|
 |Renault|Clio V6 24V '00|72,800|
 |Renault|R5 Turbo '80|151,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|58,200|
-|Audi|TT Coupe 3.2 quattro '03|43,300|
-|Autobianchi|A112 Abarth '85|29,800|
+|Alfa Romeo|8C Competizione '08|313,400|
+|BMW|3.0 CSL '71|140,400|
 |BMW|M3 '89|86,100|
-|Chevrolet|Corvette Stingray (C3) '69|54,700|
+|BMW|M3 Sport Evolution '89|200,000|
 |De Tomaso|Pantera '71|172,800|
-|Dodge|Viper GTS '02|106,400|
+|Ford|Sierra RS 500 Cosworth '87|200,000|
 |Honda|Integra Type R (DC2) '95|60,300|
 |Honda|S800 '66|48,700|
 |Lamborghini|Diablo GT '00|790,200|
@@ -98,4 +101,5 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Suzuki|Cappuccino (EA11R) '91|16,000|
 |Toyota|MR2 GT-S '97|58,100|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
+|Volkswagen|Scirocco R '10|40,300|
 |Volvo|240 SE Estate '93|50,000|
