@@ -27,25 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 25-October-2024
+# Gran Turismo 7 Shops for 26-October-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Jaguar|XJ13 '66|12,000,000|
-|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
-|Mercedes-Benz|300 SL Coupe '54|1,700,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|Sport quattro S1 Pikes Peak '87|1,900,000|
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
-|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Porsche|Spyder type 550/1500RS '55|4,850,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -53,10 +45,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Honda|NSX GT500 '00|1,500,000|
 |Jaguar|D-type '54|6,000,000|
+|Jaguar|XJ13 '66|12,000,000|
+|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
+|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|Spyder type 550/1500RS '55|4,850,000|
 
 
 ## Used shop
@@ -64,8 +57,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic SiR-II (EG) '93|50,800|
-|Volkswagen|Volkswagen 1200 '66|28,800|
+|Lamborghini|Countach 25th Anniversary '88|694,000|
+|Porsche|911 Carrera RS (993) '95|228,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -73,22 +66,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 595 SS '70|58,200|
 |Audi|TT Coupe 3.2 quattro '03|43,300|
 |Autobianchi|A112 Abarth '85|29,800|
+|BMW|M3 '89|86,100|
 |Chevrolet|Corvette Stingray (C3) '69|54,700|
 |Dodge|Viper GTS '02|106,400|
-|Renault|Clio V6 24V '00|72,800|
-|Renault|R5 Turbo '80|151,900|
+|Honda|S800 '66|48,700|
+|Subaru|Impreza 22B-STi '98|178,300|
+|Suzuki|Cappuccino (EA11R) '91|16,000|
+|Toyota|MR2 GT-S '97|58,100|
+|Volvo|240 SE Estate '93|50,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|313,400|
 |BMW|3.0 CSL '71|140,400|
-|BMW|M3 '89|86,100|
 |BMW|M3 Sport Evolution '89|200,000|
 |De Tomaso|Pantera '71|172,800|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
+|Honda|Civic SiR-II (EG) '93|50,800|
 |Honda|Integra Type R (DC2) '95|60,300|
-|Honda|S800 '66|48,700|
 |Lamborghini|Diablo GT '00|790,200|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
@@ -97,9 +93,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|R33 GT-R V-spec '97|155,400|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,400|
-|Subaru|Impreza 22B-STi '98|178,300|
-|Suzuki|Cappuccino (EA11R) '91|16,000|
-|Toyota|MR2 GT-S '97|58,100|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
 |Volkswagen|Scirocco R '10|40,300|
-|Volvo|240 SE Estate '93|50,000|
+|Volkswagen|Volkswagen 1200 '66|28,800|
