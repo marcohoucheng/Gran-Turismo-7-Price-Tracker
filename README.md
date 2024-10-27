@@ -27,15 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 26-October-2024
+# Gran Turismo 7 Shops for 27-October-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Dodge|Charger R/T 426 Hemi '68|158,000|
+|Lamborghini|Countach LP400 '74|1,350,000|
+|Nissan|GT-R GT500 '99|2,500,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Honda|NSX GT500 '00|1,500,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|Spyder type 550/1500RS '55|4,850,000|
 
@@ -43,7 +51,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
-|Honda|NSX GT500 '00|1,500,000|
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
@@ -57,19 +64,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Countach 25th Anniversary '88|694,000|
-|Porsche|911 Carrera RS (993) '95|228,000|
+|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|58,200|
-|Audi|TT Coupe 3.2 quattro '03|43,300|
-|Autobianchi|A112 Abarth '85|29,800|
 |BMW|M3 '89|86,100|
-|Chevrolet|Corvette Stingray (C3) '69|54,700|
-|Dodge|Viper GTS '02|106,400|
 |Honda|S800 '66|48,700|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|95,000|
+|Nissan|R33 GT-R V-spec '97|155,400|
+|Nissan|SILVIA spec-R Aero (S15) '02|58,400|
 |Subaru|Impreza 22B-STi '98|178,300|
 |Suzuki|Cappuccino (EA11R) '91|16,000|
 |Toyota|MR2 GT-S '97|58,100|
@@ -85,14 +89,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Sierra RS 500 Cosworth '87|200,000|
 |Honda|Civic SiR-II (EG) '93|50,800|
 |Honda|Integra Type R (DC2) '95|60,300|
+|Lamborghini|Countach 25th Anniversary '88|694,000|
 |Lamborghini|Diablo GT '00|790,200|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
 |Mercedes-Benz|SLR McLaren '09|492,000|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|95,000|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Nissan|R33 GT-R V-spec '97|155,400|
-|Nissan|SILVIA spec-R Aero (S15) '02|58,400|
+|Porsche|911 Carrera RS (993) '95|228,000|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
 |Volkswagen|Scirocco R '10|40,300|
 |Volkswagen|Volkswagen 1200 '66|28,800|
