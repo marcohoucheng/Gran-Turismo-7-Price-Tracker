@@ -27,36 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 27-October-2024
+# Gran Turismo 7 Shops for 28-October-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|158,000|
-|Lamborghini|Countach LP400 '74|1,350,000|
-|Nissan|GT-R GT500 '99|2,500,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Honda|NSX GT500 '00|1,500,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|Spyder type 550/1500RS '55|4,850,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
+|Dodge|Charger R/T 426 Hemi '68|158,000|
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
+|Lamborghini|Countach LP400 '74|1,350,000|
 |McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Nissan|GT-R GT500 '99|2,500,000|
 
 
 ## Used shop
@@ -64,26 +58,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
+|Ferrari|308 GTB '75|172,000|
+|McLaren|MP4-12C '10|184,100|
+|Mitsubishi|Lancer Evolution III GSR '95|96,400|
+|Renault|R4 GTL '85|24,700|
+|Volkswagen|Sambabus Typ 2 '62|54,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '89|86,100|
-|Honda|S800 '66|48,700|
+|BMW|3.0 CSL '71|140,400|
+|Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,000|
+|Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|R33 GT-R V-spec '97|155,400|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,400|
-|Subaru|Impreza 22B-STi '98|178,300|
-|Suzuki|Cappuccino (EA11R) '91|16,000|
-|Toyota|MR2 GT-S '97|58,100|
-|Volvo|240 SE Estate '93|50,000|
+|Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|313,400|
-|BMW|3.0 CSL '71|140,400|
 |BMW|M3 Sport Evolution '89|200,000|
 |De Tomaso|Pantera '71|172,800|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
@@ -92,10 +87,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Lamborghini|Countach 25th Anniversary '88|694,000|
 |Lamborghini|Diablo GT '00|790,200|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
-|Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
 |Mercedes-Benz|SLR McLaren '09|492,000|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
+|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
 |Porsche|911 Carrera RS (993) '95|228,000|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
 |Volkswagen|Scirocco R '10|40,300|
-|Volkswagen|Volkswagen 1200 '66|28,800|
