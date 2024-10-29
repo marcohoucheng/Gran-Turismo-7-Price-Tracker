@@ -27,16 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 28-October-2024
+# Gran Turismo 7 Shops for 29-October-2024
 
 
 
 ## Legend shop
 
-### Leaving Soon
+### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|NSX GT500 '00|1,500,000|
+|McLaren|McLaren F1 '94|20,000,000|
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -58,21 +59,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|308 GTB '75|172,000|
-|McLaren|MP4-12C '10|184,100|
-|Mitsubishi|Lancer Evolution III GSR '95|96,400|
-|Renault|R4 GTL '85|24,700|
-|Volkswagen|Sambabus Typ 2 '62|54,300|
+|BMW|3.0 CSL '73|206,500|
+|Honda|S2000 '99|98,700|
+|Mitsubishi|Lancer Evolution V GSR '98|80,700|
+|TVR|Tuscan Speed 6 '00|95,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '71|140,400|
+|De Tomaso|Pantera '71|172,800|
 |Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|95,000|
+|Mercedes-Benz|SLR McLaren '09|492,000|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Nissan|R33 GT-R V-spec '97|155,400|
-|Nissan|SILVIA spec-R Aero (S15) '02|58,400|
 |Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Available
@@ -80,15 +79,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|313,400|
 |BMW|M3 Sport Evolution '89|200,000|
-|De Tomaso|Pantera '71|172,800|
+|Ferrari|308 GTB '75|172,000|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
 |Honda|Civic SiR-II (EG) '93|50,800|
 |Honda|Integra Type R (DC2) '95|60,300|
 |Lamborghini|Countach 25th Anniversary '88|694,000|
 |Lamborghini|Diablo GT '00|790,200|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
-|Mercedes-Benz|SLR McLaren '09|492,000|
+|McLaren|MP4-12C '10|184,100|
+|Mitsubishi|Lancer Evolution III GSR '95|96,400|
 |Nissan|Silvia K's Dia Selection (S13) '90|52,100|
 |Porsche|911 Carrera RS (993) '95|228,000|
+|Renault|R4 GTL '85|24,700|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
+|Volkswagen|Sambabus Typ 2 '62|54,300|
 |Volkswagen|Scirocco R '10|40,300|
