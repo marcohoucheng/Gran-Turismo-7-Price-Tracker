@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 31-October-2024
+# Gran Turismo 7 Shops for 01-November-2024
 
 
 
@@ -37,9 +37,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
-|McLaren|McLaren F1 GTR - BMW '95|15,000,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
-|Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -50,7 +49,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,350,000|
 |McLaren|McLaren F1 '94|20,000,000|
-|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
 
@@ -60,35 +58,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|313,200|
-|Abarth|Abarth 500 '09|23,900|
-|Daihatsu|Copen '02|16,000|
-|Honda|Beat '91|20,000|
-|Mazda|Eunos Roadster (NA) '89|28,600|
-|Suzuki|Cappuccino (EA11R) '91|20,000|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
+|Maserati|GranTurismo S '08|141,800|
+|Nissan|Silvia K's Aero (S14) '96|57,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|313,400|
 |BMW|M3 Sport Evolution '89|200,000|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
-|Honda|Integra Type R (DC2) '95|60,300|
-|Lamborghini|Countach 25th Anniversary '88|694,000|
-|Lamborghini|Diablo GT '00|790,200|
-|Lancia|Delta HF Integrale Evoluzione '91|98,900|
+|Honda|Civic SiR-II (EG) '93|50,800|
 |Nissan|Silvia K's Dia Selection (S13) '90|52,100|
-|Porsche|911 Carrera RS (993) '95|228,000|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
 |Volkswagen|Scirocco R '10|40,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|SLS AMG '10|313,200|
+|Abarth|Abarth 500 '09|23,900|
 |BMW|3.0 CSL '73|206,500|
+|Daihatsu|Copen '02|16,000|
 |Ferrari|308 GTB '75|172,000|
-|Honda|Civic SiR-II (EG) '93|50,800|
+|Honda|Beat '91|20,000|
 |Honda|S2000 '99|98,700|
+|Mazda|Eunos Roadster (NA) '89|28,600|
 |McLaren|MP4-12C '10|184,100|
 |Mitsubishi|Lancer Evolution III GSR '95|96,400|
 |Mitsubishi|Lancer Evolution V GSR '98|80,700|
@@ -96,6 +89,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Porsche|911 Turbo (930) '81|220,000|
 |RUF|CTR3 '07|771,300|
 |Renault|R4 GTL '85|24,700|
+|Suzuki|Cappuccino (EA11R) '91|20,000|
 |TVR|Tuscan Speed 6 '00|95,000|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
 |Volkswagen|Sambabus Typ 2 '62|54,300|
