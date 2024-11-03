@@ -27,32 +27,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 02-November-2024
+# Gran Turismo 7 Shops for 03-November-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
-|Nissan|Fairlady Z 432 '69|312,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Dodge|Charger R/T 426 Hemi '68|158,000|
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,350,000|
 |McLaren|McLaren F1 '94|20,000,000|
-|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|158,000|
+|Aston Martin|DB5 '64|892,000|
 |Ferrari|250 GT Berlinetta passo corto '61|8,100,000|
+|Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
 
@@ -62,35 +57,33 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette ZR1 (C6) '09|99,000|
-|Dodge|Viper SRT10 Coupe '06|111,800|
-|Ferrari|458 Italia '09|242,500|
-|Ferrari|Testarossa '91|367,000|
-|Toyota|Supra 3.0GT Turbo A '88|112,000|
-|Volvo|240 SE Estate '93|41,800|
+|Subaru|Impreza Sedan WRX STi '04|43,600|
+|Toyota|Sports 800 '65|47,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 500 '09|23,900|
 |BMW|3.0 CSL '73|206,500|
-|Honda|Civic SiR-II (EG) '93|50,800|
+|Ferrari|308 GTB '75|172,000|
+|Honda|S2000 '99|98,700|
+|Mitsubishi|Lancer Evolution III GSR '95|96,400|
 |Renault|R4 GTL '85|24,700|
 |TVR|Tuscan Speed 6 '00|95,000|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|313,200|
-|Abarth|Abarth 500 '09|23,900|
+|Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Daihatsu|Copen '02|16,000|
-|Ferrari|308 GTB '75|172,000|
+|Dodge|Viper SRT10 Coupe '06|111,800|
+|Ferrari|458 Italia '09|242,500|
+|Ferrari|Testarossa '91|367,000|
 |Honda|Beat '91|20,000|
-|Honda|S2000 '99|98,700|
 |Maserati|GranTurismo S '08|141,800|
 |Mazda|Eunos Roadster (NA) '89|28,600|
 |McLaren|MP4-12C '10|184,100|
-|Mitsubishi|Lancer Evolution III GSR '95|96,400|
 |Mitsubishi|Lancer Evolution V GSR '98|80,700|
 |Nissan|R34 GT-R V-spec II Nur '02|396,400|
 |Nissan|Silvia K's Aero (S14) '96|57,800|
@@ -98,4 +91,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |RUF|CTR3 '07|771,300|
 |Suzuki|Cappuccino (EA11R) '91|20,000|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
+|Toyota|Supra 3.0GT Turbo A '88|112,000|
 |Volkswagen|Sambabus Typ 2 '62|54,300|
+|Volvo|240 SE Estate '93|41,800|
