@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 04-November-2024
+# Gran Turismo 7 Shops for 05-November-2024
 
 
 
@@ -36,12 +36,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Toyota|GT-One (TS020) '99|2,500,000|
+|Ford|Mustang Boss 429 '69|346,000|
+|McLaren|MP4/4 '88|12,000,000|
+|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
+|Porsche|Carrera GTS (904) '64|2,300,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|158,000|
+|Nissan|GT-R GT500 '99|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -49,8 +52,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Aston Martin|DB5 '64|892,000|
 |Ferrari|250 GT Berlinetta passo corto '61|8,100,000|
 |Nissan|Fairlady Z 432 '69|312,000|
-|Nissan|GT-R GT500 '99|2,500,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 
 ## Used shop
@@ -58,34 +61,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z8 '01|259,600|
-|Fiat|500 1.2 8V Lounge SS '08|14,400|
+|Dodge|Super Bee '70|80,000|
+|Honda|Civic Type R (EK) '97|50,200|
+|Pontiac|Firebird Trans Am '78|87,900|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|23,900|
-|Ferrari|308 GTB '75|172,000|
-|Honda|S2000 '99|98,700|
+|AMG|SLS AMG '10|313,200|
 |Mazda|Eunos Roadster (NA) '89|28,600|
-|Mitsubishi|Lancer Evolution III GSR '95|96,400|
+|McLaren|MP4-12C '10|184,100|
+|Porsche|911 Turbo (930) '81|220,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|313,200|
+|BMW|Z8 '01|259,600|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Daihatsu|Copen '02|16,000|
 |Dodge|Viper SRT10 Coupe '06|111,800|
 |Ferrari|458 Italia '09|242,500|
 |Ferrari|Testarossa '91|367,000|
+|Fiat|500 1.2 8V Lounge SS '08|14,400|
 |Honda|Beat '91|20,000|
 |Maserati|GranTurismo S '08|141,800|
-|McLaren|MP4-12C '10|184,100|
 |Mitsubishi|Lancer Evolution V GSR '98|80,700|
 |Nissan|R34 GT-R V-spec II Nur '02|396,400|
 |Nissan|Silvia K's Aero (S14) '96|57,800|
-|Porsche|911 Turbo (930) '81|220,000|
 |RUF|CTR3 '07|771,300|
 |Subaru|Impreza Sedan WRX STi '04|43,600|
 |Suzuki|Cappuccino (EA11R) '91|20,000|
