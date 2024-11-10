@@ -27,28 +27,31 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-November-2024
+# Gran Turismo 7 Shops for 10-November-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Maserati|A6GCS/53 Spyder '54|2,500,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|250 GT Berlinetta passo corto '61|8,100,000|
+|Aston Martin|DB5 '64|892,000|
 |Ford|Mustang Boss 429 '69|346,000|
-|Nissan|Fairlady Z 432 '69|312,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
 |Maserati|Merak SS '80|64,200|
 |McLaren|MP4/4 '88|12,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Porsche|Carrera GTS (904) '64|2,300,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
 |Toyota|Supra GT500 '97|1,800,000|
 
 
@@ -57,27 +60,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|142,200|
+|Ford|Mustang Mach 1 '71|36,100|
+|Honda|NSX Type R '92|402,700|
+|MINI|Mini-Cooper 'S' '65|40,800|
+|Nissan|Silvia K's Type S (S14) '94|51,400|
+|Nissan|Skyline GTS-R (R31) '87|179,600|
+|Porsche|911 Carrera RS CS (993) '95|438,500|
+|Porsche|911 GT3 (996) '01|155,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Super Bee '70|80,000|
 |Ferrari|458 Italia '09|242,500|
-|Ferrari|Testarossa '91|367,000|
+|Honda|Civic Type R (EK) '97|50,200|
 |Pontiac|Firebird Trans Am '78|87,900|
-|RUF|CTR3 '07|771,300|
 |Toyota|Supra 3.0GT Turbo A '88|112,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alpine|A110 '72|142,200|
 |Audi|R8 4.2 '07|137,100|
 |BMW|M3 '97|83,000|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Viper SRT10 Coupe '06|111,800|
 |Fiat|500 1.2 8V Lounge SS '08|14,400|
-|Honda|Civic Type R (EK) '97|50,200|
 |Honda|Civic Type R (EK) Touring Car|114,800|
 |Honda|Integra Type R (DC2) '98|61,200|
 |Mazda|Eunos Roadster (NA) '89|35,000|
