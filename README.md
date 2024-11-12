@@ -27,32 +27,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 11-November-2024
+# Gran Turismo 7 Shops for 12-November-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Jaguar|XJ220 '92|615,000|
-|Porsche|356 A/1500 GS Carrera '56|618,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
 |McLaren|MP4/4 '88|12,000,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
+|Porsche|Carrera GTS (904) '64|2,300,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Jaguar|XJ220 '92|615,000|
 |Maserati|A6GCS/53 Spyder '54|2,500,000|
 |Maserati|Merak SS '80|64,200|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
-|Porsche|Carrera GTS (904) '64|2,300,000|
+|Porsche|356 A/1500 GS Carrera '56|618,000|
 |Toyota|Supra GT500 '97|1,800,000|
 
 
@@ -61,31 +55,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette ZR-1 (C4) '89|90,600|
-|Lamborghini|Gallardo LP 560-4 '08|249,200|
+|Chevrolet|Corvette Convertible (C3) '69|53,000|
+|Porsche|911 GT3 (997) '09|137,000|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|51,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|BMW|M3 '97|83,000|
+|Chevrolet|Corvette ZR1 (C6) '09|99,000|
+|Dodge|Viper SRT10 Coupe '06|111,800|
 |Fiat|500 1.2 8V Lounge SS '08|14,400|
-|Honda|Civic Type R (EK) '97|50,200|
+|Mitsubishi|GTO Twin Turbo '91|41,600|
 |Toyota|Sports 800 '65|47,200|
+|Volkswagen|Golf I GTI '83|40,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|142,200|
 |Audi|R8 4.2 '07|137,100|
-|BMW|M3 '97|83,000|
-|Chevrolet|Corvette ZR1 (C6) '09|99,000|
-|Dodge|Viper SRT10 Coupe '06|111,800|
+|Chevrolet|Corvette ZR-1 (C4) '89|90,600|
 |Ford|Mustang Mach 1 '71|36,100|
 |Honda|Civic Type R (EK) Touring Car|114,800|
 |Honda|Integra Type R (DC2) '98|61,200|
 |Honda|NSX Type R '92|402,700|
+|Lamborghini|Gallardo LP 560-4 '08|249,200|
 |MINI|Mini-Cooper 'S' '65|40,800|
 |Mazda|Eunos Roadster (NA) '89|35,000|
-|Mitsubishi|GTO Twin Turbo '91|41,600|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,600|
 |Nissan|R32 GT-R V-spec II '94|178,600|
 |Nissan|Silvia K's Type S (S14) '94|51,400|
@@ -95,4 +92,3 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,300|
 |Subaru|Impreza Sedan WRX STi '04|43,600|
 |Suzuki|Swift Sport '07|11,800|
-|Volkswagen|Golf I GTI '83|40,500|
