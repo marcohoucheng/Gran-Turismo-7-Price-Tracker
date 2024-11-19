@@ -27,18 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-November-2024
+# Gran Turismo 7 Shops for 19-November-2024
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Nissan|Fairlady Z 432 '69|312,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|F50 '95|4,450,000|
 |Jaguar|XJ220 '92|615,000|
-|Mazda|RX500 '70|600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -57,25 +62,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Renault|R5 Turbo '80|151,900|
+|Abarth|Abarth 595 SS '70|58,200|
+|Ferrari|Testarossa '91|450,000|
+|Honda|S800 '66|48,700|
+|Toyota|Supra RZ '97|194,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
 |Audi|R8 4.2 '07|137,100|
 |Chevrolet|Corvette Convertible (C3) '69|53,000|
 |Chevrolet|Corvette ZR-1 (C4) '89|90,600|
-|Fiat|500 F '68|15,500|
-|Lamborghini|Gallardo LP 560-4 '08|249,200|
+|Honda|NSX Type R '92|402,700|
+|Lamborghini|Murcielago LP 640 '09|340,400|
+|Lancia|Stratos '73|499,300|
 |MINI|Mini-Cooper 'S' '65|40,800|
-|Nissan|R32 GT-R V-spec II '94|178,600|
+|Nissan|Fairlady Z (Z34) '08|33,000|
 |Nissan|Skyline GTS-R (R31) '87|179,600|
 |Porsche|911 Carrera RS CS (993) '95|438,500|
+|Porsche|911 GT3 (996) '01|155,600|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
 |Alfa Romeo|MiTo '09|22,700|
 |BMW|M3 Sport Evolution '89|200,000|
 |Dodge|Super Bee '70|63,200|
@@ -83,16 +93,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|Dino 246 GT '71|333,900|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
 |Honda|Civic Type R (EK) '98|58,100|
-|Honda|NSX Type R '92|402,700|
-|Lamborghini|Murcielago LP 640 '09|340,400|
-|Lancia|Stratos '73|499,300|
 |Mazda|RX-7 GT-X (FC) '90|58,900|
 |Mitsubishi|Lancer Evolution III GSR '95|100,000|
 |Mitsubishi|Lancer Evolution IV GSR '96|55,000|
 |Mitsubishi|Lancer Evolution V GSR '98|90,000|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|200,000|
-|Nissan|Fairlady Z (Z34) '08|33,000|
 |Nissan|Sileighty '98|89,700|
 |Nissan|Silvia Q's (S13) '88|31,800|
-|Porsche|911 GT3 (996) '01|155,600|
+|Renault|R5 Turbo '80|151,900|
 |Toyota|Prius G '09|18,500|
