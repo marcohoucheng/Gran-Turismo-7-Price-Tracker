@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-November-2024
+# Gran Turismo 7 Shops for 21-November-2024
 
 
 
@@ -36,24 +36,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|962 C '88|1,300,000|
+|Ferrari|500 Mondial Pinin Farina Coupe '54|2,600,000|
+|Jaguar|E-type Coupe '61|227,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Ford|Mark IV Race Car '67|6,750,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
+|Plymouth|XNR Ghia Roadster '60|1,600,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Chevrolet|Corvette (C2) '63|239,000|
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|280,000|
 |Nissan|Fairlady Z 432 '69|312,000|
-|Plymouth|XNR Ghia Roadster '60|1,600,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|959 '87|1,950,000|
+|Porsche|962 C '88|1,300,000|
 
 
 ## Used shop
@@ -61,22 +63,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|29,800|
-|Nissan|180SX Type X '96|58,400|
-|Nissan|Fairlady Z Version S (Z33) '07|30,800|
-|Toyota|Celica GT-Four (ST205) '94|67,700|
+|DMC|DeLorean S2 '04|458,900|
+|Ferrari|F430 '06|207,400|
+|Ford|Ford GT '06|397,100|
+|Lancia|Delta HF Integrale Evoluzione '91|98,900|
+|MINI|MINI Cooper S '05|23,300|
+|TVR|Tuscan Speed 6 '00|70,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
+|BMW|M3 Sport Evolution '89|200,000|
 |Ferrari|512 BB '76|288,600|
 |Ferrari|Dino 246 GT '71|333,900|
-|Honda|NSX Type R '92|402,700|
-|Lamborghini|Murcielago LP 640 '09|340,400|
-|Lancia|Stratos '73|499,300|
-|Nissan|Fairlady Z (Z34) '08|33,000|
-|Porsche|911 GT3 (996) '01|155,600|
+|Ford|Sierra RS 500 Cosworth '87|200,000|
+|Mitsubishi|Lancer Evolution III GSR '95|100,000|
+|Mitsubishi|Lancer Evolution IV GSR '96|55,000|
+|Mitsubishi|Lancer Evolution V GSR '98|90,000|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|200,000|
 |Toyota|Prius G '09|18,500|
 
 ### Available
@@ -84,18 +88,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|58,200|
 |Alfa Romeo|MiTo '09|22,700|
-|BMW|M3 Sport Evolution '89|200,000|
+|Autobianchi|A112 Abarth '85|29,800|
 |Dodge|Super Bee '70|63,200|
 |Ferrari|Testarossa '91|450,000|
-|Ford|Sierra RS 500 Cosworth '87|200,000|
 |Honda|Civic Type R (EK) '98|58,100|
 |Honda|S800 '66|48,700|
 |Mazda|RX-7 GT-X (FC) '90|58,900|
-|Mitsubishi|Lancer Evolution III GSR '95|100,000|
-|Mitsubishi|Lancer Evolution IV GSR '96|55,000|
-|Mitsubishi|Lancer Evolution V GSR '98|90,000|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|200,000|
+|Nissan|180SX Type X '96|58,400|
+|Nissan|Fairlady Z Version S (Z33) '07|30,800|
 |Nissan|Sileighty '98|89,700|
 |Nissan|Silvia Q's (S13) '88|31,800|
 |Renault|R5 Turbo '80|151,900|
+|Toyota|Celica GT-Four (ST205) '94|67,700|
 |Toyota|Supra RZ '97|194,000|
