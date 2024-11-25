@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-November-2024
+# Gran Turismo 7 Shops for 25-November-2024
 
 
 
@@ -36,20 +36,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chaparral|2J '70|2,500,000|
-|Ferrari|330 P4 '67|20,000,000|
+|Ford|1932 Ford Roadster Hot Rod|400,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C2) '63|239,000|
-|Nissan|Fairlady Z 432 '69|312,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chaparral|2J '70|2,500,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|162,000|
+|Ferrari|330 P4 '67|20,000,000|
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,600,000|
 |Ferrari|F40 '92|3,100,000|
 |Ferrari|F50 '95|4,450,000|
@@ -65,16 +64,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|BMW|3.0 CSL '71|140,400|
+|BMW|M3 '89|86,100|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|Testarossa '91|450,000|
-|Honda|Civic Type R (EK) '98|58,100|
+|Autobianchi|A112 Abarth '85|29,800|
+|DMC|DeLorean S2 '04|458,900|
+|Ford|Ford GT '06|397,100|
 |MINI|MINI Cooper S '05|23,300|
 |Mazda|RX-7 GT-X (FC) '90|58,900|
-|Nissan|180SX Type X '96|58,400|
-|Nissan|Silvia Q's (S13) '88|31,800|
-|Toyota|Celica GT-Four (ST205) '94|67,700|
+|Nissan|Fairlady Z Version S (Z33) '07|30,800|
 |Toyota|Supra RZ '97|194,000|
 
 ### Available
@@ -83,17 +88,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 595 SS '70|58,200|
 |Audi|TT Coupe 3.2 quattro '03|43,300|
 |Audi|TTS Coupe '09|67,600|
-|Autobianchi|A112 Abarth '85|29,800|
 |BMW|M3 '07|70,200|
-|DMC|DeLorean S2 '04|458,900|
 |Ferrari|430 Scuderia '07|363,500|
 |Ferrari|F430 '06|207,400|
 |Ford|Escort RS Cosworth '92|147,100|
-|Ford|Ford GT '06|397,100|
 |Honda|S800 '66|48,700|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Nissan|Fairlady Z Version S (Z33) '07|30,800|
 |Nissan|GT-R NISMO (R32) '90|393,800|
 |Porsche|911 Carrera RS (964) '92|220,000|
 |Renault|Clio V6 24V '00|72,800|
