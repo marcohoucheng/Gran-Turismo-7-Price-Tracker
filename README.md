@@ -27,35 +27,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 29-November-2024
+# Gran Turismo 7 Shops for 30-November-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ferrari|365 GTB4 '71|610,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Chevelle SS 454 Sport Coupé '70|162,000|
+|Honda|RA272 '65|2,500,000|
 |Jaguar|E-type Coupe '61|227,000|
-|Jaguar|XJR-9 '88|3,000,000|
-|Mazda|787B '91|3,300,000|
-|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
-|Nissan|R92CP '92|2,000,000|
 |Porsche|917K '70|18,000,000|
-|Porsche|962 C '88|1,300,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB3S '53|6,000,000|
 |Chaparral|2J '70|2,500,000|
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|162,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|330 P4 '67|20,000,000|
 |Ferrari|F40 '92|3,100,000|
 |Ferrari|F50 '95|4,450,000|
 |Ford|1932 Ford Roadster Hot Rod|400,000|
-|Honda|RA272 '65|2,500,000|
 |McLaren|McLaren F1 '94|20,000,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 
@@ -65,45 +65,43 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|206,500|
-|Honda|Beat '91|17,000|
-|Renault|R4 GTL '85|24,700|
-|Volkswagen|Sambabus Typ 2 '62|54,300|
+|Mercedes-Benz|SLR McLaren '09|492,000|
+|Nissan|R33 GT-R V-spec '97|155,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Audi|TT Coupe 3.2 quattro '03|43,300|
 |BMW|3.0 CSL '71|140,400|
-|BMW|M3 '07|70,200|
+|Chevrolet|Corvette Stingray (C3) '69|54,700|
+|Ferrari|430 Scuderia '07|363,500|
 |Ferrari|F430 '06|207,400|
+|Honda|NSX Type R '92|450,000|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
-|Nissan|GT-R NISMO (R32) '90|393,800|
 |Renault|Clio V6 24V '00|72,800|
-|TVR|Tuscan Speed 6 '00|70,100|
 |Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|43,300|
+|BMW|3.0 CSL '73|206,500|
 |BMW|M3 '03|72,700|
 |BMW|M3 '89|86,100|
-|Chevrolet|Corvette Stingray (C3) '69|54,700|
 |De Tomaso|Pantera '71|172,800|
 |Dodge|Viper GTS '02|106,400|
-|Ferrari|430 Scuderia '07|363,500|
 |Ford|Escort RS Cosworth '92|147,100|
+|Honda|Beat '91|17,000|
 |Honda|Civic SiR-II (EG) '93|50,800|
 |Honda|Integra Type R (DC2) '95|60,300|
 |Honda|NSX Type R '02|440,400|
-|Honda|NSX Type R '92|450,000|
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,400|
 |Nissan|Silvia K's Dia Selection (S13) '90|52,100|
+|Renault|R4 GTL '85|24,700|
 |Subaru|Impreza 22B-STi '98|178,300|
 |Toyota|MR2 GT-S '97|58,100|
+|Volkswagen|Sambabus Typ 2 '62|54,300|
