@@ -27,35 +27,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 30-November-2024
+# Gran Turismo 7 Shops for 01-December-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|365 GTB4 '71|610,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chaparral|2J '70|2,500,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|162,000|
+|Ford|1932 Ford Roadster Hot Rod|400,000|
 |Honda|RA272 '65|2,500,000|
-|Jaguar|E-type Coupe '61|227,000|
-|Porsche|917K '70|18,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB3S '53|6,000,000|
-|Chaparral|2J '70|2,500,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|330 P4 '67|20,000,000|
+|Ferrari|365 GTB4 '71|610,000|
 |Ferrari|F40 '92|3,100,000|
 |Ferrari|F50 '95|4,450,000|
-|Ford|1932 Ford Roadster Hot Rod|400,000|
 |McLaren|McLaren F1 '94|20,000,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 
@@ -65,22 +59,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|SLR McLaren '09|492,000|
-|Nissan|R33 GT-R V-spec '97|155,400|
+|Lamborghini|Diablo GT '00|790,200|
+|Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|95,000|
+|Volkswagen|Scirocco R '10|40,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|43,300|
-|BMW|3.0 CSL '71|140,400|
 |Chevrolet|Corvette Stingray (C3) '69|54,700|
 |Ferrari|430 Scuderia '07|363,500|
-|Ferrari|F430 '06|207,400|
 |Honda|NSX Type R '92|450,000|
-|Lancia|Delta HF Integrale Evoluzione '91|98,900|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Renault|Clio V6 24V '00|72,800|
-|Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -99,6 +89,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Mazda|Eunos Roadster (NA) '89|35,000|
+|Mercedes-Benz|SLR McLaren '09|492,000|
+|Nissan|R33 GT-R V-spec '97|155,400|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,400|
 |Nissan|Silvia K's Dia Selection (S13) '90|52,100|
 |Renault|R4 GTL '85|24,700|
