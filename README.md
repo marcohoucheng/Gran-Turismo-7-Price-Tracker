@@ -27,26 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-December-2024
+# Gran Turismo 7 Shops for 02-December-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chaparral|2J '70|2,500,000|
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|162,000|
+|Ferrari|330 P4 '67|20,000,000|
 |Ford|1932 Ford Roadster Hot Rod|400,000|
-|Honda|RA272 '65|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB3S '53|6,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|330 P4 '67|20,000,000|
 |Ferrari|365 GTB4 '71|610,000|
 |Ferrari|F40 '92|3,100,000|
 |Ferrari|F50 '95|4,450,000|
@@ -59,25 +63,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Diablo GT '00|790,200|
-|Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|95,000|
-|Volkswagen|Scirocco R '10|40,300|
+|Abarth|Abarth 500 '09|23,900|
+|BMW|M3 Sport Evolution '89|165,200|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
+|Volvo|240 SE Estate '93|41,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|43,300|
-|Chevrolet|Corvette Stingray (C3) '69|54,700|
-|Ferrari|430 Scuderia '07|363,500|
-|Honda|NSX Type R '92|450,000|
+|BMW|M3 '03|72,700|
+|BMW|M3 '89|86,100|
+|Nissan|SILVIA spec-R Aero (S15) '02|58,400|
+|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
+|Subaru|Impreza 22B-STi '98|178,300|
+|Toyota|MR2 GT-S '97|58,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '73|206,500|
-|BMW|M3 '03|72,700|
-|BMW|M3 '89|86,100|
 |De Tomaso|Pantera '71|172,800|
 |Dodge|Viper GTS '02|106,400|
 |Ford|Escort RS Cosworth '92|147,100|
@@ -85,15 +90,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|Civic SiR-II (EG) '93|50,800|
 |Honda|Integra Type R (DC2) '95|60,300|
 |Honda|NSX Type R '02|440,400|
+|Lamborghini|Diablo GT '00|790,200|
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Mazda|Eunos Roadster (NA) '89|35,000|
 |Mazda|Eunos Roadster (NA) '89|35,000|
+|Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
 |Mercedes-Benz|SLR McLaren '09|492,000|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|95,000|
 |Nissan|R33 GT-R V-spec '97|155,400|
-|Nissan|SILVIA spec-R Aero (S15) '02|58,400|
-|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
 |Renault|R4 GTL '85|24,700|
-|Subaru|Impreza 22B-STi '98|178,300|
-|Toyota|MR2 GT-S '97|58,100|
 |Volkswagen|Sambabus Typ 2 '62|54,300|
+|Volkswagen|Scirocco R '10|40,300|
