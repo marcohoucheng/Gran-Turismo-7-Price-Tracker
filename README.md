@@ -27,23 +27,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 07-December-2024
+# Gran Turismo 7 Shops for 08-December-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ford|Mustang Boss 429 '69|319,000|
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|365 GTB4 '71|610,000|
 |Ferrari|F50 '95|4,450,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Porsche|959 '87|1,950,000|
@@ -55,12 +47,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Ferrari|F40 '92|3,100,000|
+|Ford|Mustang Boss 429 '69|319,000|
 |Honda|NSX GT500 '00|1,500,000|
 |McLaren|McLaren F1 GTR - BMW '95|16,000,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 |Toyota|Supra GT500 '97|1,800,000|
 
 
@@ -69,7 +63,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Pontiac|Firebird Trans Am '78|87,900|
+|Daihatsu|Copen '02|15,700|
+|McLaren|MP4-12C '10|184,100|
+|Nissan|R34 GT-R V-spec II Nur '02|396,400|
+|RUF|CTR3 '07|771,300|
+|Suzuki|Swift Sport '07|11,800|
+|Toyota|Supra 3.0GT Turbo A '88|112,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -77,6 +76,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|512 BB '76|350,000|
 |Ford|Escort RS Cosworth '92|147,100|
 |Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
+|Mercedes-Benz|SLR McLaren '09|492,000|
+|Volkswagen|Sambabus Typ 2 '62|54,300|
+|Volkswagen|Scirocco R '10|40,300|
 |Volvo|240 SE Estate '93|41,800|
 
 ### Available
@@ -91,16 +93,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|S2000 '99|98,700|
 |Lamborghini|Countach 25th Anniversary '88|694,000|
 |Lamborghini|Diablo GT '00|790,200|
-|Mercedes-Benz|SLR McLaren '09|492,000|
 |Mitsubishi|Lancer Evolution III GSR '95|96,400|
 |Mitsubishi|Lancer Evolution V GSR '98|80,700|
 |Nissan|GT-R NISMO (R32) '90|400,000|
 |Nissan|Silvia K's Aero (S14) '96|57,800|
+|Pontiac|Firebird Trans Am '78|87,900|
 |Porsche|911 Carrera RS (993) '95|260,000|
 |Porsche|911 Carrera RS (993) '95|228,000|
 |Porsche|911 Turbo (930) '81|220,000|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
 |Toyota|Sports 800 '65|47,200|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
-|Volkswagen|Sambabus Typ 2 '62|54,300|
-|Volkswagen|Scirocco R '10|40,300|
