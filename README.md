@@ -27,18 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 08-December-2024
+# Gran Turismo 7 Shops for 09-December-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Jaguar|XJ13 '66|12,000,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F50 '95|4,450,000|
-|Mercedes-Benz|W 196 R '55|20,000,000|
-|Porsche|959 '87|1,950,000|
+|Mercedes-Benz|CLK-LM '98|8,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -50,7 +54,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Mustang Boss 429 '69|319,000|
 |Honda|NSX GT500 '00|1,500,000|
 |McLaren|McLaren F1 GTR - BMW '95|16,000,000|
-|Mercedes-Benz|CLK-LM '98|8,500,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
@@ -60,47 +63,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Daihatsu|Copen '02|15,700|
-|McLaren|MP4-12C '10|184,100|
-|Nissan|R34 GT-R V-spec II Nur '02|396,400|
-|RUF|CTR3 '07|771,300|
-|Suzuki|Swift Sport '07|11,800|
-|Toyota|Supra 3.0GT Turbo A '88|112,000|
-
 ### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|512 BB '76|350,000|
-|Ford|Escort RS Cosworth '92|147,100|
-|Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
-|Mercedes-Benz|SLR McLaren '09|492,000|
-|Volkswagen|Sambabus Typ 2 '62|54,300|
-|Volkswagen|Scirocco R '10|40,300|
-|Volvo|240 SE Estate '93|41,800|
-
-### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|313,400|
 |BMW|M3 Sport Evolution '89|165,200|
 |Ferrari|308 GTB '75|172,000|
-|Fiat|500 1.2 8V Lounge SS '08|14,400|
 |Ford|Sierra RS 500 Cosworth '87|183,500|
+|Lamborghini|Countach 25th Anniversary '88|694,000|
+|Mercedes-Benz|SLR McLaren '09|492,000|
+|Mitsubishi|Lancer Evolution III GSR '95|96,400|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
+|Volkswagen|Sambabus Typ 2 '62|54,300|
+|Volkswagen|Scirocco R '10|40,300|
+
+### Available
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Daihatsu|Copen '02|15,700|
+|Fiat|500 1.2 8V Lounge SS '08|14,400|
 |Honda|Civic Type R (EK) '97|50,200|
 |Honda|S2000 '99|98,700|
-|Lamborghini|Countach 25th Anniversary '88|694,000|
 |Lamborghini|Diablo GT '00|790,200|
-|Mitsubishi|Lancer Evolution III GSR '95|96,400|
+|McLaren|MP4-12C '10|184,100|
 |Mitsubishi|Lancer Evolution V GSR '98|80,700|
 |Nissan|GT-R NISMO (R32) '90|400,000|
+|Nissan|R34 GT-R V-spec II Nur '02|396,400|
 |Nissan|Silvia K's Aero (S14) '96|57,800|
 |Pontiac|Firebird Trans Am '78|87,900|
 |Porsche|911 Carrera RS (993) '95|260,000|
 |Porsche|911 Carrera RS (993) '95|228,000|
 |Porsche|911 Turbo (930) '81|220,000|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
+|RUF|CTR3 '07|771,300|
+|Suzuki|Swift Sport '07|11,800|
 |Toyota|Sports 800 '65|47,200|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
+|Toyota|Supra 3.0GT Turbo A '88|112,000|
