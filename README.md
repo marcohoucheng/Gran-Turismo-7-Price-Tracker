@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 13-December-2024
+# Gran Turismo 7 Shops for 14-December-2024
 
 
 
@@ -36,28 +36,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C1) '58|119,000|
+|Toyota|2000GT '67|992,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Ferrari|F40 '92|3,100,000|
-|Honda|NSX GT500 '00|1,500,000|
-|McLaren|McLaren F1 GTR - BMW '95|16,000,000|
-|Nissan|GT-R GT500 '99|2,500,000|
-|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
-|Toyota|Supra GT500 '97|1,800,000|
+|Ford|Mustang Boss 429 '69|319,000|
+|Shelby|Cobra 427 '66|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
+|Chevrolet|Corvette (C1) '58|119,000|
 |Ferrari|250 GTO '62|20,000,000|
-|Ford|Mustang Boss 429 '69|319,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
-|Shelby|Cobra 427 '66|2,500,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
@@ -67,17 +61,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|458 Italia '09|242,500|
+|Alfa Romeo|MiTo '09|22,700|
+|BMW|Z8 '01|259,600|
+|Honda|Integra Type R (DC2) '98|61,200|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|51,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Fiat|500 1.2 8V Lounge SS '08|14,400|
-|Lamborghini|Diablo GT '00|790,200|
-|Nissan|GT-R NISMO (R32) '90|400,000|
-|Nissan|Silvia K's Aero (S14) '96|57,800|
-|Porsche|911 Carrera RS (993) '95|260,000|
+|Honda|Civic Type R (EK) Touring Car|140,000|
+|Mitsubishi|Lancer Evolution V GSR '98|80,700|
 |Toyota|Sports 800 '65|47,200|
+|Volkswagen|Golf I GTI '83|40,500|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -89,17 +85,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Daihatsu|Copen '02|15,700|
 |Dodge|Viper SRT10 Coupe '06|111,800|
+|Ferrari|458 Italia '09|242,500|
 |Ferrari|Testarossa '91|367,000|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
 |Ford|Sierra RS 500 Cosworth '87|200,000|
-|Honda|Civic Type R (EK) Touring Car|140,000|
 |MINI|Mini-Cooper 'S' '65|40,800|
 |Maserati|GranTurismo S '08|141,800|
 |McLaren|MP4-12C '10|184,100|
 |Mitsubishi|GTO Twin Turbo '91|41,600|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,600|
-|Mitsubishi|Lancer Evolution V GSR '98|80,700|
 |Nissan|R32 GT-R V-spec II '94|178,600|
 |Nissan|R34 GT-R V-spec II Nur '02|396,400|
 |Nissan|Silvia K's Type S (S14) '94|51,400|
@@ -108,4 +103,3 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Subaru|Impreza Sedan WRX STi '04|43,600|
 |Suzuki|Swift Sport '07|11,800|
 |Toyota|Supra 3.0GT Turbo A '88|112,000|
-|Volkswagen|Golf I GTI '83|40,500|
