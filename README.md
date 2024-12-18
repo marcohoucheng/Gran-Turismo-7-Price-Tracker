@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 17-December-2024
+# Gran Turismo 7 Shops for 18-December-2024
 
 
 
@@ -36,24 +36,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
-|Ferrari|F40 '92|3,100,000|
-|Porsche|Spyder type 550/1500RS '55|4,850,000|
+|Renault|R8 Gordini '66|32,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|250 GTO '62|20,000,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|300 SEL 6.8 AMG '71|700,000|
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Chevrolet|Corvette (C1) '58|119,000|
-|Ferrari|250 GTO '62|20,000,000|
+|Ferrari|F40 '92|3,100,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
 |Pontiac|GTO 'The Judge' '69|242,000|
+|Porsche|Spyder type 550/1500RS '55|4,850,000|
 |Toyota|2000GT '67|992,000|
 
 
@@ -62,27 +62,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|250,000|
-|Nissan|Silvia Q's (S13) '88|31,800|
-|Nissan|Skyline GTS-R (R31) '87|179,600|
+|Chevrolet|Corvette Convertible (C3) '69|53,000|
+|Honda|Civic Type R (EK) '98|58,100|
+|Honda|Civic Type R (EK) Touring Car|114,800|
+|Toyota|Prius G '09|18,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|142,200|
 |BMW|Z8 '01|259,600|
 |Ferrari|Testarossa '91|367,000|
 |Maserati|GranTurismo S '08|141,800|
-|McLaren|MP4-12C '10|184,100|
-|Nissan|R34 GT-R V-spec II Nur '02|396,400|
+|Mitsubishi|GTO Twin Turbo '91|41,600|
 |Nissan|Silvia K's Type S (S14) '94|51,400|
 |RUF|CTR3 '07|771,300|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|51,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
 |Alfa Romeo|MiTo '09|22,700|
+|BMW|3.0 CSL '73|250,000|
 |BMW|M3 Sport Evolution '89|200,000|
 |BMW|M3 Sport Evolution '89|200,000|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
@@ -95,9 +96,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Sierra RS 500 Cosworth '87|200,000|
 |Honda|Integra Type R (DC2) '98|61,200|
 |MINI|Mini-Cooper 'S' '65|40,800|
-|Mitsubishi|GTO Twin Turbo '91|41,600|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,600|
 |Nissan|R32 GT-R V-spec II '94|178,600|
+|Nissan|Silvia Q's (S13) '88|31,800|
+|Nissan|Skyline GTS-R (R31) '87|179,600|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,300|
 |Subaru|Impreza Sedan WRX STi '04|43,600|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|51,900|
