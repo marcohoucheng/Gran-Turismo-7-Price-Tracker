@@ -27,37 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 22-December-2024
+# Gran Turismo 7 Shops for 23-December-2024
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Mercedes-Benz|300 SL (W194) '52|20,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Pontiac|GTO 'The Judge' '69|242,000|
-|Porsche|Spyder type 550/1500RS '55|4,850,000|
-|Toyota|2000GT '67|992,000|
+|AMG|300 SEL 6.8 AMG '71|700,000|
+|Renault|R8 Gordini '66|32,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
 |Ferrari|F40 '92|3,100,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
 |Mazda|787B '91|3,300,000|
+|Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Nissan|R92CP '92|2,000,000|
 |Plymouth|Superbird '70|402,000|
 |Porsche|962 C '88|1,300,000|
-|Renault|R8 Gordini '66|32,500|
 
 
 ## Used shop
@@ -65,34 +58,36 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|29,800|
-|Lancia|Stratos '73|499,300|
+|Dodge|Super Bee '70|63,200|
+|Ferrari|Dino 246 GT '71|333,900|
+|Lancia|Delta HF Integrale Evoluzione '91|98,900|
+|Mazda|RX-7 GT-X (FC) '90|58,900|
+|Porsche|911 GT3 (997) '09|137,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
-|BMW|3.0 CSL '73|250,000|
+|Alfa Romeo|MiTo '09|22,700|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Viper SRT10 Coupe '06|111,800|
-|Subaru|Impreza Sedan WRX STi '04|43,600|
+|Honda|Civic Type R (EK) Touring Car|114,800|
+|Mitsubishi|Lancer Evolution IV GSR '96|39,600|
+|Nissan|R32 GT-R V-spec II '94|178,600|
 |Toyota|Prius G '09|18,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|58,200|
-|Alfa Romeo|MiTo '09|22,700|
 |Audi|R8 4.2 '07|137,100|
+|Autobianchi|A112 Abarth '85|29,800|
 |Chevrolet|Corvette Convertible (C3) '69|53,000|
 |Chevrolet|Corvette ZR-1 (C4) '89|90,600|
 |Honda|Civic Type R (EK) '98|58,100|
-|Honda|Civic Type R (EK) Touring Car|114,800|
 |Honda|NSX Type R '92|402,700|
 |Honda|S800 '66|48,700|
 |Lamborghini|Gallardo LP 560-4 '08|249,200|
-|Mitsubishi|Lancer Evolution IV GSR '96|39,600|
-|Nissan|R32 GT-R V-spec II '94|178,600|
+|Lancia|Stratos '73|499,300|
 |Nissan|Sileighty '98|89,700|
 |Nissan|Silvia Q's (S13) '88|31,800|
 |Nissan|Skyline GTS-R (R31) '87|179,600|
