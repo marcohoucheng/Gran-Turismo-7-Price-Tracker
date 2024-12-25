@@ -27,36 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-December-2024
+# Gran Turismo 7 Shops for 25-December-2024
 
 
 
 ## Legend shop
 
-### New
+### Leaving Soon
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ferrari|F40 '92|3,100,000|
+|Ford|Mark IV Race Car '67|6,750,000|
+
+### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB5 '64|892,000|
 |Ferrari|F50 '95|4,450,000|
 |Ferrari|GTO '84|3,500,000|
-|McLaren|McLaren F1 '94|20,000,000|
-|NISMO|400R '95|1,600,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
-|Ferrari|F40 '92|3,100,000|
-|Renault|R8 Gordini '66|32,500|
-
-### Available
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
 |Mazda|787B '91|3,300,000|
+|McLaren|McLaren F1 '94|20,000,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
+|NISMO|400R '95|1,600,000|
 |Nissan|R92CP '92|2,000,000|
 |Plymouth|Superbird '70|402,000|
 |Porsche|962 C '88|1,300,000|
@@ -67,20 +61,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '97|90,000|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|162,400|
-|Suzuki|Cappuccino (EA11R) '91|16,000|
-|Volvo|240 SE Estate '93|50,000|
+|Lamborghini|Murcielago LP 640 '09|340,400|
+|Nissan|Fairlady 240ZG (HS30) '71|106,400|
+|Nissan|Fairlady Z (Z34) '08|33,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|MiTo '09|22,700|
 |Chevrolet|Corvette Convertible (C3) '69|53,000|
 |Honda|Civic Type R (EK) '98|58,100|
-|Honda|Civic Type R (EK) Touring Car|114,800|
-|Mitsubishi|Lancer Evolution IV GSR '96|39,600|
-|Nissan|R32 GT-R V-spec II '94|178,600|
+|Nissan|Silvia Q's (S13) '88|31,800|
+|Nissan|Skyline GTS-R (R31) '87|179,600|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -88,6 +79,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 595 SS '70|58,200|
 |Audi|R8 4.2 '07|137,100|
 |Autobianchi|A112 Abarth '85|29,800|
+|BMW|M3 '97|90,000|
 |Chevrolet|Corvette ZR-1 (C4) '89|90,600|
 |Dodge|Super Bee '70|63,200|
 |Ferrari|Dino 246 GT '71|333,900|
@@ -97,10 +89,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |Lancia|Stratos '73|499,300|
 |Mazda|RX-7 GT-X (FC) '90|58,900|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|162,400|
 |Nissan|Sileighty '98|89,700|
-|Nissan|Silvia Q's (S13) '88|31,800|
-|Nissan|Skyline GTS-R (R31) '87|179,600|
 |Porsche|911 Carrera RS CS (993) '95|438,500|
 |Porsche|911 GT3 (996) '01|155,600|
 |Porsche|911 GT3 (997) '09|137,000|
 |Renault|R5 Turbo '80|151,900|
+|Suzuki|Cappuccino (EA11R) '91|16,000|
+|Volvo|240 SE Estate '93|50,000|
