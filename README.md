@@ -27,17 +27,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 25-December-2024
+# Gran Turismo 7 Shops for 26-December-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
+|Ford|GT40 Mark I '66|6,700,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F40 '92|3,100,000|
 |Ford|Mark IV Race Car '67|6,750,000|
+|Jaguar|XJR-9 '88|3,000,000|
+|Mazda|787B '91|3,300,000|
+|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
+|Nissan|R92CP '92|2,000,000|
+|Porsche|962 C '88|1,300,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -45,15 +55,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Aston Martin|DB5 '64|892,000|
 |Ferrari|F50 '95|4,450,000|
 |Ferrari|GTO '84|3,500,000|
-|Jaguar|XJR-9 '88|3,000,000|
-|Mazda|787B '91|3,300,000|
 |McLaren|McLaren F1 '94|20,000,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
-|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |NISMO|400R '95|1,600,000|
-|Nissan|R92CP '92|2,000,000|
 |Plymouth|Superbird '70|402,000|
-|Porsche|962 C '88|1,300,000|
 
 
 ## Used shop
@@ -61,15 +66,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Murcielago LP 640 '09|340,400|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Nissan|Fairlady Z (Z34) '08|33,000|
+|BMW|3.0 CSL '71|140,400|
+|Ferrari|512 BB '76|288,600|
+|Nissan|180SX Type X '96|58,400|
+|Nissan|SILVIA spec-R Aero (S15) '02|62,000|
+|Nissan|Silvia K's Aero (S14) '96|60,000|
+|Nissan|Silvia K's Dia Selection (S13) '90|65,000|
+|Nissan|Silvia K's Type S (S14) '94|60,000|
+|Toyota|Celica GT-Four (ST205) '94|67,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Convertible (C3) '69|53,000|
-|Honda|Civic Type R (EK) '98|58,100|
+|Lamborghini|Gallardo LP 560-4 '08|249,200|
+|Lancia|Stratos '73|499,300|
 |Nissan|Silvia Q's (S13) '88|31,800|
 |Nissan|Skyline GTS-R (R31) '87|179,600|
 
@@ -85,11 +95,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|Dino 246 GT '71|333,900|
 |Honda|NSX Type R '92|402,700|
 |Honda|S800 '66|48,700|
-|Lamborghini|Gallardo LP 560-4 '08|249,200|
+|Lamborghini|Murcielago LP 640 '09|340,400|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
-|Lancia|Stratos '73|499,300|
 |Mazda|RX-7 GT-X (FC) '90|58,900|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|162,400|
+|Nissan|Fairlady 240ZG (HS30) '71|106,400|
+|Nissan|Fairlady Z (Z34) '08|33,000|
 |Nissan|Sileighty '98|89,700|
 |Porsche|911 Carrera RS CS (993) '95|438,500|
 |Porsche|911 GT3 (996) '01|155,600|
