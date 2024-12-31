@@ -27,19 +27,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 30-December-2024
+# Gran Turismo 7 Shops for 31-December-2024
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Dodge|Challenger R/T '70|214,000|
+|Honda|RA272 '65|2,500,000|
+|McLaren|MP4/4 '88|12,000,000|
+|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
-|Ferrari|F50 '95|4,450,000|
-|McLaren|McLaren F1 '94|20,000,000|
-|NISMO|400R '95|1,600,000|
+|Mercedes-Benz|300 SL (W194) '52|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -48,7 +55,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|GTO '84|3,500,000|
 |Ford|GT40 Mark I '66|6,700,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
-|Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Subaru|Impreza Rally Car '98|650,000|
 
 
@@ -57,43 +63,41 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|43,300|
-|Ferrari|F430 '06|207,400|
-|Nissan|Fairlady Z Version S (Z33) '07|30,800|
-|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
-|Renault|R4 GTL '85|24,700|
-|Volkswagen|Sambabus Typ 2 '62|54,300|
+|BMW|3.0 CSL '73|206,500|
+|Ford|Ford GT '06|397,100|
+|Ford|Mustang Mach 1 '71|50,000|
+|Honda|Beat '91|17,000|
+|Lamborghini|Countach 25th Anniversary '88|800,000|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
+|TVR|Tuscan Speed 6 '00|70,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|137,100|
 |BMW|3.0 CSL '71|140,400|
-|BMW|M3 '97|90,000|
-|Dodge|Super Bee '70|63,200|
+|DMC|DeLorean S2 '04|458,900|
 |Ferrari|512 BB '76|288,600|
-|Lamborghini|Murcielago LP 640 '09|340,400|
+|Lancia|Delta HF Integrale Evoluzione '91|98,900|
+|MINI|MINI Cooper S '05|23,300|
 |Mazda|RX-7 GT-X (FC) '90|58,900|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|162,400|
-|Nissan|180SX Type X '96|58,400|
-|Nissan|Fairlady Z (Z34) '08|33,000|
-|Porsche|911 GT3 (996) '01|155,600|
-|Toyota|Celica GT-Four (ST205) '94|67,700|
-|Volvo|240 SE Estate '93|50,000|
+|Nissan|Fairlady 240ZG (HS30) '71|106,400|
+|Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|DMC|DeLorean S2 '04|458,900|
+|Audi|TT Coupe 3.2 quattro '03|43,300|
+|Ferrari|F430 '06|207,400|
 |Honda|Civic SiR-II (EG) '93|50,800|
-|Lancia|Delta HF Integrale Evoluzione '91|98,900|
-|MINI|MINI Cooper S '05|23,300|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
+|Nissan|Fairlady Z Version S (Z33) '07|30,800|
 |Nissan|SILVIA spec-R Aero (S15) '02|62,000|
 |Nissan|Silvia K's Aero (S14) '96|60,000|
 |Nissan|Silvia K's Dia Selection (S13) '90|65,000|
+|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
 |Nissan|Silvia K's Type S (S14) '94|60,000|
 |Nissan|Silvia Q's (S13) '88|40,000|
 |Renault|Clio V6 24V '00|72,800|
+|Renault|R4 GTL '85|24,700|
 |Toyota|Supra RZ '97|194,000|
-|Volkswagen|Volkswagen 1200 '66|28,800|
+|Volkswagen|Sambabus Typ 2 '62|54,300|
