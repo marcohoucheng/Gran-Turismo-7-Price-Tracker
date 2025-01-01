@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 31-December-2024
+# Gran Turismo 7 Shops for 01-January-2025
 
 
 
@@ -36,25 +36,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Challenger R/T '70|214,000|
-|Honda|RA272 '65|2,500,000|
-|McLaren|MP4/4 '88|12,000,000|
-|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
+|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
+|Ferrari|GTO '84|3,500,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
-|Ferrari|GTO '84|3,500,000|
+|Dodge|Challenger R/T '70|214,000|
 |Ford|GT40 Mark I '66|6,700,000|
+|Honda|RA272 '65|2,500,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
+|McLaren|MP4/4 '88|12,000,000|
+|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
 |Subaru|Impreza Rally Car '98|650,000|
 
 
@@ -63,24 +64,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|206,500|
-|Ford|Ford GT '06|397,100|
-|Ford|Mustang Mach 1 '71|50,000|
-|Honda|Beat '91|17,000|
-|Lamborghini|Countach 25th Anniversary '88|800,000|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
-|TVR|Tuscan Speed 6 '00|70,100|
+|Audi|TTS Coupe '09|67,600|
+|BMW|M3 '07|70,200|
+|BMW|M3 '89|86,100|
+|Chevrolet|Corvette Stingray (C3) '69|54,700|
+|Nissan|GT-R NISMO (R32) '90|393,800|
+|Porsche|911 Carrera RS (964) '92|220,000|
+|Subaru|Impreza 22B-STi '98|178,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '71|140,400|
 |DMC|DeLorean S2 '04|458,900|
-|Ferrari|512 BB '76|288,600|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |MINI|MINI Cooper S '05|23,300|
-|Mazda|RX-7 GT-X (FC) '90|58,900|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|162,400|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Volkswagen|Volkswagen 1200 '66|28,800|
 
@@ -88,8 +85,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|43,300|
+|BMW|3.0 CSL '73|206,500|
 |Ferrari|F430 '06|207,400|
+|Ford|Ford GT '06|397,100|
+|Ford|Mustang Mach 1 '71|50,000|
+|Honda|Beat '91|17,000|
 |Honda|Civic SiR-II (EG) '93|50,800|
+|Lamborghini|Countach 25th Anniversary '88|800,000|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
 |Nissan|Fairlady Z Version S (Z33) '07|30,800|
 |Nissan|SILVIA spec-R Aero (S15) '02|62,000|
 |Nissan|Silvia K's Aero (S14) '96|60,000|
@@ -99,5 +102,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Silvia Q's (S13) '88|40,000|
 |Renault|Clio V6 24V '00|72,800|
 |Renault|R4 GTL '85|24,700|
+|TVR|Tuscan Speed 6 '00|70,100|
 |Toyota|Supra RZ '97|194,000|
 |Volkswagen|Sambabus Typ 2 '62|54,300|
