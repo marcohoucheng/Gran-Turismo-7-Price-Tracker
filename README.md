@@ -27,17 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 02-January-2025
+# Gran Turismo 7 Shops for 03-January-2025
 
 
 
 ## Legend shop
 
-### Leaving Soon
+### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
-|Ferrari|GTO '84|3,500,000|
+|Alpine|A220 Race Car '68|330,000|
+|Shelby|G.T.350 '65|455,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -59,19 +59,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|430 Scuderia '07|363,500|
-|Honda|Integra Type R (DC2) '95|60,300|
-|Mazda|Eunos Roadster (NA) '89|28,600|
-|Toyota|MR2 GT-S '97|58,100|
+|Abarth|Abarth 500 '09|23,900|
+|De Tomaso|Pantera '71|172,800|
+|Nissan|SILVIA spec-R Aero (S15) '02|58,400|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
+|Volvo|240 SE Estate '93|41,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Honda|Civic SiR-II (EG) '93|50,800|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
 |Nissan|SILVIA spec-R Aero (S15) '02|62,000|
 |Nissan|Silvia K's Aero (S14) '96|60,000|
 |Nissan|Silvia K's Dia Selection (S13) '90|65,000|
+|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
 |Nissan|Silvia K's Type S (S14) '94|60,000|
 |Nissan|Silvia Q's (S13) '88|40,000|
+|Toyota|Supra RZ '97|194,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -82,20 +87,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 '07|70,200|
 |BMW|M3 '89|86,100|
 |Chevrolet|Corvette Stingray (C3) '69|54,700|
+|Ferrari|430 Scuderia '07|363,500|
 |Ferrari|F430 '06|207,400|
 |Ford|Ford GT '06|397,100|
 |Ford|Mustang Mach 1 '71|50,000|
 |Honda|Beat '91|17,000|
-|Honda|Civic SiR-II (EG) '93|50,800|
+|Honda|Integra Type R (DC2) '95|60,300|
 |Lamborghini|Countach 25th Anniversary '88|800,000|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
+|Mazda|Eunos Roadster (NA) '89|28,600|
 |Nissan|Fairlady Z Version S (Z33) '07|30,800|
 |Nissan|GT-R NISMO (R32) '90|393,800|
-|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
 |Porsche|911 Carrera RS (964) '92|220,000|
 |Renault|Clio V6 24V '00|72,800|
 |Renault|R4 GTL '85|24,700|
 |Subaru|Impreza 22B-STi '98|178,300|
 |TVR|Tuscan Speed 6 '00|70,100|
-|Toyota|Supra RZ '97|194,000|
+|Toyota|MR2 GT-S '97|58,100|
 |Volkswagen|Sambabus Typ 2 '62|54,300|
