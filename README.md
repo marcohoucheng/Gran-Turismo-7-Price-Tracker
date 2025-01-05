@@ -27,17 +27,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 04-January-2025
+# Gran Turismo 7 Shops for 05-January-2025
 
 
 
 ## Legend shop
-
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|330 P4 '67|20,000,000|
-|Porsche|911 Carrera RS (901) '73|799,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -56,7 +50,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
 |Alpine|A220 Race Car '68|330,000|
 |Dodge|Challenger R/T '70|214,000|
+|Ferrari|330 P4 '67|20,000,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
+|Porsche|911 Carrera RS (901) '73|799,000|
 |Shelby|G.T.350 '65|455,000|
 
 
@@ -66,15 +62,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '73|206,500|
+|Chevrolet|Corvette Stingray (C3) '69|54,700|
 |Ford|Ford GT '06|397,100|
 |Ford|Mustang Mach 1 '71|50,000|
-|Honda|Civic SiR-II (EG) '93|50,800|
 |Lamborghini|Countach 25th Anniversary '88|800,000|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|60,300|
 |Nissan|Fairlady Z Version S (Z33) '07|30,800|
-|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
+|Renault|Clio V6 24V '00|72,800|
 |Renault|R4 GTL '85|24,700|
-|Toyota|Supra RZ '97|194,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -84,7 +78,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|TTS Coupe '09|67,600|
 |BMW|M3 '07|70,200|
 |BMW|M3 '89|86,100|
-|Chevrolet|Corvette Stingray (C3) '69|54,700|
 |De Tomaso|Pantera '71|172,800|
 |Ferrari|430 Scuderia '07|363,500|
 |Ferrari|F430 '06|207,400|
@@ -94,7 +87,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|GT-R NISMO (R32) '90|393,800|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,400|
 |Porsche|911 Carrera RS (964) '92|220,000|
-|Renault|Clio V6 24V '00|72,800|
 |Subaru|Impreza 22B-STi '98|178,300|
 |TVR|Tuscan Speed 6 '00|70,100|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
