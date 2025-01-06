@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-January-2025
+# Gran Turismo 7 Shops for 06-January-2025
 
 
 
@@ -36,13 +36,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|GT40 Mark I '66|6,700,000|
-|Honda|RA272 '65|2,500,000|
-|Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
-|McLaren|MP4/4 '88|12,000,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
-|Subaru|Impreza Rally Car '98|650,000|
+|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -51,42 +45,43 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alpine|A220 Race Car '68|330,000|
 |Dodge|Challenger R/T '70|214,000|
 |Ferrari|330 P4 '67|20,000,000|
-|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
 |Porsche|911 Carrera RS (901) '73|799,000|
 |Shelby|G.T.350 '65|455,000|
 
 
 ## Used shop
 
-### Leaving Soon
+### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|206,500|
-|Chevrolet|Corvette Stingray (C3) '69|54,700|
-|Ford|Ford GT '06|397,100|
-|Ford|Mustang Mach 1 '71|50,000|
-|Lamborghini|Countach 25th Anniversary '88|800,000|
-|Nissan|Fairlady Z Version S (Z33) '07|30,800|
-|Renault|Clio V6 24V '00|72,800|
-|Renault|R4 GTL '85|24,700|
+|Fiat|500 1.2 8V Lounge SS '08|14,400|
+|Honda|NSX Type R '02|440,400|
+|Toyota|Sports 800 '65|47,200|
+|Volkswagen|Scirocco R '10|40,300|
 
-### Available
+### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|23,900|
 |Audi|TT Coupe 3.2 quattro '03|43,300|
 |Audi|TTS Coupe '09|67,600|
+|Chevrolet|Corvette Stingray (C3) '69|54,700|
+|Honda|Beat '91|17,000|
+|Porsche|911 Carrera RS (964) '92|220,000|
+|Renault|Clio V6 24V '00|72,800|
+
+### Available
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
 |BMW|M3 '07|70,200|
 |BMW|M3 '89|86,100|
 |De Tomaso|Pantera '71|172,800|
 |Ferrari|430 Scuderia '07|363,500|
 |Ferrari|F430 '06|207,400|
-|Honda|Beat '91|17,000|
 |Honda|Integra Type R (DC2) '95|60,300|
 |Mazda|Eunos Roadster (NA) '89|28,600|
 |Nissan|GT-R NISMO (R32) '90|393,800|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,400|
-|Porsche|911 Carrera RS (964) '92|220,000|
 |Subaru|Impreza 22B-STi '98|178,300|
 |TVR|Tuscan Speed 6 '00|70,100|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
