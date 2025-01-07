@@ -27,11 +27,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 06-January-2025
+# Gran Turismo 7 Shops for 07-January-2025
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Jeep|Willys MB '45|30,100|
+|NISMO|400R '95|1,600,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -54,10 +62,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Fiat|500 1.2 8V Lounge SS '08|14,400|
-|Honda|NSX Type R '02|440,400|
-|Toyota|Sports 800 '65|47,200|
-|Volkswagen|Scirocco R '10|40,300|
+|BMW|M3 '03|72,700|
+|Dodge|Viper GTS '02|106,400|
+|Honda|Civic SiR-II (EG) '93|60,000|
+|Honda|Civic Type R (EK) '97|50,200|
+|Pontiac|Firebird Trans Am '78|87,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -65,26 +74,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 500 '09|23,900|
 |Audi|TT Coupe 3.2 quattro '03|43,300|
 |Audi|TTS Coupe '09|67,600|
-|Chevrolet|Corvette Stingray (C3) '69|54,700|
+|BMW|M3 '07|70,200|
+|Ferrari|F430 '06|207,400|
 |Honda|Beat '91|17,000|
+|Mazda|Eunos Roadster (NA) '89|28,600|
+|Nissan|GT-R NISMO (R32) '90|393,800|
+|Nissan|SILVIA spec-R Aero (S15) '02|58,400|
 |Porsche|911 Carrera RS (964) '92|220,000|
-|Renault|Clio V6 24V '00|72,800|
+|Subaru|Impreza 22B-STi '98|178,300|
+|TVR|Tuscan Speed 6 '00|70,100|
+|Toyota|MR2 GT-S '97|58,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '07|70,200|
 |BMW|M3 '89|86,100|
 |De Tomaso|Pantera '71|172,800|
 |Ferrari|430 Scuderia '07|363,500|
-|Ferrari|F430 '06|207,400|
+|Fiat|500 1.2 8V Lounge SS '08|14,400|
 |Honda|Integra Type R (DC2) '95|60,300|
-|Mazda|Eunos Roadster (NA) '89|28,600|
-|Nissan|GT-R NISMO (R32) '90|393,800|
-|Nissan|SILVIA spec-R Aero (S15) '02|58,400|
-|Subaru|Impreza 22B-STi '98|178,300|
-|TVR|Tuscan Speed 6 '00|70,100|
+|Honda|NSX Type R '02|440,400|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|58,400|
-|Toyota|MR2 GT-S '97|58,100|
+|Toyota|Sports 800 '65|47,200|
 |Volkswagen|Sambabus Typ 2 '62|54,300|
+|Volkswagen|Scirocco R '10|40,300|
 |Volvo|240 SE Estate '93|41,800|
