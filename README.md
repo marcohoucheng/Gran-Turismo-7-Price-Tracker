@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 12-January-2025
+# Gran Turismo 7 Shops for 13-January-2025
 
 
 
@@ -36,13 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
+|Chevrolet|Camaro Z28 '69|128,000|
+|De Tomaso|Mangusta '69|315,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |NISMO|400R '95|1,600,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -55,6 +55,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|GTO '84|3,500,000|
 |Honda|RA272 '65|2,500,000|
 |Jeep|Willys MB '45|30,100|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 |Shelby|Cobra 427 '66|2,500,000|
 
@@ -64,21 +65,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|313,400|
-|Nissan|Silvia K's Aero (S14) '96|57,800|
+|MINI|Mini-Cooper 'S' '65|40,800|
+|Toyota|Supra 3.0GT Turbo A '88|112,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|72,700|
-|Honda|Civic SiR-II (EG) '93|60,000|
+|Fiat|500 1.2 8V Lounge SS '08|14,400|
 |Honda|Civic Type R (EK) '97|50,200|
 |Honda|NSX Type R '02|440,400|
-|Pontiac|Firebird Trans Am '78|87,900|
+|Volkswagen|Scirocco R '10|40,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|8C Competizione '08|313,400|
 |Alpine|A110 '72|142,200|
 |BMW|M3 Sport Evolution '89|165,200|
 |Daihatsu|Copen '02|15,700|
@@ -87,7 +88,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|512 BB '76|350,000|
 |Ferrari|Dino 246 GT '71|400,000|
 |Ferrari|Testarossa '91|450,000|
-|Fiat|500 1.2 8V Lounge SS '08|14,400|
 |Ford|Sierra RS 500 Cosworth '87|183,500|
 |Honda|S2000 '99|98,700|
 |Lamborghini|Diablo GT '00|790,200|
@@ -97,10 +97,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,000|
 |Mitsubishi|Lancer Evolution V GSR '98|80,700|
 |Nissan|R33 GT-R V-spec '97|155,400|
+|Nissan|Silvia K's Aero (S14) '96|57,800|
 |Nissan|Silvia K's Type S (S14) '94|51,400|
 |Porsche|911 Turbo (930) '81|220,000|
 |Suzuki|Swift Sport '07|11,800|
 |Toyota|Sports 800 '65|47,200|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
 |Volkswagen|Golf I GTI '83|40,500|
-|Volkswagen|Scirocco R '10|40,300|
