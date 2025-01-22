@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-January-2025
+# Gran Turismo 7 Shops for 22-January-2025
 
 
 
@@ -36,25 +36,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|XJ13 '66|12,000,000|
-|Lamborghini|Countach LP400 '74|1,350,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
+|Dodge|Charger R/T 426 Hemi '68|158,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Honda|NSX GT500 '00|1,500,000|
 |Jaguar|D-type '54|6,000,000|
+|Jaguar|XJ13 '66|12,000,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|Lamborghini|Countach LP400 '74|1,350,000|
 |Mazda|787B '91|3,300,000|
 |McLaren|McLaren F1 GTR - BMW '95|16,000,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
+|NISMO|400R '95|1,600,000|
 |Nissan|R92CP '92|2,000,000|
 |Porsche|962 C '88|1,300,000|
 |Porsche|Spyder type 550/1500RS '55|4,850,000|
@@ -65,28 +62,31 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette ZR1 (C6) '09|99,000|
-|Dodge|Viper SRT10 Coupe '06|111,800|
-|Ford|Mustang Mach 1 '71|36,100|
-|Honda|S800 '66|48,700|
+|Autobianchi|A112 Abarth '85|29,800|
+|BMW|Z8 '01|259,600|
+|Ferrari|458 Italia '09|242,500|
+|Nissan|Skyline GTS-R (R31) '87|179,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
 |MINI|Mini-Cooper 'S' '65|40,800|
-|Toyota|Supra 3.0GT Turbo A '88|112,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|313,200|
 |Abarth|Abarth 595 SS '70|58,200|
-|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
 |Alfa Romeo|MiTo '09|22,700|
 |BMW|M3 '97|83,000|
+|Chevrolet|Corvette ZR1 (C6) '09|99,000|
+|Dodge|Viper SRT10 Coupe '06|111,800|
 |Ferrari|Testarossa '91|367,000|
+|Ford|Mustang Mach 1 '71|36,100|
 |Honda|Civic Type R (EK) '98|58,100|
 |Honda|Integra Type R (DC2) '98|61,200|
+|Honda|S800 '66|48,700|
 |Maserati|GranTurismo S '08|141,800|
 |McLaren|MP4-12C '10|184,100|
 |Mitsubishi|GTO Twin Turbo '91|41,600|
@@ -94,6 +94,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|R32 GT-R V-spec II '94|178,600|
 |Nissan|R34 GT-R V-spec II Nur '02|396,400|
 |Nissan|Silvia Q's (S13) '88|31,800|
+|Porsche|911 Turbo (930) '81|250,000|
 |RUF|CTR3 '07|771,300|
 |Renault|R5 Turbo '80|151,900|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,300|
