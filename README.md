@@ -27,20 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 23-January-2025
+# Gran Turismo 7 Shops for 24-January-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Nissan|GT-R GT500 '99|2,500,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Honda|NSX GT500 '00|1,500,000|
 |Jaguar|XJR-9 '88|3,000,000|
 |Mazda|787B '91|3,300,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
@@ -52,7 +48,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Charger R/T 426 Hemi '68|158,000|
-|Honda|NSX GT500 '00|1,500,000|
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,350,000|
@@ -60,6 +55,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |NISMO|400R '95|1,600,000|
+|Nissan|GT-R GT500 '99|2,500,000|
 
 
 ## Used shop
@@ -67,24 +63,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Convertible (C3) '69|53,000|
+|Lancia|Delta HF Integrale Evoluzione '91|98,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|169,000|
+|AMG|SLS AMG '10|313,200|
+|Alfa Romeo|MiTo '09|22,700|
+|BMW|M3 '97|83,000|
 |Mitsubishi|GTO Twin Turbo '91|41,600|
 |Toyota|Prius G '09|18,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|313,200|
 |Abarth|Abarth 595 SS '70|58,200|
-|Alfa Romeo|MiTo '09|22,700|
 |Autobianchi|A112 Abarth '85|29,800|
-|BMW|M3 '97|83,000|
 |BMW|Z8 '01|259,600|
+|Chevrolet|Corvette Convertible (C3) '69|53,000|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Viper SRT10 Coupe '06|111,800|
 |Ferrari|458 Italia '09|242,500|
