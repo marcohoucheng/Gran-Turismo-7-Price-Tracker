@@ -27,17 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 25-January-2025
+# Gran Turismo 7 Shops for 26-January-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|NSX GT500 '00|1,500,000|
 |McLaren|McLaren F1 GTR - BMW '95|16,000,000|
+|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |NISMO|400R '95|1,600,000|
 
@@ -48,7 +53,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,350,000|
-|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 
 
@@ -57,21 +61,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Suzuki|Cappuccino (EA11R) '91|16,000|
+|Nissan|Fairlady 240ZG (HS30) '71|106,400|
+|Nissan|Sileighty '98|89,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|313,200|
-|Alfa Romeo|MiTo '09|22,700|
-|BMW|M3 '97|83,000|
 |BMW|Z8 '01|259,600|
+|Ferrari|Testarossa '91|367,000|
+|Ford|Mustang Mach 1 '71|36,100|
 |Honda|Civic Type R (EK) '98|58,100|
+|Honda|Integra Type R (DC2) '98|61,200|
+|Maserati|GranTurismo S '08|141,800|
 |McLaren|MP4-12C '10|184,100|
 |Nissan|R34 GT-R V-spec II Nur '02|396,400|
 |Nissan|Silvia Q's (S13) '88|31,800|
 |Porsche|911 Turbo (930) '81|250,000|
+|RUF|CTR3 '07|771,300|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,300|
+|Subaru|Impreza Sedan WRX STi '04|43,600|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -82,15 +90,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Viper SRT10 Coupe '06|111,800|
 |Ferrari|458 Italia '09|242,500|
-|Ferrari|Testarossa '91|367,000|
-|Ford|Mustang Mach 1 '71|36,100|
-|Honda|Integra Type R (DC2) '98|61,200|
 |Honda|S800 '66|48,700|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
-|Maserati|GranTurismo S '08|141,800|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,600|
 |Nissan|R32 GT-R V-spec II '94|178,600|
 |Nissan|Skyline GTS-R (R31) '87|179,600|
-|RUF|CTR3 '07|771,300|
 |Renault|R5 Turbo '80|151,900|
-|Subaru|Impreza Sedan WRX STi '04|43,600|
+|Suzuki|Cappuccino (EA11R) '91|16,000|
