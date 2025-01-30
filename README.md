@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 29-January-2025
+# Gran Turismo 7 Shops for 30-January-2025
 
 
 
@@ -36,7 +36,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Toyota|GT-One (TS020) '99|2,500,000|
+|McLaren|MP4/4 '88|12,000,000|
+|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -53,6 +54,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 
 ## Used shop
@@ -60,22 +62,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette ZR-1 (C4) '89|90,600|
-|Ferrari|Dino 246 GT '71|333,900|
-|Lamborghini|Gallardo LP 560-4 '08|249,200|
-|Mazda|RX-7 GT-X (FC) '90|58,900|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|162,400|
-|Porsche|911 Carrera RS CS (993) '95|438,500|
+|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
+|Renault|R4 GTL '85|24,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Convertible (C3) '69|53,000|
 |Ferrari|458 Italia '09|242,500|
-|Honda|S800 '66|48,700|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,600|
 |Nissan|R32 GT-R V-spec II '94|178,600|
-|Renault|R5 Turbo '80|151,900|
+|Nissan|Skyline GTS-R (R31) '87|179,600|
 |Suzuki|Cappuccino (EA11R) '91|16,000|
 
 ### Available
@@ -83,17 +80,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Audi|R8 4.2 '07|137,100|
 |BMW|3.0 CSL '71|140,400|
+|Chevrolet|Corvette ZR-1 (C4) '89|90,600|
 |Chevrolet|Corvette ZR1 (C6) '09|99,000|
 |Dodge|Super Bee '70|63,200|
 |Dodge|Viper SRT10 Coupe '06|111,800|
 |Ferrari|512 BB '76|350,000|
+|Ferrari|Dino 246 GT '71|333,900|
 |Honda|Civic SiR-II (EG) '93|50,800|
 |Honda|Civic Type R (EK) Touring Car|114,800|
 |Honda|NSX Type R '92|402,700|
+|Lamborghini|Gallardo LP 560-4 '08|249,200|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |Lancia|Stratos '73|499,300|
+|Mazda|RX-7 GT-X (FC) '90|58,900|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|162,400|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|Sileighty '98|89,700|
-|Nissan|Skyline GTS-R (R31) '87|179,600|
+|Porsche|911 Carrera RS CS (993) '95|438,500|
 |Porsche|911 GT3 (996) '01|155,600|
 |Volkswagen|Volkswagen 1200 '66|28,800|
