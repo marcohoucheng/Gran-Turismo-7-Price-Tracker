@@ -27,20 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 02-February-2025
+# Gran Turismo 7 Shops for 03-February-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Maserati|Merak SS '80|64,200|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB5 '64|892,000|
-|Ferrari|250 GT Berlinetta passo corto '61|7,800,000|
-|Jaguar|E-type Coupe '61|218,000|
 |Nissan|Fairlady Z 432 '69|312,000|
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -52,7 +55,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Porsche|962 C '88|1,300,000|
 |Porsche|Carrera GTS (904) '64|2,300,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
 
 
 ## Used shop
@@ -60,37 +62,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|DMC|DeLorean S2 '04|471,500|
-|Honda|Beat '91|15,900|
+|Abarth|Abarth 500 '09|21,700|
+|Lamborghini|Murcielago LP 640 '09|340,400|
+|MINI|MINI Cooper S '05|23,200|
+|Mazda|Eunos Roadster (NA) '89|30,600|
+|Porsche|911 GT3 (997) '09|137,000|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|47,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|R8 4.2 '07|137,100|
+|Chevrolet|Corvette ZR-1 (C4) '89|90,600|
 |Dodge|Super Bee '70|63,200|
-|Ferrari|512 BB '76|350,000|
-|Honda|Civic Type R (EK) Touring Car|114,800|
+|Ferrari|Dino 246 GT '71|333,900|
 |Honda|NSX Type R '92|402,700|
-|Lancia|Stratos '73|499,300|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
+|Lamborghini|Gallardo LP 560-4 '08|249,200|
+|Mazda|RX-7 GT-X (FC) '90|58,900|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|162,400|
+|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
+|Porsche|911 Carrera RS CS (993) '95|438,500|
 |Porsche|911 GT3 (996) '01|155,600|
-|Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '73|209,100|
-|Chevrolet|Corvette ZR-1 (C4) '89|90,600|
-|Ferrari|Dino 246 GT '71|333,900|
+|DMC|DeLorean S2 '04|471,500|
 |Ford|Escort RS Cosworth '92|129,700|
+|Honda|Beat '91|15,900|
 |Honda|Civic Si Extra (EF) '87|61,600|
-|Lamborghini|Gallardo LP 560-4 '08|249,200|
-|Mazda|RX-7 GT-X (FC) '90|58,900|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|162,400|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|66,000|
 |Nissan|180SX Type X '96|46,900|
-|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
-|Porsche|911 Carrera RS CS (993) '95|438,500|
 |Renault|R4 GTL '85|24,700|
 |Toyota|Celica GT-Four (ST205) '94|73,400|
 |Volkswagen|Sambabus Typ 2 '62|63,500|
