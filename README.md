@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 04-February-2025
+# Gran Turismo 7 Shops for 05-February-2025
 
 
 
@@ -36,30 +36,31 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Maserati|A6GCS/53 Spyder '54|3,000,000|
-|Plymouth|Superbird '70|402,000|
-|Plymouth|Superbird '70|402,000|
-|Plymouth|Superbird '70|402,000|
-|Plymouth|Superbird '70|402,000|
-|Plymouth|Superbird '70|402,000|
-|Toyota|Supra GT500 '97|1,800,000|
+|Alfa Romeo|155 2.5 V6 TI '93|800,000|
+|Mazda|RX500 '70|600,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Toyota|GT-One (TS020) '99|2,500,000|
+|McLaren|MP4/4 '88|12,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Maserati|A6GCS/53 Spyder '54|3,000,000|
 |Maserati|Merak SS '80|64,200|
 |Mazda|787B '91|3,300,000|
-|McLaren|MP4/4 '88|12,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
+|Plymouth|Superbird '70|402,000|
+|Plymouth|Superbird '70|402,000|
+|Plymouth|Superbird '70|402,000|
+|Plymouth|Superbird '70|402,000|
+|Plymouth|Superbird '70|402,000|
 |Porsche|962 C '88|1,300,000|
 |Porsche|Carrera GTS (904) '64|2,300,000|
+|Toyota|Supra GT500 '97|1,800,000|
 
 
 ## Used shop
@@ -67,27 +68,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Fairlady Z (Z34) '08|33,000|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Renault|Clio V6 24V '00|89,700|
-|Toyota|Sports 800 '65|51,400|
-|Volvo|240 SE Estate '93|48,700|
+|Audi|TT Coupe 3.2 quattro '03|44,100|
+|Ferrari|512 BB '76|288,600|
+|Nissan|Fairlady Z Version S (Z33) '07|30,800|
+|Toyota|Supra RZ '97|194,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '73|209,100|
-|Chevrolet|Corvette ZR-1 (C4) '89|90,600|
-|Ferrari|Dino 246 GT '71|333,900|
-|Lamborghini|Gallardo LP 560-4 '08|249,200|
-|Mazda|RX-7 GT-X (FC) '90|58,900|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|162,400|
-|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
-|Porsche|911 Carrera RS CS (993) '95|438,500|
 |Renault|R4 GTL '85|24,700|
 
 ### Available
@@ -103,7 +92,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mazda|Eunos Roadster (NA) '89|30,600|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|66,000|
 |Nissan|180SX Type X '96|46,900|
+|Nissan|Fairlady Z (Z34) '08|33,000|
+|Pontiac|Firebird Trans Am '78|110,000|
+|Pontiac|Firebird Trans Am '78|110,000|
+|Pontiac|Firebird Trans Am '78|110,000|
+|Pontiac|Firebird Trans Am '78|110,000|
+|Pontiac|Firebird Trans Am '78|110,000|
 |Porsche|911 GT3 (997) '09|137,000|
+|Renault|Clio V6 24V '00|89,700|
 |Toyota|Celica GT-Four (ST205) '94|73,400|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|47,400|
+|Toyota|Sports 800 '65|51,400|
 |Volkswagen|Sambabus Typ 2 '62|63,500|
+|Volvo|240 SE Estate '93|48,700|
