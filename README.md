@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-February-2025
+# Gran Turismo 7 Shops for 06-February-2025
 
 
 
@@ -36,8 +36,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|155 2.5 V6 TI '93|800,000|
-|Mazda|RX500 '70|600,000|
+|Porsche|959 '87|1,950,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -47,9 +46,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Maserati|A6GCS/53 Spyder '54|3,000,000|
 |Maserati|Merak SS '80|64,200|
 |Mazda|787B '91|3,300,000|
+|Mazda|RX500 '70|600,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
@@ -68,31 +69,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|44,100|
-|Ferrari|512 BB '76|288,600|
-|Nissan|Fairlady Z Version S (Z33) '07|30,800|
-|Toyota|Supra RZ '97|194,000|
+|BMW|M3 '89|76,900|
+|Ferrari|F430 '06|207,400|
+|Fiat|500 1.2 8V Lounge SS '08|13,800|
+|Ford|Ford GT '06|397,100|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|55,300|
+|Subaru|Impreza 22B-STi '98|174,200|
+|TVR|Tuscan Speed 6 '00|70,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|209,100|
-|Renault|R4 GTL '85|24,700|
+|Abarth|Abarth 500 '09|21,700|
+|MINI|MINI Cooper S '05|23,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|21,700|
+|Audi|TT Coupe 3.2 quattro '03|44,100|
 |DMC|DeLorean S2 '04|471,500|
+|Ferrari|512 BB '76|288,600|
 |Ford|Escort RS Cosworth '92|129,700|
 |Honda|Beat '91|15,900|
 |Honda|Civic Si Extra (EF) '87|61,600|
 |Lamborghini|Murcielago LP 640 '09|340,400|
-|MINI|MINI Cooper S '05|23,200|
 |Mazda|Eunos Roadster (NA) '89|30,600|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|66,000|
 |Nissan|180SX Type X '96|46,900|
 |Nissan|Fairlady Z (Z34) '08|33,000|
+|Nissan|Fairlady Z Version S (Z33) '07|30,800|
 |Pontiac|Firebird Trans Am '78|110,000|
 |Pontiac|Firebird Trans Am '78|110,000|
 |Pontiac|Firebird Trans Am '78|110,000|
@@ -103,5 +108,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Toyota|Celica GT-Four (ST205) '94|73,400|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|47,400|
 |Toyota|Sports 800 '65|51,400|
+|Toyota|Supra RZ '97|194,000|
 |Volkswagen|Sambabus Typ 2 '62|63,500|
 |Volvo|240 SE Estate '93|48,700|
