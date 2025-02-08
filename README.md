@@ -27,16 +27,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 07-February-2025
+# Gran Turismo 7 Shops for 08-February-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Jaguar|XJ220 '92|554,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
+|Plymouth|Superbird '70|402,000|
+|Plymouth|Superbird '70|402,000|
+|Plymouth|Superbird '70|402,000|
+|Plymouth|Superbird '70|402,000|
+|Plymouth|Superbird '70|402,000|
+|Porsche|Carrera GTS (904) '64|2,300,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -48,34 +59,31 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mazda|RX500 '70|600,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
-|Plymouth|Superbird '70|402,000|
-|Plymouth|Superbird '70|402,000|
-|Plymouth|Superbird '70|402,000|
-|Plymouth|Superbird '70|402,000|
-|Plymouth|Superbird '70|402,000|
 |Porsche|959 '87|1,950,000|
 |Porsche|962 C '88|1,300,000|
-|Porsche|Carrera GTS (904) '64|2,300,000|
 |Toyota|Supra GT500 '97|1,800,000|
 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Honda|Civic Type R (EK) '97|51,900|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|21,700|
 |DMC|DeLorean S2 '04|471,500|
 |Ford|Escort RS Cosworth '92|129,700|
+|Honda|Beat '91|15,900|
 |Lamborghini|Murcielago LP 640 '09|340,400|
-|MINI|MINI Cooper S '05|23,200|
+|Mazda|Eunos Roadster (NA) '89|30,600|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|66,000|
+|Nissan|180SX Type X '96|46,900|
+|Nissan|Fairlady Z (Z34) '08|33,000|
+|Pontiac|Firebird Trans Am '78|110,000|
+|Pontiac|Firebird Trans Am '78|110,000|
+|Pontiac|Firebird Trans Am '78|110,000|
+|Pontiac|Firebird Trans Am '78|110,000|
+|Pontiac|Firebird Trans Am '78|110,000|
 |Porsche|911 GT3 (997) '09|137,000|
+|Toyota|Celica GT-Four (ST205) '94|73,400|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -86,22 +94,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|F430 '06|207,400|
 |Fiat|500 1.2 8V Lounge SS '08|13,800|
 |Ford|Ford GT '06|397,100|
-|Honda|Beat '91|15,900|
 |Honda|Civic Si Extra (EF) '87|61,600|
-|Mazda|Eunos Roadster (NA) '89|30,600|
-|Nissan|180SX Type X '96|46,900|
-|Nissan|Fairlady Z (Z34) '08|33,000|
+|Honda|Civic Type R (EK) '97|51,900|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|55,300|
 |Nissan|Fairlady Z Version S (Z33) '07|30,800|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Pontiac|Firebird Trans Am '78|110,000|
 |Renault|Clio V6 24V '00|89,700|
 |Subaru|Impreza 22B-STi '98|174,200|
 |TVR|Tuscan Speed 6 '00|70,100|
-|Toyota|Celica GT-Four (ST205) '94|73,400|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|47,400|
 |Toyota|Sports 800 '65|51,400|
 |Toyota|Supra RZ '97|194,000|
