@@ -27,26 +27,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 10-February-2025
+# Gran Turismo 7 Shops for 11-February-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Nissan|Fairlady Z 432 '69|312,000|
+|Nissan|Fairlady Z 432 '69|312,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Maserati|A6GCS/53 Spyder '54|3,000,000|
+|Maserati|Merak SS '80|64,200|
 |Mazda|RX500 '70|600,000|
-|Mercedes-Benz|W 196 R '55|20,000,000|
 |Toyota|Supra GT500 '97|1,800,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Jaguar|XJ220 '92|554,000|
-|Maserati|Merak SS '80|64,200|
 |Mazda|787B '91|3,300,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Porsche|959 '87|1,950,000|
@@ -58,27 +64,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '07|70,200|
-|Honda|Integra Type R (DC2) '95|67,400|
-|Nissan|GT-R NISMO (R32) '90|393,800|
-|Porsche|911 Carrera RS (964) '92|220,000|
-|Toyota|MR2 GT-S '97|52,600|
+|Audi|TTS Coupe '09|67,600|
+|De Tomaso|Pantera '71|174,800|
+|Honda|NSX Type R '92|450,000|
+|Honda|NSX Type R '92|450,000|
+|Nissan|SILVIA spec-R Aero (S15) '02|59,800|
+|Suzuki|Swift Sport '07|12,800|
+|Volkswagen|Golf I GTI '83|43,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|512 BB '76|288,600|
 |Ford|Ford GT '06|397,100|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|55,300|
 |Nissan|Fairlady Z Version S (Z33) '07|30,800|
+|Renault|Clio V6 24V '00|89,700|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|47,400|
 |Toyota|Supra RZ '97|194,000|
-|Volkswagen|Sambabus Typ 2 '62|63,500|
-|Volvo|240 SE Estate '93|48,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|44,100|
+|BMW|M3 '07|70,200|
 |BMW|M3 '89|76,900|
 |Chevrolet|Corvette Stingray (C3) '69|51,700|
 |Daihatsu|Copen '02|13,300|
@@ -86,8 +94,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Fiat|500 1.2 8V Lounge SS '08|13,800|
 |Honda|Civic Si Extra (EF) '87|61,600|
 |Honda|Civic Type R (EK) '97|51,900|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|55,300|
-|Renault|Clio V6 24V '00|89,700|
+|Honda|Integra Type R (DC2) '95|67,400|
+|Nissan|GT-R NISMO (R32) '90|393,800|
+|Porsche|911 Carrera RS (964) '92|220,000|
 |Subaru|Impreza 22B-STi '98|174,200|
 |TVR|Tuscan Speed 6 '00|70,100|
+|Toyota|MR2 GT-S '97|52,600|
 |Toyota|Sports 800 '65|51,400|
