@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 12-February-2025
+# Gran Turismo 7 Shops for 13-February-2025
 
 
 
@@ -36,24 +36,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mark IV Race Car '67|6,750,000|
+|Ferrari|F50 '95|4,450,000|
+|Plymouth|XNR Ghia Roadster '60|1,600,000|
+|Porsche|356 A/1500 GS Carrera '56|618,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|155 2.5 V6 TI '93|800,000|
-|Maserati|Merak SS '80|64,200|
+|Porsche|959 '87|1,950,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJ220 '92|554,000|
 |Mazda|787B '91|3,300,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|Fairlady Z 432 '69|312,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|959 '87|1,950,000|
 |Porsche|962 C '88|1,300,000|
 
 
@@ -62,39 +63,41 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|132,600|
-|Ferrari|430 Scuderia '07|363,500|
-|Nissan|Silvia K's Type S (S14) '94|53,600|
+|BMW|M3 '03|72,700|
+|Dodge|Viper GTS '02|106,400|
+|Honda|NSX Type R '02|440,400|
+|MINI|Mini-Cooper 'S' '65|39,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|44,100|
+|BMW|M3 '89|76,900|
+|Fiat|500 1.2 8V Lounge SS '08|13,800|
 |Honda|Civic Type R (EK) '97|51,900|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|55,300|
-|Renault|Clio V6 24V '00|89,700|
 |Subaru|Impreza 22B-STi '98|174,200|
+|TVR|Tuscan Speed 6 '00|70,100|
 |Toyota|Sports 800 '65|51,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alpine|A110 '72|132,600|
 |Audi|TTS Coupe '09|67,600|
 |BMW|M3 '07|70,200|
-|BMW|M3 '89|76,900|
 |Chevrolet|Corvette Stingray (C3) '69|51,700|
 |Daihatsu|Copen '02|13,300|
 |De Tomaso|Pantera '71|174,800|
+|Ferrari|430 Scuderia '07|363,500|
 |Ferrari|F430 '06|207,400|
-|Fiat|500 1.2 8V Lounge SS '08|13,800|
 |Honda|Civic Si Extra (EF) '87|61,600|
 |Honda|Integra Type R (DC2) '95|67,400|
 |Honda|NSX Type R '92|450,000|
 |Honda|NSX Type R '92|450,000|
 |Nissan|GT-R NISMO (R32) '90|393,800|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,800|
+|Nissan|Silvia K's Type S (S14) '94|53,600|
 |Porsche|911 Carrera RS (964) '92|220,000|
 |Suzuki|Swift Sport '07|12,800|
-|TVR|Tuscan Speed 6 '00|70,100|
 |Toyota|MR2 GT-S '97|52,600|
 |Volkswagen|Golf I GTI '83|43,700|
