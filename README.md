@@ -27,18 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-February-2025
+# Gran Turismo 7 Shops for 19-February-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Porsche|917K '70|18,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mark IV Race Car '67|6,750,000|
+|Plymouth|XNR Ghia Roadster '60|1,600,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -47,7 +51,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette (C2) '63|234,000|
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,600,000|
 |Jaguar|E-type Coupe '61|218,000|
-|Plymouth|XNR Ghia Roadster '60|1,600,000|
+|Porsche|959 '87|1,950,000|
+|Porsche|959 '87|1,950,000|
 
 
 ## Used shop
@@ -55,20 +60,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Type R (EK) '98|47,000|
-|Honda|S2000 '99|103,800|
-|Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
-|Mitsubishi|Lancer Evolution V GSR '98|68,900|
+|Abarth|Abarth 595 SS '70|56,700|
+|Lamborghini|Diablo GT '00|790,200|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|95,000|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|132,600|
-|BMW|M3 '03|72,700|
-|De Tomaso|Pantera '71|174,800|
+|Ferrari|430 Scuderia '07|363,500|
 |Fiat|500 F '68|16,000|
 |Honda|Integra Type R (DC2) '95|67,400|
-|Nissan|SILVIA spec-R Aero (S15) '02|59,800|
+|Honda|NSX Type R '02|440,400|
 |Nissan|Silvia K's Type S (S14) '94|53,600|
 |Suzuki|Swift Sport '07|12,800|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|58,200|
@@ -81,11 +85,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 Sport Evolution '89|165,000|
 |Dodge|Viper GTS '02|106,400|
 |Ferrari|308 GTB '75|176,100|
-|Ferrari|430 Scuderia '07|363,500|
 |Ford|Sierra RS 500 Cosworth '87|198,100|
-|Honda|NSX Type R '02|440,400|
+|Honda|Civic Si Extra (EF) '87|62,300|
+|Honda|Civic Si Extra (EF) '87|57,500|
+|Honda|Civic Type R (EK) '98|47,000|
+|Honda|S2000 '99|103,800|
 |MINI|Mini-Cooper 'S' '65|39,300|
+|Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
 |Mercedes-Benz|SLR McLaren '09|492,000|
 |Mitsubishi|Lancer Evolution III GSR '95|95,600|
+|Mitsubishi|Lancer Evolution V GSR '98|68,900|
 |Nissan|R33 GT-R V-spec '97|155,400|
 |Volkswagen|Scirocco R '10|37,500|
