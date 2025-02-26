@@ -27,22 +27,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 25-February-2025
+# Gran Turismo 7 Shops for 26-February-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|365 GTB4 '71|610,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|162,000|
-|Jaguar|E-type Coupe '61|218,000|
 |Porsche|917K '70|18,000,000|
 
 ### Available
@@ -51,7 +44,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Aston Martin|DB3S '53|6,000,000|
 |Chaparral|2J '70|2,500,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
+|Dodge|Charger R/T 426 Hemi '68|158,000|
+|Dodge|Charger R/T 426 Hemi '68|158,000|
 |Ferrari|330 P4 '67|20,000,000|
+|Ferrari|365 GTB4 '71|610,000|
 |Ford|1932 Ford Roadster Hot Rod|400,000|
 |McLaren|McLaren F1 '94|20,000,000|
 
@@ -61,37 +57,37 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Integra Type R (DC2) '98|56,300|
-|RUF|CTR3 '07|771,300|
+|Ford|Mustang Mach 1 '71|36,500|
+|Nissan|R34 GT-R V-spec II Nur '02|396,400|
 
 ### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Alfa Romeo|MiTo '09|23,900|
-|Honda|Civic Type R (EK) '98|47,000|
-|Mazda|RX-7 Spirit R Type A (FD) '02|217,000|
-|Mercedes-Benz|SLR McLaren '09|492,000|
-
-### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|56,700|
 |Alfa Romeo|8C Competizione '08|313,400|
 |Autobianchi|A112 Abarth '85|30,400|
-|BMW|3.0 CSL '71|135,200|
-|BMW|M3 '97|86,700|
-|Honda|Civic SiR-II (EG) '93|48,200|
 |Honda|S800 '66|43,000|
 |Lamborghini|Countach 25th Anniversary '88|694,000|
 |Lamborghini|Diablo GT '00|790,200|
+|Nissan|Silvia K's Aero (S14) '96|58,800|
+|Porsche|911 Carrera RS (993) '95|228,000|
+|Porsche|911 Turbo (930) '81|219,000|
+
+### Available
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|BMW|3.0 CSL '71|135,200|
+|BMW|M3 '97|86,700|
+|Ford|Escort RS Cosworth '92|150,000|
+|Ford|Escort RS Cosworth '92|150,000|
+|Honda|Civic SiR-II (EG) '93|48,200|
+|Honda|Integra Type R (DC2) '98|56,300|
 |Lancia|Delta HF Integrale Evoluzione '91|99,700|
 |McLaren|MP4-12C '10|184,100|
 |Mitsubishi|GTO Twin Turbo '91|45,100|
 |Mitsubishi|Lancer Evolution V GSR '98|68,900|
 |Nissan|Fairlady 240ZG (HS30) '71|99,100|
-|Nissan|Silvia K's Aero (S14) '96|58,800|
-|Porsche|911 Carrera RS (993) '95|228,000|
-|Porsche|911 Turbo (930) '81|219,000|
+|RUF|CTR3 '07|771,300|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,600|
 |Subaru|Impreza Sedan WRX STi '04|43,500|
 |Suzuki|Cappuccino (EA11R) '91|17,800|
