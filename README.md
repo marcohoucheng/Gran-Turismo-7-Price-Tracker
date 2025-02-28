@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 27-February-2025
+# Gran Turismo 7 Shops for 28-February-2025
 
 
 
@@ -36,69 +36,60 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
+|Mercedes-Benz|CLK-LM '98|8,500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chaparral|2J '70|2,500,000|
+|Ferrari|330 P4 '67|20,000,000|
 |Ford|1932 Ford Roadster Hot Rod|400,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Aston Martin|DB3S '53|6,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Dodge|Charger R/T 426 Hemi '68|158,000|
 |Dodge|Charger R/T 426 Hemi '68|158,000|
-|Ferrari|330 P4 '67|20,000,000|
 |Ferrari|365 GTB4 '71|610,000|
 |McLaren|McLaren F1 '94|20,000,000|
+|Mercedes-Benz|Unimog Type 411 '62|46,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|AMG|SLS AMG '10|313,200|
-|Maserati|GranTurismo S '08|141,800|
-|Renault|R5 Turbo '80|154,700|
-|Volkswagen|Volkswagen 1200 '66|34,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|56,700|
-|Alfa Romeo|8C Competizione '08|313,400|
-|Autobianchi|A112 Abarth '85|30,400|
-|Honda|S800 '66|43,000|
-|Lamborghini|Countach 25th Anniversary '88|694,000|
-|Lamborghini|Diablo GT '00|790,200|
+|Lancia|Delta HF Integrale Evoluzione '91|99,700|
+|McLaren|MP4-12C '10|184,100|
+|Mitsubishi|GTO Twin Turbo '91|45,100|
 |Mitsubishi|Lancer Evolution V GSR '98|68,900|
-|Nissan|Silvia K's Aero (S14) '96|58,800|
-|Porsche|911 Carrera RS (993) '95|228,000|
-|Porsche|911 Turbo (930) '81|219,000|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,600|
+|Subaru|Impreza Sedan WRX STi '04|43,500|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
+|Toyota|Supra 3.0GT Turbo A '88|106,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|SLS AMG '10|313,200|
 |BMW|3.0 CSL '71|135,200|
 |BMW|M3 '97|86,700|
+|BMW|Z4 3.0i '03|44,600|
 |Ford|Escort RS Cosworth '92|150,000|
 |Ford|Escort RS Cosworth '92|150,000|
 |Ford|Mustang Mach 1 '71|36,500|
 |Honda|Civic SiR-II (EG) '93|48,200|
 |Honda|Integra Type R (DC2) '98|56,300|
-|Lancia|Delta HF Integrale Evoluzione '91|99,700|
-|McLaren|MP4-12C '10|184,100|
-|Mitsubishi|GTO Twin Turbo '91|45,100|
+|Maserati|GranTurismo S '08|141,800|
 |Nissan|Fairlady 240ZG (HS30) '71|99,100|
 |Nissan|R34 GT-R V-spec II Nur '02|396,400|
+|Peugeot|205 GTI '88|61,600|
 |RUF|CTR3 '07|771,300|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,600|
-|Subaru|Impreza Sedan WRX STi '04|43,500|
+|Renault|R5 Turbo '80|154,700|
 |Suzuki|Cappuccino (EA11R) '91|17,800|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
-|Toyota|Supra 3.0GT Turbo A '88|106,300|
+|Volkswagen|Volkswagen 1200 '66|34,000|
