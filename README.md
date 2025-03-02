@@ -27,11 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-March-2025
+# Gran Turismo 7 Shops for 02-March-2025
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
+|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -39,7 +45,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Aston Martin|DB3S '53|6,000,000|
 |Dodge|Charger R/T 426 Hemi '68|158,000|
 |Dodge|Charger R/T 426 Hemi '68|158,000|
-|Ferrari|330 P4 '67|20,000,000|
 |McLaren|McLaren F1 '94|20,000,000|
 
 ### Available
@@ -58,44 +63,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z8 '01|258,700|
-|Ferrari|Dino 246 GT '71|343,200|
-|Ferrari|Testarossa '91|372,400|
-|Honda|Civic Type R (EK) Touring Car|123,400|
-|Mazda|RX-7 GT-X (FC) '90|50,500|
-|Nissan|Silvia K's Dia Selection (S13) '90|51,900|
-|Nissan|Silvia Q's (S13) '88|33,900|
-|Porsche|911 Carrera RS CS (993) '95|437,300|
-|Toyota|Prius G '09|18,900|
+|Dodge|Super Bee '70|71,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '71|135,200|
+|BMW|M3 '97|86,700|
 |Ford|Escort RS Cosworth '92|150,000|
 |Ford|Escort RS Cosworth '92|150,000|
+|Ford|Mustang Mach 1 '71|36,500|
+|Honda|Civic SiR-II (EG) '93|48,200|
 |Honda|Integra Type R (DC2) '98|56,300|
-|Lancia|Delta HF Integrale Evoluzione '91|99,700|
-|McLaren|MP4-12C '10|184,100|
-|Mitsubishi|GTO Twin Turbo '91|45,100|
+|Nissan|Fairlady 240ZG (HS30) '71|99,100|
+|Nissan|R34 GT-R V-spec II Nur '02|396,400|
 |RUF|CTR3 '07|771,300|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,600|
-|Subaru|Impreza Sedan WRX STi '04|43,500|
 |Suzuki|Cappuccino (EA11R) '91|17,800|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,100|
-|Toyota|Supra 3.0GT Turbo A '88|106,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|313,200|
-|BMW|M3 '97|86,700|
 |BMW|Z4 3.0i '03|44,600|
-|Ford|Mustang Mach 1 '71|36,500|
-|Honda|Civic SiR-II (EG) '93|48,200|
+|BMW|Z8 '01|258,700|
+|Ferrari|Dino 246 GT '71|343,200|
+|Ferrari|Testarossa '91|372,400|
+|Honda|Civic Type R (EK) Touring Car|123,400|
 |Maserati|GranTurismo S '08|141,800|
-|Nissan|Fairlady 240ZG (HS30) '71|99,100|
-|Nissan|R34 GT-R V-spec II Nur '02|396,400|
+|Mazda|RX-7 GT-X (FC) '90|50,500|
+|Nissan|Silvia K's Dia Selection (S13) '90|51,900|
+|Nissan|Silvia Q's (S13) '88|33,900|
 |Peugeot|205 GTI '88|61,600|
+|Porsche|911 Carrera RS CS (993) '95|437,300|
 |Renault|R5 Turbo '80|154,700|
+|Toyota|Prius G '09|18,900|
 |Volkswagen|Volkswagen 1200 '66|34,000|
