@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 02-March-2025
+# Gran Turismo 7 Shops for 03-March-2025
 
 
 
@@ -36,26 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
-|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB3S '53|6,000,000|
-|Dodge|Charger R/T 426 Hemi '68|158,000|
-|Dodge|Charger R/T 426 Hemi '68|158,000|
-|McLaren|McLaren F1 '94|20,000,000|
+|De Tomaso|Mangusta (Christian Dior)|500,000|
+|Ferrari|365 GTB4 '71|610,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|365 GTB4 '71|610,000|
+|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
+|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
 
 
 ## Used shop
@@ -63,22 +60,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Super Bee '70|71,700|
+|Chevrolet|Corvette Convertible (C3) '69|51,300|
+|Chevrolet|Corvette ZR-1 (C4) '89|79,100|
+|Dodge|Viper SRT10 Coupe '06|113,900|
+|Mitsubishi|Lancer Evolution IV GSR '96|42,000|
+|Nissan|R32 GT-R V-spec II '94|179,800|
+|Nissan|Skyline GTS-R (R31) '87|171,600|
+|Renault|R4 GTL '85|29,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '71|135,200|
 |BMW|M3 '97|86,700|
-|Ford|Escort RS Cosworth '92|150,000|
-|Ford|Escort RS Cosworth '92|150,000|
 |Ford|Mustang Mach 1 '71|36,500|
 |Honda|Civic SiR-II (EG) '93|48,200|
-|Honda|Integra Type R (DC2) '98|56,300|
 |Nissan|Fairlady 240ZG (HS30) '71|99,100|
 |Nissan|R34 GT-R V-spec II Nur '02|396,400|
-|RUF|CTR3 '07|771,300|
-|Suzuki|Cappuccino (EA11R) '91|17,800|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -86,6 +83,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |AMG|SLS AMG '10|313,200|
 |BMW|Z4 3.0i '03|44,600|
 |BMW|Z8 '01|258,700|
+|Dodge|Super Bee '70|71,700|
 |Ferrari|Dino 246 GT '71|343,200|
 |Ferrari|Testarossa '91|372,400|
 |Honda|Civic Type R (EK) Touring Car|123,400|
