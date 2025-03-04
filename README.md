@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-March-2025
+# Gran Turismo 7 Shops for 04-March-2025
 
 
 
@@ -36,7 +36,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
+|Ford|Mustang Boss 429 '69|319,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -49,6 +50,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
@@ -60,39 +62,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Convertible (C3) '69|51,300|
-|Chevrolet|Corvette ZR-1 (C4) '89|79,100|
-|Dodge|Viper SRT10 Coupe '06|113,900|
-|Mitsubishi|Lancer Evolution IV GSR '96|42,000|
-|Nissan|R32 GT-R V-spec II '94|179,800|
-|Nissan|Skyline GTS-R (R31) '87|171,600|
-|Renault|R4 GTL '85|29,100|
+|BMW|3.0 CSL '73|204,700|
+|Chevrolet|Corvette ZR1 (C6) '09|98,200|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|166,900|
+|Volkswagen|Sambabus Typ 2 '62|54,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '97|86,700|
-|Ford|Mustang Mach 1 '71|36,500|
-|Honda|Civic SiR-II (EG) '93|48,200|
-|Nissan|Fairlady 240ZG (HS30) '71|99,100|
-|Nissan|R34 GT-R V-spec II Nur '02|396,400|
+|AMG|SLS AMG '10|313,200|
+|Renault|R5 Turbo '80|154,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|313,200|
 |BMW|Z4 3.0i '03|44,600|
 |BMW|Z8 '01|258,700|
+|Chevrolet|Corvette Convertible (C3) '69|51,300|
+|Chevrolet|Corvette ZR-1 (C4) '89|79,100|
 |Dodge|Super Bee '70|71,700|
+|Dodge|Viper SRT10 Coupe '06|113,900|
 |Ferrari|Dino 246 GT '71|343,200|
 |Ferrari|Testarossa '91|372,400|
 |Honda|Civic Type R (EK) Touring Car|123,400|
 |Maserati|GranTurismo S '08|141,800|
 |Mazda|RX-7 GT-X (FC) '90|50,500|
+|Mitsubishi|Lancer Evolution IV GSR '96|42,000|
+|Nissan|R32 GT-R V-spec II '94|179,800|
 |Nissan|Silvia K's Dia Selection (S13) '90|51,900|
 |Nissan|Silvia Q's (S13) '88|33,900|
+|Nissan|Skyline GTS-R (R31) '87|171,600|
 |Peugeot|205 GTI '88|61,600|
 |Porsche|911 Carrera RS CS (993) '95|437,300|
-|Renault|R5 Turbo '80|154,700|
+|Renault|R4 GTL '85|29,100|
 |Toyota|Prius G '09|18,900|
 |Volkswagen|Volkswagen 1200 '66|34,000|
