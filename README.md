@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 12-March-2025
+# Gran Turismo 7 Shops for 13-March-2025
 
 
 
@@ -36,25 +36,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|XJR-9 '88|3,000,000|
+|Pontiac|GTO 'The Judge' '69|242,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Ford|Mustang Boss 429 '69|319,000|
 |Jaguar|XJ13 '66|12,000,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette (C1) '58|119,000|
 |Ferrari|250 GTO '62|20,000,000|
+|Jaguar|XJR-9 '88|3,000,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
 |Porsche|Spyder type 550/1500RS '55|4,850,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|2000GT '67|992,000|
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
 
 ## Used shop
@@ -62,42 +62,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|DMC|DeLorean S2 '04|451,400|
-|MINI|MINI Cooper S '05|20,700|
-|Renault|Clio V6 24V '00|75,000|
+|Audi|TT Coupe 3.2 quattro '03|49,800|
+|Honda|Civic Type R (EK) '97|49,300|
+|Lamborghini|Murcielago LP 640 '09|337,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|R8 4.2 '07|145,400|
-|BMW|3.0 CSL '73|204,700|
-|Chevrolet|Corvette ZR1 (C6) '09|98,200|
-|Dodge|Viper SRT10 Coupe '06|113,900|
-|Honda|Beat '91|17,500|
 |Lamborghini|Gallardo LP 560-4 '08|239,100|
 |Mazda|Eunos Roadster (NA) '89|28,600|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|166,900|
+|Nissan|Sileighty '98|72,400|
+|Volkswagen|Sambabus Typ 2 '62|54,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|23,500|
 |BMW|Z4 3.0i '03|44,600|
+|DMC|DeLorean S2 '04|451,400|
 |Ferrari|458 Italia '09|250,400|
 |Fiat|500 1.2 8V Lounge SS '08|13,500|
 |Ford|Escort RS Cosworth '92|123,900|
 |Honda|NSX Type R '92|404,400|
 |Lancia|Stratos '73|522,600|
+|MINI|MINI Cooper S '05|20,700|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|65,900|
 |Nissan|180SX Type X '96|55,100|
-|Nissan|Sileighty '98|72,400|
 |Peugeot|205 GTI '88|61,600|
 |Porsche|911 GT3 (996) '01|158,400|
 |Porsche|911 GT3 (997) '09|142,600|
 |Porsche|911 Turbo (930) '81|250,000|
 |Porsche|911 Turbo (930) '81|250,000|
+|Renault|Clio V6 24V '00|75,000|
 |Toyota|Celica GT-Four (ST205) '94|80,900|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,900|
 |Toyota|Sports 800 '65|47,400|
-|Volkswagen|Sambabus Typ 2 '62|54,700|
 |Volvo|240 SE Estate '93|41,200|
