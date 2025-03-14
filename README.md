@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 13-March-2025
+# Gran Turismo 7 Shops for 14-March-2025
 
 
 
@@ -36,13 +36,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Pontiac|GTO 'The Judge' '69|242,000|
+|AMG|300 SEL 6.8 AMG '71|700,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Jaguar|XJ13 '66|12,000,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|Celica GT-FOUR Rally Car (ST205) '95|250,000|
 
 ### Available
@@ -52,8 +51,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|250 GTO '62|20,000,000|
 |Jaguar|XJR-9 '88|3,000,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
+|Pontiac|GTO 'The Judge' '69|242,000|
 |Porsche|Spyder type 550/1500RS '55|4,850,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|2000GT '67|992,000|
 
 
@@ -62,16 +61,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|49,800|
-|Honda|Civic Type R (EK) '97|49,300|
-|Lamborghini|Murcielago LP 640 '09|337,100|
+|Daihatsu|Copen '02|14,100|
+|Ferrari|512 BB '76|289,400|
+|Nissan|Fairlady Z (Z34) '08|32,300|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|60,200|
+|Pontiac|Firebird Trans Am '78|98,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|145,400|
-|Lamborghini|Gallardo LP 560-4 '08|239,100|
-|Mazda|Eunos Roadster (NA) '89|28,600|
+|Ferrari|458 Italia '09|250,400|
+|Lancia|Stratos '73|522,600|
 |Nissan|Sileighty '98|72,400|
 |Volkswagen|Sambabus Typ 2 '62|54,700|
 
@@ -79,13 +79,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|23,500|
+|Audi|TT Coupe 3.2 quattro '03|49,800|
 |BMW|Z4 3.0i '03|44,600|
 |DMC|DeLorean S2 '04|451,400|
-|Ferrari|458 Italia '09|250,400|
 |Fiat|500 1.2 8V Lounge SS '08|13,500|
 |Ford|Escort RS Cosworth '92|123,900|
+|Honda|Civic Type R (EK) '97|49,300|
 |Honda|NSX Type R '92|404,400|
-|Lancia|Stratos '73|522,600|
+|Lamborghini|Murcielago LP 640 '09|337,100|
 |MINI|MINI Cooper S '05|20,700|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|65,900|
 |Nissan|180SX Type X '96|55,100|
