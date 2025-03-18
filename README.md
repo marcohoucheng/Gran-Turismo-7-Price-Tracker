@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 17-March-2025
+# Gran Turismo 7 Shops for 18-March-2025
 
 
 
@@ -36,12 +36,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|R92CP '92|2,000,000|
+|Plymouth|Superbird '70|402,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C1) '58|119,000|
+|Toyota|2000GT '67|992,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -50,9 +50,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|F40 '92|3,100,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|Nissan|R92CP '92|2,000,000|
 |Pontiac|GTO 'The Judge' '69|242,000|
 |Renault|R8 Gordini '66|32,500|
-|Toyota|2000GT '67|992,000|
 
 
 ## Used shop
@@ -60,17 +60,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F430 '06|208,000|
-|Subaru|Impreza 22B-STi '98|166,500|
+|Alpine|A110 '72|133,200|
+|Chevrolet|Corvette Stingray (C3) '69|59,400|
+|Ford|Ford GT '06|397,000|
+|Nissan|Silvia K's Type S (S14) '94|44,900|
+|TVR|Tuscan Speed 6 '00|84,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |DMC|DeLorean S2 '04|451,400|
+|Ferrari|512 BB '76|289,400|
+|Fiat|500 1.2 8V Lounge SS '08|13,500|
+|Honda|Civic Type R (EK) '97|49,300|
 |Lamborghini|Murcielago LP 640 '09|337,100|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,900|
+|MINI|MINI Cooper S '05|20,700|
+|Nissan|180SX Type X '96|55,100|
+|Nissan|Fairlady Z (Z34) '08|32,300|
 |Porsche|911 GT3 (996) '01|158,400|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,900|
+|Toyota|Celica GT-Four (ST205) '94|80,900|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -78,18 +86,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|TT Coupe 3.2 quattro '03|49,800|
 |BMW|M3 '89|88,300|
 |Daihatsu|Copen '02|14,100|
-|Ferrari|512 BB '76|289,400|
-|Fiat|500 1.2 8V Lounge SS '08|13,500|
-|Honda|Civic Type R (EK) '97|49,300|
-|MINI|MINI Cooper S '05|20,700|
-|Nissan|180SX Type X '96|55,100|
-|Nissan|Fairlady Z (Z34) '08|32,300|
+|Ferrari|F430 '06|208,000|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|60,200|
 |Nissan|Fairlady Z Version S (Z33) '07|27,700|
 |Pontiac|Firebird Trans Am '78|98,300|
 |Renault|Clio V6 24V '00|75,000|
+|Subaru|Impreza 22B-STi '98|166,500|
 |Suzuki|Swift Sport '07|14,500|
-|Toyota|Celica GT-Four (ST205) '94|80,900|
 |Toyota|Sports 800 '65|47,400|
 |Toyota|Supra RZ '97|184,000|
 |Volkswagen|Golf I GTI '83|46,200|
