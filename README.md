@@ -27,33 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 19-March-2025
+# Gran Turismo 7 Shops for 20-March-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Mercedes-Benz|300 SL (W194) '52|20,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|300 SEL 6.8 AMG '71|700,000|
 |Pontiac|GTO 'The Judge' '69|242,000|
-|Toyota|2000GT '67|992,000|
+|Renault|R8 Gordini '66|32,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
 |Ferrari|F40 '92|3,100,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Nissan|R92CP '92|2,000,000|
 |Plymouth|Superbird '70|402,000|
-|Renault|R8 Gordini '66|32,500|
+|Shelby|Cobra 427 '66|2,500,000|
+|Shelby|G.T.350 '65|455,000|
 
 
 ## Used shop
@@ -61,38 +58,36 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|MINI|Mini-Cooper 'S' '65|36,200|
-|Nissan|GT-R NISMO (R32) '90|392,800|
+|BMW|M3 '07|79,400|
+|Porsche|911 Carrera RS (964) '92|207,000|
+|Toyota|MR2 GT-S '97|56,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|512 BB '76|289,400|
-|Fiat|500 1.2 8V Lounge SS '08|13,500|
-|Honda|Civic Type R (EK) '97|49,300|
-|MINI|MINI Cooper S '05|20,700|
-|Nissan|180SX Type X '96|55,100|
-|Nissan|Fairlady Z (Z34) '08|32,300|
+|Audi|TT Coupe 3.2 quattro '03|49,800|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|60,200|
+|Nissan|Fairlady Z Version S (Z33) '07|27,700|
 |Renault|Clio V6 24V '00|75,000|
-|Toyota|Celica GT-Four (ST205) '94|80,900|
 |Toyota|Sports 800 '65|47,400|
+|Toyota|Supra RZ '97|184,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|133,200|
-|Audi|TT Coupe 3.2 quattro '03|49,800|
 |BMW|M3 '89|88,300|
 |Chevrolet|Corvette Stingray (C3) '69|59,400|
 |Daihatsu|Copen '02|14,100|
+|Ferrari|Dino 246 GT '71|400,000|
+|Ferrari|Dino 246 GT '71|400,000|
 |Ferrari|F430 '06|208,000|
 |Ford|Ford GT '06|397,000|
-|Nissan|Fairlady Z Version S (Z33) '07|27,700|
+|MINI|Mini-Cooper 'S' '65|36,200|
+|Nissan|GT-R NISMO (R32) '90|392,800|
 |Nissan|Silvia K's Type S (S14) '94|44,900|
 |Pontiac|Firebird Trans Am '78|98,300|
 |Subaru|Impreza 22B-STi '98|166,500|
 |Suzuki|Swift Sport '07|14,500|
 |TVR|Tuscan Speed 6 '00|84,600|
-|Toyota|Supra RZ '97|184,000|
 |Volkswagen|Golf I GTI '83|46,200|
