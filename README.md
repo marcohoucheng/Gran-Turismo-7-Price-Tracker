@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-March-2025
+# Gran Turismo 7 Shops for 22-March-2025
 
 
 
@@ -36,25 +36,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|787B '91|3,300,000|
+|Ferrari|GTO '84|3,500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
+|Ferrari|F40 '92|3,100,000|
+|Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
-|Renault|R8 Gordini '66|32,500|
+|Shelby|Cobra 427 '66|2,500,000|
+|Shelby|G.T.350 '65|455,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F40 '92|3,100,000|
-|Ford|Mark IV Race Car '67|6,750,000|
+|Mazda|787B '91|3,300,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Nissan|R92CP '92|2,000,000|
 |Plymouth|Superbird '70|402,000|
-|Shelby|Cobra 427 '66|2,500,000|
-|Shelby|G.T.350 '65|455,000|
 
 
 ## Used shop
@@ -62,40 +61,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TTS Coupe '09|55,000|
-|De Tomaso|Pantera '71|163,600|
-|Ferrari|430 Scuderia '07|363,800|
-|Fiat|500 F '68|16,400|
-|Honda|Integra Type R (DC2) '95|62,100|
-|Nissan|SILVIA spec-R Aero (S15) '02|59,200|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|56,700|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|179,700|
+|BMW|M3 Sport Evolution '89|172,000|
+|Volkswagen|Scirocco R '10|38,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|49,800|
 |Daihatsu|Copen '02|14,100|
-|Nissan|Fairlady Z Version S (Z33) '07|27,700|
-|Toyota|Supra RZ '97|184,000|
+|Ferrari|Dino 246 GT '71|400,000|
+|Ferrari|Dino 246 GT '71|400,000|
+|Ford|Ford GT '06|397,000|
+|Pontiac|Firebird Trans Am '78|98,300|
+|Suzuki|Swift Sport '07|14,500|
 |Volkswagen|Golf I GTI '83|46,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|133,200|
+|Audi|TTS Coupe '09|55,000|
 |BMW|M3 '07|79,400|
 |BMW|M3 '89|88,300|
 |Chevrolet|Corvette Stingray (C3) '69|59,400|
-|Ferrari|Dino 246 GT '71|400,000|
-|Ferrari|Dino 246 GT '71|400,000|
+|De Tomaso|Pantera '71|163,600|
+|Ferrari|430 Scuderia '07|363,800|
 |Ferrari|F430 '06|208,000|
-|Ford|Ford GT '06|397,000|
+|Fiat|500 F '68|16,400|
+|Honda|Integra Type R (DC2) '95|62,100|
 |MINI|Mini-Cooper 'S' '65|36,200|
 |Nissan|GT-R NISMO (R32) '90|392,800|
+|Nissan|SILVIA spec-R Aero (S15) '02|59,200|
 |Nissan|Silvia K's Type S (S14) '94|44,900|
-|Pontiac|Firebird Trans Am '78|98,300|
 |Porsche|911 Carrera RS (964) '92|207,000|
 |Subaru|Impreza 22B-STi '98|166,500|
-|Suzuki|Swift Sport '07|14,500|
 |TVR|Tuscan Speed 6 '00|84,600|
 |Toyota|MR2 GT-S '97|56,200|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|56,700|
