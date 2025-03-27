@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 26-March-2025
+# Gran Turismo 7 Shops for 27-March-2025
 
 
 
@@ -37,8 +37,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Mazda|787B '91|3,300,000|
-|Nissan|R92CP '92|2,000,000|
-|Plymouth|Superbird '70|402,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -46,6 +44,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
 |Ferrari|GTO '84|3,500,000|
 |Ford|GT40 Mark I '66|6,700,000|
+|Jaguar|XJ220 '92|554,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
@@ -57,38 +56,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Sierra RS 500 Cosworth '87|181,200|
-|Mitsubishi|Lancer Evolution III GSR '95|83,500|
+|Abarth|Abarth 595 SS '70|47,000|
+|BMW|3.0 CSL '71|138,000|
+|Honda|S2000 '99|98,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|179,700|
 |Audi|TTS Coupe '09|55,000|
+|BMW|M3 '03|67,100|
 |BMW|M3 '07|79,400|
-|Ferrari|F430 '06|208,000|
-|Nissan|GT-R NISMO (R32) '90|392,800|
-|Porsche|911 Carrera RS (964) '92|207,000|
-|TVR|Tuscan Speed 6 '00|84,600|
-|Toyota|MR2 GT-S '97|56,200|
+|De Tomaso|Pantera '71|163,600|
+|Fiat|500 F '68|16,400|
+|MINI|Mini-Cooper 'S' '65|36,200|
+|Nissan|SILVIA spec-R Aero (S15) '02|59,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|179,700|
 |Autobianchi|A112 Abarth '85|29,700|
-|BMW|M3 '03|67,100|
+|BMW|3.0 CSL '73|250,000|
+|BMW|3.0 CSL '73|250,000|
 |BMW|M3 Sport Evolution '89|172,000|
-|De Tomaso|Pantera '71|163,600|
 |Dodge|Viper GTS '02|107,300|
 |Ferrari|308 GTB '75|176,700|
 |Ferrari|430 Scuderia '07|363,800|
-|Fiat|500 F '68|16,400|
+|Ford|Sierra RS 500 Cosworth '87|181,200|
 |Honda|Civic SiR-II (EG) '93|48,000|
 |Honda|Civic Type R (EK) '98|52,100|
 |Honda|Integra Type R (DC2) '95|62,100|
 |Honda|NSX Type R '02|435,000|
 |Lancia|Delta HF Integrale Evoluzione '91|98,500|
-|MINI|Mini-Cooper 'S' '65|36,200|
-|Nissan|SILVIA spec-R Aero (S15) '02|59,200|
+|Mitsubishi|Lancer Evolution III GSR '95|83,500|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|56,700|
 |Volkswagen|Scirocco R '10|38,700|
