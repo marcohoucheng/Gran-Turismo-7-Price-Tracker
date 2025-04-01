@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 31-March-2025
+# Gran Turismo 7 Shops for 01-April-2025
 
 
 
@@ -36,20 +36,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
+|McLaren|MP4/4 '88|12,000,000|
+|Shelby|G.T.350 '65|455,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|GTO '84|3,500,000|
-|Ford|GT40 Mark I '66|6,700,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
-|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Subaru|Impreza Rally Car '98|650,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
 |Dodge|Challenger R/T '70|214,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
@@ -61,22 +61,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Subaru|Impreza 22B-STi '98|166,400|
+|Ferrari|512 BB '76|350,000|
+|Ferrari|512 BB '76|350,000|
+|Nissan|Fairlady 240ZG (HS30) '71|106,400|
+|Porsche|911 Carrera RS (993) '95|215,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|29,700|
-|BMW|M3 Sport Evolution '89|172,000|
 |Dodge|Viper GTS '02|107,300|
-|Ferrari|308 GTB '75|176,700|
-|Ferrari|430 Scuderia '07|363,800|
 |Ford|Sierra RS 500 Cosworth '87|181,200|
-|Honda|Civic SiR-II (EG) '93|48,000|
 |Honda|Civic Type R (EK) '98|52,100|
 |Lancia|Delta HF Integrale Evoluzione '91|98,500|
 |Mitsubishi|Lancer Evolution III GSR '95|83,500|
-|Volkswagen|Scirocco R '10|38,700|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -95,6 +92,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Peugeot|205 GTI '88|59,300|
 |RUF|CTR3 '07|788,800|
 |Renault|Kangoo 1.4 '01|13,500|
+|Subaru|Impreza 22B-STi '98|166,400|
 |Subaru|Impreza Sedan WRX STi '04|45,300|
 |Suzuki|Cappuccino (EA11R) '91|17,700|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|104,600|
