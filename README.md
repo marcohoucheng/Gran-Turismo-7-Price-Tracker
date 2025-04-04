@@ -27,18 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-April-2025
+# Gran Turismo 7 Shops for 04-April-2025
 
 
 
 ## Legend shop
 
-### New
+### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jeep|Willys MB '45|30,100|
-|NISMO|400R '95|1,600,000|
-|Porsche|911 Carrera RS (901) '73|799,000|
+|Mercedes-Benz|Unimog Type 411 '62|46,000|
+|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -47,56 +46,50 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alpine|A220 Race Car '68|330,000|
 |Dodge|Challenger R/T '70|214,000|
 |Ferrari|330 P4 '67|20,000,000|
+|Jeep|Willys MB '45|30,100|
 |McLaren|MP4/4 '88|12,000,000|
-|Mercedes-Benz|Unimog Type 411 '62|46,000|
-|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
+|NISMO|400R '95|1,600,000|
+|Porsche|911 Carrera RS (901) '73|799,000|
 |Shelby|G.T.350 '65|455,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Mazda|RX-7 Spirit R Type A (FD) '02|224,600|
-|Mitsubishi|Lancer Evolution V GSR '98|65,100|
-|Nissan|Silvia Q's (S13) '88|34,200|
-|Renault|R5 Turbo '80|160,000|
-|Toyota|Supra 3.0GT Turbo A '88|107,400|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|47,000|
 |BMW|3.0 CSL '71|138,000|
-|Honda|S2000 '99|98,400|
+|BMW|Z4 3.0i '03|53,700|
+|Lamborghini|Countach 25th Anniversary '88|655,200|
 |Lamborghini|Diablo GT '00|830,900|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|97,900|
-|Nissan|R33 GT-R V-spec '97|155,200|
+|Suzuki|Cappuccino (EA11R) '91|17,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|MiTo '09|22,000|
 |BMW|M3 '89|76,900|
-|BMW|Z4 3.0i '03|53,700|
 |Ferrari|512 BB '76|350,000|
 |Ferrari|512 BB '76|350,000|
 |Honda|Integra Type R (DC2) '98|67,300|
 |Honda|S800 '66|42,300|
-|Lamborghini|Countach 25th Anniversary '88|655,200|
+|Mazda|RX-7 Spirit R Type A (FD) '02|224,600|
 |Mercedes-Benz|SLR McLaren '09|521,900|
+|Mitsubishi|Lancer Evolution V GSR '98|65,100|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|R34 GT-R V-spec II Nur '02|388,500|
+|Nissan|Silvia Q's (S13) '88|34,200|
 |Peugeot|205 GTI '88|59,300|
 |Porsche|911 Carrera RS (993) '95|215,200|
 |RUF|CTR3 '07|788,800|
 |Renault|Kangoo 1.4 '01|13,500|
+|Renault|R5 Turbo '80|160,000|
 |Subaru|Impreza 22B-STi '98|166,400|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|58,900|
 |Subaru|Impreza Sedan WRX STi '04|45,300|
-|Suzuki|Cappuccino (EA11R) '91|17,700|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|104,600|
+|Toyota|Supra 3.0GT Turbo A '88|107,400|
 |Volkswagen|Scirocco R '10|38,700|
 |Volkswagen|Volkswagen 1200 '66|29,500|
