@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-April-2025
+# Gran Turismo 7 Shops for 06-April-2025
 
 
 
@@ -38,8 +38,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Dodge|Challenger R/T '70|214,000|
 |McLaren|MP4/4 '88|12,000,000|
-|Mercedes-Benz|Unimog Type 411 '62|46,000|
-|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -59,26 +57,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|301,300|
-|Porsche|911 Turbo (930) '81|224,900|
-|Toyota|Prius G '09|20,000|
+|AMG|SLS AMG '10|320,900|
+|McLaren|MP4-12C '10|193,900|
+|Nissan|Silvia K's Dia Selection (S13) '90|51,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|MiTo '09|22,000|
-|BMW|Z4 3.0i '03|53,700|
 |Ferrari|512 BB '76|350,000|
 |Ferrari|512 BB '76|350,000|
-|Lamborghini|Countach 25th Anniversary '88|655,200|
 |Nissan|R34 GT-R V-spec II Nur '02|388,500|
 |Peugeot|205 GTI '88|59,300|
 |RUF|CTR3 '07|788,800|
-|Suzuki|Cappuccino (EA11R) '91|17,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|8C Competizione '08|301,300|
 |BMW|M3 '89|76,900|
 |Honda|Integra Type R (DC2) '98|67,300|
 |Honda|S800 '66|42,300|
@@ -88,11 +84,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|Silvia Q's (S13) '88|34,200|
 |Porsche|911 Carrera RS (993) '95|215,200|
+|Porsche|911 Turbo (930) '81|224,900|
 |Renault|Kangoo 1.4 '01|13,500|
 |Renault|R5 Turbo '80|160,000|
 |Subaru|Impreza 22B-STi '98|166,400|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|58,900|
 |Subaru|Impreza Sedan WRX STi '04|45,300|
+|Toyota|Prius G '09|20,000|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|104,600|
 |Toyota|Supra 3.0GT Turbo A '88|107,400|
 |Volkswagen|Scirocco R '10|38,700|
