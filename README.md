@@ -27,18 +27,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-April-2025
+# Gran Turismo 7 Shops for 10-April-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Honda|RA272 '65|2,500,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
+|Shelby|Cobra 427 '66|2,500,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|NISMO|400R '95|1,600,000|
+|Jeep|Willys MB '45|30,100|
 |Porsche|911 Carrera RS (901) '73|799,000|
-|Shelby|G.T.350 '65|455,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -46,7 +52,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Citroen|DS 21 Pallas '70|47,100|
 |Jaguar|E-type Coupe '61|218,000|
-|Jeep|Willys MB '45|30,100|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
@@ -54,16 +59,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|BMW|M3 '97|72,800|
+|Ford|Mustang Mach 1 '71|37,500|
+|Honda|Civic Type R (EK) Touring Car|117,000|
+|Mitsubishi|GTO Twin Turbo '91|45,000|
+|Porsche|911 Carrera RS CS (993) '95|415,900|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '89|76,900|
-|Honda|Integra Type R (DC2) '98|67,300|
-|Honda|S800 '66|42,300|
-|Mazda|RX-7 Spirit R Type A (FD) '02|224,600|
-|Mercedes-Benz|SLR McLaren '09|521,900|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Renault|R5 Turbo '80|160,000|
+|Mitsubishi|Lancer Evolution V GSR '98|65,100|
+|Nissan|Silvia Q's (S13) '88|34,200|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|58,900|
+|Toyota|Prius G '09|20,000|
 |Volkswagen|Volkswagen 1200 '66|29,500|
 
 ### Available
@@ -77,16 +88,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|Testarossa '91|369,000|
 |Maserati|GranTurismo S '08|146,000|
 |McLaren|MP4-12C '10|193,900|
-|Mitsubishi|Lancer Evolution V GSR '98|65,100|
 |Nissan|Silvia K's Aero (S14) '96|59,100|
 |Nissan|Silvia K's Dia Selection (S13) '90|51,900|
-|Nissan|Silvia Q's (S13) '88|34,200|
 |Porsche|911 Turbo (930) '81|224,900|
 |Renault|Kangoo 1.4 '01|13,500|
 |Renault|R4 GTL '85|26,600|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|58,900|
 |TVR|Tuscan Speed 6 '00|95,000|
 |TVR|Tuscan Speed 6 '00|95,000|
-|Toyota|Prius G '09|20,000|
 |Toyota|Supra 3.0GT Turbo A '88|107,400|
 |Volkswagen|Sambabus Typ 2 '62|55,600|
