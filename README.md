@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 10-April-2025
+# Gran Turismo 7 Shops for 11-April-2025
 
 
 
@@ -36,24 +36,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|RA272 '65|2,500,000|
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
-|Shelby|Cobra 427 '66|2,500,000|
+|Chevrolet|Camaro Z28 '69|128,000|
+|De Tomaso|Mangusta '69|315,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Jeep|Willys MB '45|30,100|
-|Porsche|911 Carrera RS (901) '73|799,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Citroen|DS 21 Pallas '70|47,100|
+|Honda|RA272 '65|2,500,000|
 |Jaguar|E-type Coupe '61|218,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+|Shelby|Cobra 427 '66|2,500,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 
@@ -62,38 +63,44 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '97|72,800|
-|Ford|Mustang Mach 1 '71|37,500|
-|Honda|Civic Type R (EK) Touring Car|117,000|
-|Mitsubishi|GTO Twin Turbo '91|45,000|
-|Porsche|911 Carrera RS CS (993) '95|415,900|
+|Chevrolet|Corvette ZR-1 (C4) '89|78,900|
+|Dodge|Viper SRT10 Coupe '06|114,000|
+|Ferrari|Dino 246 GT '71|352,300|
+|Honda|Beat '91|15,900|
+|Honda|Civic Si Extra (EF) '87|53,100|
+|Mazda|Eunos Roadster (NA) '89|31,200|
+|Mazda|RX-7 GT-X (FC) '90|60,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|SLS AMG '10|320,900|
+|Alfa Romeo|8C Competizione '08|301,300|
 |Mitsubishi|Lancer Evolution V GSR '98|65,100|
 |Nissan|Silvia Q's (S13) '88|34,200|
+|Porsche|911 Turbo (930) '81|224,900|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|58,900|
 |Toyota|Prius G '09|20,000|
-|Volkswagen|Volkswagen 1200 '66|29,500|
+|Toyota|Supra 3.0GT Turbo A '88|107,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|320,900|
-|Alfa Romeo|8C Competizione '08|301,300|
 |BMW|3.0 CSL '73|211,200|
+|BMW|M3 '97|72,800|
 |BMW|Z8 '01|259,000|
 |Ferrari|308 GTB '75|200,000|
 |Ferrari|Testarossa '91|369,000|
+|Ford|Mustang Mach 1 '71|37,500|
+|Honda|Civic Type R (EK) Touring Car|117,000|
 |Maserati|GranTurismo S '08|146,000|
 |McLaren|MP4-12C '10|193,900|
+|Mitsubishi|GTO Twin Turbo '91|45,000|
 |Nissan|Silvia K's Aero (S14) '96|59,100|
 |Nissan|Silvia K's Dia Selection (S13) '90|51,900|
-|Porsche|911 Turbo (930) '81|224,900|
+|Porsche|911 Carrera RS CS (993) '95|415,900|
 |Renault|Kangoo 1.4 '01|13,500|
 |Renault|R4 GTL '85|26,600|
 |TVR|Tuscan Speed 6 '00|95,000|
 |TVR|Tuscan Speed 6 '00|95,000|
-|Toyota|Supra 3.0GT Turbo A '88|107,400|
 |Volkswagen|Sambabus Typ 2 '62|55,600|
