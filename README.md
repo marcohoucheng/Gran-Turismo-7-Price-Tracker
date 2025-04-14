@@ -27,24 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 13-April-2025
+# Gran Turismo 7 Shops for 14-April-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Honda|NSX GT500 '00|1,500,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Citroen|DS 21 Pallas '70|47,100|
-|Jaguar|E-type Coupe '61|218,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -52,6 +44,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Chevrolet|Camaro Z28 '69|128,000|
 |De Tomaso|Mangusta '69|315,000|
+|Honda|NSX GT500 '00|1,500,000|
 |Honda|RA272 '65|2,500,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
@@ -64,34 +57,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|26,400|
-|Dodge|Super Bee '70|70,600|
-|Nissan|Skyline GTS-R (R31) '87|166,500|
-|Volvo|240 SE Estate '93|46,600|
+|Audi|R8 4.2 '07|144,600|
+|Chevrolet|Corvette ZR1 (C6) '09|107,400|
+|Mitsubishi|Lancer Evolution IV GSR '96|44,200|
+|Nissan|R32 GT-R V-spec II '94|176,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|308 GTB '75|200,000|
+|BMW|Z8 '01|259,000|
+|Ferrari|Testarossa '91|369,000|
 |Maserati|GranTurismo S '08|146,000|
 |McLaren|MP4-12C '10|193,900|
 |Nissan|Silvia K's Aero (S14) '96|59,100|
-|Nissan|Silvia K's Dia Selection (S13) '90|51,900|
-|Renault|Kangoo 1.4 '01|13,500|
-|Renault|R4 GTL '85|26,600|
-|TVR|Tuscan Speed 6 '00|95,000|
-|TVR|Tuscan Speed 6 '00|95,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 500 '09|26,400|
 |BMW|3.0 CSL '73|211,200|
 |BMW|M3 '97|72,800|
-|BMW|Z8 '01|259,000|
 |Chevrolet|Corvette ZR-1 (C4) '89|78,900|
+|Dodge|Super Bee '70|70,600|
 |Dodge|Viper SRT10 Coupe '06|114,000|
 |Ferrari|Dino 246 GT '71|352,300|
-|Ferrari|Testarossa '91|369,000|
 |Ford|Mustang Mach 1 '71|37,500|
 |Honda|Beat '91|15,900|
 |Honda|Civic Si Extra (EF) '87|53,100|
@@ -102,6 +91,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mazda|Eunos Roadster (NA) '89|31,200|
 |Mazda|RX-7 GT-X (FC) '90|60,200|
 |Mitsubishi|GTO Twin Turbo '91|45,000|
+|Nissan|Skyline GTS-R (R31) '87|166,500|
 |Porsche|911 Carrera RS CS (993) '95|415,900|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,200|
 |Volkswagen|Sambabus Typ 2 '62|55,600|
+|Volvo|240 SE Estate '93|46,600|
