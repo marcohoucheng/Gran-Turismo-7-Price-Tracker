@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-April-2025
+# Gran Turismo 7 Shops for 16-April-2025
 
 
 
@@ -36,24 +36,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Maserati|A6GCS/53 Spyder '54|3,000,000|
+|Mercedes-Benz|S Barker Tourer '29|13,000,000|
 
 ### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Honda|RA272 '65|2,500,000|
-
-### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Chevrolet|Camaro Z28 '69|128,000|
 |De Tomaso|Mangusta '69|315,000|
-|Honda|NSX GT500 '00|1,500,000|
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
+|Honda|RA272 '65|2,500,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
-|Porsche|Spyder type 550/1500RS '55|4,850,000|
 |Shelby|Cobra 427 '66|2,500,000|
+
+### Available
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Honda|NSX GT500 '00|1,500,000|
+|Maserati|A6GCS/53 Spyder '54|3,000,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
+|Porsche|Spyder type 550/1500RS '55|4,850,000|
 
 
 ## Used shop
@@ -61,43 +62,44 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Stingray (C3) '69|71,500|
-|Chevrolet|Corvette Stingray (C3) '69|71,500|
-|Fiat|500 1.2 8V Lounge SS '08|12,700|
-|Toyota|Sports 800 '65|45,900|
+|Chevrolet|Corvette Convertible (C3) '69|53,800|
+|Ferrari|458 Italia '09|243,100|
+|Lamborghini|Gallardo LP 560-4 '08|253,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '73|211,200|
-|BMW|Z8 '01|259,000|
-|Ferrari|Testarossa '91|369,000|
+|BMW|M3 '97|72,800|
+|Chevrolet|Corvette ZR-1 (C4) '89|78,900|
+|Honda|Civic Si Extra (EF) '87|53,100|
+|Mazda|Eunos Roadster (NA) '89|31,200|
+|Mazda|RX-7 GT-X (FC) '90|60,200|
+|Porsche|911 Carrera RS CS (993) '95|415,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|26,400|
 |Audi|R8 4.2 '07|144,600|
-|BMW|M3 '97|72,800|
-|Chevrolet|Corvette ZR-1 (C4) '89|78,900|
+|Chevrolet|Corvette Stingray (C3) '69|71,500|
+|Chevrolet|Corvette Stingray (C3) '69|71,500|
 |Chevrolet|Corvette ZR1 (C6) '09|107,400|
 |Dodge|Super Bee '70|70,600|
 |Dodge|Viper SRT10 Coupe '06|114,000|
 |Ferrari|Dino 246 GT '71|352,300|
+|Fiat|500 1.2 8V Lounge SS '08|12,700|
 |Ford|Mustang Mach 1 '71|37,500|
 |Honda|Beat '91|15,900|
-|Honda|Civic Si Extra (EF) '87|53,100|
 |Honda|Civic SiR-II (EG) '93|60,000|
 |Honda|Civic Type R (EK) '97|65,000|
 |Honda|Civic Type R (EK) '98|65,000|
 |Honda|Civic Type R (EK) Touring Car|117,000|
-|Mazda|Eunos Roadster (NA) '89|31,200|
-|Mazda|RX-7 GT-X (FC) '90|60,200|
 |Mitsubishi|GTO Twin Turbo '91|45,000|
 |Mitsubishi|Lancer Evolution IV GSR '96|44,200|
 |Nissan|R32 GT-R V-spec II '94|176,500|
 |Nissan|Skyline GTS-R (R31) '87|166,500|
-|Porsche|911 Carrera RS CS (993) '95|415,900|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,200|
+|Toyota|Sports 800 '65|45,900|
 |Volkswagen|Sambabus Typ 2 '62|55,600|
 |Volvo|240 SE Estate '93|46,600|
