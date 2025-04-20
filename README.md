@@ -27,34 +27,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 19-April-2025
+# Gran Turismo 7 Shops for 20-April-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|158,000|
-|McLaren|McLaren F1 GTR - BMW '95|16,000,000|
-|Nissan|Fairlady Z 432 '69|312,000|
-|Nissan|GT-R GT500 '99|2,500,000|
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Honda|NSX GT500 '00|1,500,000|
 |Maserati|A6GCS/53 Spyder '54|3,000,000|
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|290,000|
+|Porsche|Spyder type 550/1500RS '55|4,850,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|NSX GT500 '00|1,500,000|
+|Dodge|Charger R/T 426 Hemi '68|158,000|
+|McLaren|McLaren F1 GTR - BMW '95|16,000,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
-|Porsche|Spyder type 550/1500RS '55|4,850,000|
+|Nissan|Fairlady Z 432 '69|312,000|
+|Nissan|GT-R GT500 '99|2,500,000|
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 
 ## Used shop
@@ -62,12 +57,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Daihatsu|Copen '02|14,000|
-|Lancia|Stratos '73|505,300|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|163,600|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|62,400|
-|Pontiac|Firebird Trans Am '78|96,000|
-|Porsche|911 GT3 (997) '09|139,900|
+|Nissan|Sileighty '98|75,200|
+|Suzuki|Swift Sport '07|14,600|
+|Volkswagen|Golf I GTI '83|41,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -77,11 +69,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette Stingray (C3) '69|71,500|
 |Dodge|Super Bee '70|70,600|
 |Dodge|Viper SRT10 Coupe '06|114,000|
-|Ferrari|Dino 246 GT '71|352,300|
 |Honda|Civic Type R (EK) Touring Car|117,000|
-|Mitsubishi|GTO Twin Turbo '91|45,000|
+|Mitsubishi|Lancer Evolution IV GSR '96|44,200|
+|Nissan|R32 GT-R V-spec II '94|176,500|
+|Nissan|Skyline GTS-R (R31) '87|166,500|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,200|
-|Volvo|240 SE Estate '93|46,600|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -89,15 +81,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|R8 4.2 '07|144,600|
 |Chevrolet|Corvette Convertible (C3) '69|53,800|
 |Chevrolet|Corvette ZR1 (C6) '09|107,400|
+|Daihatsu|Copen '02|14,000|
 |Ferrari|458 Italia '09|243,100|
 |Fiat|500 1.2 8V Lounge SS '08|12,700|
 |Honda|NSX Type R '92|385,600|
 |Lamborghini|Gallardo LP 560-4 '08|253,400|
-|Mitsubishi|Lancer Evolution IV GSR '96|44,200|
-|Nissan|R32 GT-R V-spec II '94|176,500|
-|Nissan|Skyline GTS-R (R31) '87|166,500|
+|Lancia|Stratos '73|505,300|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|163,600|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|62,400|
 |Peugeot|205 GTI '88|70,000|
 |Peugeot|205 GTI '88|70,000|
 |Peugeot|205 GTI '88|70,000|
+|Pontiac|Firebird Trans Am '78|96,000|
 |Porsche|911 GT3 (996) '01|158,500|
+|Porsche|911 GT3 (997) '09|139,900|
 |Toyota|Sports 800 '65|45,900|
