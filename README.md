@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-April-2025
+# Gran Turismo 7 Shops for 22-April-2025
 
 
 
@@ -36,21 +36,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|XJ13 '66|12,000,000|
+|Ferrari|F40 '92|3,100,000|
+|Ferrari|F50 '95|4,450,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|NSX GT500 '00|1,500,000|
-|Porsche|Spyder type 550/1500RS '55|4,850,000|
+|Mercedes-Benz|S Barker Tourer '29|13,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Charger R/T 426 Hemi '68|158,000|
+|Jaguar|XJ13 '66|12,000,000|
 |McLaren|McLaren F1 GTR - BMW '95|16,000,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
-|Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
@@ -61,28 +61,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|166,200|
-|Ford|Escort RS Cosworth '92|129,000|
-|Toyota|Celica GT-Four (ST205) '94|78,100|
+|Ferrari|Testarossa '91|450,000|
+|Ferrari|Testarossa '91|450,000|
+|Ferrari|Testarossa '91|450,000|
+|Honda|Civic Type R (EK) '98|46,800|
+|Lamborghini|Murcielago LP 640 '09|343,000|
+|MINI|Mini-Cooper 'S' '65|40,100|
+|Nissan|180SX Type X '96|48,800|
+|Nissan|Fairlady Z (Z34) '08|35,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|R8 4.2 '07|144,600|
+|Chevrolet|Corvette Convertible (C3) '69|53,800|
 |Chevrolet|Corvette ZR1 (C6) '09|107,400|
+|Ferrari|458 Italia '09|243,100|
+|Fiat|500 1.2 8V Lounge SS '08|12,700|
+|Honda|NSX Type R '92|385,600|
 |Lamborghini|Gallardo LP 560-4 '08|253,400|
-|Mitsubishi|Lancer Evolution IV GSR '96|44,200|
-|Nissan|R32 GT-R V-spec II '94|176,500|
-|Nissan|Skyline GTS-R (R31) '87|166,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Convertible (C3) '69|53,800|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|166,200|
 |Daihatsu|Copen '02|14,000|
-|Ferrari|458 Italia '09|243,100|
-|Fiat|500 1.2 8V Lounge SS '08|12,700|
-|Honda|NSX Type R '92|385,600|
+|Ford|Escort RS Cosworth '92|129,000|
 |Lancia|Stratos '73|505,300|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|163,600|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|62,400|
@@ -94,5 +98,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Porsche|911 GT3 (996) '01|158,500|
 |Porsche|911 GT3 (997) '09|139,900|
 |Suzuki|Swift Sport '07|14,600|
+|Toyota|Celica GT-Four (ST205) '94|78,100|
 |Toyota|Sports 800 '65|45,900|
 |Volkswagen|Golf I GTI '83|41,000|
