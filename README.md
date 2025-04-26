@@ -27,33 +27,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 25-April-2025
+# Gran Turismo 7 Shops for 26-April-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|250 GT Berlinetta passo corto '61|7,800,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Charger R/T 426 Hemi '68|158,000|
-|McLaren|McLaren F1 GTR - BMW '95|16,000,000|
+|Ferrari|F40 '92|3,100,000|
+|Ferrari|F50 '95|4,450,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
+|Nissan|Fairlady Z 432 '69|312,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F40 '92|3,100,000|
-|Ferrari|F50 '95|4,450,000|
+|Ferrari|250 GT Berlinetta passo corto '61|7,800,000|
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,350,000|
-|Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|GT-R GT500 '99|2,500,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
 
@@ -63,19 +58,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|42,100|
-|Dodge|Viper GTS '02|103,200|
-|Ford|Ford GT '06|410,200|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,200|
+|Alpine|A110 '72|129,900|
+|Autobianchi|A112 Abarth '85|29,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Daihatsu|Copen '02|14,000|
+|Ferrari|Testarossa '91|450,000|
+|Ferrari|Testarossa '91|450,000|
+|Ferrari|Testarossa '91|450,000|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|163,600|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|62,400|
-|Peugeot|205 GTI '88|70,000|
-|Peugeot|205 GTI '88|70,000|
-|Peugeot|205 GTI '88|70,000|
-|Porsche|911 GT3 (996) '01|158,500|
 |Porsche|911 GT3 (997) '09|139,900|
 |Volkswagen|Golf I GTI '83|41,000|
 
@@ -83,19 +77,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|166,200|
+|Audi|TT Coupe 3.2 quattro '03|42,100|
 |DMC|DeLorean S2 '04|428,200|
-|Daihatsu|Copen '02|14,000|
+|Dodge|Viper GTS '02|103,200|
 |Ferrari|512 BB '76|291,000|
-|Ferrari|Testarossa '91|450,000|
-|Ferrari|Testarossa '91|450,000|
-|Ferrari|Testarossa '91|450,000|
 |Ford|Escort RS Cosworth '92|129,000|
+|Ford|Ford GT '06|410,200|
 |Honda|Civic Type R (EK) '98|46,800|
 |Lamborghini|Murcielago LP 640 '09|343,000|
 |Lancia|Stratos '73|505,300|
 |MINI|MINI Cooper S '05|21,100|
 |MINI|Mini-Cooper 'S' '65|40,100|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|163,600|
 |Nissan|180SX Type X '96|48,800|
 |Nissan|Fairlady Z (Z34) '08|35,300|
 |Nissan|Fairlady Z Version S (Z33) '07|27,900|
@@ -104,4 +96,5 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Renault|Clio V6 24V '00|75,000|
 |Suzuki|Swift Sport '07|14,600|
 |Toyota|Celica GT-Four (ST205) '94|78,100|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,200|
 |Toyota|Supra RZ '97|185,300|
