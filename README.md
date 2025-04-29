@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 28-April-2025
+# Gran Turismo 7 Shops for 29-April-2025
 
 
 
@@ -36,16 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
+|Chevrolet|Camaro Z28 '69|128,000|
+|Chevrolet|Chevelle SS 454 Sport Coupé '70|162,000|
+|McLaren|MP4/4 '88|12,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|D-type '54|6,000,000|
-|Jaguar|XJ13 '66|12,000,000|
-|Lamborghini|Countach LP400 '74|1,350,000|
-|Nissan|GT-R GT500 '99|2,500,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 ### Available
@@ -53,6 +50,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Aston Martin|DB5 '64|892,000|
 |Ferrari|250 GT Berlinetta passo corto '61|7,800,000|
+|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 
 ## Used shop
@@ -60,22 +59,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '07|70,500|
-|Honda|NSX Type R '02|447,400|
-|Lancia|Delta HF Integrale Evoluzione '91|105,000|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|53,300|
+|Porsche|911 Turbo (930) '81|250,000|
+|Porsche|911 Turbo (930) '81|250,000|
+|Porsche|911 Turbo (930) '81|250,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|166,200|
 |DMC|DeLorean S2 '04|428,200|
-|Ford|Escort RS Cosworth '92|129,000|
-|Lamborghini|Murcielago LP 640 '09|343,000|
 |Lancia|Stratos '73|505,300|
+|MINI|MINI Cooper S '05|21,100|
+|MINI|Mini-Cooper 'S' '65|40,100|
+|Nissan|180SX Type X '96|48,800|
+|Nissan|Fairlady Z (Z34) '08|35,300|
+|Nissan|Fairlady Z Version S (Z33) '07|27,900|
 |Nissan|Sileighty '98|75,200|
-|Pontiac|Firebird Trans Am '78|96,000|
-|Suzuki|Swift Sport '07|14,600|
 |Toyota|Celica GT-Four (ST205) '94|78,100|
+|Toyota|Supra RZ '97|185,300|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -84,15 +86,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|TT Coupe 3.2 quattro '03|42,100|
 |Audi|TTS Coupe '09|56,300|
 |Autobianchi|A112 Abarth '85|29,300|
+|BMW|M3 '07|70,500|
 |Dodge|Viper GTS '02|103,200|
 |Ferrari|512 BB '76|291,000|
 |Ford|Ford GT '06|410,200|
 |Honda|Civic Type R (EK) '98|46,800|
-|MINI|MINI Cooper S '05|21,100|
-|MINI|Mini-Cooper 'S' '65|40,100|
-|Nissan|180SX Type X '96|48,800|
-|Nissan|Fairlady Z (Z34) '08|35,300|
-|Nissan|Fairlady Z Version S (Z33) '07|27,900|
+|Honda|NSX Type R '02|447,400|
+|Lancia|Delta HF Integrale Evoluzione '91|105,000|
 |Renault|Clio V6 24V '00|75,000|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,200|
-|Toyota|Supra RZ '97|185,300|
