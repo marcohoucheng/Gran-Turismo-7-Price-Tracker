@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 04-May-2025
+# Gran Turismo 7 Shops for 05-May-2025
 
 
 
@@ -37,9 +37,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB5 '64|892,000|
-|Chevrolet|Camaro Z28 '69|128,000|
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|162,000|
 |Ferrari|250 GT Berlinetta passo corto '61|7,800,000|
+|McLaren|MP4/4 '88|12,000,000|
 |Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Available
@@ -47,7 +46,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Maserati|A6GCS/53 Spyder '54|3,000,000|
 |Maserati|Merak SS '80|64,200|
-|McLaren|MP4/4 '88|12,000,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Porsche|Carrera GTS (904) '64|2,300,000|
@@ -56,17 +54,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Mitsubishi|Lancer Evolution III GSR '95|92,200|
+|TVR|Tuscan Speed 6 '00|71,700|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TTS Coupe '09|56,300|
 |BMW|M3 '07|70,500|
-|Honda|Civic Type R (EK) '98|46,800|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|53,300|
 |Nissan|Silvia K's Type S (S14) '94|48,800|
-|Porsche|911 Turbo (930) '81|250,000|
-|Porsche|911 Turbo (930) '81|250,000|
-|Porsche|911 Turbo (930) '81|250,000|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,200|
 
 ### Available
