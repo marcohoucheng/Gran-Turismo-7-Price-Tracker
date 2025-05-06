@@ -27,19 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-May-2025
+# Gran Turismo 7 Shops for 06-May-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|McLaren|McLaren F1 '94|20,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
-|Ferrari|250 GT Berlinetta passo corto '61|7,800,000|
 |McLaren|MP4/4 '88|12,000,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
+|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
+|Toyota|Supra GT500 '97|1,800,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -47,9 +51,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Maserati|A6GCS/53 Spyder '54|3,000,000|
 |Maserati|Merak SS '80|64,200|
 |Mercedes-Benz|W 196 R '55|20,000,000|
-|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Porsche|Carrera GTS (904) '64|2,300,000|
-|Toyota|Supra GT500 '97|1,800,000|
 
 
 ## Used shop
@@ -57,28 +59,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mitsubishi|Lancer Evolution III GSR '95|92,200|
-|TVR|Tuscan Speed 6 '00|71,700|
+|Alfa Romeo|MiTo '09|22,000|
+|BMW|M3 '89|100,000|
+|Nissan|R33 GT-R V-spec '97|155,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '07|70,500|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|53,300|
-|Nissan|Silvia K's Type S (S14) '94|48,800|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|48,200|
+|Autobianchi|A112 Abarth '85|29,300|
+|Chevrolet|Corvette Stingray (C3) '69|62,400|
+|Dodge|Viper GTS '02|103,200|
+|Toyota|MR2 GT-S '97|57,600|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|48,900|
-|Autobianchi|A112 Abarth '85|29,300|
 |BMW|3.0 CSL '71|140,900|
 |BMW|M3 '03|69,300|
 |BMW|M3 Sport Evolution '89|162,000|
-|Chevrolet|Corvette Stingray (C3) '69|62,400|
 |De Tomaso|Pantera '71|179,000|
-|Dodge|Viper GTS '02|103,200|
 |Ferrari|308 GTB '75|172,000|
 |Ferrari|430 Scuderia '07|370,200|
 |Ferrari|F430 '06|197,600|
@@ -86,9 +86,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|Integra Type R (DC2) '95|58,900|
 |Honda|NSX Type R '02|447,400|
 |Lancia|Delta HF Integrale Evoluzione '91|105,000|
+|Mitsubishi|Lancer Evolution III GSR '95|92,200|
 |Nissan|GT-R NISMO (R32) '90|396,100|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,700|
 |Peugeot|205 GTI '88|59,300|
 |Porsche|911 Carrera RS (964) '92|223,100|
-|Toyota|MR2 GT-S '97|57,600|
+|TVR|Tuscan Speed 6 '00|71,700|
 |Volkswagen|Scirocco R '10|39,500|
