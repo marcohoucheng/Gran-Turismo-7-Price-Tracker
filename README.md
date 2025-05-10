@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-May-2025
+# Gran Turismo 7 Shops for 10-May-2025
 
 
 
@@ -36,14 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|962 C '88|1,300,000|
+|Ford|Mark IV Race Car '67|6,750,000|
+|Porsche|356 A/1500 GS Carrera '56|618,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Maserati|Merak SS '80|64,200|
-|Mercedes-Benz|W 196 R '55|20,000,000|
+|McLaren|McLaren F1 '94|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -51,8 +50,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
 |Jaguar|XJ220 '92|554,000|
 |Mazda|RX500 '70|600,000|
-|McLaren|McLaren F1 '94|20,000,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|959 '87|1,950,000|
+|Porsche|962 C '88|1,300,000|
 
 
 ## Used shop
@@ -60,41 +60,44 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z4 3.0i '03|53,700|
-|Honda|S2000 '99|97,300|
-|Honda|S800 '66|42,300|
-|Lamborghini|Diablo GT '00|830,900|
+|Lamborghini|Countach 25th Anniversary '88|655,200|
+|Nissan|R34 GT-R V-spec II Nur '02|388,500|
+|RUF|CTR3 '07|788,800|
+|Renault|R5 Turbo '80|160,000|
+|Volkswagen|Volkswagen 1200 '66|29,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '71|140,900|
 |BMW|M3 '03|69,300|
-|De Tomaso|Pantera '71|179,000|
+|BMW|M3 '89|100,000|
+|Ferrari|308 GTB '75|172,000|
+|Ferrari|430 Scuderia '07|370,200|
 |Honda|Integra Type R (DC2) '95|58,900|
 |Lancia|Delta HF Integrale Evoluzione '91|105,000|
-|Nissan|GT-R NISMO (R32) '90|396,100|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,700|
 |Peugeot|205 GTI '88|59,300|
+|TVR|Tuscan Speed 6 '00|71,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|MiTo '09|22,000|
-|BMW|M3 '89|100,000|
 |BMW|M3 Sport Evolution '89|162,000|
-|Ferrari|308 GTB '75|172,000|
-|Ferrari|430 Scuderia '07|370,200|
+|BMW|Z4 3.0i '03|53,700|
 |Ford|Sierra RS 500 Cosworth '87|190,600|
 |Honda|Civic Si Extra (EF) '87|70,000|
 |Honda|Civic SiR-II (EG) '93|60,000|
 |Honda|Civic Type R (EK) '97|65,000|
 |Honda|Civic Type R (EK) '98|65,000|
 |Honda|Civic Type R (EK) Touring Car|140,000|
+|Honda|S2000 '99|97,300|
+|Honda|S800 '66|42,300|
+|Lamborghini|Diablo GT '00|830,900|
 |Mitsubishi|Lancer Evolution III GSR '95|92,200|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|97,900|
 |Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|R33 GT-R V-spec '97|155,200|
 |Suzuki|Cappuccino (EA11R) '91|17,700|
-|TVR|Tuscan Speed 6 '00|71,700|
 |Volkswagen|Scirocco R '10|39,500|
