@@ -27,33 +27,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 13-May-2025
+# Gran Turismo 7 Shops for 14-May-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|800,000|
-|Mazda|RX500 '70|600,000|
+|Ferrari|F50 '95|4,450,000|
+|Jaguar|XJ220 '92|554,000|
+|Porsche|959 '87|1,950,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F50 '95|4,450,000|
+|Aston Martin|DB5 '64|892,000|
 |Ford|Mark IV Race Car '67|6,750,000|
-|Jaguar|XJ220 '92|554,000|
 |Plymouth|XNR Ghia Roadster '60|1,600,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|959 '87|1,950,000|
 |Porsche|962 C '88|1,300,000|
 
 
@@ -62,17 +57,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|RX-7 Spirit R Type A (FD) '02|224,600|
-|Mercedes-Benz|SLR McLaren '09|521,900|
-|Volkswagen|Scirocco R '10|40,600|
+|Alfa Romeo|8C Competizione '08|301,300|
+|BMW|M3 '89|76,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|MiTo '09|22,000|
 |BMW|M3 Sport Evolution '89|162,000|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|97,900|
-|Suzuki|Cappuccino (EA11R) '91|17,700|
+|Nissan|Fairlady 240ZG (HS30) '71|106,400|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -89,8 +82,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|S800 '66|42,300|
 |Lamborghini|Countach 25th Anniversary '88|655,200|
 |Lamborghini|Diablo GT '00|830,900|
+|Mazda|RX-7 Spirit R Type A (FD) '02|224,600|
+|Mercedes-Benz|SLR McLaren '09|521,900|
 |Mitsubishi|Lancer Evolution III GSR '95|92,200|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
 |Nissan|R34 GT-R V-spec II Nur '02|388,500|
 |Nissan|Silvia K's Dia Selection (S13) '90|51,900|
 |Nissan|Silvia Q's (S13) '88|34,200|
@@ -102,4 +96,5 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Subaru|Impreza Sedan WRX STi '04|45,300|
 |Toyota|Prius G '09|20,000|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|104,600|
+|Volkswagen|Scirocco R '10|40,600|
 |Volkswagen|Volkswagen 1200 '66|29,500|
