@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-May-2025
+# Gran Turismo 7 Shops for 17-May-2025
 
 
 
@@ -36,23 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C2) '63|234,000|
+|Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
+|Jaguar|E-type Coupe '61|205,000|
+|Porsche|917K '70|18,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F50 '95|4,450,000|
-|Ford|Mark IV Race Car '67|6,750,000|
-|Jaguar|XJ220 '92|554,000|
-|Porsche|356 A/1500 GS Carrera '56|618,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|959 '87|1,950,000|
+|Aston Martin|DB5 '64|892,000|
+|Plymouth|XNR Ghia Roadster '60|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|892,000|
-|Plymouth|XNR Ghia Roadster '60|1,600,000|
+|Chevrolet|Corvette (C1) '58|107,000|
+|Chevrolet|Corvette (C1) '58|107,000|
+|Chevrolet|Corvette (C2) '63|234,000|
+|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 |Porsche|962 C '88|1,300,000|
 
 
@@ -61,44 +61,42 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|211,200|
-|Volkswagen|Sambabus Typ 2 '62|55,600|
+|Renault|Kangoo 1.4 '01|15,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Si Extra (EF) '87|70,000|
-|Honda|Civic SiR-II (EG) '93|60,000|
-|Honda|Civic Type R (EK) '97|65,000|
-|Honda|Civic Type R (EK) '98|65,000|
-|Honda|Civic Type R (EK) Touring Car|140,000|
-|Honda|S2000 '99|97,300|
-|Honda|S800 '66|42,300|
-|Lamborghini|Diablo GT '00|830,900|
-|Nissan|Fairlady 240ZG (HS30) '71|106,400|
-|Renault|R5 Turbo '80|160,000|
+|Ford|Sierra RS 500 Cosworth '87|190,600|
+|Honda|Integra Type R (DC2) '98|67,300|
+|Lamborghini|Countach 25th Anniversary '88|655,200|
+|Mitsubishi|Lancer Evolution III GSR '95|92,200|
+|Nissan|R34 GT-R V-spec II Nur '02|388,500|
+|RUF|CTR3 '07|788,800|
+|Renault|R4 GTL '85|26,600|
+|Subaru|Impreza 22B-STi '98|166,400|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|104,600|
+|Volkswagen|Volkswagen 1200 '66|29,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|301,300|
+|BMW|3.0 CSL '73|211,200|
 |BMW|M3 '89|76,900|
 |BMW|Z4 3.0i '03|53,700|
-|Ford|Sierra RS 500 Cosworth '87|190,600|
-|Honda|Integra Type R (DC2) '98|67,300|
-|Lamborghini|Countach 25th Anniversary '88|655,200|
+|Chevrolet|Corvette Convertible (C3) '69|65,000|
+|Chevrolet|Corvette Stingray (C3) '69|71,500|
+|Chevrolet|Corvette Z06 (C5) '01|54,200|
+|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
+|Chevrolet|Corvette ZR1 (C6) '09|97,400|
 |Mazda|RX-7 Spirit R Type A (FD) '02|224,600|
+|McLaren|MP4-12C '10|185,500|
 |Mercedes-Benz|SLR McLaren '09|521,900|
-|Mitsubishi|Lancer Evolution III GSR '95|92,200|
-|Nissan|R34 GT-R V-spec II Nur '02|388,500|
 |Nissan|Silvia K's Dia Selection (S13) '90|51,900|
 |Nissan|Silvia Q's (S13) '88|34,200|
 |Porsche|911 Carrera RS (993) '95|215,200|
-|RUF|CTR3 '07|788,800|
-|Renault|R4 GTL '85|26,600|
-|Subaru|Impreza 22B-STi '98|166,400|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
 |Subaru|Impreza Sedan WRX STi '04|45,300|
 |Toyota|Prius G '09|20,000|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|104,600|
+|Volkswagen|Sambabus Typ 2 '62|55,600|
 |Volkswagen|Scirocco R '10|40,600|
-|Volkswagen|Volkswagen 1200 '66|29,500|
