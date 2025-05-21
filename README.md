@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-May-2025
+# Gran Turismo 7 Shops for 21-May-2025
 
 
 
@@ -36,8 +36,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Maserati|Merak SS '80|64,200|
-|McLaren|McLaren F1 '94|20,000,000|
+|Aston Martin|DB3S '53|6,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -51,6 +50,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 |Ford|1932 Ford Roadster Hot Rod|350,000|
 |Jaguar|E-type Coupe '61|205,000|
+|Maserati|Merak SS '80|64,200|
+|McLaren|McLaren F1 '94|20,000,000|
 |Nissan|Fairlady Z 432 '69|312,000|
 |Porsche|917K '70|18,000,000|
 
@@ -60,27 +61,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z8 '01|259,000|
-|Honda|Civic Type R (EK) Touring Car|114,600|
-|Mitsubishi|GTO Twin Turbo '91|42,300|
-|Nissan|Silvia K's Aero (S14) '96|58,100|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|47,400|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|301,300|
-|BMW|M3 '89|76,900|
-|Nissan|Silvia Q's (S13) '88|34,200|
-|Porsche|911 Carrera RS (993) '95|215,200|
-|Toyota|Prius G '09|20,000|
+|Abarth|Abarth 500 '09|21,700|
+|BMW|M3 '97|84,200|
+|Dodge|Viper SRT10 Coupe '06|112,300|
+|Ferrari|Dino 246 GT '71|330,500|
+|Ford|Mustang Mach 1 '71|36,200|
+|Porsche|911 Carrera RS CS (993) '95|436,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|320,700|
 |BMW|3.0 CSL '73|211,200|
+|BMW|Z8 '01|259,000|
 |Chevrolet|Corvette Convertible (C3) '69|65,000|
 |Chevrolet|Corvette Stingray (C3) '69|71,500|
 |Chevrolet|Corvette Z06 (C5) '01|54,200|
@@ -89,12 +82,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|Testarossa '91|383,800|
 |Honda|Beat '91|15,400|
 |Honda|Civic Si Extra (EF) '87|55,900|
+|Honda|Civic Type R (EK) Touring Car|114,600|
 |Maserati|GranTurismo S '08|146,000|
 |Mazda|Eunos Roadster (NA) '89|30,600|
 |McLaren|MP4-12C '10|185,500|
+|Mitsubishi|GTO Twin Turbo '91|42,300|
 |Mitsubishi|Lancer Evolution V GSR '98|73,400|
+|Nissan|Silvia K's Aero (S14) '96|58,100|
+|Pontiac|Firebird Trans Am '78|110,000|
 |Porsche|911 Turbo (930) '81|216,500|
 |Renault|Kangoo 1.4 '01|15,200|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|47,400|
 |Toyota|Supra 3.0GT Turbo A '88|116,800|
 |Volkswagen|Sambabus Typ 2 '62|55,600|
