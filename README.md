@@ -27,27 +27,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-May-2025
+# Gran Turismo 7 Shops for 22-May-2025
 
 
 
 ## Legend shop
 
-### New
+### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB3S '53|6,000,000|
+|Chevrolet|Corvette (C1) '58|107,000|
+|Chevrolet|Corvette (C1) '58|107,000|
+|Chevrolet|Corvette (C2) '63|234,000|
+|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Aston Martin|DB3S '53|6,000,000|
 |Chaparral|2J '70|2,500,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
-|Chevrolet|Corvette (C1) '58|107,000|
-|Chevrolet|Corvette (C1) '58|107,000|
-|Chevrolet|Corvette (C2) '63|234,000|
 |Ferrari|330 P4 '67|20,000,000|
-|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 |Ford|1932 Ford Roadster Hot Rod|350,000|
 |Jaguar|E-type Coupe '61|205,000|
 |Maserati|Merak SS '80|64,200|
@@ -61,25 +61,33 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|21,700|
-|BMW|M3 '97|84,200|
-|Dodge|Viper SRT10 Coupe '06|112,300|
-|Ferrari|Dino 246 GT '71|330,500|
-|Ford|Mustang Mach 1 '71|36,200|
-|Porsche|911 Carrera RS CS (993) '95|436,200|
+|Chevrolet|Corvette ZR-1 (C4) '89|88,100|
+|Chevrolet|Corvette ZR1 (C6) '09|107,700|
+|Mazda|RX-7 GT-X (FC) '90|62,900|
+|Toyota|Sports 800 '65|51,400|
+|Volvo|240 SE Estate '93|48,700|
+
+### Leaving Soon
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|BMW|3.0 CSL '73|211,200|
+|Chevrolet|Corvette Convertible (C3) '69|65,000|
+|Chevrolet|Corvette Stingray (C3) '69|71,500|
+|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
+|Chevrolet|Corvette ZR1 (C6) '09|97,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|320,700|
-|BMW|3.0 CSL '73|211,200|
+|Abarth|Abarth 500 '09|21,700|
+|BMW|M3 '97|84,200|
 |BMW|Z8 '01|259,000|
-|Chevrolet|Corvette Convertible (C3) '69|65,000|
-|Chevrolet|Corvette Stingray (C3) '69|71,500|
 |Chevrolet|Corvette Z06 (C5) '01|54,200|
-|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
-|Chevrolet|Corvette ZR1 (C6) '09|97,400|
+|Dodge|Viper SRT10 Coupe '06|112,300|
+|Ferrari|Dino 246 GT '71|330,500|
 |Ferrari|Testarossa '91|383,800|
+|Ford|Mustang Mach 1 '71|36,200|
 |Honda|Beat '91|15,400|
 |Honda|Civic Si Extra (EF) '87|55,900|
 |Honda|Civic Type R (EK) Touring Car|114,600|
@@ -90,6 +98,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mitsubishi|Lancer Evolution V GSR '98|73,400|
 |Nissan|Silvia K's Aero (S14) '96|58,100|
 |Pontiac|Firebird Trans Am '78|110,000|
+|Porsche|911 Carrera RS CS (993) '95|436,200|
 |Porsche|911 Turbo (930) '81|216,500|
 |Renault|Kangoo 1.4 '01|15,200|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
