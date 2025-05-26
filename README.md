@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 25-May-2025
+# Gran Turismo 7 Shops for 26-May-2025
 
 
 
@@ -36,24 +36,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|365 GTB4 '71|610,000|
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chaparral|2J '70|2,500,000|
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
-|Ford|1932 Ford Roadster Hot Rod|350,000|
+|Ferrari|330 P4 '67|20,000,000|
 |Jaguar|E-type Coupe '61|205,000|
-|Maserati|Merak SS '80|64,200|
-|Nissan|Fairlady Z 432 '69|312,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB3S '53|6,000,000|
-|Ferrari|330 P4 '67|20,000,000|
+|De Tomaso|Mangusta (Christian Dior)|500,000|
+|Ferrari|365 GTB4 '71|610,000|
 |McLaren|McLaren F1 '94|20,000,000|
 
 
@@ -62,36 +59,37 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Fiat|500 1.2 8V Lounge SS '08|13,800|
+|Audi|R8 4.2 '07|143,500|
+|Daihatsu|Copen '02|13,300|
+|Honda|Civic Type R (EK) '97|51,900|
+|Lamborghini|Gallardo LP 560-4 '08|249,000|
+|Pontiac|Firebird Trans Am '78|87,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|BMW|Z8 '01|259,000|
 |Ferrari|Testarossa '91|383,800|
-|Honda|Beat '91|15,400|
 |Maserati|GranTurismo S '08|146,000|
-|Mazda|Eunos Roadster (NA) '89|30,600|
 |Mitsubishi|Lancer Evolution V GSR '98|73,400|
-|Pontiac|Firebird Trans Am '78|110,000|
+|Nissan|Silvia K's Aero (S14) '96|58,100|
 |Porsche|911 Turbo (930) '81|216,500|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|21,700|
 |BMW|M3 '97|84,200|
-|BMW|Z8 '01|259,000|
 |Chevrolet|Corvette Z06 (C5) '01|54,200|
 |Chevrolet|Corvette ZR-1 (C4) '89|88,100|
 |Chevrolet|Corvette ZR1 (C6) '09|107,700|
 |Dodge|Viper SRT10 Coupe '06|112,300|
 |Ferrari|Dino 246 GT '71|330,500|
+|Fiat|500 1.2 8V Lounge SS '08|13,800|
 |Ford|Mustang Mach 1 '71|36,200|
 |Honda|Civic Type R (EK) Touring Car|114,600|
 |Mazda|RX-7 GT-X (FC) '90|62,900|
 |Mitsubishi|GTO Twin Turbo '91|42,300|
-|Nissan|Silvia K's Aero (S14) '96|58,100|
 |Porsche|911 Carrera RS CS (993) '95|436,200|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|47,400|
 |Toyota|Sports 800 '65|51,400|
