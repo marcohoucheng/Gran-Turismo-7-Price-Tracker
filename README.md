@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 26-May-2025
+# Gran Turismo 7 Shops for 27-May-2025
 
 
 
@@ -36,18 +36,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
+|Mercedes-Benz|300 SL Coupe '54|1,700,000|
+|Mercedes-Benz|CLK-LM '98|8,500,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chaparral|2J '70|2,500,000|
 |Ferrari|330 P4 '67|20,000,000|
-|Jaguar|E-type Coupe '61|205,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Aston Martin|DB3S '53|6,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|365 GTB4 '71|610,000|
@@ -59,39 +60,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|143,500|
-|Daihatsu|Copen '02|13,300|
-|Honda|Civic Type R (EK) '97|51,900|
-|Lamborghini|Gallardo LP 560-4 '08|249,000|
-|Pontiac|Firebird Trans Am '78|87,800|
+|Dodge|Super Bee '70|67,800|
+|Ford|Escort RS Cosworth '92|150,000|
+|Ford|Escort RS Cosworth '92|150,000|
+|Suzuki|Swift Sport '07|12,800|
+|Volkswagen|Golf I GTI '83|43,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 500 '09|21,700|
+|BMW|M3 '97|84,200|
 |BMW|Z8 '01|259,000|
-|Ferrari|Testarossa '91|383,800|
-|Maserati|GranTurismo S '08|146,000|
-|Mitsubishi|Lancer Evolution V GSR '98|73,400|
+|Chevrolet|Corvette ZR-1 (C4) '89|88,100|
+|Mazda|RX-7 GT-X (FC) '90|62,900|
 |Nissan|Silvia K's Aero (S14) '96|58,100|
-|Porsche|911 Turbo (930) '81|216,500|
+|Porsche|911 Carrera RS CS (993) '95|436,200|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|47,400|
+|Toyota|Supra 3.0GT Turbo A '88|116,800|
+|Volvo|240 SE Estate '93|48,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|21,700|
-|BMW|M3 '97|84,200|
+|Audi|R8 4.2 '07|143,500|
 |Chevrolet|Corvette Z06 (C5) '01|54,200|
-|Chevrolet|Corvette ZR-1 (C4) '89|88,100|
 |Chevrolet|Corvette ZR1 (C6) '09|107,700|
+|Daihatsu|Copen '02|13,300|
 |Dodge|Viper SRT10 Coupe '06|112,300|
 |Ferrari|Dino 246 GT '71|330,500|
 |Fiat|500 1.2 8V Lounge SS '08|13,800|
 |Ford|Mustang Mach 1 '71|36,200|
+|Honda|Civic Type R (EK) '97|51,900|
 |Honda|Civic Type R (EK) Touring Car|114,600|
-|Mazda|RX-7 GT-X (FC) '90|62,900|
+|Lamborghini|Gallardo LP 560-4 '08|249,000|
 |Mitsubishi|GTO Twin Turbo '91|42,300|
-|Porsche|911 Carrera RS CS (993) '95|436,200|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|47,400|
+|Pontiac|Firebird Trans Am '78|87,800|
 |Toyota|Sports 800 '65|51,400|
-|Toyota|Supra 3.0GT Turbo A '88|116,800|
-|Volvo|240 SE Estate '93|48,700|
