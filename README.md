@@ -27,28 +27,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 29-May-2025
+# Gran Turismo 7 Shops for 30-May-2025
 
 
 
 ## Legend shop
-
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Aston Martin|DB3S '53|6,000,000|
-|McLaren|McLaren F1 '94|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|365 GTB4 '71|610,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
@@ -62,18 +52,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mitsubishi|Lancer Evolution IV GSR '96|41,200|
-|Porsche|911 GT3 (996) '01|154,800|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|165,800|
+|Chevrolet|Corvette Convertible (C3) '69|56,000|
+|Honda|Civic Type R (EK) '98|58,100|
+|Lancia|Stratos '73|534,900|
+|MINI|Mini-Cooper 'S' '65|39,300|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|176,100|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|60,300|
+|Porsche|911 GT3 (997) '09|138,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette ZR1 (C6) '09|107,700|
 |Dodge|Viper SRT10 Coupe '06|112,300|
-|Ferrari|Dino 246 GT '71|330,500|
-|Ford|Mustang Mach 1 '71|36,200|
 |Honda|Civic Type R (EK) Touring Car|114,600|
-|Mitsubishi|GTO Twin Turbo '91|42,300|
+|Toyota|Sports 800 '65|51,400|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -89,9 +83,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|Civic Type R (EK) '97|51,900|
 |Honda|NSX Type R '92|399,200|
 |Lamborghini|Gallardo LP 560-4 '08|249,000|
+|Mitsubishi|Lancer Evolution IV GSR '96|41,200|
 |Nissan|R32 GT-R V-spec II '94|171,400|
 |Nissan|Skyline GTS-R (R31) '87|171,900|
 |Pontiac|Firebird Trans Am '78|87,800|
+|Porsche|911 GT3 (996) '01|154,800|
 |Suzuki|Swift Sport '07|12,800|
-|Toyota|Sports 800 '65|51,400|
 |Volkswagen|Golf I GTI '83|43,700|
