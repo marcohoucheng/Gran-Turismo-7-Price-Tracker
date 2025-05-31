@@ -27,11 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 30-May-2025
+# Gran Turismo 7 Shops for 31-May-2025
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ford|Mustang Boss 429 '69|294,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|230,000|
+
+### Leaving Soon
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ferrari|365 GTB4 '71|610,000|
+|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -40,8 +52,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|365 GTB4 '71|610,000|
-|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
@@ -52,41 +62,41 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|165,800|
-|Chevrolet|Corvette Convertible (C3) '69|56,000|
-|Honda|Civic Type R (EK) '98|58,100|
-|Lancia|Stratos '73|534,900|
-|MINI|Mini-Cooper 'S' '65|39,300|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|176,100|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|60,300|
-|Porsche|911 GT3 (997) '09|138,900|
+|Ford|Escort RS Cosworth '92|129,800|
+|Nissan|Sileighty '98|76,500|
+|Toyota|Celica GT-Four (ST205) '94|72,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette ZR1 (C6) '09|107,700|
-|Dodge|Viper SRT10 Coupe '06|112,300|
-|Honda|Civic Type R (EK) Touring Car|114,600|
+|Chevrolet|Corvette Z06 (C5) '01|54,200|
+|Ford|Escort RS Cosworth '92|150,000|
+|Ford|Escort RS Cosworth '92|150,000|
+|Honda|Civic Type R (EK) '97|51,900|
+|Lamborghini|Gallardo LP 560-4 '08|249,000|
 |Toyota|Sports 800 '65|51,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|165,800|
 |Audi|R8 4.2 '07|143,500|
-|Chevrolet|Corvette Z06 (C5) '01|54,200|
+|Chevrolet|Corvette Convertible (C3) '69|56,000|
 |Daihatsu|Copen '02|13,300|
 |Dodge|Super Bee '70|67,800|
 |Ferrari|458 Italia '09|252,200|
 |Fiat|500 1.2 8V Lounge SS '08|13,800|
-|Ford|Escort RS Cosworth '92|150,000|
-|Ford|Escort RS Cosworth '92|150,000|
-|Honda|Civic Type R (EK) '97|51,900|
+|Honda|Civic Type R (EK) '98|58,100|
 |Honda|NSX Type R '92|399,200|
-|Lamborghini|Gallardo LP 560-4 '08|249,000|
+|Lancia|Stratos '73|534,900|
+|MINI|Mini-Cooper 'S' '65|39,300|
 |Mitsubishi|Lancer Evolution IV GSR '96|41,200|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|176,100|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|60,300|
 |Nissan|R32 GT-R V-spec II '94|171,400|
 |Nissan|Skyline GTS-R (R31) '87|171,900|
 |Pontiac|Firebird Trans Am '78|87,800|
 |Porsche|911 GT3 (996) '01|154,800|
+|Porsche|911 GT3 (997) '09|138,900|
 |Suzuki|Swift Sport '07|12,800|
 |Volkswagen|Golf I GTI '83|43,700|
