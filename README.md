@@ -27,31 +27,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-June-2025
+# Gran Turismo 7 Shops for 06-June-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|250 GTO '62|20,000,000|
-|Jaguar|XJ13 '66|12,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
+|Ferrari|250 GTO '62|20,000,000|
 |Ford|Mustang Boss 429 '69|294,000|
+|Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
 |Porsche|911 Carrera RS (901) '73|799,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
@@ -63,36 +56,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Ford GT '06|408,700|
-|Honda|Civic SiR-II (EG) '93|48,200|
-|Nissan|180SX Type X '96|53,800|
-|Nissan|Fairlady Z Version S (Z33) '07|30,300|
+|DMC|DeLorean S2 '04|429,600|
+|Dodge|Viper GTS '02|103,100|
+|Fiat|500 F '68|18,300|
+|Nissan|Silvia K's Type S (S14) '94|46,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|165,800|
 |Chevrolet|Corvette Convertible (C3) '69|56,000|
-|Honda|Civic Type R (EK) '98|58,100|
-|Mitsubishi|Lancer Evolution IV GSR '96|41,200|
+|Ford|Escort RS Cosworth '92|129,800|
+|Lamborghini|Murcielago LP 640 '09|320,700|
+|MINI|Mini-Cooper 'S' '65|39,300|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|176,100|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|60,300|
-|Nissan|Skyline GTS-R (R31) '87|171,900|
 |Porsche|911 GT3 (996) '01|154,800|
 |Porsche|911 GT3 (997) '09|138,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|165,800|
 |Alpine|A110 '72|139,200|
 |Autobianchi|A112 Abarth '85|29,800|
 |Ferrari|512 BB '76|289,100|
-|Ford|Escort RS Cosworth '92|129,800|
-|Lamborghini|Murcielago LP 640 '09|320,700|
+|Ford|Ford GT '06|408,700|
+|Honda|Civic Si Extra (EF) '87|70,000|
+|Honda|Civic SiR-II (EG) '93|60,000|
+|Honda|Civic Type R (EK) '97|65,000|
+|Honda|Civic Type R (EK) Touring Car|140,000|
 |Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |Lancia|Stratos '73|534,900|
-|MINI|Mini-Cooper 'S' '65|39,300|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|176,100|
+|Nissan|180SX Type X '96|53,800|
 |Nissan|Fairlady Z (Z34) '08|35,400|
+|Nissan|Fairlady Z Version S (Z33) '07|30,300|
 |Nissan|Sileighty '98|76,500|
 |Porsche|911 Carrera RS (993) '95|260,000|
 |Porsche|911 Carrera RS (993) '95|260,000|
