@@ -27,24 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 08-June-2025
+# Gran Turismo 7 Shops for 09-June-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Pontiac|GTO 'The Judge' '69|242,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Ford|Mustang Boss 429 '69|294,000|
-|Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
-|Porsche|911 Carrera RS (901) '73|799,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|230,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -53,9 +45,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|250 GTO '62|20,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|Pontiac|GTO 'The Judge' '69|242,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|2000GT '67|982,000|
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|230,000|
 
 
 ## Used shop
@@ -63,29 +55,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|47,400|
-|Audi|TTS Coupe '09|55,000|
-|BMW|M3 '07|72,500|
-|Honda|NSX Type R '02|440,400|
+|BMW|3.0 CSL '71|137,400|
+|Ferrari|308 GTB '75|165,100|
+|Ferrari|430 Scuderia '07|358,700|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|60,700|
+|Peugeot|205 GTI '88|57,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|139,200|
-|Ferrari|512 BB '76|289,100|
+|Lancia|Delta HF Integrale Evoluzione '91|98,900|
 |Lancia|Stratos '73|534,900|
 |Nissan|Fairlady Z (Z34) '08|35,400|
 |Nissan|Sileighty '98|76,500|
-|Porsche|911 Carrera RS (993) '95|260,000|
-|Porsche|911 Carrera RS (993) '95|260,000|
-|Toyota|Celica GT-Four (ST205) '94|72,300|
 |Toyota|Supra RZ '97|197,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|58,300|
+|Audi|TT Coupe 3.2 quattro '03|47,400|
+|Audi|TTS Coupe '09|55,000|
 |Autobianchi|A112 Abarth '85|29,800|
+|BMW|M3 '07|72,500|
 |DMC|DeLorean S2 '04|429,600|
 |Dodge|Viper GTS '02|103,100|
 |Fiat|500 F '68|18,300|
@@ -95,7 +87,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|Civic Type R (EK) '97|65,000|
 |Honda|Civic Type R (EK) '98|65,000|
 |Honda|Civic Type R (EK) Touring Car|140,000|
-|Lancia|Delta HF Integrale Evoluzione '91|98,900|
+|Honda|NSX Type R '02|440,400|
 |MINI|MINI Cooper S '05|22,300|
 |Nissan|180SX Type X '96|53,800|
 |Nissan|Fairlady Z Version S (Z33) '07|30,300|
