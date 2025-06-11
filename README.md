@@ -27,33 +27,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 10-June-2025
+# Gran Turismo 7 Shops for 11-June-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
-|Ferrari|F40 '92|3,100,000|
-|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|230,000|
+|Ferrari|250 GTO '62|20,000,000|
+|Jaguar|XJ13 '66|12,000,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|300 SEL 6.8 AMG '71|700,000|
 |Chevrolet|Corvette (C1) '58|107,000|
-|Ferrari|250 GTO '62|20,000,000|
-|Jaguar|XJ13 '66|12,000,000|
+|Ferrari|F40 '92|3,100,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Pontiac|GTO 'The Judge' '69|242,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|2000GT '67|982,000|
 
 
@@ -62,18 +57,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|250,000|
-|Porsche|911 Carrera RS (964) '92|225,000|
-|Toyota|MR2 GT-S '97|51,100|
-|Volkswagen|Volkswagen 1200 '66|30,400|
+|BMW|M3 '03|67,800|
+|De Tomaso|Pantera '71|165,000|
+|Ferrari|F430 '06|202,200|
+|Honda|Integra Type R (DC2) '95|55,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Autobianchi|A112 Abarth '85|29,800|
-|Lancia|Delta HF Integrale Evoluzione '91|98,900|
+|DMC|DeLorean S2 '04|429,600|
 |Nissan|Fairlady Z Version S (Z33) '07|30,300|
 |Nissan|Silvia K's Type S (S14) '94|46,800|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|58,200|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -82,8 +78,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|TT Coupe 3.2 quattro '03|47,400|
 |Audi|TTS Coupe '09|55,000|
 |BMW|3.0 CSL '71|137,400|
+|BMW|3.0 CSL '73|250,000|
 |BMW|M3 '07|72,500|
-|DMC|DeLorean S2 '04|429,600|
 |Dodge|Viper GTS '02|103,100|
 |Ferrari|308 GTB '75|165,100|
 |Ferrari|430 Scuderia '07|358,700|
@@ -99,5 +95,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|180SX Type X '96|53,800|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|60,700|
 |Peugeot|205 GTI '88|57,400|
+|Porsche|911 Carrera RS (964) '92|225,000|
 |Renault|Clio V6 24V '00|75,200|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|58,200|
+|Toyota|MR2 GT-S '97|51,100|
+|Volkswagen|Volkswagen 1200 '66|30,400|
