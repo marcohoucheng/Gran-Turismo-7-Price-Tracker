@@ -27,11 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 11-June-2025
+# Gran Turismo 7 Shops for 12-June-2025
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Renault|R8 Gordini '66|32,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -57,18 +62,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|67,800|
-|De Tomaso|Pantera '71|165,000|
-|Ferrari|F430 '06|202,200|
-|Honda|Integra Type R (DC2) '95|55,600|
+|Nissan|Silvia Q's (S13) '88|28,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|29,800|
 |DMC|DeLorean S2 '04|429,600|
-|Nissan|Fairlady Z Version S (Z33) '07|30,300|
-|Nissan|Silvia K's Type S (S14) '94|46,800|
+|Ford|Ford GT '06|408,700|
+|Honda|Civic Si Extra (EF) '87|70,000|
+|Honda|Civic SiR-II (EG) '93|60,000|
+|Honda|Civic Type R (EK) '97|65,000|
+|Honda|Civic Type R (EK) '98|65,000|
+|Honda|Civic Type R (EK) Touring Car|140,000|
+|Nissan|180SX Type X '96|53,800|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|58,200|
 
 ### Available
@@ -79,20 +85,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|TTS Coupe '09|55,000|
 |BMW|3.0 CSL '71|137,400|
 |BMW|3.0 CSL '73|250,000|
+|BMW|M3 '03|67,800|
 |BMW|M3 '07|72,500|
+|De Tomaso|Pantera '71|165,000|
 |Dodge|Viper GTS '02|103,100|
 |Ferrari|308 GTB '75|165,100|
 |Ferrari|430 Scuderia '07|358,700|
+|Ferrari|F430 '06|202,200|
 |Fiat|500 F '68|18,300|
-|Ford|Ford GT '06|408,700|
-|Honda|Civic Si Extra (EF) '87|70,000|
-|Honda|Civic SiR-II (EG) '93|60,000|
-|Honda|Civic Type R (EK) '97|65,000|
-|Honda|Civic Type R (EK) '98|65,000|
-|Honda|Civic Type R (EK) Touring Car|140,000|
+|Honda|Integra Type R (DC2) '95|55,600|
 |Honda|NSX Type R '02|440,400|
 |MINI|MINI Cooper S '05|22,300|
-|Nissan|180SX Type X '96|53,800|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|60,700|
 |Peugeot|205 GTI '88|57,400|
 |Porsche|911 Carrera RS (964) '92|225,000|
