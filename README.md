@@ -27,23 +27,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 14-June-2025
+# Gran Turismo 7 Shops for 15-June-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
-|Ford|Mark IV Race Car '67|6,750,000|
-|Nissan|R92CP '92|2,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C1) '58|107,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Pontiac|GTO 'The Judge' '69|242,000|
 |Toyota|2000GT '67|982,000|
@@ -53,8 +45,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |AMG|300 SEL 6.8 AMG '71|700,000|
 |Chevrolet|Corvette (C2) '63|246,000|
+|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
 |Ferrari|F40 '92|3,100,000|
+|Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|Nissan|R92CP '92|2,000,000|
 |Renault|R8 Gordini '66|32,500|
 
 
@@ -63,27 +58,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|MiTo '09|20,600|
-|Nissan|SILVIA spec-R Aero (S15) '02|58,200|
+|Chevrolet|Corvette Stingray (C3) '69|54,400|
+|TVR|Tuscan Speed 6 '00|73,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|58,300|
+|Audi|TT Coupe 3.2 quattro '03|47,400|
 |Audi|TTS Coupe '09|55,000|
 |BMW|3.0 CSL '73|250,000|
 |BMW|M3 '07|72,500|
-|Dodge|Viper GTS '02|103,100|
+|Ferrari|308 GTB '75|165,100|
 |Ferrari|430 Scuderia '07|358,700|
-|Fiat|500 F '68|18,300|
-|MINI|MINI Cooper S '05|22,300|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|60,700|
+|Peugeot|205 GTI '88|57,400|
+|Porsche|911 Carrera RS (964) '92|225,000|
 |Renault|Clio V6 24V '00|75,200|
+|Toyota|MR2 GT-S '97|51,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|47,400|
+|Alfa Romeo|MiTo '09|20,600|
 |BMW|3.0 CSL '71|137,400|
 |BMW|M3 '03|67,800|
 |Chevrolet|Corvette Convertible (C3) '69|65,000|
@@ -91,15 +87,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette ZR-1 (C4) '89|105,000|
 |Chevrolet|Corvette ZR1 (C6) '09|107,300|
 |De Tomaso|Pantera '71|165,000|
-|Ferrari|308 GTB '75|165,100|
 |Ferrari|F430 '06|202,200|
 |Honda|Integra Type R (DC2) '95|55,600|
 |Honda|NSX Type R '02|440,400|
 |Nissan|GT-R NISMO (R32) '90|387,200|
+|Nissan|SILVIA spec-R Aero (S15) '02|58,200|
 |Nissan|Silvia Q's (S13) '88|28,800|
-|Peugeot|205 GTI '88|57,400|
-|Porsche|911 Carrera RS (964) '92|225,000|
 |Suzuki|Cappuccino (EA11R) '91|16,500|
-|Toyota|MR2 GT-S '97|51,100|
 |Toyota|Prius G '09|19,600|
 |Volkswagen|Volkswagen 1200 '66|30,400|
