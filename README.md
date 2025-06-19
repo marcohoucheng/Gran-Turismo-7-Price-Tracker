@@ -27,29 +27,33 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-June-2025
+# Gran Turismo 7 Shops for 19-June-2025
 
 
 
 ## Legend shop
 
-### Leaving Soon
+### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F40 '92|3,100,000|
-|Renault|R8 Gordini '66|32,500|
+|Mazda|787B '91|3,300,000|
+|Subaru|Impreza Rally Car '98|650,000|
 
-### Available
+### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette (C1) '58|107,000|
 |Chevrolet|Corvette (C2) '63|246,000|
+|Nissan|R92CP '92|2,000,000|
+
+### Available
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
 |Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
 |Ferrari|GTO '84|3,500,000|
 |Ford|GT40 Mark I '66|6,700,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
-|Nissan|R92CP '92|2,000,000|
 
 
 ## Used shop
@@ -57,33 +61,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Sierra RS 500 Cosworth '87|198,900|
-|Honda|Integra Type R (DC2) '98|65,500|
-|Honda|S2000 '99|99,400|
-|Honda|S800 '66|52,100|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,500|
+|Nissan|Fairlady 240ZG (HS30) '71|102,800|
+|Nissan|R34 GT-R V-spec II Nur '02|399,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|MiTo '09|20,600|
 |BMW|M3 '03|67,800|
+|Chevrolet|Corvette Convertible (C3) '69|65,000|
+|Chevrolet|Corvette Stingray (C3) '69|71,500|
+|Chevrolet|Corvette Stingray (C3) '69|54,400|
+|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
+|Chevrolet|Corvette ZR1 (C6) '09|107,300|
 |De Tomaso|Pantera '71|165,000|
-|Honda|NSX Type R '02|440,400|
+|Honda|Integra Type R (DC2) '95|55,600|
 |Nissan|GT-R NISMO (R32) '90|387,200|
-|Suzuki|Cappuccino (EA11R) '91|16,500|
 |Volkswagen|Volkswagen 1200 '66|30,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|M3 '89|82,300|
-|Chevrolet|Corvette Convertible (C3) '69|65,000|
-|Chevrolet|Corvette Stingray (C3) '69|71,500|
-|Chevrolet|Corvette Stingray (C3) '69|54,400|
-|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
-|Chevrolet|Corvette ZR1 (C6) '09|107,300|
-|Honda|Integra Type R (DC2) '95|55,600|
+|Ford|Sierra RS 500 Cosworth '87|198,900|
+|Honda|Integra Type R (DC2) '98|65,500|
+|Honda|S2000 '99|99,400|
+|Honda|S800 '66|52,100|
 |Mazda|RX-7 Spirit R Type A (FD) '02|215,300|
 |Mercedes-Benz|SLR McLaren '09|492,000|
 |Mitsubishi|Lancer Evolution III GSR '95|87,300|
@@ -96,4 +99,5 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Renault|R5 Turbo '80|157,500|
 |TVR|Tuscan Speed 6 '00|73,200|
 |Toyota|Prius G '09|19,600|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,500|
 |Volkswagen|Scirocco R '10|39,500|
