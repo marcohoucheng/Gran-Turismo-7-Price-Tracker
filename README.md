@@ -27,17 +27,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-June-2025
+# Gran Turismo 7 Shops for 22-June-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Mercedes-Benz|300 SL (W194) '52|20,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
-|Ford|Mark IV Race Car '67|6,750,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 ### Available
@@ -57,11 +60,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|211,000|
-|Lamborghini|Diablo GT '00|772,200|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|95,800|
-|Renault|Kangoo 1.4 '01|15,200|
-|Subaru|Impreza Sedan WRX STi '04|40,000|
+|BMW|Z4 3.0i '03|48,900|
+|Subaru|Impreza 22B-STi '98|173,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -69,27 +69,31 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 '97|90,000|
 |Nissan|R33 GT-R V-spec '97|160,500|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,200|
-|TVR|Tuscan Speed 6 '00|73,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|BMW|3.0 CSL '73|211,000|
 |BMW|M3 '89|82,300|
 |Ford|Sierra RS 500 Cosworth '87|198,900|
 |Honda|Integra Type R (DC2) '98|65,500|
 |Honda|S2000 '99|99,400|
 |Honda|S800 '66|52,100|
+|Lamborghini|Diablo GT '00|772,200|
 |Mazda|RX-7 Spirit R Type A (FD) '02|215,300|
 |Mercedes-Benz|SLR McLaren '09|492,000|
 |Mitsubishi|Lancer Evolution III GSR '95|87,300|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|95,800|
 |Nissan|Fairlady 240ZG (HS30) '71|102,800|
 |Nissan|R34 GT-R V-spec II Nur '02|399,800|
 |Nissan|Silvia K's Dia Selection (S13) '90|48,900|
 |Nissan|Silvia Q's (S13) '88|28,800|
 |Porsche|911 Carrera RS (993) '95|229,200|
 |RUF|CTR3 '07|805,400|
+|Renault|Kangoo 1.4 '01|15,200|
 |Renault|R4 GTL '85|27,300|
 |Renault|R5 Turbo '80|157,500|
+|Subaru|Impreza Sedan WRX STi '04|40,000|
 |Toyota|Prius G '09|19,600|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,500|
 |Volkswagen|Sambabus Typ 2 '62|56,400|
