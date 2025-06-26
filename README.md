@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 25-June-2025
+# Gran Turismo 7 Shops for 26-June-2025
 
 
 
@@ -36,12 +36,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|GTO '84|3,500,000|
-|Ford|GT40 Mark I '66|6,700,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
 |Mazda|787B '91|3,300,000|
 |Plymouth|Superbird '70|402,000|
-|Subaru|Impreza Rally Car '98|650,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -54,16 +51,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Honda|Beat '91|15,400|
+|Honda|Civic Si Extra (EF) '87|55,900|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ford|Sierra RS 500 Cosworth '87|198,900|
 |Honda|S2000 '99|99,400|
 |Honda|S800 '66|52,100|
 |Mitsubishi|Lancer Evolution III GSR '95|87,300|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|95,800|
 |Nissan|Fairlady 240ZG (HS30) '71|102,800|
+|Nissan|Silvia K's Dia Selection (S13) '90|48,900|
 |RUF|CTR3 '07|805,400|
 |Renault|R4 GTL '85|27,300|
-|Toyota|Prius G '09|19,600|
+|Volkswagen|Scirocco R '10|39,500|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -74,19 +80,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 Sport Evolution '89|162,200|
 |BMW|Z4 3.0i '03|48,900|
 |Ferrari|Dino 246 GT '71|400,000|
-|Ford|Sierra RS 500 Cosworth '87|198,900|
 |Honda|Integra Type R (DC2) '98|65,500|
 |Lamborghini|Countach 25th Anniversary '88|706,200|
 |Lamborghini|Diablo GT '00|772,200|
 |Mazda|RX-7 Spirit R Type A (FD) '02|215,300|
 |Mercedes-Benz|SLR McLaren '09|492,000|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|95,800|
 |Nissan|R34 GT-R V-spec II Nur '02|399,800|
-|Nissan|Silvia K's Dia Selection (S13) '90|48,900|
 |Porsche|911 Carrera RS (993) '95|229,200|
 |Renault|Kangoo 1.4 '01|15,200|
 |Subaru|Impreza 22B-STi '98|173,000|
 |Subaru|Impreza Sedan WRX STi '04|40,000|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,500|
 |Volkswagen|Sambabus Typ 2 '62|56,400|
-|Volkswagen|Scirocco R '10|39,500|
