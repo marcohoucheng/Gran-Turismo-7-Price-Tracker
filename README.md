@@ -27,25 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 28-June-2025
+# Gran Turismo 7 Shops for 29-June-2025
 
 
 
 ## Legend shop
-
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|330 P4 '67|20,000,000|
-|NISMO|400R '95|1,600,000|
-|Porsche|911 Carrera RS (901) '73|799,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|F50 '95|4,450,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
-|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -53,10 +45,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
 |Alpine|A220 Race Car '68|330,000|
 |Dodge|Challenger R/T '70|203,000|
+|Ferrari|330 P4 '67|20,000,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|300,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
+|NISMO|400R '95|1,600,000|
+|Porsche|911 Carrera RS (901) '73|799,000|
 |Shelby|G.T.350 '65|455,000|
 
 
@@ -65,24 +60,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|23,500|
-|Chevrolet|Corvette Z06 (C5) '01|48,700|
-|Mitsubishi|Lancer Evolution V GSR '98|73,400|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,200|
-|Volvo|240 SE Estate '93|48,600|
+|McLaren|MP4-12C '10|198,400|
+|Porsche|911 Turbo (930) '81|216,500|
+|Toyota|Sports 800 '65|43,800|
+|Toyota|Supra 3.0GT Turbo A '88|116,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '89|82,300|
+|BMW|3.0 CSL '73|211,000|
+|BMW|Z4 3.0i '03|48,900|
 |Ferrari|Dino 246 GT '71|400,000|
-|Honda|Integra Type R (DC2) '98|65,500|
+|Lamborghini|Countach 25th Anniversary '88|706,200|
 |Lamborghini|Diablo GT '00|772,200|
 |Mazda|RX-7 Spirit R Type A (FD) '02|215,300|
-|Mercedes-Benz|SLR McLaren '09|492,000|
-|Nissan|R34 GT-R V-spec II Nur '02|399,800|
-|Renault|Kangoo 1.4 '01|15,200|
+|Porsche|911 Carrera RS (993) '95|229,200|
+|Subaru|Impreza 22B-STi '98|173,000|
 |Subaru|Impreza Sedan WRX STi '04|40,000|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,500|
 |Volkswagen|Sambabus Typ 2 '62|56,400|
@@ -90,14 +83,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 500 '09|23,500|
 |Alfa Romeo|8C Competizione '08|289,700|
-|BMW|3.0 CSL '73|211,000|
 |BMW|M3 Sport Evolution '89|162,200|
-|BMW|Z4 3.0i '03|48,900|
+|Chevrolet|Corvette Z06 (C5) '01|48,700|
 |Citroen|BX 19 TRS '87|30,000|
 |Honda|Beat '91|15,400|
 |Honda|Civic Si Extra (EF) '87|55,900|
-|Lamborghini|Countach 25th Anniversary '88|706,200|
 |Mazda|Eunos Roadster (NA) '89|29,600|
-|Porsche|911 Carrera RS (993) '95|229,200|
-|Subaru|Impreza 22B-STi '98|173,000|
+|Mitsubishi|Lancer Evolution V GSR '98|73,400|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,200|
+|Volvo|240 SE Estate '93|48,600|
