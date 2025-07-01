@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 30-June-2025
+# Gran Turismo 7 Shops for 01-July-2025
 
 
 
@@ -36,7 +36,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jeep|Willys MB '45|33,100|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -49,6 +49,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
 |Alpine|A220 Race Car '68|330,000|
 |Ferrari|330 P4 '67|20,000,000|
+|Jeep|Willys MB '45|33,100|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|300,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
@@ -63,34 +64,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|319,400|
-|Fiat|500 1.2 8V Lounge SS '08|12,500|
-|Maserati|GranTurismo S '08|142,400|
-|Mitsubishi|GTO Twin Turbo '91|42,300|
-|Nissan|Silvia K's Aero (S14) '96|58,100|
+|BMW|M3 '97|84,200|
+|BMW|Z8 '01|257,800|
+|Ferrari|Testarossa '91|372,000|
+|Honda|Civic Type R (EK) '97|57,000|
+|Honda|Civic Type R (EK) Touring Car|122,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|289,700|
-|BMW|3.0 CSL '73|211,000|
 |BMW|M3 Sport Evolution '89|162,200|
-|BMW|Z4 3.0i '03|48,900|
-|Lamborghini|Countach 25th Anniversary '88|706,200|
-|Porsche|911 Carrera RS (993) '95|229,200|
-|Subaru|Impreza 22B-STi '98|173,000|
+|Honda|Civic Si Extra (EF) '87|55,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|SLS AMG '10|319,400|
 |Abarth|Abarth 500 '09|23,500|
 |Chevrolet|Corvette Z06 (C5) '01|48,700|
 |Citroen|BX 19 TRS '87|30,000|
+|Fiat|500 1.2 8V Lounge SS '08|12,500|
 |Honda|Beat '91|15,400|
-|Honda|Civic Si Extra (EF) '87|55,900|
+|Maserati|GranTurismo S '08|142,400|
 |Mazda|Eunos Roadster (NA) '89|29,600|
 |McLaren|MP4-12C '10|198,400|
+|Mitsubishi|GTO Twin Turbo '91|42,300|
 |Mitsubishi|Lancer Evolution V GSR '98|73,400|
+|Nissan|Silvia K's Aero (S14) '96|58,100|
 |Porsche|911 Turbo (930) '81|216,500|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,200|
