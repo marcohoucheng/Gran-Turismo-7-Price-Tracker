@@ -27,27 +27,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-July-2025
+# Gran Turismo 7 Shops for 02-July-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Challenger R/T '70|203,000|
+|Alpine|A220 Race Car '68|330,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
-|Alpine|A220 Race Car '68|330,000|
 |Ferrari|330 P4 '67|20,000,000|
 |Jeep|Willys MB '45|33,100|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|300,000|
@@ -55,7 +49,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |NISMO|400R '95|1,600,000|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 |Porsche|911 Carrera RS (901) '73|799,000|
+|Porsche|959 '87|1,950,000|
 |Shelby|G.T.350 '65|455,000|
 
 
@@ -64,30 +60,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '97|84,200|
-|BMW|Z8 '01|257,800|
-|Ferrari|Testarossa '91|372,000|
-|Honda|Civic Type R (EK) '97|57,000|
-|Honda|Civic Type R (EK) Touring Car|122,100|
+|Dodge|Viper SRT10 Coupe '06|115,000|
+|Ferrari|Dino 246 GT '71|330,500|
+|Ford|Mustang Mach 1 '71|36,200|
+|Pontiac|Firebird Trans Am '78|94,200|
+|Porsche|911 Carrera RS CS (993) '95|413,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|289,700|
-|BMW|M3 Sport Evolution '89|162,200|
+|Honda|Beat '91|15,400|
 |Honda|Civic Si Extra (EF) '87|55,900|
+|Mazda|Eunos Roadster (NA) '89|29,600|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|319,400|
 |Abarth|Abarth 500 '09|23,500|
+|BMW|M3 '97|84,200|
+|BMW|Z8 '01|257,800|
 |Chevrolet|Corvette Z06 (C5) '01|48,700|
 |Citroen|BX 19 TRS '87|30,000|
+|Ferrari|512 BB '76|350,000|
+|Ferrari|Testarossa '91|372,000|
 |Fiat|500 1.2 8V Lounge SS '08|12,500|
-|Honda|Beat '91|15,400|
+|Honda|Civic Type R (EK) '97|57,000|
+|Honda|Civic Type R (EK) Touring Car|122,100|
 |Maserati|GranTurismo S '08|142,400|
-|Mazda|Eunos Roadster (NA) '89|29,600|
 |McLaren|MP4-12C '10|198,400|
 |Mitsubishi|GTO Twin Turbo '91|42,300|
 |Mitsubishi|Lancer Evolution V GSR '98|73,400|
