@@ -27,37 +27,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-July-2025
+# Gran Turismo 7 Shops for 04-July-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Citroen|DS 21 Pallas '70|47,100|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A220 Race Car '68|330,000|
+|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
 |Ferrari|330 P4 '67|20,000,000|
 |NISMO|400R '95|1,600,000|
+|Porsche|911 Carrera RS (901) '73|799,000|
+|Shelby|G.T.350 '65|455,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
+|Citroen|DS 21 Pallas '70|47,100|
 |Jeep|Willys MB '45|33,100|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|300,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
-|Porsche|911 Carrera RS (901) '73|799,000|
 |Porsche|959 '87|1,950,000|
-|Shelby|G.T.350 '65|455,000|
 
 
 ## Used shop
@@ -65,24 +60,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette ZR-1 (C4) '89|93,900|
-|Mazda|RX-7 GT-X (FC) '90|62,900|
+|Daihatsu|Copen '02|14,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Beat '91|15,400|
-|Mazda|Eunos Roadster (NA) '89|29,600|
+|Abarth|Abarth 500 '09|23,500|
+|Chevrolet|Corvette Z06 (C5) '01|48,700|
 |Volvo|240 SE Estate '93|48,600|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|319,400|
-|Abarth|Abarth 500 '09|23,500|
 |BMW|M3 '97|84,200|
 |BMW|Z8 '01|257,800|
-|Chevrolet|Corvette Z06 (C5) '01|48,700|
+|Chevrolet|Corvette ZR-1 (C4) '89|93,900|
 |Citroen|BX 19 TRS '87|30,000|
 |Dodge|Viper SRT10 Coupe '06|115,000|
 |Ferrari|512 BB '76|350,000|
@@ -93,6 +86,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|Civic Type R (EK) '97|57,000|
 |Honda|Civic Type R (EK) Touring Car|122,100|
 |Maserati|GranTurismo S '08|142,400|
+|Mazda|RX-7 GT-X (FC) '90|62,900|
 |McLaren|MP4-12C '10|198,400|
 |Mitsubishi|GTO Twin Turbo '91|42,300|
 |Mitsubishi|Lancer Evolution V GSR '98|73,400|
