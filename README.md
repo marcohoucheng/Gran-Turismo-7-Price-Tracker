@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 08-July-2025
+# Gran Turismo 7 Shops for 09-July-2025
 
 
 
@@ -36,14 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jeep|Willys MB '45|33,100|
+|Citroen|DS 21 Pallas '70|47,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Chevrolet|Camaro Z28 '69|115,000|
-|Citroen|DS 21 Pallas '70|47,100|
 |De Tomaso|Mangusta '69|325,000|
 |Honda|RA272 '65|2,500,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|300,000|
@@ -61,37 +60,36 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|143,600|
-|Dodge|Super Bee '70|67,800|
-|MINI|Mini-Cooper 'S' '65|39,700|
-|Nissan|Skyline GTS-R (R31) '87|171,900|
+|Ferrari|458 Italia '09|251,000|
+|Lamborghini|Gallardo LP 560-4 '08|255,000|
+|Mitsubishi|Lancer Evolution IV GSR '96|41,200|
+|Nissan|R32 GT-R V-spec II '94|171,400|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|49,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '97|84,200|
-|BMW|Z8 '01|257,800|
 |Chevrolet|Corvette ZR-1 (C4) '89|93,900|
-|Ferrari|Testarossa '91|372,000|
-|Fiat|500 1.2 8V Lounge SS '08|12,500|
+|Ferrari|Dino 246 GT '71|330,500|
+|Ford|Mustang Mach 1 '71|36,200|
 |Mazda|RX-7 GT-X (FC) '90|62,900|
 |Mitsubishi|GTO Twin Turbo '91|42,300|
 |Porsche|911 Carrera RS CS (993) '95|413,800|
-|Toyota|Sports 800 '65|43,800|
-|Toyota|Supra 3.0GT Turbo A '88|116,800|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|164,200|
+|Audi|R8 4.2 '07|143,600|
 |Chevrolet|Corvette ZR1 (C6) '09|103,300|
 |Citroen|BX 19 TRS '87|30,000|
 |Daihatsu|Copen '02|14,700|
+|Dodge|Super Bee '70|67,800|
 |Dodge|Viper SRT10 Coupe '06|115,000|
-|Ferrari|Dino 246 GT '71|330,500|
-|Ford|Mustang Mach 1 '71|36,200|
 |Honda|Civic Type R (EK) '98|51,300|
 |Honda|Civic Type R (EK) Touring Car|122,100|
+|MINI|Mini-Cooper 'S' '65|39,700|
+|Nissan|Skyline GTS-R (R31) '87|171,900|
 |Pontiac|Firebird Trans Am '78|94,200|
 |Suzuki|Swift Sport '07|12,900|
 |Volkswagen|Golf I GTI '83|43,900|
