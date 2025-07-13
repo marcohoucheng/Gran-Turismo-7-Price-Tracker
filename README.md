@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 12-July-2025
+# Gran Turismo 7 Shops for 13-July-2025
 
 
 
@@ -36,26 +36,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Mercedes-Benz|300 SL Coupe '54|1,700,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Chevrolet|Camaro Z28 '69|115,000|
 |De Tomaso|Mangusta '69|325,000|
-|Honda|RA272 '65|2,500,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|300,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
-|Shelby|Cobra 427 '66|2,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Honda|NSX GT500 '00|1,500,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|299,000|
+|Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |Porsche|Spyder type 550/1500RS '55|4,750,000|
 
 
@@ -64,21 +63,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Escort RS Cosworth '92|129,800|
-|Toyota|Celica GT-Four (ST205) '94|72,300|
+|Honda|Civic SiR-II (EG) '93|56,000|
+|Lamborghini|Murcielago LP 640 '09|329,700|
+|Lancia|Delta HF Integrale Evoluzione '91|107,800|
+|Nissan|Fairlady Z (Z34) '08|32,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|164,200|
 |Citroen|BX 19 TRS '87|30,000|
-|Daihatsu|Copen '02|14,700|
 |Honda|Civic Type R (EK) '98|51,300|
 |Suzuki|Swift Sport '07|12,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|164,200|
 |Alpine|A110 '72|143,500|
 |Audi|R8 4.2 '07|143,600|
 |Autobianchi|A112 Abarth '85|30,700|
@@ -86,6 +86,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette ZR1 (C6) '09|103,300|
 |Dodge|Super Bee '70|67,800|
 |Ferrari|458 Italia '09|251,000|
+|Ford|Escort RS Cosworth '92|129,800|
 |Honda|NSX Type R '92|387,000|
 |Lamborghini|Gallardo LP 560-4 '08|255,000|
 |Lancia|Stratos '73|534,900|
@@ -98,4 +99,5 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Skyline GTS-R (R31) '87|171,900|
 |Porsche|911 GT3 (996) '01|155,400|
 |Porsche|911 GT3 (997) '09|138,500|
+|Toyota|Celica GT-Four (ST205) '94|72,300|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|49,300|
