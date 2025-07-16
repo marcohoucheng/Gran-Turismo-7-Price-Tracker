@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-July-2025
+# Gran Turismo 7 Shops for 16-July-2025
 
 
 
@@ -36,13 +36,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Fairlady Z 432 '69|312,000|
-|Nissan|GT-R GT500 '99|2,200,000|
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|299,000|
 |Porsche|Spyder type 550/1500RS '55|4,750,000|
 
 ### Available
@@ -53,6 +51,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |McLaren|McLaren F1 GTR - BMW '95|16,000,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Nissan|Fairlady Z 432 '69|312,000|
+|Nissan|GT-R GT500 '99|2,200,000|
 
 
 ## Used shop
@@ -60,19 +60,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|47,000|
-|Nissan|Silvia K's Type S (S14) '94|44,900|
+|BMW|3.0 CSL '71|148,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|143,500|
 |Audi|R8 4.2 '07|143,600|
-|Chevrolet|Corvette ZR1 (C6) '09|103,300|
-|Dodge|Super Bee '70|67,800|
+|Autobianchi|A112 Abarth '85|30,700|
+|Chevrolet|Corvette Convertible (C3) '69|56,000|
 |Ferrari|458 Italia '09|251,000|
 |Honda|NSX Type R '92|387,000|
-|Lamborghini|Gallardo LP 560-4 '08|255,000|
 |MINI|Mini-Cooper 'S' '65|39,700|
 |Mitsubishi|Lancer Evolution IV GSR '96|41,200|
 |Nissan|R32 GT-R V-spec II '94|171,400|
@@ -81,8 +78,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|30,700|
-|Chevrolet|Corvette Convertible (C3) '69|56,000|
+|Abarth|Abarth 595 SS '70|47,000|
 |Fiat|500 F '68|16,000|
 |Ford|Escort RS Cosworth '92|129,800|
 |Honda|Civic SiR-II (EG) '93|56,000|
@@ -93,6 +89,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|61,800|
 |Nissan|Fairlady Z (Z34) '08|32,900|
 |Nissan|Sileighty '98|76,500|
+|Nissan|Silvia K's Type S (S14) '94|44,900|
 |Porsche|911 GT3 (996) '01|155,400|
 |Porsche|911 GT3 (997) '09|138,500|
 |Toyota|Celica GT-Four (ST205) '94|72,300|
