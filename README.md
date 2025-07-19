@@ -27,29 +27,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-July-2025
+# Gran Turismo 7 Shops for 19-July-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Jaguar|D-type '54|6,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|NSX GT500 '00|1,500,000|
+|McLaren|MP4/4 '88|12,000,000|
+|McLaren|McLaren F1 GTR - BMW '95|16,000,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Charger R/T 426 Hemi '68|154,000|
+|Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
-|McLaren|McLaren F1 GTR - BMW '95|16,000,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 |Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|GT-R GT500 '99|2,200,000|
@@ -61,13 +57,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|DMC|DeLorean S2 '04|429,600|
-|Dodge|Viper GTS '02|102,800|
-|Ford|Ford GT '06|395,200|
-|MINI|MINI Cooper S '05|22,300|
-|Nissan|Fairlady Z Version S (Z33) '07|31,000|
-|Renault|Clio V6 24V '00|75,200|
-|Volkswagen|Volkswagen 1200 '66|35,900|
+|Audi|TT Coupe 3.2 quattro '03|47,400|
+|Suzuki|Cappuccino (EA11R) '91|16,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -75,25 +66,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Escort RS Cosworth '92|129,800|
 |Lamborghini|Murcielago LP 640 '09|329,700|
 |Lancia|Delta HF Integrale Evoluzione '91|107,800|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|176,100|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|61,800|
-|Porsche|911 GT3 (996) '01|155,400|
-|Porsche|911 GT3 (997) '09|138,500|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|49,300|
+|Nissan|Sileighty '98|76,500|
+|Nissan|Silvia K's Type S (S14) '94|44,900|
+|TVR|Tuscan Speed 6 '00|95,000|
+|Toyota|Celica GT-Four (ST205) '94|72,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|47,000|
 |BMW|3.0 CSL '71|148,000|
+|DMC|DeLorean S2 '04|429,600|
+|Dodge|Viper GTS '02|102,800|
 |Ferrari|512 BB '76|313,400|
 |Fiat|500 F '68|16,000|
+|Ford|Ford GT '06|395,200|
 |Honda|Civic SiR-II (EG) '93|56,000|
 |Lancia|Stratos '73|534,900|
+|MINI|MINI Cooper S '05|22,300|
 |Nissan|180SX Type X '96|53,800|
 |Nissan|Fairlady Z (Z34) '08|32,900|
-|Nissan|Sileighty '98|76,500|
-|Nissan|Silvia K's Type S (S14) '94|44,900|
+|Nissan|Fairlady Z Version S (Z33) '07|31,000|
 |Peugeot|205 GTI '88|54,700|
-|Toyota|Celica GT-Four (ST205) '94|72,300|
+|Renault|Clio V6 24V '00|75,200|
 |Toyota|Supra RZ '97|190,800|
+|Volkswagen|Volkswagen 1200 '66|35,900|
