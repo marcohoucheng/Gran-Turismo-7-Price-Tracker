@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-July-2025
+# Gran Turismo 7 Shops for 21-July-2025
 
 
 
@@ -36,14 +36,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Countach LP400 '74|1,350,000|
+|Ferrari|250 GT Berlinetta passo corto '61|7,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Charger R/T 426 Hemi '68|154,000|
-|McLaren|MP4/4 '88|12,000,000|
-|McLaren|McLaren F1 GTR - BMW '95|16,000,000|
 |Mercedes-Benz|300 SL Coupe '54|1,700,000|
 
 ### Available
@@ -51,6 +49,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
+|Lamborghini|Countach LP400 '74|1,350,000|
 |Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|GT-R GT500 '99|2,200,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
@@ -61,36 +60,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|MiTo '09|23,300|
-|Audi|TTS Coupe '09|62,200|
-|BMW|M3 '07|74,300|
-|Honda|NSX Type R '02|435,000|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|60,700|
+|Ferrari|308 GTB '75|165,100|
+|Ferrari|430 Scuderia '07|375,600|
+|Nissan|Silvia K's Dia Selection (S13) '90|49,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 595 SS '70|47,000|
+|Fiat|500 F '68|16,000|
+|Honda|Civic SiR-II (EG) '93|56,000|
 |Lancia|Stratos '73|534,900|
 |Nissan|Fairlady Z (Z34) '08|32,900|
-|Nissan|Sileighty '98|76,500|
-|Nissan|Silvia K's Type S (S14) '94|44,900|
-|TVR|Tuscan Speed 6 '00|95,000|
-|Toyota|Celica GT-Four (ST205) '94|72,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|47,000|
+|Alfa Romeo|MiTo '09|23,300|
 |Audi|TT Coupe 3.2 quattro '03|47,400|
+|Audi|TTS Coupe '09|62,200|
 |BMW|3.0 CSL '71|148,000|
+|BMW|M3 '07|74,300|
 |DMC|DeLorean S2 '04|429,600|
 |Dodge|Viper GTS '02|102,800|
 |Ferrari|512 BB '76|313,400|
-|Fiat|500 F '68|16,000|
 |Ford|Ford GT '06|395,200|
-|Honda|Civic SiR-II (EG) '93|56,000|
+|Honda|NSX Type R '02|435,000|
 |MINI|MINI Cooper S '05|22,300|
 |Nissan|180SX Type X '96|53,800|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|60,700|
 |Nissan|Fairlady Z Version S (Z33) '07|31,000|
 |Peugeot|205 GTI '88|54,700|
 |Renault|Clio V6 24V '00|75,200|
