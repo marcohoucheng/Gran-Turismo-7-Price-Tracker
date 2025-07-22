@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-July-2025
+# Gran Turismo 7 Shops for 22-July-2025
 
 
 
@@ -36,21 +36,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|250 GT Berlinetta passo corto '61|7,000,000|
+|Aston Martin|DB5 '64|909,000|
+|Pontiac|GTO 'The Judge' '69|242,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|154,000|
-|Mercedes-Benz|300 SL Coupe '54|1,700,000|
+|Nissan|Fairlady Z 432 '69|312,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|250 GT Berlinetta passo corto '61|7,000,000|
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,350,000|
-|Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|GT-R GT500 '99|2,200,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
 
@@ -60,9 +61,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|308 GTB '75|165,100|
-|Ferrari|430 Scuderia '07|375,600|
-|Nissan|Silvia K's Dia Selection (S13) '90|49,500|
+|Honda|Integra Type R (DC2) '95|55,600|
+|Nissan|Fairlady 240ZG (HS30) '71|97,200|
+|Pontiac|Firebird Trans Am '78|110,000|
+|Porsche|911 Turbo (930) '81|250,000|
+|Toyota|MR2 GT-S '97|51,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -70,8 +73,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 595 SS '70|47,000|
 |Fiat|500 F '68|16,000|
 |Honda|Civic SiR-II (EG) '93|56,000|
-|Lancia|Stratos '73|534,900|
-|Nissan|Fairlady Z (Z34) '08|32,900|
+|Toyota|Supra RZ '97|190,800|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -83,6 +85,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 '07|74,300|
 |DMC|DeLorean S2 '04|429,600|
 |Dodge|Viper GTS '02|102,800|
+|Ferrari|308 GTB '75|165,100|
+|Ferrari|430 Scuderia '07|375,600|
 |Ferrari|512 BB '76|313,400|
 |Ford|Ford GT '06|395,200|
 |Honda|NSX Type R '02|435,000|
@@ -90,8 +94,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|180SX Type X '96|53,800|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|60,700|
 |Nissan|Fairlady Z Version S (Z33) '07|31,000|
+|Nissan|Silvia K's Dia Selection (S13) '90|49,500|
 |Peugeot|205 GTI '88|54,700|
 |Renault|Clio V6 24V '00|75,200|
 |Suzuki|Cappuccino (EA11R) '91|16,500|
-|Toyota|Supra RZ '97|190,800|
 |Volkswagen|Volkswagen 1200 '66|35,900|
