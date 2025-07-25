@@ -27,29 +27,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-July-2025
+# Gran Turismo 7 Shops for 25-July-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Lancia|Lancia Delta HF Integrale Rally Car '92|300,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Jaguar|D-type '54|6,000,000|
-|Jaguar|XJ13 '66|12,000,000|
-|Nissan|GT-R GT500 '99|2,200,000|
+|Lamborghini|Countach LP400 '74|1,350,000|
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB5 '64|909,000|
 |Ferrari|250 GT Berlinetta passo corto '61|7,000,000|
-|Lamborghini|Countach LP400 '74|1,350,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Pontiac|GTO 'The Judge' '69|242,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
 |Toyota|GT-One (TS020) '99|2,500,000|
 
 
@@ -58,34 +61,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|212,700|
-|Renault|Kangoo 1.4 '01|13,300|
-|Toyota|Prius G '09|17,700|
+|BMW|M3 '03|72,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|MiTo '09|23,300|
-|BMW|3.0 CSL '71|148,000|
-|DMC|DeLorean S2 '04|429,600|
-|Ferrari|512 BB '76|313,400|
+|Audi|TT Coupe 3.2 quattro '03|47,400|
+|Dodge|Viper GTS '02|102,800|
+|Ford|Ford GT '06|395,200|
 |MINI|MINI Cooper S '05|22,300|
 |Nissan|180SX Type X '96|53,800|
-|Nissan|Fairlady Z Version S (Z33) '07|31,000|
-|Peugeot|205 GTI '88|54,700|
-|Suzuki|Cappuccino (EA11R) '91|16,500|
+|Renault|Clio V6 24V '00|75,200|
+|Volkswagen|Volkswagen 1200 '66|35,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|47,400|
 |Audi|TTS Coupe '09|62,200|
+|BMW|3.0 CSL '73|212,700|
 |BMW|M3 '07|74,300|
 |De Tomaso|Pantera '71|165,000|
-|Dodge|Viper GTS '02|102,800|
 |Ferrari|308 GTB '75|165,100|
 |Ferrari|430 Scuderia '07|375,600|
-|Ford|Ford GT '06|395,200|
 |Honda|Integra Type R (DC2) '95|55,600|
 |Honda|NSX Type R '02|435,000|
 |Nissan|Fairlady 240ZG (HS30) '71|97,200|
@@ -94,6 +92,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Pontiac|Firebird Trans Am '78|110,000|
 |Porsche|911 Carrera RS (964) '92|216,000|
 |Porsche|911 Turbo (930) '81|250,000|
-|Renault|Clio V6 24V '00|75,200|
+|Renault|Kangoo 1.4 '01|13,300|
+|Toyota|Celica GT-Four (ST205) '94|90,000|
 |Toyota|MR2 GT-S '97|51,100|
-|Volkswagen|Volkswagen 1200 '66|35,900|
+|Toyota|Prius G '09|17,700|
