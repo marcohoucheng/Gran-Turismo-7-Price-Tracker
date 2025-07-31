@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 30-July-2025
+# Gran Turismo 7 Shops for 31-July-2025
 
 
 
@@ -36,7 +36,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|RX500 '70|600,000|
+|Alfa Romeo|155 2.5 V6 TI '93|650,000|
+|Plymouth|XNR Ghia Roadster '60|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -44,6 +45,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Lancia|Lancia Delta HF Integrale Rally Car '92|300,000|
 |Maserati|A6GCS/53 Spyder '54|2,800,000|
 |Maserati|Merak SS '80|64,200|
+|Mazda|RX500 '70|600,000|
 |McLaren|MP4/4 '88|12,000,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Porsche|Carrera GTS (904) '64|2,100,000|
@@ -55,16 +57,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 Sport Evolution '89|162,400|
-|Mitsubishi|Lancer Evolution III GSR '95|83,600|
-|Porsche|911 Carrera RS (993) '95|233,300|
-|Renault|R4 GTL '85|29,200|
-|Subaru|Impreza Sedan WRX STi '04|49,900|
+|Honda|Beat '91|17,100|
+|Honda|S2000 '99|104,900|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|212,700|
+|Ferrari|F430 '06|212,700|
+|Nissan|Silvia Q's (S13) '88|34,900|
+|Toyota|Prius G '09|17,700|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -72,23 +74,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|8C Competizione '08|304,400|
 |BMW|M3 '03|72,500|
 |BMW|M3 '89|79,000|
+|BMW|M3 Sport Evolution '89|162,400|
 |Chevrolet|Corvette Stingray (C3) '69|64,100|
 |Citroen|BX 19 TRS '87|23,100|
-|Ferrari|F430 '06|212,700|
 |Ford|Sierra RS 500 Cosworth '87|184,900|
 |Honda|S800 '66|42,300|
 |Mazda|RX-7 Spirit R Type A (FD) '02|215,900|
 |Mercedes-Benz|SLR McLaren '09|523,400|
+|Mitsubishi|Lancer Evolution III GSR '95|83,600|
 |Nissan|GT-R NISMO (R32) '90|389,500|
 |Nissan|R33 GT-R V-spec '97|154,700|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,700|
-|Nissan|Silvia Q's (S13) '88|34,900|
+|Porsche|911 Carrera RS (993) '95|233,300|
 |Renault|Clio V6 24V '00|100,000|
 |Renault|Kangoo 1.4 '01|13,300|
+|Renault|R4 GTL '85|29,200|
 |Renault|R5 Turbo '80|152,900|
 |Subaru|Impreza 22B-STi '98|166,900|
+|Subaru|Impreza Sedan WRX STi '04|49,900|
 |TVR|Tuscan Speed 6 '00|71,500|
 |Toyota|Celica GT-Four (ST205) '94|90,000|
-|Toyota|Prius G '09|17,700|
 |Volkswagen|Sambabus Typ 2 '62|55,300|
 |Volkswagen|Scirocco R '10|43,300|
