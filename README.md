@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-August-2025
+# Gran Turismo 7 Shops for 02-August-2025
 
 
 
@@ -54,21 +54,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Honda|Civic Si Extra (EF) '87|57,200|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|M3 '03|72,500|
+|Chevrolet|Corvette Stingray (C3) '69|64,100|
 |Citroen|BX 19 TRS '87|23,100|
-|Ferrari|F430 '06|212,700|
 |Nissan|GT-R NISMO (R32) '90|389,500|
-|Nissan|Silvia Q's (S13) '88|34,900|
+|Nissan|R33 GT-R V-spec '97|154,700|
+|Nissan|SILVIA spec-R Aero (S15) '02|59,700|
+|Renault|Clio V6 24V '00|100,000|
 |Renault|Kangoo 1.4 '01|13,300|
-|Toyota|Prius G '09|17,700|
+|Renault|R5 Turbo '80|152,900|
+|TVR|Tuscan Speed 6 '00|71,500|
+|Toyota|Celica GT-Four (ST205) '94|90,000|
+|Volkswagen|Sambabus Typ 2 '62|55,300|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -76,24 +76,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|8C Competizione '08|304,400|
 |BMW|M3 '89|79,000|
 |BMW|M3 Sport Evolution '89|162,400|
-|Chevrolet|Corvette Stingray (C3) '69|64,100|
 |Ford|Sierra RS 500 Cosworth '87|184,900|
 |Honda|Beat '91|17,100|
+|Honda|Civic Si Extra (EF) '87|57,200|
 |Honda|S2000 '99|104,900|
 |Honda|S800 '66|42,300|
 |Mazda|RX-7 Spirit R Type A (FD) '02|215,900|
 |Mercedes-Benz|SLR McLaren '09|523,400|
 |Mitsubishi|Lancer Evolution III GSR '95|83,600|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
-|Nissan|R33 GT-R V-spec '97|154,700|
-|Nissan|SILVIA spec-R Aero (S15) '02|59,700|
 |Porsche|911 Carrera RS (993) '95|233,300|
-|Renault|Clio V6 24V '00|100,000|
 |Renault|R4 GTL '85|29,200|
-|Renault|R5 Turbo '80|152,900|
 |Subaru|Impreza 22B-STi '98|166,900|
 |Subaru|Impreza Sedan WRX STi '04|49,900|
-|TVR|Tuscan Speed 6 '00|71,500|
-|Toyota|Celica GT-Four (ST205) '94|90,000|
-|Volkswagen|Sambabus Typ 2 '62|55,300|
 |Volkswagen|Scirocco R '10|43,300|
