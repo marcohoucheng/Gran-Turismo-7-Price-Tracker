@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 02-August-2025
+# Gran Turismo 7 Shops for 03-August-2025
 
 
 
@@ -36,8 +36,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lancia|Lancia Delta HF Integrale Rally Car '92|300,000|
-|McLaren|MP4/4 '88|12,000,000|
+|Mazda|RX500 '70|600,000|
+|Mercedes-Benz|W 196 R '55|20,000,000|
+|Porsche|Carrera GTS (904) '64|2,100,000|
+|Toyota|Supra GT500 '97|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -45,26 +47,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|155 2.5 V6 TI '93|650,000|
 |Maserati|A6GCS/53 Spyder '54|2,800,000|
 |Maserati|Merak SS '80|64,200|
-|Mazda|RX500 '70|600,000|
-|Mercedes-Benz|W 196 R '55|20,000,000|
 |Plymouth|XNR Ghia Roadster '60|1,600,000|
-|Porsche|Carrera GTS (904) '64|2,100,000|
-|Toyota|Supra GT500 '97|1,600,000|
 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Mazda|Eunos Roadster (NA) '89|27,900|
+|RUF|CTR3 '07|792,800|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|72,500|
+|BMW|M3 '89|79,000|
 |Chevrolet|Corvette Stingray (C3) '69|64,100|
-|Citroen|BX 19 TRS '87|23,100|
-|Nissan|GT-R NISMO (R32) '90|389,500|
+|Honda|S800 '66|42,300|
+|Mazda|RX-7 Spirit R Type A (FD) '02|215,900|
 |Nissan|R33 GT-R V-spec '97|154,700|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,700|
 |Renault|Clio V6 24V '00|100,000|
-|Renault|Kangoo 1.4 '01|13,300|
 |Renault|R5 Turbo '80|152,900|
 |TVR|Tuscan Speed 6 '00|71,500|
 |Toyota|Celica GT-Four (ST205) '94|90,000|
@@ -74,14 +78,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|304,400|
-|BMW|M3 '89|79,000|
 |BMW|M3 Sport Evolution '89|162,400|
 |Ford|Sierra RS 500 Cosworth '87|184,900|
 |Honda|Beat '91|17,100|
 |Honda|Civic Si Extra (EF) '87|57,200|
 |Honda|S2000 '99|104,900|
-|Honda|S800 '66|42,300|
-|Mazda|RX-7 Spirit R Type A (FD) '02|215,900|
 |Mercedes-Benz|SLR McLaren '09|523,400|
 |Mitsubishi|Lancer Evolution III GSR '95|83,600|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
