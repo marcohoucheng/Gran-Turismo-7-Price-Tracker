@@ -27,15 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-August-2025
+# Gran Turismo 7 Shops for 04-August-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ford|Mark IV Race Car '67|6,750,000|
+|Jaguar|XJ220 '92|565,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Maserati|A6GCS/53 Spyder '54|2,800,000|
 |Mazda|RX500 '70|600,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Porsche|Carrera GTS (904) '64|2,100,000|
@@ -45,7 +52,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|650,000|
-|Maserati|A6GCS/53 Spyder '54|2,800,000|
 |Maserati|Merak SS '80|64,200|
 |Plymouth|XNR Ghia Roadster '60|1,600,000|
 
@@ -55,39 +61,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|Eunos Roadster (NA) '89|27,900|
-|RUF|CTR3 '07|792,800|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
+|Abarth|Abarth 500 '09|21,800|
+|Lamborghini|Countach 25th Anniversary '88|706,300|
+|Lamborghini|Diablo GT '00|830,500|
+|Volvo|240 SE Estate '93|43,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|8C Competizione '08|304,400|
 |BMW|M3 '89|79,000|
-|Chevrolet|Corvette Stingray (C3) '69|64,100|
+|BMW|M3 Sport Evolution '89|162,400|
+|Ford|Sierra RS 500 Cosworth '87|184,900|
 |Honda|S800 '66|42,300|
 |Mazda|RX-7 Spirit R Type A (FD) '02|215,900|
-|Nissan|R33 GT-R V-spec '97|154,700|
-|Nissan|SILVIA spec-R Aero (S15) '02|59,700|
-|Renault|Clio V6 24V '00|100,000|
-|Renault|R5 Turbo '80|152,900|
-|TVR|Tuscan Speed 6 '00|71,500|
-|Toyota|Celica GT-Four (ST205) '94|90,000|
-|Volkswagen|Sambabus Typ 2 '62|55,300|
+|Porsche|911 Carrera RS (993) '95|233,300|
+|Subaru|Impreza 22B-STi '98|166,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|304,400|
-|BMW|M3 Sport Evolution '89|162,400|
-|Ford|Sierra RS 500 Cosworth '87|184,900|
 |Honda|Beat '91|17,100|
 |Honda|Civic Si Extra (EF) '87|57,200|
 |Honda|S2000 '99|104,900|
+|Mazda|Eunos Roadster (NA) '89|27,900|
 |Mercedes-Benz|SLR McLaren '09|523,400|
 |Mitsubishi|Lancer Evolution III GSR '95|83,600|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
-|Porsche|911 Carrera RS (993) '95|233,300|
+|RUF|CTR3 '07|792,800|
 |Renault|R4 GTL '85|29,200|
-|Subaru|Impreza 22B-STi '98|166,900|
 |Subaru|Impreza Sedan WRX STi '04|49,900|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
 |Volkswagen|Scirocco R '10|43,300|
