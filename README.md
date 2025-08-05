@@ -27,32 +27,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 04-August-2025
+# Gran Turismo 7 Shops for 05-August-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ford|Mark IV Race Car '67|6,750,000|
-|Jaguar|XJ220 '92|565,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|155 2.5 V6 TI '93|650,000|
 |Maserati|A6GCS/53 Spyder '54|2,800,000|
-|Mazda|RX500 '70|600,000|
-|Mercedes-Benz|W 196 R '55|20,000,000|
-|Porsche|Carrera GTS (904) '64|2,100,000|
-|Toyota|Supra GT500 '97|1,600,000|
+|Maserati|Merak SS '80|64,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|155 2.5 V6 TI '93|650,000|
-|Maserati|Merak SS '80|64,200|
+|Ford|Mark IV Race Car '67|6,750,000|
+|Jaguar|XJ220 '92|565,000|
 |Plymouth|XNR Ghia Roadster '60|1,600,000|
 
 
@@ -61,35 +53,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|21,800|
-|Lamborghini|Countach 25th Anniversary '88|706,300|
-|Lamborghini|Diablo GT '00|830,500|
-|Volvo|240 SE Estate '93|43,900|
+|BMW|Z4 3.0i '03|43,700|
+|Fiat|500 1.2 8V Lounge SS '08|12,800|
+|Honda|Integra Type R (DC2) '98|61,400|
+|Nissan|R34 GT-R V-spec II Nur '02|387,000|
+|Toyota|Sports 800 '65|47,700|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|304,400|
-|BMW|M3 '89|79,000|
 |BMW|M3 Sport Evolution '89|162,400|
 |Ford|Sierra RS 500 Cosworth '87|184,900|
-|Honda|S800 '66|42,300|
-|Mazda|RX-7 Spirit R Type A (FD) '02|215,900|
+|Mercedes-Benz|SLR McLaren '09|523,400|
+|Mitsubishi|Lancer Evolution III GSR '95|83,600|
 |Porsche|911 Carrera RS (993) '95|233,300|
 |Subaru|Impreza 22B-STi '98|166,900|
+|Volkswagen|Scirocco R '10|43,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 500 '09|21,800|
 |Honda|Beat '91|17,100|
 |Honda|Civic Si Extra (EF) '87|57,200|
 |Honda|S2000 '99|104,900|
+|Lamborghini|Countach 25th Anniversary '88|706,300|
+|Lamborghini|Diablo GT '00|830,500|
 |Mazda|Eunos Roadster (NA) '89|27,900|
-|Mercedes-Benz|SLR McLaren '09|523,400|
-|Mitsubishi|Lancer Evolution III GSR '95|83,600|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
 |RUF|CTR3 '07|792,800|
 |Renault|R4 GTL '85|29,200|
 |Subaru|Impreza Sedan WRX STi '04|49,900|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
-|Volkswagen|Scirocco R '10|43,300|
+|Volvo|240 SE Estate '93|43,900|
