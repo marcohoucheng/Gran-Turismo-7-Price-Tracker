@@ -27,17 +27,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-August-2025
+# Gran Turismo 7 Shops for 06-August-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ferrari|F50 '95|4,450,000|
+|Porsche|356 A/1500 GS Carrera '56|625,000|
+|Porsche|959 '87|1,950,000|
+|Porsche|962 C '88|1,300,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|650,000|
-|Maserati|A6GCS/53 Spyder '54|2,800,000|
 |Maserati|Merak SS '80|64,200|
 
 ### Available
@@ -53,38 +60,36 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z4 3.0i '03|43,700|
-|Fiat|500 1.2 8V Lounge SS '08|12,800|
-|Honda|Integra Type R (DC2) '98|61,400|
-|Nissan|R34 GT-R V-spec II Nur '02|387,000|
-|Toyota|Sports 800 '65|47,700|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,200|
+|Chevrolet|Corvette Z06 (C5) '01|50,200|
+|Honda|Civic Type R (EK) '97|58,100|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|304,400|
-|BMW|M3 Sport Evolution '89|162,400|
-|Ford|Sierra RS 500 Cosworth '87|184,900|
+|Honda|Civic Si Extra (EF) '87|57,200|
+|Honda|S2000 '99|104,900|
 |Mercedes-Benz|SLR McLaren '09|523,400|
 |Mitsubishi|Lancer Evolution III GSR '95|83,600|
-|Porsche|911 Carrera RS (993) '95|233,300|
-|Subaru|Impreza 22B-STi '98|166,900|
+|Renault|R4 GTL '85|29,200|
+|Subaru|Impreza Sedan WRX STi '04|49,900|
 |Volkswagen|Scirocco R '10|43,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|21,800|
+|BMW|Z4 3.0i '03|43,700|
+|Fiat|500 1.2 8V Lounge SS '08|12,800|
 |Honda|Beat '91|17,100|
-|Honda|Civic Si Extra (EF) '87|57,200|
-|Honda|S2000 '99|104,900|
+|Honda|Integra Type R (DC2) '98|61,400|
 |Lamborghini|Countach 25th Anniversary '88|706,300|
 |Lamborghini|Diablo GT '00|830,500|
 |Mazda|Eunos Roadster (NA) '89|27,900|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
+|Nissan|R34 GT-R V-spec II Nur '02|387,000|
 |RUF|CTR3 '07|792,800|
-|Renault|R4 GTL '85|29,200|
-|Subaru|Impreza Sedan WRX STi '04|49,900|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
+|Toyota|Sports 800 '65|47,700|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,200|
 |Volvo|240 SE Estate '93|43,900|
