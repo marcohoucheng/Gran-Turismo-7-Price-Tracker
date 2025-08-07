@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 06-August-2025
+# Gran Turismo 7 Shops for 07-August-2025
 
 
 
@@ -36,23 +36,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F50 '95|4,450,000|
-|Porsche|356 A/1500 GS Carrera '56|625,000|
-|Porsche|959 '87|1,950,000|
-|Porsche|962 C '88|1,300,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Alfa Romeo|155 2.5 V6 TI '93|650,000|
-|Maserati|Merak SS '80|64,200|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|F50 '95|4,450,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJ220 '92|565,000|
 |Plymouth|XNR Ghia Roadster '60|1,600,000|
+|Porsche|356 A/1500 GS Carrera '56|625,000|
+|Porsche|959 '87|1,950,000|
+|Porsche|962 C '88|1,300,000|
 
 
 ## Used shop
@@ -60,35 +55,37 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Z06 (C5) '01|50,200|
-|Honda|Civic Type R (EK) '97|58,100|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,500|
+|AMG|SLS AMG '10|315,900|
+|McLaren|MP4-12C '10|187,100|
+|Mitsubishi|Lancer Evolution V GSR '98|77,500|
+|Porsche|911 Turbo (930) '81|223,900|
+|Toyota|Supra 3.0GT Turbo A '88|114,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Honda|Civic Si Extra (EF) '87|57,200|
 |Honda|S2000 '99|104,900|
-|Mercedes-Benz|SLR McLaren '09|523,400|
-|Mitsubishi|Lancer Evolution III GSR '95|83,600|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
 |Renault|R4 GTL '85|29,200|
 |Subaru|Impreza Sedan WRX STi '04|49,900|
-|Volkswagen|Scirocco R '10|43,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|21,800|
 |BMW|Z4 3.0i '03|43,700|
+|Chevrolet|Corvette Z06 (C5) '01|50,200|
 |Fiat|500 1.2 8V Lounge SS '08|12,800|
 |Honda|Beat '91|17,100|
+|Honda|Civic Type R (EK) '97|58,100|
 |Honda|Integra Type R (DC2) '98|61,400|
 |Lamborghini|Countach 25th Anniversary '88|706,300|
 |Lamborghini|Diablo GT '00|830,500|
 |Mazda|Eunos Roadster (NA) '89|27,900|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
 |Nissan|R34 GT-R V-spec II Nur '02|387,000|
 |RUF|CTR3 '07|792,800|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,500|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
 |Toyota|Sports 800 '65|47,700|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,200|
