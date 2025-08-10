@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-August-2025
+# Gran Turismo 7 Shops for 10-August-2025
 
 
 
@@ -36,7 +36,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Plymouth|XNR Ghia Roadster '60|1,600,000|
+|Jaguar|XJ220 '92|565,000|
 |Shelby|Cobra 427 '66|2,700,000|
 
 ### Available
@@ -46,7 +46,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 |Ferrari|F50 '95|4,450,000|
 |Ford|Mark IV Race Car '67|6,750,000|
-|Jaguar|XJ220 '92|565,000|
 |NISMO|400R '95|1,600,000|
 |NISMO|400R '95|1,600,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
@@ -62,32 +61,31 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '97|80,400|
-|Daihatsu|Copen '02|16,100|
-|Ford|Mustang Mach 1 '71|41,400|
-|Pontiac|Firebird Trans Am '78|86,600|
+|Ferrari|Testarossa '91|402,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 500 '09|21,800|
 |Ferrari|Dino 246 GT '71|400,000|
-|Honda|Beat '91|17,100|
+|Lamborghini|Countach 25th Anniversary '88|706,300|
 |Lamborghini|Diablo GT '00|830,500|
-|Mazda|Eunos Roadster (NA) '89|27,900|
 |RUF|CTR3 '07|792,800|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
 |Volvo|240 SE Estate '93|43,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|315,900|
-|Abarth|Abarth 500 '09|21,800|
+|BMW|M3 '97|80,400|
 |BMW|Z4 3.0i '03|43,700|
 |Chevrolet|Corvette Z06 (C5) '01|50,200|
+|Daihatsu|Copen '02|16,100|
 |Fiat|500 1.2 8V Lounge SS '08|12,800|
+|Ford|Mustang Mach 1 '71|41,400|
 |Honda|Civic Type R (EK) '97|58,100|
 |Honda|Integra Type R (DC2) '98|61,400|
-|Lamborghini|Countach 25th Anniversary '88|706,300|
 |Maserati|GranTurismo S '08|137,900|
 |McLaren|MP4-12C '10|187,100|
 |Mitsubishi|GTO Twin Turbo '91|45,700|
@@ -96,9 +94,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|R32 GT-R V-spec II '94|200,000|
 |Nissan|R33 GT-R V-spec '97|180,000|
 |Nissan|Silvia K's Aero (S14) '96|57,700|
+|Pontiac|Firebird Trans Am '78|86,600|
 |Porsche|911 Turbo (930) '81|223,900|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,500|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
 |Toyota|Sports 800 '65|47,700|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,200|
 |Toyota|Supra 3.0GT Turbo A '88|114,400|
