@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-August-2025
+# Gran Turismo 7 Shops for 16-August-2025
 
 
 
@@ -36,26 +36,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chaparral|2J '70|2,500,000|
-|Ferrari|330 P4 '67|20,000,000|
-|Ford|1932 Ford Roadster Hot Rod|350,000|
+|McLaren|McLaren F1 '94|20,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette (C2) '63|246,000|
-|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
-|NISMO|400R '95|1,600,000|
-|NISMO|400R '95|1,600,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
-|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Dodge|Challenger R/T '70|203,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chaparral|2J '70|2,500,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
-|Dodge|Challenger R/T '70|203,000|
+|Ferrari|330 P4 '67|20,000,000|
+|Ford|1932 Ford Roadster Hot Rod|350,000|
 |Jaguar|E-type Coupe '61|205,000|
 |Porsche|917K '70|18,000,000|
 
@@ -65,45 +60,43 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|143,800|
-|Audi|R8 4.2 '07|141,600|
-|Chevrolet|Corvette ZR1 (C6) '09|100,800|
-|Lamborghini|Gallardo LP 560-4 '08|257,000|
+|Autobianchi|A112 Abarth '85|29,100|
+|Dodge|Super Bee '70|60,200|
+|Nissan|Skyline GTS-R (R31) '87|172,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|M3 '97|80,400|
-|Maserati|GranTurismo S '08|137,900|
-|Nissan|GT-R NISMO (R32) '90|400,000|
-|Nissan|R32 GT-R V-spec II '94|200,000|
-|Nissan|R33 GT-R V-spec '97|180,000|
-|Nissan|Silvia K's Aero (S14) '96|57,700|
+|Daihatsu|Copen '02|16,100|
+|De Tomaso|Pantera '71|200,000|
+|Ferrari|Testarossa '91|402,900|
+|Ford|Mustang Mach 1 '71|41,400|
+|Mitsubishi|GTO Twin Turbo '91|45,700|
+|Mitsubishi|Lancer Evolution V GSR '98|77,500|
 |Toyota|Supra 3.0GT Turbo A '88|114,400|
+|Volkswagen|Golf I GTI '83|42,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|164,900|
+|Alpine|A110 '72|143,800|
+|Audi|R8 4.2 '07|141,600|
 |BMW|Z8 '01|265,100|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,400|
+|Chevrolet|Corvette ZR1 (C6) '09|100,800|
 |Citroen|BX 19 TRS '87|30,000|
 |Citroen|BX 19 TRS '87|30,000|
 |Citroen|BX 19 TRS '87|30,000|
-|Daihatsu|Copen '02|16,100|
-|De Tomaso|Pantera '71|200,000|
 |Dodge|Viper SRT10 Coupe '06|111,400|
 |Ferrari|Dino 246 GT '71|327,300|
-|Ferrari|Testarossa '91|402,900|
-|Ford|Mustang Mach 1 '71|41,400|
 |Honda|Civic Type R (EK) '98|47,000|
 |Honda|Civic Type R (EK) Touring Car|122,800|
+|Lamborghini|Gallardo LP 560-4 '08|257,000|
 |MINI|Mini-Cooper 'S' '65|43,600|
 |Mazda|RX-7 GT-X (FC) '90|54,900|
-|Mitsubishi|GTO Twin Turbo '91|45,700|
-|Mitsubishi|Lancer Evolution V GSR '98|77,500|
 |Pontiac|Firebird Trans Am '78|86,600|
 |Porsche|911 Carrera RS CS (993) '95|409,200|
 |Suzuki|Swift Sport '07|13,600|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|50,700|
-|Volkswagen|Golf I GTI '83|42,100|
