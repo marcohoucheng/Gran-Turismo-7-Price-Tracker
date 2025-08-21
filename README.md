@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-August-2025
+# Gran Turismo 7 Shops for 21-August-2025
 
 
 
@@ -37,7 +37,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
-|Jaguar|E-type Coupe '61|205,000|
+|Ford|1932 Ford Roadster Hot Rod|350,000|
 |Porsche|917K '70|18,000,000|
 
 ### Available
@@ -49,7 +49,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|330 P4 '67|20,000,000|
 |Ferrari|365 GTB4 '71|610,000|
 |Ferrari|F40 '92|3,100,000|
-|Ford|1932 Ford Roadster Hot Rod|350,000|
 |McLaren|McLaren F1 '94|20,000,000|
 
 
@@ -58,18 +57,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Peugeot|205 GTI '88|53,300|
+|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
+|Porsche|911 GT3 (996) '01|156,800|
+|Volkswagen|Volkswagen 1200 '66|28,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|164,900|
 |Alpine|A110 '72|143,800|
-|Chevrolet|Corvette ZR-1 (C4) '89|86,400|
+|Citroen|BX 19 TRS '87|30,000|
+|Citroen|BX 19 TRS '87|30,000|
+|Citroen|BX 19 TRS '87|30,000|
+|Ferrari|Dino 246 GT '71|327,300|
+|Honda|Civic Type R (EK) Touring Car|122,800|
 |Lamborghini|Gallardo LP 560-4 '08|257,000|
 |MINI|Mini-Cooper 'S' '65|43,600|
-|Mazda|RX-7 GT-X (FC) '90|54,900|
-|Porsche|911 Carrera RS CS (993) '95|409,200|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -79,14 +81,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette Convertible (C3) '69|47,500|
 |Chevrolet|Corvette Stingray (C3) '69|71,500|
 |Chevrolet|Corvette ZR1 (C6) '09|100,800|
-|Citroen|BX 19 TRS '87|30,000|
-|Citroen|BX 19 TRS '87|30,000|
-|Citroen|BX 19 TRS '87|30,000|
 |Dodge|Super Bee '70|60,200|
 |Dodge|Viper SRT10 Coupe '06|111,400|
 |Ferrari|458 Italia '09|248,100|
-|Ferrari|Dino 246 GT '71|327,300|
-|Honda|Civic Type R (EK) Touring Car|122,800|
 |Honda|NSX Type R '92|389,500|
 |Lancia|Delta HF Integrale Evoluzione '91|103,200|
 |Lancia|Stratos '73|495,200|
@@ -96,4 +93,5 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Sileighty '98|72,800|
 |Nissan|Silvia K's Type S (S14) '94|46,100|
 |Nissan|Skyline GTS-R (R31) '87|172,000|
+|Peugeot|205 GTI '88|53,300|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|50,700|
