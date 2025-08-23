@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 22-August-2025
+# Gran Turismo 7 Shops for 23-August-2025
 
 
 
@@ -36,22 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
+|Mercedes-Benz|CLK-LM '98|8,500,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chaparral|2J '70|2,500,000|
-|Ford|1932 Ford Roadster Hot Rod|350,000|
+|Ferrari|330 P4 '67|20,000,000|
+|Ferrari|F40 '92|3,100,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Aston Martin|DB3S '53|6,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|330 P4 '67|20,000,000|
 |Ferrari|365 GTB4 '71|610,000|
-|Ferrari|F40 '92|3,100,000|
 |McLaren|McLaren F1 '94|20,000,000|
 
 
@@ -60,42 +61,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Escort RS Cosworth '92|124,600|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|61,600|
-|Porsche|911 GT3 (997) '09|142,700|
-|Suzuki|Cappuccino (EA11R) '91|16,500|
+|Honda|Civic SiR-II (EG) '93|50,100|
+|Lamborghini|Murcielago LP 640 '09|327,700|
+|Nissan|Fairlady 240ZG (HS30) '71|97,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|R8 4.2 '07|141,600|
 |Autobianchi|A112 Abarth '85|29,100|
+|Chevrolet|Corvette Stingray (C3) '69|71,500|
 |Chevrolet|Corvette ZR1 (C6) '09|100,800|
-|Citroen|BX 19 TRS '87|30,000|
-|Citroen|BX 19 TRS '87|30,000|
-|Citroen|BX 19 TRS '87|30,000|
 |Dodge|Super Bee '70|60,200|
 |Dodge|Viper SRT10 Coupe '06|111,400|
-|Ferrari|Dino 246 GT '71|327,300|
-|Honda|Civic Type R (EK) Touring Car|122,800|
+|Ferrari|458 Italia '09|248,100|
+|Nissan|R32 GT-R V-spec II '94|178,300|
+|Nissan|Skyline GTS-R (R31) '87|172,000|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|50,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Convertible (C3) '69|47,500|
-|Chevrolet|Corvette Stingray (C3) '69|71,500|
-|Ferrari|458 Italia '09|248,100|
+|Ford|Escort RS Cosworth '92|124,600|
 |Honda|NSX Type R '92|389,500|
 |Lancia|Delta HF Integrale Evoluzione '91|103,200|
 |Lancia|Stratos '73|495,200|
 |Mitsubishi|Lancer Evolution IV GSR '96|41,300|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|164,100|
-|Nissan|R32 GT-R V-spec II '94|178,300|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|61,600|
 |Nissan|Sileighty '98|72,800|
 |Nissan|Silvia K's Dia Selection (S13) '90|52,100|
 |Nissan|Silvia K's Type S (S14) '94|46,100|
-|Nissan|Skyline GTS-R (R31) '87|172,000|
 |Peugeot|205 GTI '88|53,300|
 |Porsche|911 GT3 (996) '01|156,800|
+|Porsche|911 GT3 (997) '09|142,700|
+|Suzuki|Cappuccino (EA11R) '91|16,500|
 |Volkswagen|Volkswagen 1200 '66|28,800|
