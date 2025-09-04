@@ -27,35 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-September-2025
+# Gran Turismo 7 Shops for 04-September-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Chevrolet|Corvette (C1) '58|107,000|
-|Jaguar|XJR-9 '88|3,000,000|
-|Toyota|2000GT '67|982,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Ford|Mustang Boss 429 '69|294,000|
 |Jaguar|XJ13 '66|12,000,000|
-|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Chevrolet|Camaro Z28 '69|115,000|
+|Chevrolet|Corvette (C1) '58|107,000|
 |Ferrari|250 GTO '62|20,000,000|
+|Jaguar|XJR-9 '88|3,000,000|
 |McLaren|McLaren F1 '94|20,000,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
+|Toyota|2000GT '67|982,000|
 |Toyota|2000GT '67|982,000|
 |Toyota|Celica GT-FOUR Rally Car (ST205) '95|230,000|
 
@@ -65,40 +60,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|72,500|
-|Honda|Integra Type R (DC2) '95|67,200|
-|Honda|S800 '66|42,300|
-|Porsche|911 Carrera RS (964) '92|208,600|
+|Nissan|SILVIA spec-R Aero (S15) '02|59,700|
+|Toyota|Supra 3.0GT Turbo A '88|130,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|MiTo '09|25,600|
-|Audi|TT Coupe 3.2 quattro '03|47,600|
 |Audi|TTS Coupe '09|57,300|
-|BMW|3.0 CSL '71|143,000|
 |BMW|3.0 CSL '73|206,600|
-|Ferrari|512 BB '76|308,600|
-|Ford|Ford GT '06|411,600|
+|Honda|NSX Type R '02|444,200|
 |Nissan|180SX Type X '96|49,200|
 |Nissan|Fairlady 240ZG (HS30) '71|97,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|BMW|M3 '03|72,500|
 |BMW|M3 '07|80,400|
 |Citroen|BX 19 TRS '87|23,100|
 |De Tomaso|Pantera '71|177,300|
 |Dodge|Viper GTS '02|103,600|
 |Ferrari|308 GTB '75|179,000|
 |Ferrari|430 Scuderia '07|343,200|
-|Honda|NSX Type R '02|444,200|
+|Honda|Integra Type R (DC2) '95|67,200|
 |Honda|S800 '66|58,000|
+|Honda|S800 '66|42,300|
 |MINI|MINI Cooper S '05|20,500|
 |Mitsubishi|Lancer Evolution IV GSR '96|55,000|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|58,100|
 |Nissan|Silvia K's Aero (S14) '96|60,000|
 |Nissan|Silvia Q's (S13) '88|34,900|
+|Porsche|911 Carrera RS (964) '92|208,600|
 |Renault|Avantime 3.0 V6 24V '02|39,000|
 |Renault|Clio V6 24V '00|81,600|
 |Renault|Kangoo 1.4 '01|14,100|
