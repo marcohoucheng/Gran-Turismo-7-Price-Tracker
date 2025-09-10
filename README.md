@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-September-2025
+# Gran Turismo 7 Shops for 10-September-2025
 
 
 
@@ -36,26 +36,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|154,000|
-|Lamborghini|Countach LP400 '74|1,350,000|
+|Nissan|R92CP '92|2,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette (C1) '58|107,000|
+|Toyota|2000GT '67|982,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|300 SEL 6.8 AMG '71|700,000|
 |Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
+|Dodge|Charger R/T 426 Hemi '68|154,000|
 |Ferrari|F40 '92|3,100,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Jaguar|XJR-9 '88|3,000,000|
+|Lamborghini|Countach LP400 '74|1,350,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 |Pontiac|GTO 'The Judge' '69|242,000|
 |Renault|R8 Gordini '66|32,500|
-|Toyota|2000GT '67|982,000|
 |Toyota|2000GT '67|982,000|
 
 
@@ -64,33 +65,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|512 BB '76|350,000|
-|Ford|Mustang Mach 1 '71|50,000|
-|Mazda|Eunos Roadster (NA) '89|27,900|
+|Abarth|Abarth 500 '09|21,800|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
+|Volkswagen|Scirocco R '10|43,300|
+|Volvo|240 SE Estate '93|43,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|BMW|M3 '03|72,500|
 |BMW|M3 '07|80,400|
-|Dodge|Viper GTS '02|103,600|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|58,100|
-|Renault|Clio V6 24V '00|81,600|
-|Renault|R5 Turbo '80|152,900|
+|Ferrari|430 Scuderia '07|343,200|
+|Ferrari|F430 '06|212,700|
+|Honda|S800 '66|42,300|
+|Toyota|MR2 GT-S '97|50,500|
+|Volkswagen|Sambabus Typ 2 '62|55,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|72,500|
 |BMW|M3 '89|79,000|
 |Chevrolet|Corvette Stingray (C3) '69|64,100|
-|Ferrari|430 Scuderia '07|343,200|
-|Ferrari|F430 '06|212,700|
+|Ferrari|512 BB '76|350,000|
+|Ford|Mustang Mach 1 '71|50,000|
 |Ford|Sierra RS 500 Cosworth '87|184,900|
 |Honda|Beat '91|17,100|
 |Honda|Civic Si Extra (EF) '87|57,200|
 |Honda|Integra Type R (DC2) '95|67,200|
 |Honda|S800 '66|58,000|
-|Honda|S800 '66|42,300|
+|Mazda|Eunos Roadster (NA) '89|27,900|
 |Mercedes-Benz|SLR McLaren '09|523,400|
 |Nissan|GT-R NISMO (R32) '90|389,500|
 |Nissan|R33 GT-R V-spec '97|154,700|
@@ -100,8 +103,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Renault|R4 GTL '85|29,200|
 |Subaru|Impreza 22B-STi '98|166,900|
 |TVR|Tuscan Speed 6 '00|71,500|
-|Toyota|MR2 GT-S '97|50,500|
 |Toyota|Supra 3.0GT Turbo A '88|130,000|
 |Toyota|Supra RZ '97|220,000|
 |Toyota|Supra RZ '97|220,000|
-|Volkswagen|Sambabus Typ 2 '62|55,300|
