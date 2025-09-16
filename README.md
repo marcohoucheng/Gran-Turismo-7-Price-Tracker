@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-September-2025
+# Gran Turismo 7 Shops for 16-September-2025
 
 
 
@@ -36,13 +36,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
-|Mazda|787B '91|3,300,000|
+|Maserati|Merak SS '80|64,200|
+|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
+|Plymouth|Superbird '70|402,000|
+|Shelby|G.T.350 '65|455,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Stingray Racer Concept '59|4,000,000|
 |Nissan|R92CP '92|2,000,000|
 
 ### Available
@@ -51,6 +52,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Dodge|Challenger R/T '70|203,000|
 |Ferrari|GTO '84|3,500,000|
 |Ford|GT40 Mark I '66|6,700,000|
+|Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
+|Mazda|787B '91|3,300,000|
 |Subaru|Impreza Rally Car '98|650,000|
 
 
@@ -59,35 +62,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|R34 GT-R V-spec II Nur '02|387,000|
+|BMW|Z4 3.0i '03|43,700|
+|Daihatsu|Copen '02|16,100|
+|Honda|NSX Type R '92|450,000|
+|Porsche|911 Carrera RS CS (993) '95|500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '89|79,000|
-|Ford|Sierra RS 500 Cosworth '87|184,900|
-|Honda|Beat '91|17,100|
-|Mazda|Eunos Roadster (NA) '89|27,900|
+|Abarth|Abarth 500 '09|21,800|
+|BMW|M3 Sport Evolution '89|162,400|
+|Mazda|RX-7 Spirit R Type A (FD) '02|215,900|
 |Mercedes-Benz|SLR McLaren '09|523,400|
-|Porsche|911 Carrera RS (964) '92|208,600|
 |Subaru|Impreza 22B-STi '98|166,900|
 |Volvo|240 SE Estate '93|43,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|21,800|
 |Alfa Romeo|8C Competizione '08|304,400|
-|BMW|M3 Sport Evolution '89|162,400|
 |Fiat|500 1.2 8V Lounge SS '08|12,800|
 |Honda|Civic Type R (EK) '97|58,100|
 |Honda|Integra Type R (DC2) '98|61,400|
 |Honda|S2000 '99|104,900|
 |Lamborghini|Countach 25th Anniversary '88|706,300|
 |Lamborghini|Diablo GT '00|830,500|
-|Mazda|RX-7 Spirit R Type A (FD) '02|215,900|
 |Mitsubishi|Lancer Evolution III GSR '95|83,600|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
+|Nissan|R34 GT-R V-spec II Nur '02|387,000|
 |Pontiac|Firebird Trans Am '78|86,600|
 |Porsche|911 Carrera RS (993) '95|233,300|
 |RUF|CTR3 '07|792,800|
