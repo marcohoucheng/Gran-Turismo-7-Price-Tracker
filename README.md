@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 17-September-2025
+# Gran Turismo 7 Shops for 18-September-2025
 
 
 
@@ -36,21 +36,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|300 SL (W194) '52|20,000,000|
+|Mercedes-Benz|Unimog Type 411 '62|46,000|
+|NISMO|400R '95|1,600,000|
+|NISMO|400R '95|1,600,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+
+### Leaving Soon
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Dodge|Challenger R/T '70|203,000|
+|Subaru|Impreza Rally Car '98|650,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Challenger R/T '70|203,000|
 |Ferrari|GTO '84|3,500,000|
 |Ford|GT40 Mark I '66|6,700,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
 |Maserati|Merak SS '80|64,200|
 |Mazda|787B '91|3,300,000|
+|Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Plymouth|Superbird '70|402,000|
 |Shelby|G.T.350 '65|455,000|
-|Subaru|Impreza Rally Car '98|650,000|
 
 
 ## Used shop
@@ -58,40 +67,43 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mitsubishi|Lancer Evolution V GSR '98|77,500|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,500|
-|Suzuki|Swift Sport '07|13,600|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,200|
-|Volkswagen|Golf I GTI '83|42,100|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|164,900|
+|Chevrolet|Corvette Z06 (C5) '01|50,200|
+|Nissan|GT-R NISMO (R32) '90|400,000|
+|Nissan|R32 GT-R V-spec II '94|200,000|
+|Nissan|R33 GT-R V-spec '97|180,000|
+|Toyota|Supra 3.0GT Turbo A '88|114,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|21,800|
-|BMW|M3 Sport Evolution '89|162,400|
-|Mazda|RX-7 Spirit R Type A (FD) '02|215,900|
+|Alfa Romeo|8C Competizione '08|304,400|
+|Honda|Civic Type R (EK) '97|58,100|
 |Mitsubishi|Lancer Evolution III GSR '95|83,600|
+|Porsche|911 Carrera RS (993) '95|233,300|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
 |Volkswagen|Scirocco R '10|43,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|304,400|
 |BMW|Z4 3.0i '03|43,700|
 |Daihatsu|Copen '02|16,100|
 |Fiat|500 1.2 8V Lounge SS '08|12,800|
-|Honda|Civic Type R (EK) '97|58,100|
 |Honda|Integra Type R (DC2) '98|61,400|
 |Honda|NSX Type R '92|450,000|
 |Honda|S2000 '99|104,900|
 |Lamborghini|Countach 25th Anniversary '88|706,300|
 |Lamborghini|Diablo GT '00|830,500|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
+|Mitsubishi|Lancer Evolution V GSR '98|77,500|
 |Nissan|R34 GT-R V-spec II Nur '02|387,000|
 |Pontiac|Firebird Trans Am '78|86,600|
-|Porsche|911 Carrera RS (993) '95|233,300|
 |Porsche|911 Carrera RS CS (993) '95|500,000|
 |RUF|CTR3 '07|792,800|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,500|
 |Subaru|Impreza Sedan WRX STi '04|49,900|
+|Suzuki|Swift Sport '07|13,600|
 |Toyota|Sports 800 '65|47,700|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,200|
+|Volkswagen|Golf I GTI '83|42,100|
