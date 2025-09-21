@@ -27,27 +27,33 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-September-2025
+# Gran Turismo 7 Shops for 21-September-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
+|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|GTO '84|3,500,000|
+|Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
 |Maserati|Merak SS '80|64,200|
+|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Shelby|G.T.350 '65|455,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|GTO '84|3,500,000|
 |Ford|GT40 Mark I '66|6,700,000|
-|Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
 |Mazda|787B '91|3,300,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
-|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
 |NISMO|400R '95|1,600,000|
 |NISMO|400R '95|1,600,000|
@@ -61,9 +67,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|MINI|Mini-Cooper 'S' '65|43,600|
-|Mitsubishi|GTO Twin Turbo '91|45,700|
-|Nissan|Silvia K's Aero (S14) '96|57,700|
+|AMG|SLS AMG '10|315,900|
+|Maserati|GranTurismo S '08|137,900|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|50,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -73,12 +79,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|NSX Type R '92|450,000|
 |Honda|S2000 '99|104,900|
 |Lamborghini|Countach 25th Anniversary '88|706,300|
-|Lamborghini|Diablo GT '00|830,500|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,600|
 |Porsche|911 Carrera RS CS (993) '95|500,000|
-|RUF|CTR3 '07|792,800|
 |Subaru|Impreza Sedan WRX STi '04|49,900|
-|Toyota|Sports 800 '65|47,700|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -88,12 +91,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette Z06 (C5) '01|50,200|
 |Daihatsu|Copen '02|16,100|
 |Honda|Civic Type R (EK) '98|47,000|
+|MINI|Mini-Cooper 'S' '65|43,600|
 |McLaren|MP4-12C '10|187,100|
+|Mitsubishi|GTO Twin Turbo '91|45,700|
 |Mitsubishi|Lancer Evolution V GSR '98|77,500|
 |Nissan|GT-R NISMO (R32) '90|400,000|
 |Nissan|R32 GT-R V-spec II '94|200,000|
 |Nissan|R33 GT-R V-spec '97|180,000|
 |Nissan|R34 GT-R V-spec II Nur '02|387,000|
+|Nissan|Silvia K's Aero (S14) '96|57,700|
 |Pontiac|Firebird Trans Am '78|86,600|
 |Porsche|911 Turbo (930) '81|223,900|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,500|
