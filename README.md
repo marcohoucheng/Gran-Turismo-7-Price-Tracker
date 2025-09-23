@@ -27,28 +27,31 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 22-September-2025
+# Gran Turismo 7 Shops for 23-September-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Jaguar|E-type Coupe '61|205,000|
+|McLaren|McLaren F1 GTR - BMW '95|16,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|GTO '84|3,500,000|
-|Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
-|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
+|Ford|GT40 Mark I '66|6,700,000|
+|Mazda|787B '91|3,300,000|
+|Mercedes-Benz|Unimog Type 411 '62|46,000|
 |Plymouth|Superbird '70|402,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
-|Ford|GT40 Mark I '66|6,700,000|
-|Mazda|787B '91|3,300,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
-|Mercedes-Benz|Unimog Type 411 '62|46,000|
 |NISMO|400R '95|1,600,000|
 |NISMO|400R '95|1,600,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|542,000|
@@ -61,16 +64,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|143,800|
-|BMW|Z8 '01|265,100|
-|Ferrari|Testarossa '91|402,900|
+|Autobianchi|A112 Abarth '85|29,100|
+|BMW|M3 '97|80,400|
+|Ferrari|Dino 246 GT '71|327,300|
+|Ford|Mustang Mach 1 '71|41,400|
+|Honda|Civic Type R (EK) Touring Car|122,800|
+|Porsche|911 Carrera RS CS (993) '95|409,200|
+|TVR|Tuscan Speed 6 '00|95,000|
+|TVR|Tuscan Speed 6 '00|95,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|Z4 3.0i '03|43,700|
+|Chevrolet|Corvette Z06 (C5) '01|50,200|
+|Daihatsu|Copen '02|16,100|
 |Nissan|R34 GT-R V-spec II Nur '02|387,000|
 |Pontiac|Firebird Trans Am '78|86,600|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,200|
 |Volkswagen|Golf I GTI '83|42,100|
 
 ### Available
@@ -78,8 +89,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |AMG|SLS AMG '10|315,900|
 |Alfa Romeo|Giulia Sprint GT Veloce '67|164,900|
-|Chevrolet|Corvette Z06 (C5) '01|50,200|
-|Daihatsu|Copen '02|16,100|
+|Alpine|A110 '72|143,800|
+|BMW|Z8 '01|265,100|
+|Ferrari|Testarossa '91|402,900|
 |Honda|Civic Type R (EK) '98|47,000|
 |MINI|Mini-Cooper 'S' '65|43,600|
 |Maserati|GranTurismo S '08|137,900|
@@ -94,5 +106,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,500|
 |Suzuki|Swift Sport '07|13,600|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|50,700|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,200|
 |Toyota|Supra 3.0GT Turbo A '88|114,400|
