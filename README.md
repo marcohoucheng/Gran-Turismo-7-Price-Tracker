@@ -27,16 +27,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 27-September-2025
+# Gran Turismo 7 Shops for 28-September-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Citroen|DS 21 Pallas '70|49,500|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,800,000|
 |Jaguar|E-type Coupe '61|205,000|
 |McLaren|McLaren F1 GTR - BMW '95|16,000,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,600,000|
@@ -58,42 +62,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|136,500|
-|Dodge|Super Bee '70|61,100|
-|Peugeot|205 GTI '88|54,100|
-|Volkswagen|Volkswagen 1200 '66|31,900|
+|Lamborghini|Gallardo LP 560-4 '08|252,000|
+|Nissan|Silvia K's Dia Selection (S13) '90|56,800|
+|Nissan|Skyline GTS-R (R31) '87|169,000|
 
 ### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|BMW|Z8 '01|265,100|
-|Ferrari|Testarossa '91|402,900|
-|MINI|Mini-Cooper 'S' '65|43,600|
-|Maserati|GranTurismo S '08|137,900|
-|Mitsubishi|GTO Twin Turbo '91|45,700|
-|Nissan|Silvia K's Aero (S14) '96|57,700|
-|Porsche|911 Turbo (930) '81|223,900|
-|TVR|Tuscan Speed 6 '00|95,000|
-|TVR|Tuscan Speed 6 '00|95,000|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|50,700|
-|Toyota|Supra 3.0GT Turbo A '88|114,400|
-
-### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|143,800|
 |Autobianchi|A112 Abarth '85|29,100|
 |BMW|M3 '97|80,400|
+|Ferrari|Dino 246 GT '71|327,300|
+|Ferrari|Testarossa '91|402,900|
+|Ford|Mustang Mach 1 '71|41,400|
+|Honda|Civic Type R (EK) Touring Car|122,800|
+|Mitsubishi|GTO Twin Turbo '91|45,700|
+|Nissan|Silvia K's Aero (S14) '96|57,700|
+|Porsche|911 Carrera RS CS (993) '95|409,200|
+|TVR|Tuscan Speed 6 '00|95,000|
+|TVR|Tuscan Speed 6 '00|95,000|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|50,700|
+
+### Available
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Audi|R8 4.2 '07|136,500|
 |Chevrolet|Corvette ZR-1 (C4) '89|84,600|
 |Chevrolet|Corvette ZR1 (C6) '09|99,200|
 |Citroen|BX 19 TRS '87|30,000|
+|Dodge|Super Bee '70|61,100|
 |Dodge|Viper SRT10 Coupe '06|115,300|
-|Ferrari|Dino 246 GT '71|327,300|
-|Ford|Mustang Mach 1 '71|41,400|
-|Honda|Civic Type R (EK) Touring Car|122,800|
 |Lancia|Delta HF Integrale Evoluzione '91|101,200|
 |Mazda|RX-7 GT-X (FC) '90|62,800|
 |Nissan|SILVIA spec-R Aero (S15) '02|68,000|
 |Nissan|Silvia K's Type S (S14) '94|50,800|
-|Porsche|911 Carrera RS CS (993) '95|409,200|
+|Peugeot|205 GTI '88|54,100|
 |Renault|Avantime 3.0 V6 24V '02|37,600|
+|Volkswagen|Volkswagen 1200 '66|31,900|
