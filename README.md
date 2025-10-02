@@ -27,11 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-October-2025
+# Gran Turismo 7 Shops for 02-October-2025
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Honda|RA272 '65|2,500,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -54,23 +60,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Fiat|500 F '68|17,900|
-|Ford|Escort RS Cosworth '92|128,900|
-|Honda|Civic SiR-II (EG) '93|58,500|
-|Lancia|Stratos '73|539,800|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
-|Nissan|Sileighty '98|84,800|
-|Porsche|911 GT3 (997) '09|140,900|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette ZR-1 (C4) '89|84,600|
-|Lancia|Delta HF Integrale Evoluzione '91|101,200|
-|Mazda|RX-7 GT-X (FC) '90|62,800|
 |Nissan|Silvia K's Type S (S14) '94|50,800|
 |Renault|Avantime 3.0 V6 24V '02|37,600|
 
@@ -84,18 +77,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Dodge|Super Bee '70|61,100|
 |Dodge|Viper SRT10 Coupe '06|115,300|
 |Ferrari|458 Italia '09|244,400|
+|Fiat|500 F '68|17,900|
+|Ford|Escort RS Cosworth '92|128,900|
+|Honda|Civic SiR-II (EG) '93|58,500|
 |Honda|NSX Type R '92|398,200|
 |Lamborghini|Gallardo LP 560-4 '08|252,000|
+|Lancia|Stratos '73|539,800|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
 |Nissan|Fairlady 240ZG (HS30) '71|98,200|
 |Nissan|R32 GT-R V-spec II '94|173,400|
 |Nissan|SILVIA spec-R Aero (S15) '02|68,000|
+|Nissan|Sileighty '98|84,800|
 |Nissan|Silvia K's Dia Selection (S13) '90|56,800|
 |Nissan|Skyline GTS-R (R31) '87|169,000|
 |Peugeot|205 GTI '88|54,100|
 |Porsche|911 Carrera RS (993) '95|260,000|
 |Porsche|911 GT3 (996) '01|161,700|
+|Porsche|911 GT3 (997) '09|140,900|
 |Suzuki|Cappuccino (EA11R) '91|16,200|
 |Toyota|Celica GT-Four (ST205) '94|90,000|
 |Volkswagen|Volkswagen 1200 '66|31,900|
