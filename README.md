@@ -27,19 +27,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-October-2025
+# Gran Turismo 7 Shops for 06-October-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Honda|NSX GT500 '00|1,650,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Citroen|DS 21 Pallas '70|49,500|
-|Dodge|Challenger R/T '70|179,000|
-|Mercedes-Benz|W 196 R '55|20,000,000|
-|Pontiac|GTO 'The Judge' '69|209,000|
+|Shelby|Cobra 427 '66|2,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -50,28 +52,31 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|RA272 '65|2,500,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 |Porsche|Spyder type 550/1500RS '55|4,950,000|
-|Shelby|Cobra 427 '66|2,700,000|
 |Toyota|Land Cruiser FJ40V '74|44,100|
 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Audi|TT Coupe 3.2 quattro '03|43,300|
+|BMW|3.0 CSL '73|205,200|
+|Ford|Ford GT '06|397,100|
+|Nissan|Fairlady Z (Z34) '08|37,100|
+|Nissan|Fairlady Z Version S (Z33) '07|26,800|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|136,500|
-|Citroen|BX 19 TRS '87|30,000|
+|Chevrolet|Corvette Convertible (C3) '69|47,000|
 |Ferrari|458 Italia '09|244,400|
-|Honda|NSX Type R '92|398,200|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 |Nissan|Fairlady 240ZG (HS30) '71|98,200|
 |Nissan|R32 GT-R V-spec II '94|173,400|
-|Nissan|SILVIA spec-R Aero (S15) '02|68,000|
 |Nissan|Silvia K's Dia Selection (S13) '90|56,800|
 |Nissan|Skyline GTS-R (R31) '87|169,000|
-|Porsche|911 Carrera RS (993) '95|260,000|
 |Suzuki|Cappuccino (EA11R) '91|16,200|
-|Toyota|Celica GT-Four (ST205) '94|90,000|
 |Volkswagen|Volkswagen 1200 '66|31,900|
 
 ### Available
@@ -80,7 +85,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 595 SS '70|53,100|
 |Alfa Romeo|MiTo '09|22,700|
 |BMW|3.0 CSL '71|141,800|
-|Chevrolet|Corvette Convertible (C3) '69|47,000|
 |Fiat|500 F '68|17,900|
 |Ford|Escort RS Cosworth '92|128,900|
 |Honda|Civic SiR-II (EG) '93|58,500|
