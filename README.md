@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 06-October-2025
+# Gran Turismo 7 Shops for 07-October-2025
 
 
 
@@ -36,20 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|NSX GT500 '00|1,650,000|
+|Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Toyota|Land Cruiser FJ40V '74|44,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
+|Honda|RA272 '65|2,500,000|
 |Shelby|Cobra 427 '66|2,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Chevrolet|Camaro Z28 '69|111,000|
 |De Tomaso|Mangusta '69|310,000|
-|Honda|RA272 '65|2,500,000|
+|Honda|NSX GT500 '00|1,650,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 |Porsche|Spyder type 550/1500RS '55|4,950,000|
 |Toyota|Land Cruiser FJ40V '74|44,100|
@@ -60,39 +63,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|43,300|
-|BMW|3.0 CSL '73|205,200|
-|Ford|Ford GT '06|397,100|
-|Nissan|Fairlady Z (Z34) '08|37,100|
-|Nissan|Fairlady Z Version S (Z33) '07|26,800|
+|Audi|TTS Coupe '09|58,300|
+|Ferrari|Dino 246 GT '71|400,000|
+|Ferrari|Dino 246 GT '71|400,000|
+|Honda|NSX Type R '02|432,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Convertible (C3) '69|47,000|
-|Ferrari|458 Italia '09|244,400|
-|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
-|Nissan|Fairlady 240ZG (HS30) '71|98,200|
-|Nissan|R32 GT-R V-spec II '94|173,400|
-|Nissan|Silvia K's Dia Selection (S13) '90|56,800|
-|Nissan|Skyline GTS-R (R31) '87|169,000|
-|Suzuki|Cappuccino (EA11R) '91|16,200|
-|Volkswagen|Volkswagen 1200 '66|31,900|
+|Ford|Escort RS Cosworth '92|128,900|
+|Honda|Civic SiR-II (EG) '93|58,500|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
+|Porsche|911 GT3 (996) '01|161,700|
+|Porsche|911 GT3 (997) '09|140,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|53,100|
 |Alfa Romeo|MiTo '09|22,700|
+|Audi|TT Coupe 3.2 quattro '03|43,300|
 |BMW|3.0 CSL '71|141,800|
+|BMW|3.0 CSL '73|205,200|
 |Fiat|500 F '68|17,900|
-|Ford|Escort RS Cosworth '92|128,900|
-|Honda|Civic SiR-II (EG) '93|58,500|
+|Ford|Ford GT '06|397,100|
 |Lamborghini|Murcielago LP 640 '09|340,400|
 |Lancia|Stratos '73|539,800|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
+|Nissan|Fairlady Z (Z34) '08|37,100|
+|Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|Sileighty '98|84,800|
-|Porsche|911 GT3 (996) '01|161,700|
-|Porsche|911 GT3 (997) '09|140,900|
 |Toyota|Celica GT-Four (ST205) '94|65,500|
