@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 07-October-2025
+# Gran Turismo 7 Shops for 08-October-2025
 
 
 
@@ -36,16 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|S Barker Tourer '29|13,000,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Toyota|Land Cruiser FJ40V '74|44,100|
+|Mercedes-Benz|300 SL Coupe '54|1,650,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Honda|RA272 '65|2,500,000|
-|Shelby|Cobra 427 '66|2,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -54,7 +51,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |De Tomaso|Mangusta '69|310,000|
 |Honda|NSX GT500 '00|1,650,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
+|Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|Spyder type 550/1500RS '55|4,950,000|
+|Toyota|Land Cruiser FJ40V '74|44,100|
 |Toyota|Land Cruiser FJ40V '74|44,100|
 
 
@@ -63,15 +63,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TTS Coupe '09|58,300|
-|Ferrari|Dino 246 GT '71|400,000|
-|Ferrari|Dino 246 GT '71|400,000|
-|Honda|NSX Type R '02|432,900|
+|Citroen|BX 19 TRS '87|22,700|
+|DMC|DeLorean S2 '04|462,400|
+|Ferrari|308 GTB '75|176,100|
+|Ferrari|512 BB '76|299,300|
+|Nissan|180SX Type X '96|57,400|
+|Renault|Kangoo 1.4 '01|14,200|
+|Renault|R5 Turbo '80|161,400|
+|Toyota|Prius G '09|19,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Convertible (C3) '69|47,000|
 |Ford|Escort RS Cosworth '92|128,900|
 |Honda|Civic SiR-II (EG) '93|58,500|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
@@ -85,10 +88,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 595 SS '70|53,100|
 |Alfa Romeo|MiTo '09|22,700|
 |Audi|TT Coupe 3.2 quattro '03|43,300|
+|Audi|TTS Coupe '09|58,300|
 |BMW|3.0 CSL '71|141,800|
 |BMW|3.0 CSL '73|205,200|
+|Ferrari|Dino 246 GT '71|400,000|
+|Ferrari|Dino 246 GT '71|400,000|
 |Fiat|500 F '68|17,900|
 |Ford|Ford GT '06|397,100|
+|Honda|NSX Type R '02|432,900|
 |Lamborghini|Murcielago LP 640 '09|340,400|
 |Lancia|Stratos '73|539,800|
 |Nissan|Fairlady Z (Z34) '08|37,100|
