@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 08-October-2025
+# Gran Turismo 7 Shops for 09-October-2025
 
 
 
@@ -36,21 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|300 SL Coupe '54|1,650,000|
+|McLaren|McLaren F1 GTR - BMW '95|17,000,000|
+|NISMO|400R '95|1,600,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
-|Honda|RA272 '65|2,500,000|
+|Chevrolet|Camaro Z28 '69|111,000|
+|De Tomaso|Mangusta '69|310,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Camaro Z28 '69|111,000|
-|De Tomaso|Mangusta '69|310,000|
 |Honda|NSX GT500 '00|1,650,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
+|Mercedes-Benz|300 SL Coupe '54|1,650,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|Spyder type 550/1500RS '55|4,950,000|
@@ -63,24 +65,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Citroen|BX 19 TRS '87|22,700|
-|DMC|DeLorean S2 '04|462,400|
-|Ferrari|308 GTB '75|176,100|
-|Ferrari|512 BB '76|299,300|
-|Nissan|180SX Type X '96|57,400|
-|Renault|Kangoo 1.4 '01|14,200|
-|Renault|R5 Turbo '80|161,400|
-|Toyota|Prius G '09|19,400|
+|De Tomaso|Pantera '71|166,500|
+|Nissan|GT-R NISMO (R32) '90|400,000|
+|Nissan|R32 GT-R V-spec II '94|200,000|
+|Nissan|R33 GT-R V-spec '97|180,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Escort RS Cosworth '92|128,900|
-|Honda|Civic SiR-II (EG) '93|58,500|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
-|Porsche|911 GT3 (996) '01|161,700|
-|Porsche|911 GT3 (997) '09|140,900|
+|Fiat|500 F '68|17,900|
+|Lamborghini|Murcielago LP 640 '09|340,400|
+|Nissan|Sileighty '98|84,800|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -91,14 +86,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|TTS Coupe '09|58,300|
 |BMW|3.0 CSL '71|141,800|
 |BMW|3.0 CSL '73|205,200|
+|Citroen|BX 19 TRS '87|22,700|
+|DMC|DeLorean S2 '04|462,400|
+|Ferrari|308 GTB '75|176,100|
+|Ferrari|512 BB '76|299,300|
 |Ferrari|Dino 246 GT '71|400,000|
 |Ferrari|Dino 246 GT '71|400,000|
-|Fiat|500 F '68|17,900|
 |Ford|Ford GT '06|397,100|
 |Honda|NSX Type R '02|432,900|
-|Lamborghini|Murcielago LP 640 '09|340,400|
 |Lancia|Stratos '73|539,800|
+|Nissan|180SX Type X '96|57,400|
 |Nissan|Fairlady Z (Z34) '08|37,100|
 |Nissan|Fairlady Z Version S (Z33) '07|26,800|
-|Nissan|Sileighty '98|84,800|
+|Renault|Kangoo 1.4 '01|14,200|
+|Renault|R5 Turbo '80|161,400|
 |Toyota|Celica GT-Four (ST205) '94|65,500|
+|Toyota|Prius G '09|19,400|
