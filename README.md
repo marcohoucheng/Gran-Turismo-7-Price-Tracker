@@ -27,28 +27,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 10-October-2025
+# Gran Turismo 7 Shops for 11-October-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|147,000|
-|Ferrari|250 GT Berlinetta passo corto '61|6,850,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Camaro Z28 '69|111,000|
-|De Tomaso|Mangusta '69|310,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Toyota|Land Cruiser FJ40V '74|44,100|
+|Toyota|Land Cruiser FJ40V '74|44,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Dodge|Charger R/T 426 Hemi '68|147,000|
+|Ferrari|250 GT Berlinetta passo corto '61|6,850,000|
 |Honda|NSX GT500 '00|1,650,000|
 |McLaren|McLaren F1 GTR - BMW '95|17,000,000|
 |Mercedes-Benz|300 SL Coupe '54|1,650,000|
@@ -56,56 +53,46 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |NISMO|400R '95|1,600,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|Spyder type 550/1500RS '55|4,950,000|
-|Toyota|Land Cruiser FJ40V '74|44,100|
-|Toyota|Land Cruiser FJ40V '74|44,100|
 
 
 ## Used shop
-
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|BMW|M3 '07|77,600|
-|Ferrari|430 Scuderia '07|378,100|
-|MINI|MINI Cooper S '05|23,600|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
-|Nissan|Silvia Q's (S13) '88|31,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|53,100|
+|Alfa Romeo|MiTo '09|22,700|
 |BMW|3.0 CSL '71|141,800|
-|Fiat|500 F '68|17,900|
-|Lamborghini|Murcielago LP 640 '09|340,400|
+|BMW|3.0 CSL '73|205,200|
+|Ferrari|Dino 246 GT '71|400,000|
+|Ferrari|Dino 246 GT '71|400,000|
 |Lancia|Stratos '73|539,800|
-|Nissan|Sileighty '98|84,800|
 |Toyota|Celica GT-Four (ST205) '94|65,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|MiTo '09|22,700|
 |Audi|TT Coupe 3.2 quattro '03|43,300|
 |Audi|TTS Coupe '09|58,300|
-|BMW|3.0 CSL '73|205,200|
+|BMW|M3 '07|77,600|
 |Citroen|BX 19 TRS '87|22,700|
 |DMC|DeLorean S2 '04|462,400|
 |De Tomaso|Pantera '71|166,500|
 |Ferrari|308 GTB '75|176,100|
+|Ferrari|430 Scuderia '07|378,100|
 |Ferrari|512 BB '76|299,300|
-|Ferrari|Dino 246 GT '71|400,000|
-|Ferrari|Dino 246 GT '71|400,000|
 |Ford|Ford GT '06|397,100|
 |Honda|NSX Type R '02|432,900|
+|MINI|MINI Cooper S '05|23,600|
 |Nissan|180SX Type X '96|57,400|
 |Nissan|Fairlady Z (Z34) '08|37,100|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
 |Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|GT-R NISMO (R32) '90|400,000|
 |Nissan|R32 GT-R V-spec II '94|200,000|
 |Nissan|R33 GT-R V-spec '97|180,000|
+|Nissan|Silvia Q's (S13) '88|31,500|
 |Renault|Kangoo 1.4 '01|14,200|
 |Renault|R5 Turbo '80|161,400|
 |Toyota|Prius G '09|19,400|
