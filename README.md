@@ -27,17 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 11-October-2025
+# Gran Turismo 7 Shops for 12-October-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Nissan|Fairlady Z 432 '69|312,000|
+|Nissan|GT-R GT500 '99|2,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Porsche|Spyder type 550/1500RS '55|4,950,000|
 |Toyota|Land Cruiser FJ40V '74|44,100|
 |Toyota|Land Cruiser FJ40V '74|44,100|
 
@@ -53,22 +59,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |NISMO|400R '95|1,600,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
-|Porsche|Spyder type 550/1500RS '55|4,950,000|
 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Dodge|Viper GTS '02|106,600|
+|Honda|S800 '66|52,000|
+|Renault|Clio V6 24V '00|82,800|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|53,100|
 |Alfa Romeo|MiTo '09|22,700|
-|BMW|3.0 CSL '71|141,800|
 |BMW|3.0 CSL '73|205,200|
 |Ferrari|Dino 246 GT '71|400,000|
 |Ferrari|Dino 246 GT '71|400,000|
-|Lancia|Stratos '73|539,800|
-|Toyota|Celica GT-Four (ST205) '94|65,500|
+|Nissan|Fairlady Z Version S (Z33) '07|26,800|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -88,7 +97,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|180SX Type X '96|57,400|
 |Nissan|Fairlady Z (Z34) '08|37,100|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
-|Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|GT-R NISMO (R32) '90|400,000|
 |Nissan|R32 GT-R V-spec II '94|200,000|
 |Nissan|R33 GT-R V-spec '97|180,000|
