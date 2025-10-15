@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 14-October-2025
+# Gran Turismo 7 Shops for 15-October-2025
 
 
 
@@ -36,28 +36,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Shelby|Cobra 427 '66|2,700,000|
-|Toyota|Land Cruiser FJ40V '74|44,100|
+|Aston Martin|DB5 '64|982,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|NSX GT500 '00|1,650,000|
 |McLaren|McLaren F1 GTR - BMW '95|17,000,000|
-|Mercedes-Benz|S Barker Tourer '29|13,000,000|
+|Mercedes-Benz|300 SL Coupe '54|1,650,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Charger R/T 426 Hemi '68|147,000|
 |Ferrari|250 GT Berlinetta passo corto '61|6,850,000|
-|Mercedes-Benz|300 SL Coupe '54|1,650,000|
 |NISMO|400R '95|1,600,000|
 |Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|GT-R GT500 '99|2,000,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+|Shelby|Cobra 427 '66|2,700,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
+|Toyota|Land Cruiser FJ40V '74|44,100|
 
 
 ## Used shop
@@ -65,10 +64,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
-|Honda|Beat '91|14,900|
-|Honda|Civic Si Extra (EF) '87|50,700|
-|Porsche|911 Turbo (930) '81|250,000|
+|Porsche|911 Carrera RS (964) '92|207,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -76,33 +72,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|TT Coupe 3.2 quattro '03|43,300|
 |Citroen|BX 19 TRS '87|22,700|
 |DMC|DeLorean S2 '04|462,400|
-|Ferrari|308 GTB '75|176,100|
+|De Tomaso|Pantera '71|166,500|
 |Ferrari|512 BB '76|299,300|
 |Ford|Ford GT '06|397,100|
-|Nissan|Fairlady Z (Z34) '08|37,100|
+|Nissan|180SX Type X '96|57,400|
+|Nissan|Silvia Q's (S13) '88|31,500|
+|Renault|R5 Turbo '80|161,400|
+|Toyota|Prius G '09|19,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
 |Audi|TTS Coupe '09|58,300|
 |BMW|M3 '07|77,600|
-|De Tomaso|Pantera '71|166,500|
 |Dodge|Viper GTS '02|106,600|
 |Ferrari|430 Scuderia '07|378,100|
+|Honda|Beat '91|14,900|
+|Honda|Civic Si Extra (EF) '87|50,700|
 |Honda|Integra Type R (DC2) '95|58,800|
 |Honda|NSX Type R '02|432,900|
 |Honda|S800 '66|52,000|
 |MINI|MINI Cooper S '05|23,600|
-|Nissan|180SX Type X '96|57,400|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
 |Nissan|GT-R NISMO (R32) '90|400,000|
 |Nissan|R32 GT-R V-spec II '94|200,000|
 |Nissan|R33 GT-R V-spec '97|180,000|
-|Nissan|Silvia Q's (S13) '88|31,500|
+|Porsche|911 Turbo (930) '81|250,000|
 |Renault|Clio V6 24V '00|82,800|
 |Renault|Kangoo 1.4 '01|14,200|
 |Renault|R4 GTL '85|25,500|
-|Renault|R5 Turbo '80|161,400|
 |Toyota|MR2 GT-S '97|51,500|
-|Toyota|Prius G '09|19,400|
 |Volkswagen|Sambabus Typ 2 '62|63,000|
