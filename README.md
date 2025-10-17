@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 16-October-2025
+# Gran Turismo 7 Shops for 17-October-2025
 
 
 
@@ -36,15 +36,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|D-type '54|6,000,000|
-|Jaguar|XJ13 '66|12,000,000|
+|Lamborghini|Countach LP400 '74|1,250,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Charger R/T 426 Hemi '68|147,000|
-|Mercedes-Benz|300 SL Coupe '54|1,650,000|
 |NISMO|400R '95|1,600,000|
+|Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 
@@ -53,7 +52,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Aston Martin|DB5 '64|982,000|
 |Ferrari|250 GT Berlinetta passo corto '61|6,850,000|
-|Nissan|Fairlady Z 432 '69|312,000|
+|Jaguar|D-type '54|6,000,000|
+|Jaguar|XJ13 '66|12,000,000|
 |Nissan|GT-R GT500 '99|2,000,000|
 |Shelby|Cobra 427 '66|2,700,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
@@ -65,43 +65,42 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|61,100|
-|Nissan|SILVIA spec-R Aero (S15) '02|58,600|
-|Toyota|Supra 3.0GT Turbo A '88|130,000|
-|Toyota|Supra RZ '97|220,000|
-|Toyota|Supra RZ '97|220,000|
+|Chevrolet|Corvette Stingray (C3) '69|58,600|
+|Ferrari|F430 '06|209,600|
+|Ford|Sierra RS 500 Cosworth '87|196,400|
+|Mazda|Eunos Roadster (NA) '89|30,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TTS Coupe '09|58,300|
-|De Tomaso|Pantera '71|166,500|
+|Ferrari|430 Scuderia '07|378,100|
 |Honda|NSX Type R '02|432,900|
-|Nissan|180SX Type X '96|57,400|
+|MINI|MINI Cooper S '05|23,600|
 |Nissan|GT-R NISMO (R32) '90|400,000|
 |Nissan|R32 GT-R V-spec II '94|200,000|
 |Nissan|R33 GT-R V-spec '97|180,000|
-|Nissan|Silvia Q's (S13) '88|31,500|
 |Renault|Kangoo 1.4 '01|14,200|
-|Renault|R5 Turbo '80|161,400|
-|Toyota|Prius G '09|19,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
+|BMW|M3 '03|61,100|
 |BMW|M3 '07|77,600|
 |Dodge|Viper GTS '02|106,600|
-|Ferrari|430 Scuderia '07|378,100|
 |Honda|Beat '91|14,900|
 |Honda|Civic Si Extra (EF) '87|50,700|
 |Honda|Integra Type R (DC2) '95|58,800|
 |Honda|S800 '66|52,000|
-|MINI|MINI Cooper S '05|23,600|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
+|Nissan|SILVIA spec-R Aero (S15) '02|58,600|
 |Porsche|911 Carrera RS (964) '92|207,000|
 |Porsche|911 Turbo (930) '81|250,000|
 |Renault|Clio V6 24V '00|82,800|
 |Renault|R4 GTL '85|25,500|
 |Toyota|MR2 GT-S '97|51,500|
+|Toyota|Supra 3.0GT Turbo A '88|130,000|
+|Toyota|Supra RZ '97|220,000|
+|Toyota|Supra RZ '97|220,000|
 |Volkswagen|Sambabus Typ 2 '62|63,000|
