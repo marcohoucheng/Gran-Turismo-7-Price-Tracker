@@ -27,31 +27,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-October-2025
+# Gran Turismo 7 Shops for 22-October-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|McLaren|MP4/4 '88|12,000,000|
-|Mercedes-Benz|W 196 R '55|20,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB5 '64|982,000|
+|Jaguar|XJ13 '66|12,000,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|365 GTB4 '71|610,000|
+|Ferrari|365 GTB4 '71|610,000|
 |Jaguar|D-type '54|6,000,000|
-|Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|327,700|
+|McLaren|MP4/4 '88|12,000,000|
+|Mercedes-Benz|W 196 R '55|20,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Toyota|GT-One (TS020) '99|2,500,000|
 
@@ -61,16 +59,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 Sport Evolution '89|165,000|
-|Fiat|500 1.2 8V Lounge SS '08|13,000|
+|Alfa Romeo|8C Competizione '08|294,800|
+|Honda|Civic Type R (EK) '97|53,500|
+|MINI|Mini-Cooper 'S' '65|38,100|
+|Mitsubishi|Lancer Evolution III GSR '95|80,900|
+|Subaru|Impreza Sedan WRX STi '04|42,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Viper GTS '02|106,600|
+|Ferrari|F430 '06|209,600|
+|Honda|Beat '91|14,900|
+|Mazda|Eunos Roadster (NA) '89|30,500|
 |Porsche|911 Carrera RS (964) '92|207,000|
-|Renault|Clio V6 24V '00|82,800|
-|Renault|R4 GTL '85|25,500|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -78,11 +79,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|Abarth 500 '09|26,400|
 |BMW|M3 '03|61,100|
 |BMW|M3 '89|75,100|
+|BMW|M3 Sport Evolution '89|165,000|
 |Chevrolet|Corvette Stingray (C3) '69|58,600|
-|Ferrari|F430 '06|209,600|
+|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
+|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
+|Fiat|500 1.2 8V Lounge SS '08|13,000|
 |Ford|Sierra RS 500 Cosworth '87|196,400|
-|Honda|Beat '91|14,900|
-|Mazda|Eunos Roadster (NA) '89|30,500|
 |Mazda|RX-7 Spirit R Type A (FD) '02|216,400|
 |Mercedes-Benz|SLR McLaren '09|512,200|
 |Nissan|R33 GT-R V-spec '97|161,000|
