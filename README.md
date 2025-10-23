@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 22-October-2025
+# Gran Turismo 7 Shops for 23-October-2025
 
 
 
@@ -36,16 +36,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|982,000|
+|Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|365 GTB4 '71|610,000|
 |Ferrari|365 GTB4 '71|610,000|
-|Jaguar|D-type '54|6,000,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|327,700|
 |McLaren|MP4/4 '88|12,000,000|
@@ -59,42 +57,44 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|294,800|
-|Honda|Civic Type R (EK) '97|53,500|
-|MINI|Mini-Cooper 'S' '65|38,100|
-|Mitsubishi|Lancer Evolution III GSR '95|80,900|
-|Subaru|Impreza Sedan WRX STi '04|42,300|
+|Alpine|A110 '72|129,600|
+|Honda|S2000 '99|98,400|
+|Porsche|911 Carrera RS (993) '95|217,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|BMW|M3 '03|61,100|
+|Chevrolet|Corvette Stingray (C3) '69|58,600|
 |Ferrari|F430 '06|209,600|
 |Honda|Beat '91|14,900|
 |Mazda|Eunos Roadster (NA) '89|30,500|
-|Porsche|911 Carrera RS (964) '92|207,000|
+|Nissan|SILVIA spec-R Aero (S15) '02|58,600|
+|TVR|Tuscan Speed 6 '00|75,900|
+|Toyota|Supra 3.0GT Turbo A '88|130,000|
+|Toyota|Supra RZ '97|220,000|
+|Toyota|Supra RZ '97|220,000|
+|Volvo|240 SE Estate '93|41,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|26,400|
-|BMW|M3 '03|61,100|
+|Alfa Romeo|8C Competizione '08|294,800|
 |BMW|M3 '89|75,100|
 |BMW|M3 Sport Evolution '89|165,000|
-|Chevrolet|Corvette Stingray (C3) '69|58,600|
 |Chevrolet|Corvette ZR-1 (C4) '89|105,000|
 |Chevrolet|Corvette ZR-1 (C4) '89|105,000|
 |Fiat|500 1.2 8V Lounge SS '08|13,000|
 |Ford|Sierra RS 500 Cosworth '87|196,400|
+|Honda|Civic Type R (EK) '97|53,500|
+|MINI|Mini-Cooper 'S' '65|38,100|
 |Mazda|RX-7 Spirit R Type A (FD) '02|216,400|
 |Mercedes-Benz|SLR McLaren '09|512,200|
+|Mitsubishi|Lancer Evolution III GSR '95|80,900|
 |Nissan|R33 GT-R V-spec '97|161,000|
-|Nissan|SILVIA spec-R Aero (S15) '02|58,600|
 |Subaru|Impreza 22B-STi '98|163,100|
-|TVR|Tuscan Speed 6 '00|75,900|
+|Subaru|Impreza Sedan WRX STi '04|42,300|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,700|
 |Toyota|Sports 800 '65|49,200|
-|Toyota|Supra 3.0GT Turbo A '88|130,000|
-|Toyota|Supra RZ '97|220,000|
-|Toyota|Supra RZ '97|220,000|
 |Volkswagen|Scirocco R '10|38,100|
-|Volvo|240 SE Estate '93|41,400|
