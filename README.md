@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-October-2025
+# Gran Turismo 7 Shops for 25-October-2025
 
 
 
@@ -36,25 +36,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Maserati|Merak SS '80|61,500|
-|Porsche|Carrera GTS (904) '64|2,200,000|
+|Toyota|Supra GT500 '97|1,600,000|
 
 ### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Jaguar|D-type '54|6,000,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
-
-### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|365 GTB4 '71|610,000|
 |Ferrari|365 GTB4 '71|610,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
+
+### Available
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
 |Lancia|Lancia Delta HF Integrale Rally Car '92|327,700|
+|Maserati|Merak SS '80|61,500|
 |McLaren|MP4/4 '88|12,000,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
+|Porsche|Carrera GTS (904) '64|2,200,000|
 
 
 ## Used shop
@@ -62,22 +62,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mitsubishi|Lancer Evolution IX MR GSR '06|98,100|
+|Daihatsu|Copen '02|14,400|
+|RUF|CTR3 '07|787,400|
+|Suzuki|Swift Sport '07|12,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|26,400|
-|BMW|M3 '03|61,100|
 |BMW|M3 '89|75,100|
-|Chevrolet|Corvette Stingray (C3) '69|58,600|
+|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
+|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
+|Ford|Sierra RS 500 Cosworth '87|196,400|
+|Mazda|RX-7 Spirit R Type A (FD) '02|216,400|
 |Nissan|R33 GT-R V-spec '97|161,000|
-|Nissan|SILVIA spec-R Aero (S15) '02|58,600|
-|TVR|Tuscan Speed 6 '00|75,900|
-|Toyota|Supra 3.0GT Turbo A '88|130,000|
-|Toyota|Supra RZ '97|220,000|
-|Toyota|Supra RZ '97|220,000|
-|Volvo|240 SE Estate '93|41,400|
+|Subaru|Impreza 22B-STi '98|163,100|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,700|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -85,19 +85,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|8C Competizione '08|294,800|
 |Alpine|A110 '72|129,600|
 |BMW|M3 Sport Evolution '89|165,000|
-|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
-|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
 |Fiat|500 1.2 8V Lounge SS '08|13,000|
-|Ford|Sierra RS 500 Cosworth '87|196,400|
 |Honda|Civic Type R (EK) '97|53,500|
 |Honda|S2000 '99|98,400|
 |MINI|Mini-Cooper 'S' '65|38,100|
-|Mazda|RX-7 Spirit R Type A (FD) '02|216,400|
 |Mercedes-Benz|SLR McLaren '09|512,200|
 |Mitsubishi|Lancer Evolution III GSR '95|80,900|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|98,100|
 |Porsche|911 Carrera RS (993) '95|217,200|
-|Subaru|Impreza 22B-STi '98|163,100|
 |Subaru|Impreza Sedan WRX STi '04|42,300|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,700|
 |Toyota|Sports 800 '65|49,200|
 |Volkswagen|Scirocco R '10|38,100|
