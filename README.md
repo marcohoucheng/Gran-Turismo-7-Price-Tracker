@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 26-October-2025
+# Gran Turismo 7 Shops for 27-October-2025
 
 
 
@@ -36,23 +36,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Maserati|A6GCS/53 Spyder '54|2,800,000|
+|Mazda|RX500 '70|600,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|365 GTB4 '71|610,000|
-|Ferrari|365 GTB4 '71|610,000|
-|Lamborghini|Countach LP400 '74|1,250,000|
+|Lancia|Lancia Delta HF Integrale Rally Car '92|327,700|
+|McLaren|MP4/4 '88|12,000,000|
+|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lancia|Lancia Delta HF Integrale Rally Car '92|327,700|
+|Maserati|A6GCS/53 Spyder '54|2,800,000|
 |Maserati|Merak SS '80|61,500|
-|McLaren|MP4/4 '88|12,000,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
-|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Porsche|Carrera GTS (904) '64|2,200,000|
 |Toyota|Supra GT500 '97|1,600,000|
 
@@ -62,34 +60,33 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|28,200|
-|BMW|M3 '97|78,600|
-|Chevrolet|Corvette Z06 (C5) '01|57,100|
-|Honda|Integra Type R (DC2) '98|55,800|
-|Lamborghini|Countach 25th Anniversary '88|687,700|
-|Lamborghini|Diablo GT '00|778,500|
+|BMW|Z4 3.0i '03|53,400|
+|Pontiac|Firebird Trans Am '78|82,700|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|M3 Sport Evolution '89|165,000|
-|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
-|Chevrolet|Corvette ZR-1 (C4) '89|105,000|
-|Ford|Sierra RS 500 Cosworth '87|196,400|
-|Mazda|RX-7 Spirit R Type A (FD) '02|216,400|
+|Honda|Civic Type R (EK) '97|53,500|
 |Mercedes-Benz|SLR McLaren '09|512,200|
-|Subaru|Impreza 22B-STi '98|163,100|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,700|
+|Toyota|Sports 800 '65|49,200|
+|Volkswagen|Scirocco R '10|38,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|294,800|
 |Alpine|A110 '72|129,600|
+|Autobianchi|A112 Abarth '85|28,200|
+|BMW|M3 '97|78,600|
+|Chevrolet|Corvette Z06 (C5) '01|57,100|
 |Daihatsu|Copen '02|14,400|
 |Fiat|500 1.2 8V Lounge SS '08|13,000|
-|Honda|Civic Type R (EK) '97|53,500|
+|Honda|Integra Type R (DC2) '98|55,800|
 |Honda|S2000 '99|98,400|
+|Lamborghini|Countach 25th Anniversary '88|687,700|
+|Lamborghini|Diablo GT '00|778,500|
 |MINI|Mini-Cooper 'S' '65|38,100|
 |Mitsubishi|Lancer Evolution III GSR '95|80,900|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|98,100|
@@ -97,5 +94,3 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |RUF|CTR3 '07|787,400|
 |Subaru|Impreza Sedan WRX STi '04|42,300|
 |Suzuki|Swift Sport '07|12,000|
-|Toyota|Sports 800 '65|49,200|
-|Volkswagen|Scirocco R '10|38,100|
