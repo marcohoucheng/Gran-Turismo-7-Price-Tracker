@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 27-October-2025
+# Gran Turismo 7 Shops for 28-October-2025
 
 
 
@@ -36,7 +36,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|RX500 '70|600,000|
+|Alfa Romeo|155 2.5 V6 TI '93|650,000|
+|Ferrari|F40 '92|3,200,000|
+|Jaguar|E-type Coupe '61|172,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -50,6 +52,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Maserati|A6GCS/53 Spyder '54|2,800,000|
 |Maserati|Merak SS '80|61,500|
+|Mazda|RX500 '70|600,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Porsche|Carrera GTS (904) '64|2,200,000|
 |Toyota|Supra GT500 '97|1,600,000|
@@ -60,37 +63,41 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z4 3.0i '03|53,400|
-|Pontiac|Firebird Trans Am '78|82,700|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,500|
+|Citroen|BX 19 TRS '87|30,000|
+|Honda|Civic Type R (EK) '98|55,200|
+|Mitsubishi|GTO Twin Turbo '91|55,000|
+|Nissan|R34 GT-R V-spec II Nur '02|399,800|
+|Porsche|911 Turbo (930) '81|223,300|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 Sport Evolution '89|165,000|
+|Alfa Romeo|8C Competizione '08|294,800|
+|Fiat|500 1.2 8V Lounge SS '08|13,000|
 |Honda|Civic Type R (EK) '97|53,500|
-|Mercedes-Benz|SLR McLaren '09|512,200|
+|Mitsubishi|Lancer Evolution III GSR '95|80,900|
+|Porsche|911 Carrera RS (993) '95|217,200|
 |Toyota|Sports 800 '65|49,200|
 |Volkswagen|Scirocco R '10|38,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|294,800|
 |Alpine|A110 '72|129,600|
 |Autobianchi|A112 Abarth '85|28,200|
 |BMW|M3 '97|78,600|
+|BMW|Z4 3.0i '03|53,400|
 |Chevrolet|Corvette Z06 (C5) '01|57,100|
 |Daihatsu|Copen '02|14,400|
-|Fiat|500 1.2 8V Lounge SS '08|13,000|
 |Honda|Integra Type R (DC2) '98|55,800|
 |Honda|S2000 '99|98,400|
 |Lamborghini|Countach 25th Anniversary '88|687,700|
 |Lamborghini|Diablo GT '00|778,500|
 |MINI|Mini-Cooper 'S' '65|38,100|
-|Mitsubishi|Lancer Evolution III GSR '95|80,900|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|98,100|
-|Porsche|911 Carrera RS (993) '95|217,200|
+|Pontiac|Firebird Trans Am '78|82,700|
 |RUF|CTR3 '07|787,400|
 |Subaru|Impreza Sedan WRX STi '04|42,300|
 |Suzuki|Swift Sport '07|12,000|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,500|
