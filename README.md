@@ -27,11 +27,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 29-October-2025
+# Gran Turismo 7 Shops for 30-October-2025
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ford|Mark IV Race Car '67|6,750,000|
+|Honda|RA272 '65|2,500,000|
+|Jaguar|XJ220 '92|559,000|
+|Plymouth|XNR Ghia Roadster '60|3,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -56,22 +64,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|320,700|
-|Mitsubishi|Lancer Evolution V GSR '98|64,800|
+|Nissan|Silvia K's Aero (S14) '96|58,800|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,200|
+|Volkswagen|Golf I GTI '83|49,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|294,800|
-|Fiat|500 1.2 8V Lounge SS '08|13,000|
 |Honda|S2000 '99|98,400|
-|Mitsubishi|Lancer Evolution III GSR '95|80,900|
-|Porsche|911 Carrera RS (993) '95|217,200|
 |Subaru|Impreza Sedan WRX STi '04|42,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|SLS AMG '10|320,700|
 |Alpine|A110 '72|129,600|
 |Autobianchi|A112 Abarth '85|28,200|
 |BMW|M3 '97|78,600|
@@ -86,6 +92,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |MINI|Mini-Cooper 'S' '65|38,100|
 |Mitsubishi|GTO Twin Turbo '91|55,000|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|98,100|
+|Mitsubishi|Lancer Evolution V GSR '98|64,800|
 |Nissan|R34 GT-R V-spec II Nur '02|399,800|
 |Pontiac|Firebird Trans Am '78|82,700|
 |Porsche|911 Turbo (930) '81|223,300|
