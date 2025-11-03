@@ -27,20 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 02-November-2025
+# Gran Turismo 7 Shops for 03-November-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Porsche|356 A/1500 GS Carrera '56|618,000|
+|Porsche|959 '87|1,900,000|
+|Porsche|962 C '88|1,250,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|650,000|
-|Ferrari|F40 '92|3,200,000|
-|Jaguar|E-type Coupe '61|172,000|
-|Maserati|A6GCS/53 Spyder '54|2,800,000|
-|Maserati|Merak SS '80|61,500|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -54,18 +57,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Lancia|Delta HF Integrale Evoluzione '91|101,200|
+|Maserati|GranTurismo S '08|138,200|
+|McLaren|MP4-12C '10|185,500|
+|Porsche|911 Carrera RS CS (993) '95|441,300|
+|Renault|Avantime 3.0 V6 24V '02|37,600|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z4 3.0i '03|53,400|
-|Chevrolet|Corvette Z06 (C5) '01|57,100|
-|Citroen|BX 19 TRS '87|30,000|
-|Honda|Integra Type R (DC2) '98|55,800|
-|Lamborghini|Countach 25th Anniversary '88|687,700|
-|Mitsubishi|GTO Twin Turbo '91|55,000|
+|Alpine|A110 '72|129,600|
 |Nissan|R34 GT-R V-spec II Nur '02|399,800|
-|Pontiac|Firebird Trans Am '78|82,700|
-|Suzuki|Swift Sport '07|12,000|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,500|
 
 ### Available
@@ -73,7 +78,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |AMG|SLS AMG '10|320,700|
 |Alfa Romeo|Giulia Sprint GT Veloce '67|171,300|
-|Alpine|A110 '72|129,600|
 |Autobianchi|A112 Abarth '85|28,200|
 |BMW|M3 '97|78,600|
 |Ferrari|Dino 246 GT '71|359,300|
