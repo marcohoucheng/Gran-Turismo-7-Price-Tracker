@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-November-2025
+# Gran Turismo 7 Shops for 04-November-2025
 
 
 
@@ -36,14 +36,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|356 A/1500 GS Carrera '56|618,000|
-|Porsche|959 '87|1,900,000|
-|Porsche|962 C '88|1,250,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Alfa Romeo|155 2.5 V6 TI '93|650,000|
+|Chevrolet|Corvette (C2) '63|268,000|
+|Dodge|Challenger R/T '70|179,000|
+|Plymouth|Superbird '70|450,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -53,6 +49,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|RA272 '65|2,500,000|
 |Jaguar|XJ220 '92|559,000|
 |Plymouth|XNR Ghia Roadster '60|3,000,000|
+|Porsche|356 A/1500 GS Carrera '56|618,000|
+|Porsche|959 '87|1,900,000|
+|Porsche|962 C '88|1,250,000|
 
 
 ## Used shop
@@ -60,18 +59,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lancia|Delta HF Integrale Evoluzione '91|101,200|
-|Maserati|GranTurismo S '08|138,200|
-|McLaren|MP4-12C '10|185,500|
-|Porsche|911 Carrera RS CS (993) '95|441,300|
-|Renault|Avantime 3.0 V6 24V '02|37,600|
+|BMW|Z8 '01|267,200|
+|Chevrolet|Corvette Convertible (C3) '69|65,000|
+|Dodge|Viper SRT10 Coupe '06|115,300|
+|Mazda|RX-7 GT-X (FC) '90|62,800|
+|Mitsubishi|GTO Twin Turbo '91|44,800|
+|Nissan|Silvia K's Type S (S14) '94|50,800|
+|Peugeot|205 GTI '88|54,100|
+|Pontiac|Firebird Trans Am '78|110,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|129,600|
-|Nissan|R34 GT-R V-spec II Nur '02|399,800|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|99,500|
+|Honda|Civic Type R (EK) '98|55,200|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,900|
+|Volkswagen|Golf I GTI '83|49,400|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -83,12 +86,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|Dino 246 GT '71|359,300|
 |Ferrari|Testarossa '91|365,800|
 |Ford|Mustang Mach 1 '71|40,800|
-|Honda|Civic Type R (EK) '98|55,200|
 |Honda|Civic Type R (EK) Touring Car|120,700|
+|Lancia|Delta HF Integrale Evoluzione '91|101,200|
+|Maserati|GranTurismo S '08|138,200|
+|McLaren|MP4-12C '10|185,500|
 |Mitsubishi|Lancer Evolution V GSR '98|64,800|
 |Nissan|Silvia K's Aero (S14) '96|58,800|
+|Porsche|911 Carrera RS CS (993) '95|441,300|
 |Porsche|911 Turbo (930) '81|223,300|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,900|
+|Renault|Avantime 3.0 V6 24V '02|37,600|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,200|
 |Toyota|Supra 3.0GT Turbo A '88|105,400|
-|Volkswagen|Golf I GTI '83|49,400|
