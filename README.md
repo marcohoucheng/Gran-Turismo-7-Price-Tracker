@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 06-November-2025
+# Gran Turismo 7 Shops for 07-November-2025
 
 
 
@@ -36,9 +36,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|F50 '95|4,600,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Honda|RA272 '65|2,500,000|
-|Jaguar|XJ220 '92|559,000|
+|Plymouth|XNR Ghia Roadster '60|3,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -47,9 +48,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette (C2) '63|268,000|
 |Dodge|Challenger R/T '70|179,000|
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
-|Ferrari|F50 '95|4,600,000|
 |Plymouth|Superbird '70|450,000|
-|Plymouth|XNR Ghia Roadster '60|3,000,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|959 '87|1,900,000|
@@ -61,7 +60,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Volkswagen|Volkswagen 1200 '66|31,900|
+|Dodge|Super Bee '70|61,100|
+|Nissan|Silvia K's Dia Selection (S13) '90|56,800|
+|Suzuki|Cappuccino (EA11R) '91|16,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -98,3 +99,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Renault|Avantime 3.0 V6 24V '02|37,600|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,200|
 |Toyota|Supra 3.0GT Turbo A '88|105,400|
+|Volkswagen|Volkswagen 1200 '66|31,900|
