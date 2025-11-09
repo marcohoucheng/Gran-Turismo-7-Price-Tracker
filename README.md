@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 08-November-2025
+# Gran Turismo 7 Shops for 09-November-2025
 
 
 
@@ -36,15 +36,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|E-type Coupe '61|172,000|
+|Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Challenger R/T '70|179,000|
-|Ferrari|F50 '95|4,600,000|
 |Plymouth|Superbird '70|450,000|
-|Plymouth|XNR Ghia Roadster '60|3,000,000|
+|Porsche|959 '87|1,900,000|
+|Porsche|962 C '88|1,250,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -52,13 +52,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chaparral|2J '70|2,500,000|
 |Chevrolet|Corvette (C2) '63|268,000|
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
+|Jaguar|E-type Coupe '61|172,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|959 '87|1,900,000|
-|Porsche|962 C '88|1,250,000|
 
 
 ## Used shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Audi|R8 4.2 '07|136,500|
+|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
+|Nissan|Fairlady 240ZG (HS30) '71|98,200|
+|Nissan|R32 GT-R V-spec II '94|173,400|
+|Nissan|Skyline GTS-R (R31) '87|169,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -66,7 +74,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|Giulia Sprint GT Veloce '67|171,300|
 |Chevrolet|Corvette Convertible (C3) '69|65,000|
 |Lancia|Delta HF Integrale Evoluzione '91|101,200|
+|Mazda|RX-7 GT-X (FC) '90|62,800|
+|Nissan|Silvia K's Aero (S14) '96|58,800|
+|Nissan|Silvia K's Type S (S14) '94|50,800|
 |Pontiac|Firebird Trans Am '78|110,000|
+|Renault|Avantime 3.0 V6 24V '02|37,600|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,200|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -81,16 +94,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Mustang Mach 1 '71|40,800|
 |Honda|Civic Type R (EK) Touring Car|120,700|
 |Maserati|GranTurismo S '08|138,200|
-|Mazda|RX-7 GT-X (FC) '90|62,800|
 |McLaren|MP4-12C '10|185,500|
 |Mitsubishi|GTO Twin Turbo '91|44,800|
-|Nissan|Silvia K's Aero (S14) '96|58,800|
 |Nissan|Silvia K's Dia Selection (S13) '90|56,800|
-|Nissan|Silvia K's Type S (S14) '94|50,800|
 |Peugeot|205 GTI '88|54,100|
 |Porsche|911 Carrera RS CS (993) '95|441,300|
-|Renault|Avantime 3.0 V6 24V '02|37,600|
 |Suzuki|Cappuccino (EA11R) '91|16,200|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,200|
 |Toyota|Supra 3.0GT Turbo A '88|105,400|
 |Volkswagen|Volkswagen 1200 '66|31,900|
