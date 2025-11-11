@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 10-November-2025
+# Gran Turismo 7 Shops for 11-November-2025
 
 
 
@@ -36,40 +36,46 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|917K '70|20,000,000|
+|De Tomaso|Mangusta '69|310,000|
+|Nissan|Fairlady Z 432 '69|312,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chaparral|2J '70|2,500,000|
+|Chevrolet|Corvette (C2) '63|268,000|
+|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
-|Porsche|959 '87|1,900,000|
-|Porsche|962 C '88|1,250,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
-|Chevrolet|Corvette (C2) '63|268,000|
-|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 |Jaguar|E-type Coupe '61|172,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Porsche|917K '70|20,000,000|
+|Toyota|Land Cruiser FJ40V '74|44,100|
 
 
 ## Used shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|BMW|M3 '97|90,000|
+|Fiat|500 F '68|17,900|
+|Ford|Escort RS Cosworth '92|150,000|
+|Honda|Civic SiR-II (EG) '93|58,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette ZR-1 (C4) '89|84,600|
 |Ferrari|Testarossa '91|365,800|
-|Mazda|RX-7 GT-X (FC) '90|62,800|
+|Ford|Mustang Mach 1 '71|40,800|
+|Honda|Civic Type R (EK) Touring Car|120,700|
 |McLaren|MP4-12C '10|185,500|
-|Nissan|Silvia K's Aero (S14) '96|58,800|
-|Nissan|Silvia K's Type S (S14) '94|50,800|
 |Peugeot|205 GTI '88|54,100|
-|Renault|Avantime 3.0 V6 24V '02|37,600|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,200|
 |Toyota|Supra 3.0GT Turbo A '88|105,400|
 
 ### Available
@@ -81,8 +87,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Dodge|Super Bee '70|61,100|
 |Dodge|Viper SRT10 Coupe '06|115,300|
 |Ferrari|Dino 246 GT '71|359,300|
-|Ford|Mustang Mach 1 '71|40,800|
-|Honda|Civic Type R (EK) Touring Car|120,700|
 |Maserati|GranTurismo S '08|138,200|
 |Mitsubishi|GTO Twin Turbo '91|44,800|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,300|
