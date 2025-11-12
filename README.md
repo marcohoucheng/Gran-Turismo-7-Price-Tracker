@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 11-November-2025
+# Gran Turismo 7 Shops for 12-November-2025
 
 
 
@@ -36,23 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|De Tomaso|Mangusta '69|310,000|
-|Nissan|Fairlady Z 432 '69|312,000|
+|Ferrari|330 P4 '67|20,000,000|
+|Ford|1932 Ford Roadster Hot Rod|350,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chaparral|2J '70|2,500,000|
 |Chevrolet|Corvette (C2) '63|268,000|
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
-|Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
+|De Tomaso|Mangusta '69|310,000|
 |Jaguar|E-type Coupe '61|172,000|
+|Nissan|Fairlady Z 432 '69|312,000|
 |Porsche|917K '70|20,000,000|
 |Toyota|Land Cruiser FJ40V '74|44,100|
 
@@ -62,32 +62,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '97|90,000|
-|Fiat|500 F '68|17,900|
-|Ford|Escort RS Cosworth '92|150,000|
-|Honda|Civic SiR-II (EG) '93|58,500|
+|Abarth|Abarth 595 SS '70|53,100|
+|Alfa Romeo|MiTo '09|22,700|
+|BMW|3.0 CSL '71|141,800|
+|Chevrolet|Corvette Convertible (C3) '69|47,000|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette ZR-1 (C4) '89|84,600|
-|Ferrari|Testarossa '91|365,800|
+|Chevrolet|Corvette ZR1 (C6) '09|99,200|
+|Dodge|Viper SRT10 Coupe '06|115,300|
+|Ferrari|Dino 246 GT '71|359,300|
 |Ford|Mustang Mach 1 '71|40,800|
 |Honda|Civic Type R (EK) Touring Car|120,700|
-|McLaren|MP4-12C '10|185,500|
-|Peugeot|205 GTI '88|54,100|
-|Toyota|Supra 3.0GT Turbo A '88|105,400|
+|Maserati|GranTurismo S '08|138,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|R8 4.2 '07|136,500|
+|BMW|M3 '97|90,000|
 |BMW|Z8 '01|267,200|
-|Chevrolet|Corvette ZR1 (C6) '09|99,200|
 |Dodge|Super Bee '70|61,100|
-|Dodge|Viper SRT10 Coupe '06|115,300|
-|Ferrari|Dino 246 GT '71|359,300|
-|Maserati|GranTurismo S '08|138,200|
+|Fiat|500 F '68|17,900|
+|Ford|Escort RS Cosworth '92|150,000|
+|Honda|Civic SiR-II (EG) '93|58,500|
 |Mitsubishi|GTO Twin Turbo '91|44,800|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 |Nissan|Fairlady 240ZG (HS30) '71|98,200|
