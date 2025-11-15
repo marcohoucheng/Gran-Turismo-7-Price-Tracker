@@ -27,34 +27,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 14-November-2025
+# Gran Turismo 7 Shops for 15-November-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Aston Martin|DB3S '53|6,000,000|
-|De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|365 GTB4 '71|610,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Toyota|Land Cruiser FJ40V '74|44,100|
+|De Tomaso|Mangusta '69|310,000|
+|Nissan|Fairlady Z 432 '69|312,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Aston Martin|DB3S '53|6,000,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
-|De Tomaso|Mangusta '69|310,000|
+|De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|330 P4 '67|20,000,000|
+|Ferrari|365 GTB4 '71|610,000|
 |Ford|1932 Ford Roadster Hot Rod|350,000|
 |Jaguar|E-type Coupe '61|172,000|
 |McLaren|McLaren F1 '94|20,000,000|
-|Nissan|Fairlady Z 432 '69|312,000|
 |Porsche|917K '70|20,000,000|
 
 
@@ -63,19 +58,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Sileighty '98|84,800|
-|Porsche|911 GT3 (996) '01|161,700|
+|Ford|Escort RS Cosworth '92|128,900|
+|Lamborghini|Murcielago LP 640 '09|340,400|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
+|Porsche|911 GT3 (997) '09|140,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z8 '01|267,200|
-|Dodge|Super Bee '70|61,100|
+|BMW|M3 '97|90,000|
+|Ford|Escort RS Cosworth '92|150,000|
 |Mitsubishi|GTO Twin Turbo '91|44,800|
+|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 |Nissan|Fairlady 240ZG (HS30) '71|98,200|
+|Nissan|R32 GT-R V-spec II '94|173,400|
 |Nissan|Silvia K's Dia Selection (S13) '90|56,800|
 |Porsche|911 Carrera RS CS (993) '95|441,300|
-|Suzuki|Cappuccino (EA11R) '91|16,200|
 |Volkswagen|Volkswagen 1200 '66|31,900|
 
 ### Available
@@ -86,16 +84,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|R8 4.2 '07|136,500|
 |BMW|3.0 CSL '71|141,800|
 |BMW|3.0 CSL '73|205,200|
-|BMW|M3 '97|90,000|
 |Chevrolet|Corvette Convertible (C3) '69|47,000|
 |Ferrari|458 Italia '09|244,400|
 |Fiat|500 F '68|17,900|
-|Ford|Escort RS Cosworth '92|150,000|
 |Honda|Civic SiR-II (EG) '93|58,500|
 |Honda|NSX Type R '92|398,200|
 |Lamborghini|Gallardo LP 560-4 '08|252,000|
 |Lancia|Stratos '73|539,800|
-|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
-|Nissan|R32 GT-R V-spec II '94|173,400|
+|Nissan|Sileighty '98|84,800|
 |Nissan|Skyline GTS-R (R31) '87|169,000|
+|Porsche|911 GT3 (996) '01|161,700|
