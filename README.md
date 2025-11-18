@@ -27,18 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 17-November-2025
+# Gran Turismo 7 Shops for 18-November-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Porsche|911 Carrera RS (901) '73|740,000|
+|Porsche|911 Carrera RS (901) '73|740,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
-|Jaguar|E-type Coupe '61|172,000|
-|Porsche|917K '70|20,000,000|
+|Ford|1932 Ford Roadster Hot Rod|350,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -47,7 +51,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|330 P4 '67|20,000,000|
 |Ferrari|365 GTB4 '71|610,000|
-|Ford|1932 Ford Roadster Hot Rod|350,000|
 |McLaren|McLaren F1 '94|20,000,000|
 
 
@@ -56,39 +59,41 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|43,300|
-|Citroen|BX 19 TRS '87|22,700|
-|Nissan|Fairlady Z Version S (Z33) '07|26,800|
-|Renault|R5 Turbo '80|161,400|
-|Toyota|Prius G '09|19,400|
+|DMC|DeLorean S2 '04|462,400|
+|Ferrari|308 GTB '75|176,100|
+|Ferrari|Testarossa '91|450,000|
+|Ferrari|Testarossa '91|450,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|136,500|
+|BMW|3.0 CSL '71|141,800|
+|BMW|3.0 CSL '73|205,200|
+|Chevrolet|Corvette Convertible (C3) '69|47,000|
 |Honda|Civic SiR-II (EG) '93|58,500|
-|Nissan|Skyline GTS-R (R31) '87|169,000|
+|Honda|NSX Type R '92|398,200|
+|Lamborghini|Gallardo LP 560-4 '08|252,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|53,100|
 |Alfa Romeo|MiTo '09|22,700|
-|BMW|3.0 CSL '71|141,800|
-|BMW|3.0 CSL '73|205,200|
-|Chevrolet|Corvette Convertible (C3) '69|47,000|
+|Audi|TT Coupe 3.2 quattro '03|43,300|
+|Citroen|BX 19 TRS '87|22,700|
 |Ferrari|458 Italia '09|244,400|
 |Fiat|500 F '68|17,900|
 |Ford|Escort RS Cosworth '92|128,900|
-|Honda|NSX Type R '92|398,200|
-|Lamborghini|Gallardo LP 560-4 '08|252,000|
 |Lamborghini|Murcielago LP 640 '09|340,400|
 |Lancia|Stratos '73|539,800|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
 |Nissan|Fairlady Z (Z34) '08|37,100|
+|Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|Sileighty '98|84,800|
 |Porsche|911 GT3 (996) '01|161,700|
 |Porsche|911 GT3 (997) '09|140,900|
 |Renault|Kangoo 1.4 '01|14,200|
+|Renault|R5 Turbo '80|161,400|
 |Toyota|Celica GT-Four (ST205) '94|65,500|
+|Toyota|Prius G '09|19,400|
