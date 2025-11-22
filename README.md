@@ -27,35 +27,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-November-2025
+# Gran Turismo 7 Shops for 22-November-2025
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB3S '53|6,000,000|
-|Ferrari|330 P4 '67|20,000,000|
-|Ferrari|365 GTB4 '71|610,000|
+|De Tomaso|Mangusta (Christian Dior)|500,000|
 |McLaren|McLaren F1 '94|20,000,000|
+|Porsche|911 Carrera RS (901) '73|740,000|
+|Porsche|911 Carrera RS (901) '73|740,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
-|De Tomaso|Mangusta (Christian Dior)|500,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
-|Porsche|911 Carrera RS (901) '73|740,000|
-|Porsche|911 Carrera RS (901) '73|740,000|
+|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
 
 
 ## Used shop
@@ -63,18 +57,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TTS Coupe '09|58,300|
-|De Tomaso|Pantera '71|166,500|
-|Honda|NSX Type R '02|432,900|
-|Honda|S800 '66|52,000|
-|Volkswagen|Sambabus Typ 2 '62|63,000|
+|Ferrari|512 BB '76|299,300|
+|Honda|Beat '91|14,900|
+|Honda|Civic Si Extra (EF) '87|50,700|
+|MINI|MINI Cooper S '05|23,600|
+|Renault|R4 GTL '85|25,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|Testarossa '91|450,000|
+|Ferrari|Testarossa '91|450,000|
 |Ford|Escort RS Cosworth '92|128,900|
-|Lamborghini|Murcielago LP 640 '09|340,400|
+|Lancia|Stratos '73|539,800|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
+|Nissan|Sileighty '98|84,800|
 |Porsche|911 GT3 (996) '01|161,700|
 |Porsche|911 GT3 (997) '09|140,900|
 
@@ -82,19 +79,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|43,300|
+|Audi|TTS Coupe '09|58,300|
 |Citroen|BX 19 TRS '87|22,700|
 |DMC|DeLorean S2 '04|462,400|
+|De Tomaso|Pantera '71|166,500|
 |Ferrari|308 GTB '75|176,100|
-|Ferrari|Testarossa '91|450,000|
-|Ferrari|Testarossa '91|450,000|
 |Ford|Ford GT '06|397,100|
-|Lancia|Stratos '73|539,800|
+|Honda|NSX Type R '02|432,900|
+|Honda|S800 '66|52,000|
 |Nissan|180SX Type X '96|57,400|
 |Nissan|Fairlady Z (Z34) '08|37,100|
 |Nissan|Fairlady Z Version S (Z33) '07|26,800|
-|Nissan|Sileighty '98|84,800|
 |Nissan|Silvia Q's (S13) '88|31,500|
 |Renault|Kangoo 1.4 '01|14,200|
 |Renault|R5 Turbo '80|161,400|
 |Toyota|Celica GT-Four (ST205) '94|65,500|
 |Toyota|Prius G '09|19,400|
+|Volkswagen|Sambabus Typ 2 '62|63,000|
