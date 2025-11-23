@@ -27,18 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 22-November-2025
+# Gran Turismo 7 Shops for 23-November-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
+|Ford|Mustang Boss 429 '69|349,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB3S '53|6,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
-|McLaren|McLaren F1 '94|20,000,000|
 |Porsche|911 Carrera RS (901) '73|740,000|
 |Porsche|911 Carrera RS (901) '73|740,000|
 
@@ -57,42 +61,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|512 BB '76|299,300|
-|Honda|Beat '91|14,900|
-|Honda|Civic Si Extra (EF) '87|50,700|
-|MINI|MINI Cooper S '05|23,600|
-|Renault|R4 GTL '85|25,500|
+|Toyota|Supra RZ '97|181,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Citroen|BX 19 TRS '87|22,700|
+|Ferrari|308 GTB '75|176,100|
 |Ferrari|Testarossa '91|450,000|
 |Ferrari|Testarossa '91|450,000|
-|Ford|Escort RS Cosworth '92|128,900|
 |Lancia|Stratos '73|539,800|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
+|Nissan|Fairlady Z (Z34) '08|37,100|
+|Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|Sileighty '98|84,800|
-|Porsche|911 GT3 (996) '01|161,700|
-|Porsche|911 GT3 (997) '09|140,900|
+|Toyota|Celica GT-Four (ST205) '94|65,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|43,300|
 |Audi|TTS Coupe '09|58,300|
-|Citroen|BX 19 TRS '87|22,700|
 |DMC|DeLorean S2 '04|462,400|
 |De Tomaso|Pantera '71|166,500|
-|Ferrari|308 GTB '75|176,100|
+|Ferrari|512 BB '76|299,300|
 |Ford|Ford GT '06|397,100|
+|Honda|Beat '91|14,900|
+|Honda|Civic Si Extra (EF) '87|50,700|
 |Honda|NSX Type R '02|432,900|
 |Honda|S800 '66|52,000|
+|MINI|MINI Cooper S '05|23,600|
 |Nissan|180SX Type X '96|57,400|
-|Nissan|Fairlady Z (Z34) '08|37,100|
-|Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|Silvia Q's (S13) '88|31,500|
 |Renault|Kangoo 1.4 '01|14,200|
+|Renault|R4 GTL '85|25,500|
 |Renault|R5 Turbo '80|161,400|
-|Toyota|Celica GT-Four (ST205) '94|65,500|
 |Toyota|Prius G '09|19,400|
 |Volkswagen|Sambabus Typ 2 '62|63,000|
