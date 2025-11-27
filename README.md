@@ -27,28 +27,32 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 26-November-2025
+# Gran Turismo 7 Shops for 27-November-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Honda|RA272 '65|2,500,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|CLK-LM '98|8,500,000|
+|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Chevrolet|Camaro Z28 '69|111,000|
 |Ferrari|F50 '95|4,600,000|
 |Ford|Mustang Boss 429 '69|349,000|
 |Jaguar|XJ13 '66|12,000,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|Celica GT-FOUR Rally Car (ST205) '95|210,000|
@@ -59,18 +63,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|61,100|
-|Honda|Integra Type R (DC2) '95|58,800|
-|Mazda|Eunos Roadster (NA) '89|30,500|
-|Nissan|SILVIA spec-R Aero (S15) '02|58,600|
-|Porsche|911 Carrera RS (964) '92|207,000|
+|Abarth|Abarth 500 '09|26,400|
+|Chevrolet|Corvette Stingray (C3) '69|58,600|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,700|
+|Volvo|240 SE Estate '93|41,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|43,300|
+|De Tomaso|Pantera '71|166,500|
+|Ford|Ford GT '06|397,100|
+|Honda|Civic Si Extra (EF) '87|50,700|
 |Nissan|180SX Type X '96|57,400|
-|Nissan|Silvia Q's (S13) '88|31,500|
 |Volkswagen|Sambabus Typ 2 '62|63,000|
 
 ### Available
@@ -78,19 +82,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
 |Audi|TTS Coupe '09|58,300|
+|BMW|M3 '03|61,100|
 |BMW|M3 '07|77,600|
-|De Tomaso|Pantera '71|166,500|
 |Dodge|Viper GTS '02|106,600|
 |Ferrari|430 Scuderia '07|378,100|
 |Ferrari|512 BB '76|299,300|
-|Ford|Ford GT '06|397,100|
 |Ford|Mustang Mach 1 '71|50,000|
 |Honda|Beat '91|14,900|
-|Honda|Civic Si Extra (EF) '87|50,700|
+|Honda|Integra Type R (DC2) '95|58,800|
 |Honda|NSX Type R '02|432,900|
 |Honda|S800 '66|52,000|
 |MINI|MINI Cooper S '05|23,600|
+|Mazda|Eunos Roadster (NA) '89|30,500|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
+|Nissan|SILVIA spec-R Aero (S15) '02|58,600|
+|Porsche|911 Carrera RS (964) '92|207,000|
 |Renault|Clio V6 24V '00|82,800|
 |Renault|R4 GTL '85|25,500|
 |Toyota|MR2 GT-S '97|51,500|
