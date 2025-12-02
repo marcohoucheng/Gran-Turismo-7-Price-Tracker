@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-December-2025
+# Gran Turismo 7 Shops for 02-December-2025
 
 
 
@@ -36,22 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|XJR-9 '88|3,000,000|
+|Pontiac|GTO 'The Judge' '69|209,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mustang Boss 429 '69|349,000|
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Jaguar|XJ13 '66|12,000,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Chevrolet|Corvette (C1) '58|122,000|
 |Ferrari|250 GTO '62|20,000,000|
 |Honda|RA272 '65|2,500,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
+|Jaguar|XJR-9 '88|3,000,000|
 |Toyota|2000GT '67|982,000|
 |Toyota|Celica GT-FOUR Rally Car (ST205) '95|210,000|
 
@@ -61,20 +62,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|MINI|Mini-Cooper 'S' '65|38,100|
-|Nissan|GT-R NISMO (R32) '90|386,700|
-|TVR|Tuscan Speed 6 '00|75,900|
+|Alpine|A110 '72|129,600|
+|Ferrari|Dino 246 GT '71|400,000|
+|Volkswagen|Scirocco R '10|38,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TTS Coupe '09|58,300|
+|Dodge|Viper GTS '02|106,600|
 |Ferrari|430 Scuderia '07|378,100|
-|Honda|Beat '91|14,900|
 |Honda|Integra Type R (DC2) '95|58,800|
-|Honda|NSX Type R '02|432,900|
 |Mazda|Eunos Roadster (NA) '89|30,500|
+|Porsche|911 Carrera RS (964) '92|207,000|
 |Toyota|MR2 GT-S '97|51,500|
+|Volvo|240 SE Estate '93|41,400|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -84,16 +85,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 '07|77,600|
 |BMW|M3 '89|75,100|
 |Chevrolet|Corvette Stingray (C3) '69|58,600|
-|Dodge|Viper GTS '02|106,600|
 |Ferrari|F430 '06|209,600|
 |Fiat|500 1.2 8V Lounge SS '08|13,000|
 |Ford|Sierra RS 500 Cosworth '87|196,400|
 |Honda|Civic Type R (EK) '97|53,500|
+|MINI|Mini-Cooper 'S' '65|38,100|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
+|Nissan|GT-R NISMO (R32) '90|386,700|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,600|
-|Porsche|911 Carrera RS (964) '92|207,000|
 |Renault|Clio V6 24V '00|82,800|
 |Subaru|Impreza 22B-STi '98|163,100|
+|TVR|Tuscan Speed 6 '00|75,900|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,700|
 |Toyota|Sports 800 '65|49,200|
-|Volvo|240 SE Estate '93|41,400|
