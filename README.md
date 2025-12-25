@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 04-December-2025
+# Gran Turismo 7 Shops for 25-December-2025
 
 
 
@@ -36,24 +36,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F40 '92|3,200,000|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|250 GTO '62|20,000,000|
-|Honda|RA272 '65|2,500,000|
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|210,000|
+|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,850,000|
+|Ford|GT40 Mark I '66|6,700,000|
+|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
-|Chevrolet|Corvette (C1) '58|122,000|
-|Jaguar|XJR-9 '88|3,000,000|
-|Pontiac|GTO 'The Judge' '69|209,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Toyota|2000GT '67|982,000|
+|Alpine|A220 Race Car '68|330,000|
+|Ferrari|330 P4 '67|20,000,000|
+|Jeep|Willys MB '45|31,300|
+|NISMO|400R '95|1,600,000|
+|Porsche|911 Carrera RS (901) '73|740,000|
+|Shelby|G.T.350 '65|491,000|
 
 
 ## Used shop
@@ -61,39 +61,40 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 Sport Evolution '89|165,000|
-|Mazda|RX-7 Spirit R Type A (FD) '02|216,400|
-|Mitsubishi|Lancer Evolution III GSR '95|80,900|
-|Suzuki|Swift Sport '07|12,000|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|26,400|
-|BMW|M3 '03|61,100|
-|BMW|M3 '07|77,600|
-|Chevrolet|Corvette Stingray (C3) '69|58,600|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
-|Nissan|SILVIA spec-R Aero (S15) '02|58,600|
-|Renault|Clio V6 24V '00|82,800|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,700|
+|Chevrolet|Corvette ZR-1 (C4) '89|84,600|
+|Dodge|Super Bee '70|61,100|
+|Ferrari|Testarossa '91|365,800|
+|Ford|Mustang Mach 1 '71|40,800|
+|Honda|Civic Type R (EK) Touring Car|120,700|
+|Maserati|GranTurismo S '08|138,200|
+|McLaren|MP4-12C '10|185,500|
+|Nissan|Fairlady 240ZG (HS30) '71|98,200|
+|Nissan|Silvia K's Dia Selection (S13) '90|56,800|
+|Toyota|Supra 3.0GT Turbo A '88|105,400|
+|Volkswagen|Volkswagen 1200 '66|31,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|129,600|
-|BMW|M3 '89|75,100|
-|Daihatsu|Copen '02|14,400|
-|Ferrari|Dino 246 GT '71|400,000|
-|Ferrari|F430 '06|209,600|
-|Fiat|500 1.2 8V Lounge SS '08|13,000|
-|Ford|Sierra RS 500 Cosworth '87|196,400|
-|Honda|Civic Type R (EK) '97|53,500|
-|MINI|Mini-Cooper 'S' '65|38,100|
-|Mercedes-Benz|SLR McLaren '09|512,200|
-|Nissan|GT-R NISMO (R32) '90|386,700|
-|Nissan|R33 GT-R V-spec '97|161,000|
-|Subaru|Impreza 22B-STi '98|163,100|
-|TVR|Tuscan Speed 6 '00|75,900|
-|Toyota|Sports 800 '65|49,200|
-|Volkswagen|Scirocco R '10|38,100|
+|Abarth|Abarth 595 SS '70|53,100|
+|Alfa Romeo|MiTo '09|22,700|
+|Audi|R8 4.2 '07|136,500|
+|BMW|3.0 CSL '71|141,800|
+|BMW|3.0 CSL '73|205,200|
+|BMW|Z8 '01|267,200|
+|Chevrolet|Corvette Convertible (C3) '69|47,000|
+|Chevrolet|Corvette ZR1 (C6) '09|99,200|
+|Dodge|Viper SRT10 Coupe '06|115,300|
+|Ferrari|Dino 246 GT '71|359,300|
+|Fiat|500 F '68|17,900|
+|Honda|Civic SiR-II (EG) '93|58,500|
+|Mitsubishi|GTO Twin Turbo '91|44,800|
+|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
+|Nissan|R32 GT-R V-spec II '94|173,400|
+|Nissan|Skyline GTS-R (R31) '87|169,000|
+|Porsche|911 Carrera RS CS (993) '95|441,300|
