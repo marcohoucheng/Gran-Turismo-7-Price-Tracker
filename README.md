@@ -27,18 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 29-December-2025
+# Gran Turismo 7 Shops for 30-December-2025
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Honda|RA272 '65|2,500,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |NISMO|400R '95|1,600,000|
-|Porsche|911 Carrera RS (901) '73|740,000|
-|Shelby|G.T.350 '65|491,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -55,38 +59,36 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TT Coupe 3.2 quattro '03|43,300|
-|Lamborghini|Murcielago LP 640 '09|340,400|
-|Nissan|Silvia Q's (S13) '88|31,500|
-|Porsche|911 GT3 (997) '09|140,900|
-|Toyota|Celica GT-Four (ST205) '94|65,500|
+|DMC|DeLorean S2 '04|462,400|
+|Nissan|Fairlady Z (Z34) '08|37,100|
+|Nissan|Fairlady Z Version S (Z33) '07|26,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|53,100|
-|Alfa Romeo|MiTo '09|22,700|
-|BMW|3.0 CSL '71|141,800|
-|BMW|3.0 CSL '73|205,200|
+|Chevrolet|Corvette Convertible (C3) '69|47,000|
 |Fiat|500 F '68|17,900|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,300|
-|Nissan|R32 GT-R V-spec II '94|173,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|R8 4.2 '07|136,500|
-|Chevrolet|Corvette Convertible (C3) '69|47,000|
+|Audi|TT Coupe 3.2 quattro '03|43,300|
 |Citroen|BX 19 TRS '87|22,700|
 |Ferrari|458 Italia '09|244,400|
 |Ford|Escort RS Cosworth '92|128,900|
 |Honda|NSX Type R '92|398,200|
 |Lamborghini|Gallardo LP 560-4 '08|252,000|
+|Lamborghini|Murcielago LP 640 '09|340,400|
 |Lancia|Stratos '73|539,800|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
 |Nissan|Sileighty '98|84,800|
+|Nissan|Silvia Q's (S13) '88|31,500|
 |Porsche|911 GT3 (996) '01|161,700|
+|Porsche|911 GT3 (997) '09|140,900|
 |Renault|Kangoo 1.4 '01|14,200|
 |Renault|R5 Turbo '80|161,400|
+|Toyota|Celica GT-Four (ST205) '94|65,500|
 |Toyota|Prius G '09|19,400|
