@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 30-December-2025
+# Gran Turismo 7 Shops for 31-December-2025
 
 
 
@@ -36,20 +36,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|RA272 '65|2,500,000|
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
+|Chevrolet|Camaro Z28 '69|111,000|
+|De Tomaso|Mangusta '69|310,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|NISMO|400R '95|1,600,000|
+|Jeep|Willys MB '45|31,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Citroen|DS 21 Pallas '70|49,500|
-|Jeep|Willys MB '45|31,300|
+|Honda|RA272 '65|2,500,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 |Shelby|Cobra 427 '66|2,700,000|
 
@@ -59,23 +60,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|DMC|DeLorean S2 '04|462,400|
-|Nissan|Fairlady Z (Z34) '08|37,100|
-|Nissan|Fairlady Z Version S (Z33) '07|26,800|
+|Ferrari|308 GTB '75|176,100|
+|Honda|Beat '91|14,900|
+|Honda|S800 '66|52,000|
+|Renault|R4 GTL '85|25,500|
+|Volkswagen|Sambabus Typ 2 '62|63,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Audi|R8 4.2 '07|136,500|
 |Chevrolet|Corvette Convertible (C3) '69|47,000|
-|Fiat|500 F '68|17,900|
-|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|136,500|
 |Audi|TT Coupe 3.2 quattro '03|43,300|
 |Citroen|BX 19 TRS '87|22,700|
+|DMC|DeLorean S2 '04|462,400|
 |Ferrari|458 Italia '09|244,400|
 |Ford|Escort RS Cosworth '92|128,900|
 |Honda|NSX Type R '92|398,200|
@@ -84,6 +86,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Lancia|Stratos '73|539,800|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
+|Nissan|Fairlady Z (Z34) '08|37,100|
+|Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|Sileighty '98|84,800|
 |Nissan|Silvia Q's (S13) '88|31,500|
 |Porsche|911 GT3 (996) '01|161,700|
