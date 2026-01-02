@@ -27,32 +27,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-January-2026
+# Gran Turismo 7 Shops for 02-January-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Porsche|Spyder type 550/1500RS '55|4,950,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jeep|Willys MB '45|31,300|
+|Citroen|DS 21 Pallas '70|49,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
 |Chevrolet|Camaro Z28 '69|111,000|
-|Citroen|DS 21 Pallas '70|49,500|
 |De Tomaso|Mangusta '69|310,000|
 |Honda|RA272 '65|2,500,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+|Porsche|Spyder type 550/1500RS '55|4,950,000|
 |Shelby|Cobra 427 '66|2,700,000|
 
 
@@ -61,13 +56,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Si Extra (EF) '87|50,700|
-|Nissan|180SX Type X '96|57,400|
+|De Tomaso|Pantera '71|166,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|136,500|
+|Citroen|BX 19 TRS '87|22,700|
+|Ferrari|458 Italia '09|244,400|
 |Honda|NSX Type R '92|398,200|
 |Lamborghini|Gallardo LP 560-4 '08|252,000|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
@@ -76,16 +71,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|43,300|
-|Citroen|BX 19 TRS '87|22,700|
 |DMC|DeLorean S2 '04|462,400|
 |Ferrari|308 GTB '75|176,100|
-|Ferrari|458 Italia '09|244,400|
 |Ford|Escort RS Cosworth '92|128,900|
 |Honda|Beat '91|14,900|
+|Honda|Civic Si Extra (EF) '87|50,700|
 |Honda|S800 '66|52,000|
 |Lamborghini|Murcielago LP 640 '09|340,400|
 |Lancia|Stratos '73|539,800|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
+|Nissan|180SX Type X '96|57,400|
 |Nissan|Fairlady Z (Z34) '08|37,100|
 |Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|Sileighty '98|84,800|
