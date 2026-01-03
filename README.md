@@ -27,16 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 02-January-2026
+# Gran Turismo 7 Shops for 03-January-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Honda|NSX GT500 '00|1,650,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Citroen|DS 21 Pallas '70|49,500|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+|Shelby|Cobra 427 '66|2,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -46,9 +53,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |De Tomaso|Mangusta '69|310,000|
 |Honda|RA272 '65|2,500,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
-|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
 |Porsche|Spyder type 550/1500RS '55|4,950,000|
-|Shelby|Cobra 427 '66|2,700,000|
 
 
 ## Used shop
@@ -56,40 +61,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|De Tomaso|Pantera '71|166,500|
+|Ford|Ford GT '06|397,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Citroen|BX 19 TRS '87|22,700|
 |Ferrari|458 Italia '09|244,400|
-|Honda|NSX Type R '92|398,200|
-|Lamborghini|Gallardo LP 560-4 '08|252,000|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
+|Ford|Escort RS Cosworth '92|128,900|
+|Lamborghini|Murcielago LP 640 '09|340,400|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
+|Nissan|Silvia Q's (S13) '88|31,500|
+|Renault|Kangoo 1.4 '01|14,200|
+|Renault|R5 Turbo '80|161,400|
+|Toyota|Prius G '09|19,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|43,300|
 |DMC|DeLorean S2 '04|462,400|
+|De Tomaso|Pantera '71|166,500|
 |Ferrari|308 GTB '75|176,100|
-|Ford|Escort RS Cosworth '92|128,900|
 |Honda|Beat '91|14,900|
 |Honda|Civic Si Extra (EF) '87|50,700|
 |Honda|S800 '66|52,000|
-|Lamborghini|Murcielago LP 640 '09|340,400|
 |Lancia|Stratos '73|539,800|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|65,700|
 |Nissan|180SX Type X '96|57,400|
 |Nissan|Fairlady Z (Z34) '08|37,100|
 |Nissan|Fairlady Z Version S (Z33) '07|26,800|
 |Nissan|Sileighty '98|84,800|
-|Nissan|Silvia Q's (S13) '88|31,500|
 |Porsche|911 GT3 (996) '01|161,700|
 |Porsche|911 GT3 (997) '09|140,900|
-|Renault|Kangoo 1.4 '01|14,200|
 |Renault|R4 GTL '85|25,500|
-|Renault|R5 Turbo '80|161,400|
 |Toyota|Celica GT-Four (ST205) '94|65,500|
-|Toyota|Prius G '09|19,400|
 |Volkswagen|Sambabus Typ 2 '62|63,000|
