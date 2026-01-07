@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 06-January-2026
+# Gran Turismo 7 Shops for 07-January-2026
 
 
 
@@ -36,15 +36,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|McLaren|McLaren F1 GTR - BMW '95|17,000,000|
-|Mercedes-Benz|300 SL Coupe '54|1,650,000|
+|Dodge|Charger R/T 426 Hemi '68|147,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|Sport quattro S1 Pikes Peak '87|1,800,000|
-|Chevrolet|Camaro Z28 '69|111,000|
-|De Tomaso|Mangusta '69|310,000|
+|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -53,7 +50,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Honda|NSX GT500 '00|1,650,000|
 |Honda|RA272 '65|2,500,000|
 |McLaren|MP4/4 '88|12,000,000|
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|300,000|
+|McLaren|McLaren F1 GTR - BMW '95|17,000,000|
+|Mercedes-Benz|300 SL Coupe '54|1,650,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |Porsche|917K '70|20,000,000|
 |Porsche|Spyder type 550/1500RS '55|4,950,000|
@@ -64,39 +62,36 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|26,400|
-|Ferrari|430 Scuderia '07|378,100|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,700|
-|Toyota|Sports 800 '65|49,200|
-|Toyota|Supra RZ '97|181,700|
-|Volvo|240 SE Estate '93|41,400|
+|BMW|M3 '07|77,600|
+|Dodge|Viper GTS '02|106,600|
+|Renault|Clio V6 24V '00|82,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|43,300|
-|DMC|DeLorean S2 '04|462,400|
-|Ferrari|308 GTB '75|176,100|
 |Honda|Civic Si Extra (EF) '87|50,700|
-|Lancia|Stratos '73|539,800|
+|Honda|S800 '66|52,000|
 |Nissan|Fairlady Z (Z34) '08|37,100|
-|Nissan|Fairlady Z Version S (Z33) '07|26,800|
-|Toyota|Celica GT-Four (ST205) '94|65,500|
-|Volkswagen|Sambabus Typ 2 '62|63,000|
+|Renault|R4 GTL '85|25,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 500 '09|26,400|
 |Audi|TTS Coupe '09|58,300|
 |BMW|M3 '97|90,000|
 |De Tomaso|Pantera '71|166,500|
+|Ferrari|430 Scuderia '07|378,100|
 |Ford|Ford GT '06|397,100|
 |Honda|Beat '91|14,900|
 |Honda|NSX Type R '02|432,900|
-|Honda|S800 '66|52,000|
 |MINI|MINI Cooper S '05|23,600|
 |Mazda|Eunos Roadster (NA) '89|30,500|
 |Nissan|180SX Type X '96|57,400|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
 |Nissan|GT-R NISMO (R32) '90|400,000|
-|Renault|R4 GTL '85|25,500|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,700|
+|Toyota|Sports 800 '65|49,200|
+|Toyota|Supra RZ '97|181,700|
+|Volvo|240 SE Estate '93|41,400|
