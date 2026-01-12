@@ -27,22 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 11-January-2026
+# Gran Turismo 7 Shops for 12-January-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Aston Martin|DB5 '64|982,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F40 '92|3,200,000|
-|Honda|NSX GT500 '00|1,650,000|
-|Honda|RA272 '65|2,500,000|
-|McLaren|MP4/4 '88|12,000,000|
 |McLaren|McLaren F1 GTR - BMW '95|17,000,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
-|Porsche|917K '70|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -57,33 +57,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|BMW|M3 '89|75,100|
-|Daihatsu|Copen '02|14,400|
-|Subaru|Impreza 22B-STi '98|163,100|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '97|90,000|
+|Abarth|Abarth 500 '09|26,400|
 |Ford|Ford GT '06|397,100|
 |MINI|MINI Cooper S '05|23,600|
-|Mazda|Eunos Roadster (NA) '89|30,500|
-|Nissan|GT-R NISMO (R32) '90|400,000|
 |Toyota|Supra RZ '97|181,700|
 |Volvo|240 SE Estate '93|41,400|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|26,400|
 |Alpine|A110 '72|129,600|
 |Audi|TTS Coupe '09|58,300|
 |BMW|M3 '03|61,100|
 |BMW|M3 '07|77,600|
+|BMW|M3 '89|75,100|
 |Chevrolet|Corvette Stingray (C3) '69|58,600|
+|Daihatsu|Copen '02|14,400|
 |Dodge|Viper GTS '02|106,600|
 |Ferrari|430 Scuderia '07|378,100|
 |Fiat|500 1.2 8V Lounge SS '08|13,000|
@@ -96,6 +88,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|SILVIA spec-R Aero (S15) '02|58,600|
 |Porsche|911 Carrera RS (964) '92|207,000|
 |Renault|Clio V6 24V '00|82,800|
+|Subaru|Impreza 22B-STi '98|163,100|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,700|
 |Toyota|MR2 GT-S '97|51,500|
 |Toyota|Sports 800 '65|49,200|
