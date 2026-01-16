@@ -27,16 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-January-2026
+# Gran Turismo 7 Shops for 16-January-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Lancia|Lancia Delta HF Integrale Rally Car '92|329,300|
+|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|GT-R GT500 '99|2,000,000|
+|Ferrari|250 GT Berlinetta passo corto '61|6,850,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -44,7 +51,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Aston Martin|DB5 '64|982,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
 |De Tomaso|Mangusta '69|310,000|
-|Ferrari|250 GT Berlinetta passo corto '61|6,850,000|
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
@@ -56,29 +62,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Pontiac|Firebird Trans Am '78|82,700|
+|BMW|M3 Sport Evolution '89|165,000|
+|Honda|Civic Type R (EK) '98|55,200|
+|Mazda|RX-7 Spirit R Type A (FD) '02|216,400|
+|Mercedes-Benz|SLR McLaren '09|512,200|
+|Nissan|R33 GT-R V-spec '97|161,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Stingray (C3) '69|58,600|
+|BMW|M3 '03|61,100|
+|BMW|M3 '07|77,600|
 |Dodge|Viper GTS '02|106,600|
 |Fiat|500 1.2 8V Lounge SS '08|13,000|
-|Honda|Civic Type R (EK) '97|53,500|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|56,200|
 |Nissan|SILVIA spec-R Aero (S15) '02|58,600|
-|Porsche|911 Carrera RS (964) '92|207,000|
 |Renault|Clio V6 24V '00|82,800|
-|Toyota|MR2 GT-S '97|51,500|
-|Toyota|Sports 800 '65|49,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|129,600|
 |Autobianchi|A112 Abarth '85|28,200|
-|BMW|M3 '03|61,100|
-|BMW|M3 '07|77,600|
 |BMW|M3 '89|75,100|
 |Citroen|BX 19 TRS '87|30,000|
 |Daihatsu|Copen '02|14,400|
@@ -87,6 +92,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |MINI|Mini-Cooper 'S' '65|38,100|
 |Mitsubishi|FTO GP Version R '97|35,000|
 |Nissan|GT-R NISMO (R32) '90|386,700|
+|Pontiac|Firebird Trans Am '78|82,700|
 |Subaru|Impreza 22B-STi '98|163,100|
 |Suzuki|Swift Sport '07|12,000|
 |TVR|Tuscan Speed 6 '00|75,900|
