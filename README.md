@@ -27,34 +27,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 17-January-2026
+# Gran Turismo 7 Shops for 18-January-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|McLaren|MP4/4 '88|12,000,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Aston Martin|DB5 '64|982,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
 |De Tomaso|Mangusta '69|310,000|
-|Ferrari|250 GT Berlinetta passo corto '61|6,850,000|
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|982,000|
 |Jaguar|D-type '54|6,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|329,300|
+|McLaren|MP4/4 '88|12,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
 |Toyota|GT-One (TS020) '99|2,500,000|
 
 
@@ -63,26 +58,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|294,800|
-|Mitsubishi|Lancer Evolution III GSR '95|80,900|
-|Subaru|Impreza Sedan WRX STi '04|42,300|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,200|
-|Volkswagen|Golf I GTI '83|49,400|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|171,300|
+|BMW|M3 '97|78,600|
+|Honda|Integra Type R (DC2) '98|55,800|
+|Honda|S2000 '99|98,400|
+|Porsche|911 Carrera RS (993) '95|217,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|61,100|
-|BMW|M3 '07|77,600|
 |BMW|M3 '89|75,100|
 |Citroen|BX 19 TRS '87|30,000|
 |Daihatsu|Copen '02|14,400|
 |Ford|Sierra RS 500 Cosworth '87|196,400|
 |Mitsubishi|FTO GP Version R '97|35,000|
+|Subaru|Impreza 22B-STi '98|163,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|8C Competizione '08|294,800|
 |Alpine|A110 '72|129,600|
 |Autobianchi|A112 Abarth '85|28,200|
 |BMW|M3 Sport Evolution '89|165,000|
@@ -91,10 +86,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |MINI|Mini-Cooper 'S' '65|38,100|
 |Mazda|RX-7 Spirit R Type A (FD) '02|216,400|
 |Mercedes-Benz|SLR McLaren '09|512,200|
+|Mitsubishi|Lancer Evolution III GSR '95|80,900|
 |Nissan|GT-R NISMO (R32) '90|386,700|
 |Nissan|R33 GT-R V-spec '97|161,000|
 |Pontiac|Firebird Trans Am '78|82,700|
-|Subaru|Impreza 22B-STi '98|163,100|
+|Subaru|Impreza Sedan WRX STi '04|42,300|
 |Suzuki|Swift Sport '07|12,000|
 |TVR|Tuscan Speed 6 '00|75,900|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,200|
+|Volkswagen|Golf I GTI '83|49,400|
 |Volkswagen|Scirocco R '10|38,100|
