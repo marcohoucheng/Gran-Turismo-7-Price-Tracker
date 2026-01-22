@@ -27,33 +27,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-January-2026
+# Gran Turismo 7 Shops for 22-January-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Maserati|Merak SS '80|61,500|
-|Porsche|Carrera GTS (904) '64|2,200,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|D-type '54|6,000,000|
-|Jaguar|XJ13 '66|12,000,000|
+|Lamborghini|Countach LP400 '74|1,250,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Countach LP400 '74|1,250,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|329,300|
+|Maserati|Merak SS '80|61,500|
 |McLaren|MP4/4 '88|12,000,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
+|Porsche|Carrera GTS (904) '64|2,200,000|
 
 
 ## Used shop
@@ -61,7 +55,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|911 Turbo (930) '81|223,300|
+|Lamborghini|Countach 25th Anniversary '88|687,700|
+|Lamborghini|Diablo GT '00|778,500|
+|Lancia|Delta HF Integrale Evoluzione '91|101,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -69,10 +65,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alpine|A110 '72|129,600|
 |BMW|M3 Sport Evolution '89|165,000|
 |Mazda|RX-7 Spirit R Type A (FD) '02|216,400|
-|Nissan|GT-R NISMO (R32) '90|386,700|
 |Nissan|R33 GT-R V-spec '97|161,000|
-|Pontiac|Firebird Trans Am '78|82,700|
-|Suzuki|Swift Sport '07|12,000|
+|Volkswagen|Golf I GTI '83|49,400|
 |Volkswagen|Scirocco R '10|38,100|
 
 ### Available
@@ -90,9 +84,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Mitsubishi|Lancer Evolution III GSR '95|80,900|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|98,100|
 |Porsche|911 Carrera RS (993) '95|217,200|
+|Porsche|911 Turbo (930) '81|223,300|
 |RUF|CTR3 '07|787,400|
 |Renault|Avantime 3.0 V6 24V '02|37,600|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|52,900|
 |Subaru|Impreza Sedan WRX STi '04|42,300|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,200|
-|Volkswagen|Golf I GTI '83|49,400|
