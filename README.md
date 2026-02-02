@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-February-2026
+# Gran Turismo 7 Shops for 02-February-2026
 
 
 
@@ -36,24 +36,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|356 A/1500 GS Carrera '56|618,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|959 '87|1,900,000|
-|Porsche|962 C '88|1,250,000|
+|Chevrolet|Corvette (C2) '63|268,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|147,000|
-|Ford|Mark IV Race Car '67|6,750,000|
-|Mercedes-Benz|300 SL Coupe '54|1,650,000|
+|Jaguar|XJ220 '92|559,000|
 |Plymouth|XNR Ghia Roadster '60|3,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|F50 '95|4,600,000|
-|Jaguar|XJ220 '92|559,000|
+|Porsche|356 A/1500 GS Carrera '56|618,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Porsche|959 '87|1,900,000|
+|Porsche|962 C '88|1,250,000|
 |Renault|Espace F1 '95|2,000,000|
 
 
@@ -62,43 +60,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '71|148,100|
-|Chevrolet|Corvette ZR-1 (C4) '89|88,100|
-|Dodge|Viper SRT10 Coupe '06|112,300|
-|Nissan|Skyline GTS-R (R31) '87|169,000|
-|Peugeot|205 GTI '88|70,000|
+|BMW|3.0 CSL '73|203,800|
+|Chevrolet|Corvette ZR1 (C6) '09|107,700|
+|Nissan|R32 GT-R V-spec II '94|173,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|320,700|
-|Ferrari|Testarossa '91|365,800|
-|Ford|Mustang Mach 1 '71|40,800|
+|Ferrari|Dino 246 GT '71|359,300|
 |Honda|Civic Type R (EK) Touring Car|120,700|
+|Mazda|RX-7 GT-X (FC) '90|62,800|
 |Mitsubishi|GTO Twin Turbo '91|44,800|
-|Mitsubishi|Lancer Evolution V GSR '98|64,800|
-|Nissan|Silvia K's Aero (S14) '96|58,800|
+|Nissan|Fairlady 240ZG (HS30) '71|98,200|
 |Nissan|Silvia K's Dia Selection (S13) '90|56,800|
-|Pontiac|Firebird Trans Am '78|110,000|
-|Porsche|911 Carrera RS (964) '92|253,000|
+|Porsche|911 Carrera RS CS (993) '95|441,300|
 |Toyota|Supra 3.0GT Turbo A '88|105,400|
-|Volkswagen|Volkswagen 1200 '66|31,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|50,200|
 |Alfa Romeo|MiTo '09|22,700|
+|BMW|3.0 CSL '71|148,100|
 |BMW|Z8 '01|265,800|
+|Chevrolet|Corvette ZR-1 (C4) '89|88,100|
 |Dodge|Super Bee '70|61,100|
-|Ferrari|Dino 246 GT '71|359,300|
+|Dodge|Viper SRT10 Coupe '06|112,300|
 |Fiat|500 F '68|17,900|
 |Fiat|Panda 30 CL '85|14,000|
 |Fiat|Panda 30 CL '85|11,800|
 |Honda|Civic SiR-II (EG) '93|58,500|
 |Maserati|GranTurismo S '08|138,200|
-|Mazda|RX-7 GT-X (FC) '90|62,800|
 |McLaren|MP4-12C '10|184,200|
-|Nissan|Fairlady 240ZG (HS30) '71|98,200|
-|Porsche|911 Carrera RS CS (993) '95|441,300|
+|Nissan|Skyline GTS-R (R31) '87|169,000|
+|Peugeot|205 GTI '88|70,000|
 |TVR|Tuscan Speed 6 '00|95,000|
