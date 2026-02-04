@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-February-2026
+# Gran Turismo 7 Shops for 04-February-2026
 
 
 
@@ -36,17 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Jaguar|XJ220 '92|559,000|
+|Jaguar|E-type Coupe '61|172,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette (C2) '63|268,000|
+|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 |Ferrari|F50 '95|4,600,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
@@ -60,29 +56,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|143,500|
-|Chevrolet|Corvette Convertible (C3) '69|47,000|
-|Lamborghini|Gallardo LP 560-4 '08|249,000|
-|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
-|Renault|Kangoo 1.4 '01|13,200|
+|Ferrari|458 Italia '09|252,200|
+|Lancia|Stratos '73|539,800|
+|Nissan|Sileighty '98|84,800|
+|Toyota|Prius G '09|21,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|Dino 246 GT '71|359,300|
-|Mazda|RX-7 GT-X (FC) '90|62,800|
-|Nissan|Fairlady 240ZG (HS30) '71|98,200|
-|Porsche|911 Carrera RS CS (993) '95|441,300|
+|Honda|Civic SiR-II (EG) '93|58,500|
+|Maserati|GranTurismo S '08|138,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|50,200|
 |Alfa Romeo|MiTo '09|22,700|
+|Audi|R8 4.2 '07|143,500|
 |BMW|3.0 CSL '71|148,100|
 |BMW|3.0 CSL '73|203,800|
 |BMW|Z8 '01|265,800|
+|Chevrolet|Corvette Convertible (C3) '69|47,000|
 |Chevrolet|Corvette ZR-1 (C4) '89|88,100|
 |Chevrolet|Corvette ZR1 (C6) '09|107,700|
 |Dodge|Super Bee '70|61,100|
@@ -90,10 +84,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Fiat|500 F '68|17,900|
 |Fiat|Panda 30 CL '85|14,000|
 |Fiat|Panda 30 CL '85|11,800|
-|Honda|Civic SiR-II (EG) '93|58,500|
-|Maserati|GranTurismo S '08|138,200|
+|Lamborghini|Gallardo LP 560-4 '08|249,000|
 |McLaren|MP4-12C '10|184,200|
+|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 |Nissan|R32 GT-R V-spec II '94|173,400|
 |Nissan|Skyline GTS-R (R31) '87|169,000|
 |Peugeot|205 GTI '88|70,000|
+|Renault|Kangoo 1.4 '01|13,200|
 |TVR|Tuscan Speed 6 '00|95,000|
