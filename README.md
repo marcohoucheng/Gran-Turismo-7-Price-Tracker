@@ -27,28 +27,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-February-2026
+# Gran Turismo 7 Shops for 06-February-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|F50 '95|4,600,000|
 |Renault|Espace F1 '95|2,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
 |Chevrolet|Corvette (C2) '63|268,000|
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
-|Ferrari|F50 '95|4,600,000|
 |Jaguar|E-type Coupe '61|172,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
@@ -58,41 +54,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Citroen|BX 19 TRS '87|25,700|
-|Ford|Escort RS Cosworth '92|128,900|
-|Honda|NSX Type R '92|399,200|
-|Toyota|Celica GT-Four (ST205) '94|65,500|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 595 SS '70|50,200|
+|Chevrolet|Corvette ZR-1 (C4) '89|88,100|
 |Dodge|Super Bee '70|61,100|
-|Honda|Civic SiR-II (EG) '93|58,500|
-|Maserati|GranTurismo S '08|138,200|
+|Fiat|500 F '68|17,900|
+|Fiat|Panda 30 CL '85|11,800|
+|McLaren|MP4-12C '10|184,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|50,200|
 |Alfa Romeo|MiTo '09|22,700|
 |Audi|R8 4.2 '07|143,500|
 |BMW|3.0 CSL '71|148,100|
 |BMW|3.0 CSL '73|203,800|
 |BMW|Z8 '01|265,800|
 |Chevrolet|Corvette Convertible (C3) '69|47,000|
-|Chevrolet|Corvette ZR-1 (C4) '89|88,100|
 |Chevrolet|Corvette ZR1 (C6) '09|107,700|
+|Citroen|BX 19 TRS '87|25,700|
 |Dodge|Viper SRT10 Coupe '06|112,300|
 |Ferrari|458 Italia '09|252,200|
-|Fiat|500 F '68|17,900|
 |Fiat|Panda 30 CL '85|14,000|
-|Fiat|Panda 30 CL '85|11,800|
+|Ford|Escort RS Cosworth '92|128,900|
+|Honda|NSX Type R '92|399,200|
 |Lamborghini|Gallardo LP 560-4 '08|249,000|
 |Lancia|Stratos '73|539,800|
-|McLaren|MP4-12C '10|184,200|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 |Nissan|R32 GT-R V-spec II '94|173,400|
@@ -101,4 +90,5 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Peugeot|205 GTI '88|70,000|
 |Renault|Kangoo 1.4 '01|13,200|
 |TVR|Tuscan Speed 6 '00|95,000|
+|Toyota|Celica GT-Four (ST205) '94|65,500|
 |Toyota|Prius G '09|21,500|
