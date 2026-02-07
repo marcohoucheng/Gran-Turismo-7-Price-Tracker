@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 06-February-2026
+# Gran Turismo 7 Shops for 07-February-2026
 
 
 
@@ -37,7 +37,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|F50 '95|4,600,000|
-|Renault|Espace F1 '95|2,000,000|
+|Porsche|959 '87|1,900,000|
+|Porsche|962 C '88|1,250,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -48,18 +49,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Jaguar|E-type Coupe '61|172,000|
 |Porsche|356 A/1500 GS Carrera '56|618,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|959 '87|1,900,000|
-|Porsche|962 C '88|1,250,000|
 
 
 ## Used shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Porsche|911 GT3 (996) '01|154,800|
+|Renault|R5 Turbo '80|154,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|50,200|
+|Alfa Romeo|MiTo '09|22,700|
+|BMW|3.0 CSL '71|148,100|
+|BMW|3.0 CSL '73|203,800|
 |Chevrolet|Corvette ZR-1 (C4) '89|88,100|
-|Dodge|Super Bee '70|61,100|
 |Fiat|500 F '68|17,900|
 |Fiat|Panda 30 CL '85|11,800|
 |McLaren|MP4-12C '10|184,200|
@@ -67,10 +74,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|MiTo '09|22,700|
 |Audi|R8 4.2 '07|143,500|
-|BMW|3.0 CSL '71|148,100|
-|BMW|3.0 CSL '73|203,800|
 |BMW|Z8 '01|265,800|
 |Chevrolet|Corvette Convertible (C3) '69|47,000|
 |Chevrolet|Corvette ZR1 (C6) '09|107,700|
