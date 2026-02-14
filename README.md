@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 13-February-2026
+# Gran Turismo 7 Shops for 14-February-2026
 
 
 
@@ -36,8 +36,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|146,000|
-|Jaguar|E-type Coupe '61|172,000|
+|Porsche|917K '70|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -49,7 +48,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|365 GTB4 '71|610,000|
 |Ford|1932 Ford Roadster Hot Rod|350,000|
 |McLaren|McLaren F1 '94|20,000,000|
-|Porsche|917K '70|20,000,000|
 
 
 ## Used shop
@@ -57,40 +55,42 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TTS Coupe '09|63,100|
-|De Tomaso|Pantera '71|173,100|
-|Ferrari|512 BB '76|286,400|
-|Honda|NSX Type R '02|444,300|
+|Abarth|Abarth 500 '09|26,400|
+|MINI|MINI Cooper S '05|22,900|
+|Mazda|Eunos Roadster (NA) '89|31,200|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Fiat|Panda 30 CL '85|14,000|
 |Lancia|Stratos '73|539,800|
-|Nissan|Sileighty '98|84,800|
-|Toyota|Celica GT-Four (ST205) '94|65,500|
+|Mitsubishi|FTO GP Version R '97|26,200|
+|Nissan|Silvia Q's (S13) '88|31,900|
+|Peugeot|205 GTI '88|70,000|
+|Porsche|911 GT3 (996) '01|154,800|
+|Renault|R5 Turbo '80|154,500|
+|TVR|Tuscan Speed 6 '00|95,000|
+|Volkswagen|Sambabus Typ 2 '62|55,600|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|49,800|
+|Audi|TTS Coupe '09|63,100|
 |DMC|DeLorean S2 '04|462,300|
+|De Tomaso|Pantera '71|173,100|
 |Ferrari|308 GTB '75|178,300|
-|Fiat|Panda 30 CL '85|14,000|
+|Ferrari|512 BB '76|286,400|
 |Ford|Ford GT '06|412,900|
 |Honda|Beat '91|15,900|
 |Honda|Civic Si Extra (EF) '87|53,100|
+|Honda|NSX Type R '02|444,300|
 |Honda|S800 '66|46,200|
 |Lamborghini|Murcielago LP 640 '09|320,700|
-|Mitsubishi|FTO GP Version R '97|26,200|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|60,300|
 |Nissan|180SX Type X '96|49,700|
 |Nissan|Fairlady Z (Z34) '08|35,400|
 |Nissan|Fairlady Z Version S (Z33) '07|27,300|
-|Nissan|Silvia Q's (S13) '88|31,900|
-|Peugeot|205 GTI '88|70,000|
-|Porsche|911 GT3 (996) '01|154,800|
 |Porsche|911 GT3 (997) '09|138,900|
 |Renault|R4 GTL '85|26,300|
-|Renault|R5 Turbo '80|154,500|
-|TVR|Tuscan Speed 6 '00|95,000|
-|Volkswagen|Sambabus Typ 2 '62|55,600|
