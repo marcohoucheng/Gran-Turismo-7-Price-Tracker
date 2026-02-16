@@ -27,33 +27,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-February-2026
+# Gran Turismo 7 Shops for 16-February-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|917K '70|20,000,000|
+|Chaparral|2J '70|2,500,000|
+|Ford|1932 Ford Roadster Hot Rod|350,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Aston Martin|DB3S '53|6,000,000|
-|Chaparral|2J '70|2,500,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|330 P4 '67|20,000,000|
 |Ferrari|365 GTB4 '71|610,000|
-|Ford|1932 Ford Roadster Hot Rod|350,000|
 |McLaren|McLaren F1 '94|20,000,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 
 
 ## Used shop
@@ -61,23 +56,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
-|Renault|Clio V6 24V '00|73,600|
+|Toyota|MR2 GT-S '97|54,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Fiat|Panda 30 CL '85|14,000|
 |Honda|Civic Si Extra (EF) '87|53,100|
-|Mitsubishi|FTO GP Version R '97|26,200|
+|Honda|S800 '66|46,200|
+|Lamborghini|Murcielago LP 640 '09|320,700|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|60,300|
-|Nissan|Silvia Q's (S13) '88|31,900|
-|Peugeot|205 GTI '88|70,000|
-|Porsche|911 GT3 (996) '01|154,800|
 |Porsche|911 GT3 (997) '09|138,900|
-|Renault|R5 Turbo '80|154,500|
-|TVR|Tuscan Speed 6 '00|95,000|
-|Volkswagen|Sambabus Typ 2 '62|55,600|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -92,12 +80,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Ford GT '06|412,900|
 |Honda|Beat '91|15,900|
 |Honda|NSX Type R '02|444,300|
-|Honda|S800 '66|46,200|
-|Lamborghini|Murcielago LP 640 '09|320,700|
 |MINI|MINI Cooper S '05|22,900|
 |Mazda|Eunos Roadster (NA) '89|31,200|
 |Nissan|180SX Type X '96|49,700|
 |Nissan|Fairlady Z (Z34) '08|35,400|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
 |Nissan|Fairlady Z Version S (Z33) '07|27,300|
+|Renault|Clio V6 24V '00|73,600|
 |Renault|R4 GTL '85|26,300|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,200|
