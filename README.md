@@ -27,11 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-February-2026
+# Gran Turismo 7 Shops for 19-February-2026
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
+|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -39,13 +45,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Aston Martin|DB3S '53|6,000,000|
 |Ferrari|330 P4 '67|20,000,000|
 |Ferrari|365 GTB4 '71|610,000|
+|McLaren|McLaren F1 '94|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
-|McLaren|McLaren F1 '94|20,000,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 
@@ -55,35 +61,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '07|72,500|
-|Ferrari|430 Scuderia '07|363,800|
-|Honda|Civic Type R (EK) '97|47,000|
+|Dodge|Viper GTS '02|104,900|
+|MINI|Mini-Cooper 'S' '65|43,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|DMC|DeLorean S2 '04|462,300|
-|Ferrari|308 GTB '75|178,300|
+|Audi|TT Coupe 3.2 quattro '03|49,800|
+|De Tomaso|Pantera '71|173,100|
+|Ferrari|512 BB '76|286,400|
 |Honda|Beat '91|15,900|
+|Mazda|Eunos Roadster (NA) '89|31,200|
+|Nissan|180SX Type X '96|49,700|
+|Nissan|Fairlady Z (Z34) '08|35,400|
 |Nissan|Fairlady Z Version S (Z33) '07|27,300|
-|Renault|R4 GTL '85|26,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|26,400|
-|Audi|TT Coupe 3.2 quattro '03|49,800|
 |Audi|TTS Coupe '09|63,100|
-|De Tomaso|Pantera '71|173,100|
-|Ferrari|512 BB '76|286,400|
+|BMW|M3 '07|72,500|
+|Ferrari|430 Scuderia '07|363,800|
 |Fiat|500 1.2 8V Lounge SS '08|12,700|
 |Ford|Ford GT '06|412,900|
+|Honda|Civic Type R (EK) '97|47,000|
 |Honda|Integra Type R (DC2) '95|56,400|
 |Honda|NSX Type R '02|444,300|
 |MINI|MINI Cooper S '05|22,900|
-|Mazda|Eunos Roadster (NA) '89|31,200|
-|Nissan|180SX Type X '96|49,700|
-|Nissan|Fairlady Z (Z34) '08|35,400|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
 |Renault|Clio V6 24V '00|73,600|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,200|
