@@ -27,28 +27,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-February-2026
+# Gran Turismo 7 Shops for 21-February-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ford|Mustang Boss 429 '69|349,000|
+|Jaguar|XJR-9 '88|3,000,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|210,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Camaro Z28 '69|111,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
-|McLaren|McLaren F1 '94|20,000,000|
+|Toyota|2000GT '67|982,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
-|Chevrolet|Camaro Z28 '69|111,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
-|Toyota|2000GT '67|982,000|
 
 
 ## Used shop
@@ -56,40 +62,36 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|134,500|
-|Chevrolet|Corvette Stingray (C3) '69|62,000|
-|Nissan|SILVIA spec-R Aero (S15) '02|59,800|
+|Daihatsu|Copen '02|16,100|
+|Porsche|911 Carrera RS (964) '92|225,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|26,400|
-|Audi|TT Coupe 3.2 quattro '03|49,800|
-|De Tomaso|Pantera '71|173,100|
-|Ferrari|512 BB '76|286,400|
+|BMW|3.0 CSL '73|250,000|
 |Ford|Ford GT '06|412,900|
-|Mazda|Eunos Roadster (NA) '89|31,200|
-|Nissan|180SX Type X '96|49,700|
-|Nissan|Fairlady Z (Z34) '08|35,400|
+|Lamborghini|Countach 25th Anniversary '88|800,000|
+|MINI|MINI Cooper S '05|22,900|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alpine|A110 '72|134,500|
 |Audi|TTS Coupe '09|63,100|
-|BMW|3.0 CSL '73|250,000|
 |BMW|M3 '07|72,500|
+|Chevrolet|Corvette Stingray (C3) '69|62,000|
 |Dodge|Viper GTS '02|104,900|
 |Ferrari|430 Scuderia '07|363,800|
 |Fiat|500 1.2 8V Lounge SS '08|12,700|
 |Honda|Civic Type R (EK) '97|47,000|
 |Honda|Integra Type R (DC2) '95|56,400|
 |Honda|NSX Type R '02|444,300|
-|Lamborghini|Countach 25th Anniversary '88|800,000|
-|MINI|MINI Cooper S '05|22,900|
 |MINI|Mini-Cooper 'S' '65|43,600|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
+|Nissan|SILVIA spec-R Aero (S15) '02|59,800|
 |Renault|Clio V6 24V '00|73,600|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,200|
 |Toyota|MR2 GT-S '97|54,900|
 |Toyota|Sports 800 '65|45,900|
 |Toyota|Supra RZ '97|179,100|
