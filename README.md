@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-February-2026
+# Gran Turismo 7 Shops for 25-February-2026
 
 
 
@@ -37,8 +37,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
-|Mercedes-Benz|CLK-LM '98|8,500,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -57,16 +55,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Pontiac|Firebird Trans Am '78|84,500|
-|Volkswagen|Scirocco R '10|38,600|
+|BMW|M3 Sport Evolution '89|162,800|
+|Honda|Civic Type R (EK) '98|53,500|
+|Mercedes-Benz|SLR McLaren '09|509,900|
+|Mitsubishi|Lancer Evolution III GSR '95|84,600|
+|Nissan|R33 GT-R V-spec '97|160,500|
+|TVR|Tuscan Speed 6 '00|73,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|430 Scuderia '07|363,800|
 |Fiat|500 1.2 8V Lounge SS '08|12,700|
-|Honda|Civic Type R (EK) '97|47,000|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
-|Renault|Clio V6 24V '00|73,600|
+|Toyota|Sports 800 '65|45,900|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -79,13 +81,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Chevrolet|Corvette Stingray (C3) '69|62,000|
 |Daihatsu|Copen '02|16,100|
 |Dodge|Viper GTS '02|104,900|
-|Ferrari|430 Scuderia '07|363,800|
 |Ferrari|F430 '06|202,200|
 |Ford|Sierra RS 500 Cosworth '87|183,500|
 |MINI|Mini-Cooper 'S' '65|43,600|
 |Nissan|GT-R NISMO (R32) '90|387,200|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,800|
+|Pontiac|Firebird Trans Am '78|84,500|
 |Porsche|911 Carrera RS (964) '92|225,000|
 |Subaru|Impreza 22B-STi '98|164,100|
 |Suzuki|Swift Sport '07|12,100|
-|Toyota|Sports 800 '65|45,900|
+|Volkswagen|Scirocco R '10|38,600|
