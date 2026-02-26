@@ -27,21 +27,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 25-February-2026
+# Gran Turismo 7 Shops for 26-February-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
+|Ferrari|250 GTO '62|20,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
+|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |Chevrolet|Corvette (C1) '58|122,000|
 |Ford|Mustang Boss 429 '69|349,000|
 |Jaguar|XJ13 '66|12,000,000|
@@ -55,19 +60,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 Sport Evolution '89|162,800|
-|Honda|Civic Type R (EK) '98|53,500|
-|Mercedes-Benz|SLR McLaren '09|509,900|
-|Mitsubishi|Lancer Evolution III GSR '95|84,600|
-|Nissan|R33 GT-R V-spec '97|160,500|
-|TVR|Tuscan Speed 6 '00|73,200|
+|Subaru|Impreza Sedan WRX STi '04|41,100|
+|Volkswagen|Golf I GTI '83|43,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Corvette Stingray (C3) '69|62,000|
 |Ferrari|430 Scuderia '07|363,800|
-|Fiat|500 1.2 8V Lounge SS '08|12,700|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
+|MINI|Mini-Cooper 'S' '65|43,600|
 |Toyota|Sports 800 '65|45,900|
 
 ### Available
@@ -78,16 +79,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 '03|67,800|
 |BMW|M3 '07|72,500|
 |BMW|M3 '89|73,100|
-|Chevrolet|Corvette Stingray (C3) '69|62,000|
+|BMW|M3 Sport Evolution '89|162,800|
 |Daihatsu|Copen '02|16,100|
 |Dodge|Viper GTS '02|104,900|
 |Ferrari|F430 '06|202,200|
 |Ford|Sierra RS 500 Cosworth '87|183,500|
-|MINI|Mini-Cooper 'S' '65|43,600|
+|Honda|Civic Type R (EK) '98|53,500|
+|Mercedes-Benz|SLR McLaren '09|509,900|
+|Mitsubishi|Lancer Evolution III GSR '95|84,600|
 |Nissan|GT-R NISMO (R32) '90|387,200|
+|Nissan|R33 GT-R V-spec '97|160,500|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,800|
 |Pontiac|Firebird Trans Am '78|84,500|
 |Porsche|911 Carrera RS (964) '92|225,000|
 |Subaru|Impreza 22B-STi '98|164,100|
 |Suzuki|Swift Sport '07|12,100|
+|TVR|Tuscan Speed 6 '00|73,200|
 |Volkswagen|Scirocco R '10|38,600|
