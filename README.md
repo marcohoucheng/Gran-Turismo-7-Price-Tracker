@@ -27,27 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 28-February-2026
+# Gran Turismo 7 Shops for 01-March-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Toyota|2000GT '67|982,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Corvette (C1) '58|122,000|
 |Ford|Mustang Boss 429 '69|349,000|
-|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|210,000|
+|Jaguar|XJR-9 '88|3,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
-|Chevrolet|Corvette (C1) '58|122,000|
 |Ferrari|250 GTO '62|20,000,000|
 |Jaguar|XJ13 '66|12,000,000|
-|Jaguar|XJR-9 '88|3,000,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 
@@ -56,39 +59,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|RX-7 Spirit R Type A (FD) '02|219,900|
-|Nissan|Silvia K's Type S (S14) '94|43,200|
+|Honda|Integra Type R (DC2) '98|65,900|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|52,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|134,500|
-|BMW|M3 '07|72,500|
+|BMW|M3 '03|67,800|
 |BMW|M3 '89|73,100|
-|Daihatsu|Copen '02|16,100|
-|Dodge|Viper GTS '02|104,900|
-|Ferrari|F430 '06|202,200|
-|Nissan|SILVIA spec-R Aero (S15) '02|59,800|
-|Porsche|911 Carrera RS (964) '92|225,000|
+|Nissan|GT-R NISMO (R32) '90|387,200|
+|Pontiac|Firebird Trans Am '78|84,500|
+|Subaru|Impreza 22B-STi '98|164,100|
+|Suzuki|Swift Sport '07|12,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Autobianchi|A112 Abarth '85|32,000|
-|BMW|M3 '03|67,800|
 |BMW|M3 Sport Evolution '89|162,800|
 |Ford|Sierra RS 500 Cosworth '87|183,500|
 |Honda|Civic Type R (EK) '98|53,500|
 |Honda|S2000 '99|98,700|
+|Mazda|RX-7 Spirit R Type A (FD) '02|219,900|
 |Mercedes-Benz|SLR McLaren '09|509,900|
 |Mitsubishi|Lancer Evolution III GSR '95|84,600|
-|Nissan|GT-R NISMO (R32) '90|387,200|
 |Nissan|R33 GT-R V-spec '97|160,500|
-|Pontiac|Firebird Trans Am '78|84,500|
-|Subaru|Impreza 22B-STi '98|164,100|
+|Nissan|Silvia K's Type S (S14) '94|43,200|
 |Subaru|Impreza Sedan WRX STi '04|41,100|
 |Suzuki|Cappuccino (EA11R) '91|16,900|
-|Suzuki|Swift Sport '07|12,100|
 |TVR|Tuscan Speed 6 '00|73,200|
 |Volkswagen|Golf I GTI '83|43,200|
 |Volkswagen|Scirocco R '10|38,600|
