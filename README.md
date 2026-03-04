@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 03-March-2026
+# Gran Turismo 7 Shops for 04-March-2026
 
 
 
@@ -36,21 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F40 '92|3,200,000|
+|Renault|R8 Gordini '66|32,500|
+|Toyota|Land Cruiser FJ40V '74|44,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Jaguar|XJ13 '66|12,000,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|300 SEL 6.8 AMG '71|700,000|
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Ferrari|250 GTO '62|20,000,000|
+|Ferrari|F40 '92|3,200,000|
 |Pontiac|GTO 'The Judge' '69|209,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|2000GT '67|982,000|
 
 
@@ -59,18 +61,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Mustang Mach 1 '71|44,500|
-|Peugeot|205 GTI '88|50,700|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|165,200|
+|Lamborghini|Countach 25th Anniversary '88|690,200|
+|Mazda|RX-7 GT-X (FC) '90|52,900|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
+|Volkswagen|Volkswagen 1200 '66|34,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Autobianchi|A112 Abarth '85|32,000|
-|BMW|M3 Sport Evolution '89|162,800|
-|Ford|Sierra RS 500 Cosworth '87|183,500|
+|Honda|Civic Type R (EK) '98|53,500|
+|Mercedes-Benz|SLR McLaren '09|509,900|
 |Mitsubishi|Lancer Evolution III GSR '95|84,600|
-|Nissan|R33 GT-R V-spec '97|160,500|
-|TVR|Tuscan Speed 6 '00|73,200|
 |Volkswagen|Golf I GTI '83|43,200|
 |Volkswagen|Scirocco R '10|38,600|
 
@@ -79,14 +82,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|286,800|
 |BMW|Z4 3.0i '03|45,500|
-|Honda|Civic Type R (EK) '98|53,500|
+|Ford|Mustang Mach 1 '71|44,500|
 |Honda|Integra Type R (DC2) '98|65,900|
 |Honda|S2000 '99|98,700|
 |Lancia|Delta HF Integrale Evoluzione '91|98,500|
 |Mazda|RX-7 Spirit R Type A (FD) '02|219,900|
-|Mercedes-Benz|SLR McLaren '09|509,900|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|97,400|
 |Nissan|Silvia K's Type S (S14) '94|43,200|
+|Peugeot|205 GTI '88|50,700|
 |Porsche|911 Carrera RS (993) '95|214,800|
 |RUF|CTR3 '07|783,800|
 |Subaru|Impreza Sedan WRX STi '04|41,100|
