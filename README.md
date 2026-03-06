@@ -27,18 +27,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 05-March-2026
+# Gran Turismo 7 Shops for 06-March-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ford|Mark IV Race Car '67|6,750,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Ferrari|250 GTO '62|20,000,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -56,23 +59,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|SLS AMG '10|308,300|
-|Porsche|911 Carrera RS CS (993) '95|441,300|
-|Porsche|911 Turbo (930) '81|213,700|
-|Toyota|Supra 3.0GT Turbo A '88|115,200|
+|Ferrari|Dino 246 GT '71|343,200|
+|Mitsubishi|Lancer Evolution V GSR '98|74,700|
+|Nissan|Fairlady 240ZG (HS30) '71|103,100|
+|Renault|Avantime 3.0 V6 24V '02|44,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Type R (EK) '98|53,500|
 |Honda|S2000 '99|98,700|
 |Mazda|RX-7 Spirit R Type A (FD) '02|219,900|
-|Mercedes-Benz|SLR McLaren '09|509,900|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|97,400|
+|Nissan|Silvia K's Type S (S14) '94|43,200|
 |Subaru|Impreza Sedan WRX STi '04|41,100|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|52,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|SLS AMG '10|308,300|
 |Alfa Romeo|8C Competizione '08|286,800|
 |Alfa Romeo|Giulia Sprint GT Veloce '67|165,200|
 |BMW|Z4 3.0i '03|45,500|
@@ -81,12 +86,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Lamborghini|Countach 25th Anniversary '88|690,200|
 |Lancia|Delta HF Integrale Evoluzione '91|98,500|
 |Mazda|RX-7 GT-X (FC) '90|52,900|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|97,400|
-|Nissan|Silvia K's Type S (S14) '94|43,200|
 |Peugeot|205 GTI '88|50,700|
 |Porsche|911 Carrera RS (993) '95|214,800|
+|Porsche|911 Carrera RS CS (993) '95|441,300|
+|Porsche|911 Turbo (930) '81|213,700|
 |RUF|CTR3 '07|783,800|
 |Suzuki|Cappuccino (EA11R) '91|16,900|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|52,100|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
+|Toyota|Supra 3.0GT Turbo A '88|115,200|
 |Volkswagen|Volkswagen 1200 '66|34,000|
