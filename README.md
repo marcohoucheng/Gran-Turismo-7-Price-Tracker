@@ -27,29 +27,34 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-March-2026
+# Gran Turismo 7 Shops for 10-March-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Jaguar|E-type Coupe '61|172,000|
+|McLaren|McLaren F1 '94|20,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
+|Ferrari|F40 '92|3,200,000|
+|Pontiac|GTO 'The Judge' '69|209,000|
 |Renault|R8 Gordini '66|32,500|
+|Toyota|2000GT '67|982,000|
+|Toyota|Land Cruiser FJ40V '74|44,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Stingray Racer Concept '59|7,000,000|
 |Dodge|Challenger R/T '70|179,000|
-|Ferrari|F40 '92|3,200,000|
 |Ford|Mark IV Race Car '67|6,750,000|
 |Nissan|R92CP '92|2,000,000|
-|Pontiac|GTO 'The Judge' '69|209,000|
-|Toyota|2000GT '67|982,000|
-|Toyota|Land Cruiser FJ40V '74|44,100|
 
 
 ## Used shop
@@ -57,16 +62,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Fiat|500 F '68|16,500|
-|Honda|Civic SiR-II (EG) '93|50,200|
-|Lamborghini|Diablo GT '00|837,800|
+|Abarth|Abarth 595 SS '70|50,200|
+|Ferrari|Testarossa '91|393,600|
+|Fiat|Panda 30 CL '85|11,800|
+|MINI|Mini-Cooper 'S' '65|50,000|
+|Mitsubishi|GTO Twin Turbo '91|49,300|
+|Nissan|Silvia K's Aero (S14) '96|58,600|
+|TVR|Tuscan Speed 6 '00|95,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|286,800|
-|Alfa Romeo|Giulia Sprint GT Veloce '67|165,200|
-|RUF|CTR3 '07|783,800|
+|Lamborghini|Countach 25th Anniversary '88|690,200|
+|Peugeot|205 GTI '88|50,700|
+|Renault|Avantime 3.0 V6 24V '02|44,900|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -75,17 +84,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 '97|72,200|
 |Chevrolet|Corvette Z06 (C5) '01|48,700|
 |Ferrari|Dino 246 GT '71|343,200|
+|Fiat|500 F '68|16,500|
 |Ford|Mustang Mach 1 '71|44,500|
+|Honda|Civic SiR-II (EG) '93|50,200|
 |Honda|Civic Type R (EK) Touring Car|115,800|
-|Lamborghini|Countach 25th Anniversary '88|690,200|
+|Lamborghini|Diablo GT '00|837,800|
 |Mazda|RX-7 GT-X (FC) '90|52,900|
+|Mitsubishi|FTO GP Version R '97|35,000|
 |Mitsubishi|Lancer Evolution V GSR '98|74,700|
 |Nissan|Fairlady 240ZG (HS30) '71|103,100|
 |Nissan|Silvia K's Dia Selection (S13) '90|52,800|
-|Peugeot|205 GTI '88|50,700|
 |Porsche|911 Carrera RS CS (993) '95|441,300|
 |Porsche|911 Turbo (930) '81|213,700|
-|Renault|Avantime 3.0 V6 24V '02|44,900|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
 |Toyota|Supra 3.0GT Turbo A '88|115,200|
