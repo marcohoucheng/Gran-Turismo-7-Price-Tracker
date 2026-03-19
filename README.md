@@ -27,32 +27,28 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-March-2026
+# Gran Turismo 7 Shops for 19-March-2026
 
 
 
 ## Legend shop
-
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ford|GT40 Mark I '66|6,700,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|GTO '84|3,500,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
+|Mercedes-Benz|Unimog Type 411 '62|46,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,850,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|150,000|
+|Ford|GT40 Mark I '66|6,700,000|
 |Mazda|787B '91|3,300,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
-|Mercedes-Benz|Unimog Type 411 '62|46,000|
 |Plymouth|Superbird '70|450,000|
 |Pontiac|GTO 'The Judge' '69|196,000|
 |Porsche|356 A/1500 GS GT Carrera Speedster '56|1,400,000|
@@ -63,42 +59,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Convertible (C3) '69|47,000|
-|Chevrolet|Corvette ZR1 (C6) '09|107,700|
-|Lancia|Stratos '73|539,800|
-|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
-|Toyota|Prius G '09|21,500|
+|Audi|R8 4.2 '07|143,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|50,200|
 |Alfa Romeo|MiTo '09|22,700|
+|BMW|3.0 CSL '71|148,100|
 |BMW|3.0 CSL '73|203,800|
-|Ferrari|Dino 246 GT '71|343,200|
-|Fiat|500 F '68|16,500|
-|Fiat|Panda 30 CL '85|11,800|
-|Honda|Civic Type R (EK) Touring Car|115,800|
-|Maserati|GranTurismo S '08|138,000|
-|Nissan|Fairlady 240ZG (HS30) '71|103,100|
+|Ferrari|Testarossa '91|393,600|
 |Nissan|R34 GT-R V-spec II Nur '02|394,400|
-|Nissan|Silvia K's Dia Selection (S13) '90|52,800|
+|Nissan|Silvia K's Aero (S14) '96|58,600|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '71|148,100|
 |BMW|Z8 '01|265,800|
+|Chevrolet|Corvette Convertible (C3) '69|47,000|
 |Chevrolet|Corvette ZR-1 (C4) '89|88,100|
+|Chevrolet|Corvette ZR1 (C6) '09|107,700|
 |Dodge|Super Bee '70|80,000|
 |Dodge|Super Bee '70|61,100|
 |Dodge|Viper SRT10 Coupe '06|112,300|
-|Ferrari|Testarossa '91|393,600|
+|Lancia|Stratos '73|539,800|
 |Mazda|efini RX-7 Type R (FD) '91|80,000|
 |McLaren|MP4-12C '10|184,200|
 |Mitsubishi|GTO Twin Turbo '91|49,300|
+|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 |Nissan|R32 GT-R V-spec II '94|173,400|
-|Nissan|Silvia K's Aero (S14) '96|58,600|
 |Nissan|Skyline GTS-R (R31) '87|169,000|
 |Renault|Kangoo 1.4 '01|13,200|
+|Toyota|Prius G '09|21,500|
