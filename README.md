@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 26-March-2026
+# Gran Turismo 7 Shops for 27-March-2026
 
 
 
@@ -36,17 +36,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Citroen|DS 21 Pallas '70|44,600|
+|Audi|Sport quattro S1 Pikes Peak '87|1,700,000|
+|Shelby|Cobra 427 '66|2,700,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A220 Race Car '68|330,000|
+|Ferrari|330 P4 '67|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|330 P4 '67|20,000,000|
+|Citroen|DS 21 Pallas '70|44,600|
 |Jeep|Willys MB '45|33,500|
 |NISMO|400R '95|1,300,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
@@ -59,32 +61,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|DMC|DeLorean S2 '04|462,300|
+|Ferrari|308 GTB '75|178,300|
+|Lamborghini|Murcielago LP 640 '09|320,700|
+|Mazda|Eunos Roadster (NA) '89|31,200|
+|Nissan|180SX Type X '96|49,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|R8 4.2 '07|143,500|
-|Chevrolet|Corvette ZR1 (C6) '09|107,700|
 |Citroen|BX 19 TRS '87|25,700|
-|Dodge|Viper SRT10 Coupe '06|112,300|
 |Ferrari|458 Italia '09|252,200|
+|Honda|Civic Si Extra (EF) '87|53,100|
 |Honda|NSX Type R '92|399,200|
-|Lamborghini|Gallardo LP 560-4 '08|249,000|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
-|Nissan|Silvia Q's (S13) '88|31,900|
-|Toyota|Prius G '09|21,500|
-|Volkswagen|Sambabus Typ 2 '62|55,600|
+|Honda|S800 '66|46,200|
+|Lancia|Stratos '73|539,800|
+|Renault|R5 Turbo '80|154,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|TT Coupe 3.2 quattro '03|49,800|
+|DMC|DeLorean S2 '04|462,300|
 |Ford|Escort RS Cosworth '92|128,900|
 |Honda|Beat '91|15,900|
-|Honda|Civic Si Extra (EF) '87|53,100|
-|Honda|S800 '66|46,200|
-|Lancia|Stratos '73|539,800|
 |Mazda|efini RX-7 Type R (FD) '91|80,000|
 |Mitsubishi|FTO GP Version R '97|26,200|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|60,300|
@@ -92,5 +92,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Porsche|911 GT3 (996) '01|154,800|
 |Porsche|911 GT3 (997) '09|138,900|
 |Renault|R4 GTL '85|26,300|
-|Renault|R5 Turbo '80|154,500|
 |Toyota|Celica GT-Four (ST205) '94|65,500|
