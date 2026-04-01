@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 31-March-2026
+# Gran Turismo 7 Shops for 01-April-2026
 
 
 
@@ -36,19 +36,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Camaro Z28 '69|101,000|
-|De Tomaso|Mangusta '69|310,000|
+|Porsche|Spyder type 550/1500RS '55|4,950,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Citroen|DS 21 Pallas '70|44,600|
 |Jeep|Willys MB '45|33,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Audi|Sport quattro S1 Pikes Peak '87|1,700,000|
-|Citroen|DS 21 Pallas '70|44,600|
+|Chevrolet|Camaro Z28 '69|101,000|
+|De Tomaso|Mangusta '69|310,000|
 |Honda|RA272 '65|2,500,000|
 |Mercedes-Benz|190 E 2.5-16 Evolution II '91|250,000|
 |Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
@@ -60,38 +61,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|134,500|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
-|Renault|Clio V6 24V '00|73,600|
+|Daihatsu|Copen '02|16,100|
+|Ferrari|430 Scuderia '07|363,800|
+|Toyota|Supra RZ '97|179,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mitsubishi|FTO GP Version R '97|26,200|
+|DMC|DeLorean S2 '04|462,300|
+|Ferrari|308 GTB '75|178,300|
+|Lamborghini|Murcielago LP 640 '09|320,700|
+|Mazda|Eunos Roadster (NA) '89|31,200|
 |Porsche|911 GT3 (997) '09|138,900|
-|Toyota|Celica GT-Four (ST205) '94|65,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|26,400|
+|Alpine|A110 '72|134,500|
 |Audi|TT Coupe 3.2 quattro '03|49,800|
 |Audi|TTS Coupe '09|63,100|
-|DMC|DeLorean S2 '04|462,300|
 |De Tomaso|Pantera '71|173,100|
-|Ferrari|308 GTB '75|178,300|
 |Ferrari|512 BB '76|286,400|
 |Fiat|500 1.2 8V Lounge SS '08|12,700|
 |Ford|Ford GT '06|412,900|
 |Honda|Civic Type R (EK) '97|47,000|
 |Honda|NSX Type R '02|444,300|
-|Lamborghini|Murcielago LP 640 '09|320,700|
 |MINI|MINI Cooper S '05|22,900|
 |MINI|Mini-Cooper 'S' '65|43,600|
-|Mazda|Eunos Roadster (NA) '89|31,200|
 |Nissan|180SX Type X '96|49,700|
 |Nissan|Fairlady Z (Z34) '08|35,400|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
 |Nissan|Fairlady Z Version S (Z33) '07|27,300|
+|Renault|Clio V6 24V '00|73,600|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,200|
 |Toyota|Sports 800 '65|45,900|
 |Volvo|240 SE Estate '93|46,600|
