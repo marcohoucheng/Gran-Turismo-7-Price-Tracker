@@ -27,22 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 08-April-2026
+# Gran Turismo 7 Shops for 09-April-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Nissan|Fairlady Z 432 '69|312,000|
-|Nissan|GT-R GT500 '99|1,600,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|250,000|
+|Porsche|Spyder type 550/1500RS '55|4,950,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -53,7 +47,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |McLaren|McLaren F1 GTR - BMW '95|17,500,000|
 |Mercedes-Benz|300 SL Coupe '54|1,650,000|
 |Mercedes-Benz|S Barker Tourer '29|13,000,000|
-|Porsche|Spyder type 550/1500RS '55|4,950,000|
+|Nissan|Fairlady Z 432 '69|312,000|
+|Nissan|GT-R GT500 '99|1,600,000|
 
 
 ## Used shop
@@ -61,17 +56,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|GT-R NISMO (R32) '90|387,200|
+|Nissan|Silvia K's Type S (S14) '94|43,200|
+|Suzuki|Cappuccino (EA11R) '91|16,900|
+|TVR|Tuscan Speed 6 '00|73,200|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|52,100|
+|Volkswagen|Scirocco R '10|38,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|134,500|
-|Audi|TTS Coupe '09|63,100|
-|Daihatsu|Copen '02|16,100|
 |Ferrari|430 Scuderia '07|363,800|
-|Honda|Integra Type R (DC2) '95|56,400|
-|Honda|NSX Type R '02|444,300|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
 |Renault|Clio V6 24V '00|73,600|
 |Toyota|MR2 GT-S '97|54,900|
 
@@ -87,7 +83,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|F430 '06|202,200|
 |Ford|Sierra RS 500 Cosworth '87|183,500|
 |Honda|Civic Type R (EK) '98|53,500|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
+|Nissan|GT-R NISMO (R32) '90|387,200|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,800|
 |Pontiac|Firebird Trans Am '78|84,500|
 |Porsche|911 Carrera RS (964) '92|225,000|
