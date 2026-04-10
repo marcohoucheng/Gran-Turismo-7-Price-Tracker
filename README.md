@@ -27,15 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-April-2026
+# Gran Turismo 7 Shops for 10-April-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Honda|NSX GT500 '00|1,650,000|
+|McLaren|McLaren F1 GTR - BMW '95|17,500,000|
+|Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |Porsche|Spyder type 550/1500RS '55|4,950,000|
 
 ### Available
@@ -43,10 +51,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Dodge|Charger R/T 426 Hemi '68|134,000|
 |Ferrari|250 GT Berlinetta passo corto '61|6,600,000|
-|Honda|NSX GT500 '00|1,650,000|
-|McLaren|McLaren F1 GTR - BMW '95|17,500,000|
 |Mercedes-Benz|300 SL Coupe '54|1,650,000|
-|Mercedes-Benz|S Barker Tourer '29|13,000,000|
 |Nissan|Fairlady Z 432 '69|312,000|
 |Nissan|GT-R GT500 '99|1,600,000|
 
@@ -56,20 +61,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Silvia K's Type S (S14) '94|43,200|
-|Suzuki|Cappuccino (EA11R) '91|16,900|
-|TVR|Tuscan Speed 6 '00|73,200|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|52,100|
-|Volkswagen|Scirocco R '10|38,600|
+|BMW|M3 Sport Evolution '89|162,800|
+|Lancia|Delta HF Integrale Evoluzione '91|98,500|
+|Mercedes-Benz|SLR McLaren '09|509,900|
+|Nissan|R33 GT-R V-spec '97|160,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|134,500|
-|Ferrari|430 Scuderia '07|363,800|
+|Chevrolet|Corvette Stingray (C3) '69|62,000|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
-|Renault|Clio V6 24V '00|73,600|
-|Toyota|MR2 GT-S '97|54,900|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -78,15 +79,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 '03|67,800|
 |BMW|M3 '07|72,500|
 |BMW|M3 '89|73,100|
-|Chevrolet|Corvette Stingray (C3) '69|62,000|
 |Dodge|Viper GTS '02|104,900|
 |Ferrari|F430 '06|202,200|
 |Ford|Sierra RS 500 Cosworth '87|183,500|
 |Honda|Civic Type R (EK) '98|53,500|
 |Nissan|GT-R NISMO (R32) '90|387,200|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,800|
+|Nissan|Silvia K's Type S (S14) '94|43,200|
 |Pontiac|Firebird Trans Am '78|84,500|
 |Porsche|911 Carrera RS (964) '92|225,000|
 |Subaru|Impreza 22B-STi '98|164,100|
+|Suzuki|Cappuccino (EA11R) '91|16,900|
 |Suzuki|Swift Sport '07|12,100|
+|TVR|Tuscan Speed 6 '00|73,200|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|52,100|
 |Volkswagen|Golf I GTI '83|43,200|
+|Volkswagen|Scirocco R '10|38,600|
