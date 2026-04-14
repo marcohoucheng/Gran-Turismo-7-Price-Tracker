@@ -27,32 +27,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 13-April-2026
+# Gran Turismo 7 Shops for 14-April-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Jaguar|D-type '54|5,300,000|
-|Jaguar|XJ13 '66|12,000,000|
-|Lamborghini|Countach LP400 '74|1,250,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|134,000|
-|Mercedes-Benz|300 SL Coupe '54|1,650,000|
 |Nissan|Fairlady Z 432 '69|312,000|
+|Nissan|GT-R GT500 '99|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB5 '64|883,000|
 |Ferrari|250 GT Berlinetta passo corto '61|6,600,000|
-|Nissan|GT-R GT500 '99|1,600,000|
+|Jaguar|D-type '54|5,300,000|
+|Jaguar|XJ13 '66|12,000,000|
+|Lamborghini|Countach LP400 '74|1,250,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 
@@ -61,38 +55,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Integra Type R (DC2) '98|65,900|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|165,200|
+|BMW|Z4 3.0i '03|45,500|
+|Volkswagen|Volkswagen 1200 '66|34,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Autobianchi|A112 Abarth '85|32,000|
-|BMW|M3 '07|72,500|
-|BMW|M3 '89|73,100|
-|Dodge|Viper GTS '02|104,900|
-|Ferrari|F430 '06|202,200|
+|BMW|M3 '03|67,800|
 |Ford|Sierra RS 500 Cosworth '87|183,500|
-|Porsche|911 Carrera RS (964) '92|225,000|
+|Honda|Civic Type R (EK) '98|53,500|
+|Nissan|GT-R NISMO (R32) '90|387,200|
 |Subaru|Impreza 22B-STi '98|164,100|
-|Volkswagen|Golf I GTI '83|43,200|
+|TVR|Tuscan Speed 6 '00|73,200|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|52,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|67,800|
 |BMW|M3 Sport Evolution '89|162,800|
-|Honda|Civic Type R (EK) '98|53,500|
+|Honda|Integra Type R (DC2) '98|65,900|
 |Honda|S2000 '99|98,700|
 |Lancia|Delta HF Integrale Evoluzione '91|98,500|
 |Mazda|RX-7 Spirit R Type A (FD) '02|219,900|
 |Mercedes-Benz|SLR McLaren '09|509,900|
 |Mitsubishi|Lancer Evolution III GSR '95|84,600|
-|Nissan|GT-R NISMO (R32) '90|387,200|
 |Nissan|R33 GT-R V-spec '97|160,500|
 |Nissan|Silvia K's Type S (S14) '94|43,200|
 |Peugeot|205 GTI '88|50,700|
 |Subaru|Impreza Sedan WRX STi '04|41,100|
 |Suzuki|Cappuccino (EA11R) '91|16,900|
-|TVR|Tuscan Speed 6 '00|73,200|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|52,100|
 |Volkswagen|Scirocco R '10|38,600|
