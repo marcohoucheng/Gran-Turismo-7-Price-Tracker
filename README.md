@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 16-April-2026
+# Gran Turismo 7 Shops for 17-April-2026
 
 
 
@@ -36,12 +36,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lancia|Lancia Delta HF Integrale Rally Car '92|350,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ferrari|250 GT Berlinetta passo corto '61|6,600,000|
+|McLaren|MP4/4 '88|12,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -50,6 +45,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Jaguar|D-type '54|5,300,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
+|Lancia|Lancia Delta HF Integrale Rally Car '92|350,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Shelby|Cobra Daytona Coupe '64|20,000,000|
 |Toyota|GT-One (TS020) '99|2,500,000|
@@ -60,18 +56,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|RX-7 GT-X (FC) '90|52,900|
-|Renault|Avantime 3.0 V6 24V '02|44,900|
-|Toyota|Supra 3.0GT Turbo A '88|115,200|
+|AMG|SLS AMG '10|308,300|
+|Honda|Civic SiR-II (EG) '93|50,200|
+|Lamborghini|Countach 25th Anniversary '88|690,200|
+|Nissan|Silvia K's Dia Selection (S13) '90|52,800|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 Sport Evolution '89|162,800|
-|Lancia|Delta HF Integrale Evoluzione '91|98,500|
 |Mazda|RX-7 Spirit R Type A (FD) '02|219,900|
-|Nissan|R33 GT-R V-spec '97|160,500|
-|Nissan|Silvia K's Type S (S14) '94|43,200|
+|Mercedes-Benz|SLR McLaren '09|509,900|
+|Mitsubishi|Lancer Evolution III GSR '95|84,600|
+|Suzuki|Cappuccino (EA11R) '91|16,900|
 |Volkswagen|Scirocco R '10|38,600|
 
 ### Available
@@ -83,13 +80,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Mustang Mach 1 '71|44,500|
 |Honda|Integra Type R (DC2) '98|65,900|
 |Honda|S2000 '99|98,700|
-|Mercedes-Benz|SLR McLaren '09|509,900|
-|Mitsubishi|Lancer Evolution III GSR '95|84,600|
+|Mazda|RX-7 GT-X (FC) '90|52,900|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|97,400|
 |Nissan|Fairlady 240ZG (HS30) '71|103,100|
 |Peugeot|205 GTI '88|50,700|
 |Porsche|911 Carrera RS (993) '95|214,800|
 |RUF|CTR3 '07|783,800|
+|Renault|Avantime 3.0 V6 24V '02|44,900|
 |Subaru|Impreza Sedan WRX STi '04|41,100|
-|Suzuki|Cappuccino (EA11R) '91|16,900|
+|Toyota|Supra 3.0GT Turbo A '88|115,200|
 |Volkswagen|Volkswagen 1200 '66|34,000|
