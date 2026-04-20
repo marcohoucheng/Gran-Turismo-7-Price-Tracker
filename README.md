@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 19-April-2026
+# Gran Turismo 7 Shops for 20-April-2026
 
 
 
@@ -36,14 +36,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB5 '64|883,000|
+|Jaguar|D-type '54|5,300,000|
 |Jaguar|XJ13 '66|12,000,000|
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|D-type '54|5,300,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|350,000|
 |McLaren|MP4/4 '88|12,000,000|
@@ -57,19 +55,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Type R (EK) Touring Car|115,800|
-|Mitsubishi|Lancer Evolution V GSR '98|74,700|
+|Abarth|Abarth 595 SS '70|50,200|
+|Chevrolet|Corvette Z06 (C5) '01|48,700|
+|Ferrari|Dino 246 GT '71|343,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|165,200|
 |BMW|Z4 3.0i '03|45,500|
 |Honda|Integra Type R (DC2) '98|65,900|
-|Honda|S2000 '99|98,700|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|97,400|
-|Peugeot|205 GTI '88|50,700|
-|Subaru|Impreza Sedan WRX STi '04|41,100|
+|Porsche|911 Carrera RS (993) '95|214,800|
+|Renault|Avantime 3.0 V6 24V '02|44,900|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -80,15 +77,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Fiat|Panda 30 CL '85|11,800|
 |Ford|Mustang Mach 1 '71|44,500|
 |Honda|Civic SiR-II (EG) '93|50,200|
+|Honda|Civic Type R (EK) Touring Car|115,800|
 |Lamborghini|Countach 25th Anniversary '88|690,200|
 |Mazda|RX-7 GT-X (FC) '90|52,900|
+|Mitsubishi|Lancer Evolution V GSR '98|74,700|
 |Nissan|Fairlady 240ZG (HS30) '71|103,100|
 |Nissan|Silvia K's Dia Selection (S13) '90|52,800|
-|Porsche|911 Carrera RS (993) '95|214,800|
 |Porsche|911 Carrera RS CS (993) '95|441,300|
 |Porsche|911 Turbo (930) '81|213,700|
 |RUF|CTR3 '07|783,800|
-|Renault|Avantime 3.0 V6 24V '02|44,900|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
 |Toyota|Supra 3.0GT Turbo A '88|115,200|
 |Volkswagen|Volkswagen 1200 '66|34,000|
