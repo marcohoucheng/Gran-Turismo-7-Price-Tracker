@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-April-2026
+# Gran Turismo 7 Shops for 22-April-2026
 
 
 
@@ -36,25 +36,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|F50 '95|4,700,000|
-|Mercedes-Benz|W 196 R '55|20,000,000|
-|Shelby|Cobra 427 '66|2,700,000|
-|Toyota|Supra GT500 '97|1,600,000|
+|Mazda|RX500 '70|600,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|D-type '54|5,300,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
 |Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|F50 '95|4,700,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|350,000|
 |McLaren|MP4/4 '88|12,000,000|
+|Mercedes-Benz|W 196 R '55|20,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Porsche|Carrera GTS (904) '64|2,250,000|
+|Shelby|Cobra 427 '66|2,700,000|
+|Toyota|Supra GT500 '97|1,600,000|
 
 
 ## Used shop
@@ -62,26 +62,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|MiTo '09|22,700|
-|BMW|3.0 CSL '71|148,100|
-|BMW|M3 '97|72,200|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
-|TVR|Tuscan Speed 6 '00|95,000|
-|Toyota|Supra RZ '97|220,000|
+|Lamborghini|Diablo GT '00|837,800|
+|Mitsubishi|GTO Twin Turbo '91|49,300|
+|Nissan|Silvia K's Aero (S14) '96|58,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|8C Competizione '08|286,800|
-|Porsche|911 Carrera RS (993) '95|214,800|
 |RUF|CTR3 '07|783,800|
-|Renault|Avantime 3.0 V6 24V '02|44,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|308,300|
 |Abarth|Abarth 595 SS '70|50,200|
+|Alfa Romeo|MiTo '09|22,700|
+|BMW|3.0 CSL '71|148,100|
+|BMW|M3 '97|72,200|
 |Chevrolet|Corvette Z06 (C5) '01|48,700|
 |Ferrari|Dino 246 GT '71|343,200|
 |Fiat|500 F '68|16,500|
@@ -96,6 +94,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Silvia K's Dia Selection (S13) '90|52,800|
 |Porsche|911 Carrera RS CS (993) '95|441,300|
 |Porsche|911 Turbo (930) '81|213,700|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
+|TVR|Tuscan Speed 6 '00|95,000|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
 |Toyota|Supra 3.0GT Turbo A '88|115,200|
+|Toyota|Supra RZ '97|220,000|
 |Volkswagen|Volkswagen 1200 '66|34,000|
