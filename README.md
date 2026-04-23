@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 22-April-2026
+# Gran Turismo 7 Shops for 23-April-2026
 
 
 
@@ -36,22 +36,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|RX500 '70|600,000|
+|Maserati|A6GCS/53 Spyder '54|2,800,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Countach LP400 '74|1,250,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
+|Lancia|Lancia Delta HF Integrale Rally Car '92|350,000|
+|McLaren|MP4/4 '88|12,000,000|
+|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Ferrari|F50 '95|4,700,000|
-|Lancia|Lancia Delta HF Integrale Rally Car '92|350,000|
-|McLaren|MP4/4 '88|12,000,000|
+|Mazda|RX500 '70|600,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
-|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 |Porsche|Carrera GTS (904) '64|2,250,000|
 |Shelby|Cobra 427 '66|2,700,000|
 |Toyota|Supra GT500 '97|1,600,000|
@@ -62,15 +61,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Diablo GT '00|837,800|
-|Mitsubishi|GTO Twin Turbo '91|49,300|
-|Nissan|Silvia K's Aero (S14) '96|58,600|
+|BMW|3.0 CSL '73|203,800|
+|Ferrari|Testarossa '91|393,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|286,800|
-|RUF|CTR3 '07|783,800|
+|Honda|Civic SiR-II (EG) '93|50,200|
+|Lamborghini|Countach 25th Anniversary '88|690,200|
+|Volkswagen|Volkswagen 1200 '66|34,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -85,12 +84,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Fiat|500 F '68|16,500|
 |Fiat|Panda 30 CL '85|11,800|
 |Ford|Mustang Mach 1 '71|44,500|
-|Honda|Civic SiR-II (EG) '93|50,200|
 |Honda|Civic Type R (EK) Touring Car|115,800|
-|Lamborghini|Countach 25th Anniversary '88|690,200|
+|Lamborghini|Diablo GT '00|837,800|
 |Mazda|RX-7 GT-X (FC) '90|52,900|
+|Mitsubishi|GTO Twin Turbo '91|49,300|
 |Mitsubishi|Lancer Evolution V GSR '98|74,700|
 |Nissan|Fairlady 240ZG (HS30) '71|103,100|
+|Nissan|Silvia K's Aero (S14) '96|58,600|
 |Nissan|Silvia K's Dia Selection (S13) '90|52,800|
 |Porsche|911 Carrera RS CS (993) '95|441,300|
 |Porsche|911 Turbo (930) '81|213,700|
@@ -99,4 +99,3 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
 |Toyota|Supra 3.0GT Turbo A '88|115,200|
 |Toyota|Supra RZ '97|220,000|
-|Volkswagen|Volkswagen 1200 '66|34,000|
