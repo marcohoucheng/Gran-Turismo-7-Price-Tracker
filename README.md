@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 27-April-2026
+# Gran Turismo 7 Shops for 28-April-2026
 
 
 
@@ -36,13 +36,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Renault|Espace F1 '95|2,000,000|
+|Ferrari|F50 '95|4,700,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Mazda|RX500 '70|600,000|
-|Toyota|Supra GT500 '97|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -57,6 +56,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Plymouth|XNR Ghia Roadster '60|3,000,000|
 |Pontiac|GTO 'The Judge' '69|196,000|
 |Porsche|911 Turbo S Leichtbau (964) '93|1,200,000|
+|Renault|Espace F1 '95|2,000,000|
 
 
 ## Used shop
@@ -64,37 +64,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z8 '01|269,600|
-|Citroen|BX 19 TRS '87|23,100|
-|Dodge|Super Bee '70|61,100|
-|Nissan|R32 GT-R V-spec II '94|173,400|
-|Nissan|Skyline GTS-R (R31) '87|169,000|
-|Renault|R5 Turbo '80|152,900|
+|Chevrolet|Corvette Convertible (C3) '69|48,900|
+|Chevrolet|Corvette ZR-1 (C4) '89|86,500|
+|Dodge|Viper SRT10 Coupe '06|114,400|
+|Honda|S800 '66|42,300|
+|Mazda|efini RX-7 Type R (FD) '91|69,600|
+|Mitsubishi|Lancer Evolution IV GSR '96|39,800|
+|Nissan|Silvia Q's (S13) '88|34,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|50,200|
 |Alfa Romeo|MiTo '09|22,700|
 |BMW|3.0 CSL '71|148,100|
-|BMW|M3 '97|72,200|
-|Chevrolet|Corvette Z06 (C5) '01|48,700|
-|Honda|Civic Type R (EK) Touring Car|115,800|
+|BMW|3.0 CSL '73|203,800|
 |Lamborghini|Diablo GT '00|837,800|
 |Mitsubishi|GTO Twin Turbo '91|49,300|
 |Nissan|Silvia K's Aero (S14) '96|58,600|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
-|BMW|3.0 CSL '73|203,800|
+|BMW|Z8 '01|269,600|
+|Citroen|BX 19 TRS '87|23,100|
+|Dodge|Super Bee '70|61,100|
 |Ferrari|Testarossa '91|393,600|
 |Maserati|GranTurismo S '08|138,200|
 |McLaren|MP4-12C '10|195,700|
+|Nissan|R32 GT-R V-spec II '94|173,400|
 |Nissan|R34 GT-R V-spec II Nur '02|398,700|
+|Nissan|Skyline GTS-R (R31) '87|169,000|
 |Renault|Kangoo 1.4 '01|14,100|
 |Renault|R4 GTL '85|30,000|
+|Renault|R5 Turbo '80|152,900|
 |Renault|Twingo '93|14,000|
 |Toyota|Prius G '09|20,700|
