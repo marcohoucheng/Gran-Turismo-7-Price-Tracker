@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 29-April-2026
+# Gran Turismo 7 Shops for 30-April-2026
 
 
 
@@ -36,7 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|959 '87|1,950,000|
+|Porsche|356 A/1500 GS Carrera '56|606,000|
+
+### Leaving Soon
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Jaguar|XJ220 '92|548,000|
+|Maserati|A6GCS/53 Spyder '54|2,800,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -46,12 +52,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Dodge|Charger R/T 426 Hemi '68|134,000|
 |Ferrari|F50 '95|4,700,000|
 |Ford|Mark IV Race Car '67|6,750,000|
-|Jaguar|XJ220 '92|548,000|
-|Maserati|A6GCS/53 Spyder '54|2,800,000|
 |Maserati|Merak SS '80|61,500|
 |Plymouth|XNR Ghia Roadster '60|3,000,000|
 |Pontiac|GTO 'The Judge' '69|196,000|
 |Porsche|911 Turbo S Leichtbau (964) '93|1,200,000|
+|Porsche|959 '87|1,950,000|
 |Renault|Espace F1 '95|2,000,000|
 
 
@@ -60,21 +65,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|147,100|
-|Lamborghini|Gallardo LP 560-4 '08|252,500|
-|Lancia|Stratos '73|524,500|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|179,900|
-|Volkswagen|Sambabus Typ 2 '62|55,300|
+|Ferrari|458 Italia '09|243,300|
+|Ford|Escort RS Cosworth '92|122,100|
+|Honda|Beat '91|17,100|
+|Nissan|Sileighty '98|81,900|
+|Renault|R4 GTL '85|29,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|203,800|
+|Maserati|GranTurismo S '08|138,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
+|Audi|R8 4.2 '07|147,100|
 |BMW|Z8 '01|269,600|
 |Chevrolet|Corvette Convertible (C3) '69|48,900|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,500|
@@ -83,10 +89,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Dodge|Viper SRT10 Coupe '06|114,400|
 |Ferrari|Testarossa '91|393,600|
 |Honda|S800 '66|42,300|
-|Maserati|GranTurismo S '08|138,200|
+|Lamborghini|Gallardo LP 560-4 '08|252,500|
+|Lancia|Stratos '73|524,500|
 |Mazda|efini RX-7 Type R (FD) '91|69,600|
 |McLaren|MP4-12C '10|195,700|
 |Mitsubishi|Lancer Evolution IV GSR '96|39,800|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|179,900|
 |Nissan|R32 GT-R V-spec II '94|173,400|
 |Nissan|R34 GT-R V-spec II Nur '02|398,700|
 |Nissan|Silvia Q's (S13) '88|34,900|
@@ -96,3 +104,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Renault|R5 Turbo '80|152,900|
 |Renault|Twingo '93|14,000|
 |Toyota|Prius G '09|20,700|
+|Volkswagen|Sambabus Typ 2 '62|55,300|
