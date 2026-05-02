@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 01-May-2026
+# Gran Turismo 7 Shops for 02-May-2026
 
 
 
@@ -36,20 +36,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|XJ220 '92|548,000|
-|Maserati|A6GCS/53 Spyder '54|2,800,000|
+|Chevrolet|Chevelle SS 454 Sport Coupé '70|150,000|
+|Dodge|Charger R/T 426 Hemi '68|134,000|
 |Maserati|Merak SS '80|61,500|
+|Plymouth|XNR Ghia Roadster '60|3,000,000|
+|Pontiac|GTO 'The Judge' '69|196,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|650,000|
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|150,000|
-|Dodge|Charger R/T 426 Hemi '68|134,000|
 |Ferrari|F50 '95|4,700,000|
 |Ford|Mark IV Race Car '67|6,750,000|
-|Plymouth|XNR Ghia Roadster '60|3,000,000|
-|Pontiac|GTO 'The Judge' '69|196,000|
 |Porsche|356 A/1500 GS Carrera '56|606,000|
 |Porsche|911 Turbo S Leichtbau (964) '93|1,200,000|
 |Porsche|959 '87|1,950,000|
@@ -58,22 +56,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Honda|Civic Si Extra (EF) '87|57,200|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
 |Ferrari|Testarossa '91|393,600|
-|Maserati|GranTurismo S '08|138,200|
 |Nissan|R34 GT-R V-spec II Nur '02|398,700|
+|Renault|R4 GTL '85|30,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
 |Audi|R8 4.2 '07|147,100|
 |BMW|Z8 '01|269,600|
 |Chevrolet|Corvette Convertible (C3) '69|48,900|
@@ -84,6 +77,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|458 Italia '09|243,300|
 |Ford|Escort RS Cosworth '92|122,100|
 |Honda|Beat '91|17,100|
+|Honda|Civic Si Extra (EF) '87|57,200|
 |Honda|S800 '66|42,300|
 |Lamborghini|Gallardo LP 560-4 '08|252,500|
 |Lancia|Stratos '73|524,500|
@@ -96,7 +90,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Silvia Q's (S13) '88|34,900|
 |Nissan|Skyline GTS-R (R31) '87|169,000|
 |Renault|Kangoo 1.4 '01|14,100|
-|Renault|R4 GTL '85|30,000|
 |Renault|R4 GTL '85|29,200|
 |Renault|R5 Turbo '80|152,900|
 |Renault|Twingo '93|14,000|
