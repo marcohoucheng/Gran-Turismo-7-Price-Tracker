@@ -27,15 +27,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 09-May-2026
+# Gran Turismo 7 Shops for 10-May-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ford|1932 Ford Roadster Hot Rod|300,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|911 Turbo S Leichtbau (964) '93|1,200,000|
 |Porsche|962 C '88|1,250,000|
 
@@ -48,7 +54,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|330 P4 '67|20,000,000|
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 |Jaguar|E-type Coupe '61|186,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
 |Porsche|917K '70|20,000,000|
 
 
@@ -57,20 +62,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|TTS Coupe '09|55,600|
-|De Tomaso|Pantera '71|170,400|
-|Ford|Ford GT '06|408,700|
-|Honda|NSX Type R '02|428,500|
-|MINI|MINI Cooper S '05|23,600|
-|MINI|Mini-Cooper 'S' '65|39,300|
+|Alpine|A110 '72|143,700|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Beat '91|17,100|
-|Honda|NSX Type R '92|388,500|
-|Lancia|Stratos '73|524,500|
-|Nissan|Sileighty '98|81,900|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|61,000|
 |Renault|Twingo '93|14,000|
 
 ### Available
@@ -78,14 +75,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|21,800|
 |Audi|TT Coupe 3.2 quattro '03|49,700|
+|Audi|TTS Coupe '09|55,600|
 |DMC|DeLorean S2 '04|468,100|
+|De Tomaso|Pantera '71|170,400|
 |Ferrari|308 GTB '75|166,500|
 |Fiat|500 1.2 8V Lounge SS '08|12,800|
+|Ford|Ford GT '06|408,700|
 |Honda|Civic Type R (EK) '97|58,100|
+|Honda|NSX Type R '02|428,500|
 |Lamborghini|Murcielago LP 640 '09|318,500|
+|MINI|MINI Cooper S '05|23,600|
+|MINI|Mini-Cooper 'S' '65|39,300|
 |Mazda|Eunos Roadster (NA) '89|27,900|
 |Mitsubishi|FTO GP Version R '97|30,100|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|61,000|
 |Nissan|180SX Type X '96|54,000|
 |Nissan|Fairlady Z (Z34) '08|38,900|
 |Nissan|Fairlady Z Version S (Z33) '07|30,300|
