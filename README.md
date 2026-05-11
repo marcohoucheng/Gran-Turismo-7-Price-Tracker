@@ -27,32 +27,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 10-May-2026
+# Gran Turismo 7 Shops for 11-May-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Ford|1932 Ford Roadster Hot Rod|300,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Corvette (C2) '63|248,000|
+|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 |Porsche|911 GT1 Strassenversion '97|10,000,000|
-|Porsche|911 Turbo S Leichtbau (964) '93|1,200,000|
-|Porsche|962 C '88|1,250,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chaparral|2J '70|2,500,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|150,000|
-|Chevrolet|Corvette (C2) '63|248,000|
 |Ferrari|330 P4 '67|20,000,000|
-|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
+|Ford|1932 Ford Roadster Hot Rod|300,000|
 |Jaguar|E-type Coupe '61|186,000|
 |Porsche|917K '70|20,000,000|
 
@@ -62,18 +56,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A110 '72|143,700|
+|Daihatsu|Copen '02|15,100|
+|Ferrari|512 BB '76|301,600|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|51,500|
+|Renault|Clio V6 24V '00|78,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Lamborghini|Murcielago LP 640 '09|318,500|
+|Mazda|Eunos Roadster (NA) '89|27,900|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|61,000|
-|Renault|Twingo '93|14,000|
+|Porsche|911 GT3 (996) '01|156,200|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|21,800|
+|Alpine|A110 '72|143,700|
 |Audi|TT Coupe 3.2 quattro '03|49,700|
 |Audi|TTS Coupe '09|55,600|
 |DMC|DeLorean S2 '04|468,100|
@@ -83,15 +83,12 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Ford GT '06|408,700|
 |Honda|Civic Type R (EK) '97|58,100|
 |Honda|NSX Type R '02|428,500|
-|Lamborghini|Murcielago LP 640 '09|318,500|
 |MINI|MINI Cooper S '05|23,600|
 |MINI|Mini-Cooper 'S' '65|39,300|
-|Mazda|Eunos Roadster (NA) '89|27,900|
 |Mitsubishi|FTO GP Version R '97|30,100|
 |Nissan|180SX Type X '96|54,000|
 |Nissan|Fairlady Z (Z34) '08|38,900|
 |Nissan|Fairlady Z Version S (Z33) '07|30,300|
-|Porsche|911 GT3 (996) '01|156,200|
 |Porsche|911 GT3 (997) '09|140,400|
 |Toyota|Celica GT-Four (ST205) '94|67,500|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
