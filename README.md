@@ -27,18 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 11-May-2026
+# Gran Turismo 7 Shops for 12-May-2026
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|McLaren|McLaren F1 '94|20,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette (C2) '63|248,000|
 |Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
-|Porsche|911 GT1 Strassenversion '97|10,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -53,44 +57,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 
 ## Used shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Daihatsu|Copen '02|15,100|
-|Ferrari|512 BB '76|301,600|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|51,500|
-|Renault|Clio V6 24V '00|78,400|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 500 '09|21,800|
+|Ferrari|308 GTB '75|166,500|
 |Lamborghini|Murcielago LP 640 '09|318,500|
 |Mazda|Eunos Roadster (NA) '89|27,900|
-|Mitsubishi|Lancer Evolution VIII MR GSR '04|61,000|
+|Mitsubishi|FTO GP Version R '97|30,100|
 |Porsche|911 GT3 (996) '01|156,200|
+|Porsche|911 GT3 (997) '09|140,400|
+|Volvo|240 SE Estate '93|43,900|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 500 '09|21,800|
 |Alpine|A110 '72|143,700|
 |Audi|TT Coupe 3.2 quattro '03|49,700|
 |Audi|TTS Coupe '09|55,600|
 |DMC|DeLorean S2 '04|468,100|
+|Daihatsu|Copen '02|15,100|
 |De Tomaso|Pantera '71|170,400|
-|Ferrari|308 GTB '75|166,500|
+|Ferrari|512 BB '76|301,600|
 |Fiat|500 1.2 8V Lounge SS '08|12,800|
 |Ford|Ford GT '06|408,700|
 |Honda|Civic Type R (EK) '97|58,100|
 |Honda|NSX Type R '02|428,500|
 |MINI|MINI Cooper S '05|23,600|
 |MINI|Mini-Cooper 'S' '65|39,300|
-|Mitsubishi|FTO GP Version R '97|30,100|
 |Nissan|180SX Type X '96|54,000|
 |Nissan|Fairlady Z (Z34) '08|38,900|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|51,500|
 |Nissan|Fairlady Z Version S (Z33) '07|30,300|
-|Porsche|911 GT3 (997) '09|140,400|
+|Renault|Clio V6 24V '00|78,400|
 |Toyota|Celica GT-Four (ST205) '94|67,500|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
 |Toyota|Sports 800 '65|47,700|
-|Volvo|240 SE Estate '93|43,900|
