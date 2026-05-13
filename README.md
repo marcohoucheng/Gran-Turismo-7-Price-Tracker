@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 12-May-2026
+# Gran Turismo 7 Shops for 13-May-2026
 
 
 
@@ -36,37 +36,42 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|McLaren|McLaren F1 '94|20,000,000|
+|Aston Martin|DB3S '53|6,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C2) '63|248,000|
-|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
+|Chevrolet|Chevelle SS 454 Sport Coupé '70|150,000|
+|Porsche|917K '70|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chaparral|2J '70|2,500,000|
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|150,000|
 |Ferrari|330 P4 '67|20,000,000|
 |Ford|1932 Ford Roadster Hot Rod|300,000|
 |Jaguar|E-type Coupe '61|186,000|
-|Porsche|917K '70|20,000,000|
+|McLaren|McLaren F1 '94|20,000,000|
 
 
 ## Used shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Toyota|Supra RZ '97|184,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|21,800|
+|DMC|DeLorean S2 '04|468,100|
 |Ferrari|308 GTB '75|166,500|
-|Lamborghini|Murcielago LP 640 '09|318,500|
-|Mazda|Eunos Roadster (NA) '89|27,900|
+|Honda|Civic Type R (EK) '97|58,100|
 |Mitsubishi|FTO GP Version R '97|30,100|
-|Porsche|911 GT3 (996) '01|156,200|
 |Porsche|911 GT3 (997) '09|140,400|
+|Toyota|Celica GT-Four (ST205) '94|67,500|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
 |Volvo|240 SE Estate '93|43,900|
 
 ### Available
@@ -75,13 +80,11 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alpine|A110 '72|143,700|
 |Audi|TT Coupe 3.2 quattro '03|49,700|
 |Audi|TTS Coupe '09|55,600|
-|DMC|DeLorean S2 '04|468,100|
 |Daihatsu|Copen '02|15,100|
 |De Tomaso|Pantera '71|170,400|
 |Ferrari|512 BB '76|301,600|
 |Fiat|500 1.2 8V Lounge SS '08|12,800|
 |Ford|Ford GT '06|408,700|
-|Honda|Civic Type R (EK) '97|58,100|
 |Honda|NSX Type R '02|428,500|
 |MINI|MINI Cooper S '05|23,600|
 |MINI|Mini-Cooper 'S' '65|39,300|
@@ -90,6 +93,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|Fairlady Z 300ZX TT 2seater '89|51,500|
 |Nissan|Fairlady Z Version S (Z33) '07|30,300|
 |Renault|Clio V6 24V '00|78,400|
-|Toyota|Celica GT-Four (ST205) '94|67,500|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|51,800|
 |Toyota|Sports 800 '65|47,700|
