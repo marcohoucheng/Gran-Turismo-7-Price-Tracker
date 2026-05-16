@@ -27,26 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-May-2026
+# Gran Turismo 7 Shops for 16-May-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chaparral|2J '70|2,500,000|
-|Jaguar|E-type Coupe '61|186,000|
+|Ferrari|330 P4 '67|20,000,000|
+|Ford|1932 Ford Roadster Hot Rod|300,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB3S '53|6,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
-|Ferrari|330 P4 '67|20,000,000|
 |Ferrari|365 GTB4 '71|595,000|
-|Ford|1932 Ford Roadster Hot Rod|300,000|
 |McLaren|McLaren F1 '94|20,000,000|
 
 
@@ -55,11 +59,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|29,200|
-|Dodge|Viper GTS '02|105,200|
-|Honda|Integra Type R (DC2) '95|61,500|
-|Pontiac|Firebird Trans Am '78|79,600|
-|Toyota|MR2 GT-S '97|52,600|
+|Chevrolet|Corvette Stingray (C3) '69|53,700|
+|Honda|Civic Type R (EK) '98|56,700|
+|Nissan|SILVIA spec-R Aero (S15) '02|60,600|
+|Volkswagen|Golf I GTI '83|42,900|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -67,25 +70,27 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|TT Coupe 3.2 quattro '03|49,700|
 |Audi|TTS Coupe '09|55,600|
 |De Tomaso|Pantera '71|170,400|
-|Fiat|500 1.2 8V Lounge SS '08|12,800|
+|Honda|NSX Type R '02|428,500|
+|MINI|MINI Cooper S '05|23,600|
+|MINI|Mini-Cooper 'S' '65|39,300|
 |Nissan|180SX Type X '96|54,000|
-|Nissan|Fairlady Z (Z34) '08|38,900|
-|Nissan|Fairlady Z Version S (Z33) '07|30,300|
 |Toyota|Sports 800 '65|47,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|143,700|
+|Autobianchi|A112 Abarth '85|29,200|
 |BMW|M3 '07|81,700|
 |Daihatsu|Copen '02|15,100|
+|Dodge|Viper GTS '02|105,200|
 |Ferrari|430 Scuderia '07|358,700|
 |Ferrari|512 BB '76|301,600|
 |Ford|Ford GT '06|408,700|
-|Honda|NSX Type R '02|428,500|
-|MINI|MINI Cooper S '05|23,600|
-|MINI|Mini-Cooper 'S' '65|39,300|
+|Honda|Integra Type R (DC2) '95|61,500|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|51,500|
+|Pontiac|Firebird Trans Am '78|79,600|
 |Renault|Clio V6 24V '00|78,400|
 |Suzuki|Swift Sport '07|12,400|
+|Toyota|MR2 GT-S '97|52,600|
 |Toyota|Supra RZ '97|184,800|
