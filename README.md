@@ -27,11 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-May-2026
+# Gran Turismo 7 Shops for 19-May-2026
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ford|Mustang Boss 429 '69|335,000|
+|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -51,19 +57,15 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '89|74,100|
-|Ferrari|F430 '06|203,100|
-|Ford|Sierra RS 500 Cosworth '87|181,200|
-|Nissan|Silvia K's Type S (S14) '94|44,700|
-|Subaru|Impreza 22B-STi '98|165,000|
+|Nissan|GT-R NISMO (R32) '90|396,300|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,300|
+|Volkswagen|Scirocco R '10|37,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alpine|A110 '72|143,700|
-|Daihatsu|Copen '02|15,100|
-|Ferrari|512 BB '76|301,600|
-|Ford|Ford GT '06|408,700|
+|Renault|Clio V6 24V '00|78,400|
 |Toyota|Supra RZ '97|184,800|
 
 ### Available
@@ -72,16 +74,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Autobianchi|A112 Abarth '85|29,200|
 |BMW|M3 '03|65,900|
 |BMW|M3 '07|81,700|
+|BMW|M3 '89|74,100|
 |Chevrolet|Corvette Stingray (C3) '69|53,700|
 |Dodge|Viper GTS '02|105,200|
 |Ferrari|430 Scuderia '07|358,700|
+|Ferrari|F430 '06|203,100|
+|Ford|Sierra RS 500 Cosworth '87|181,200|
 |Honda|Civic Type R (EK) '98|56,700|
 |Honda|Integra Type R (DC2) '95|61,500|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|51,500|
 |Nissan|SILVIA spec-R Aero (S15) '02|60,600|
+|Nissan|Silvia K's Type S (S14) '94|44,700|
 |Pontiac|Firebird Trans Am '78|79,600|
 |Porsche|911 Carrera RS (964) '92|210,300|
-|Renault|Clio V6 24V '00|78,400|
+|Subaru|Impreza 22B-STi '98|165,000|
 |Suzuki|Cappuccino (EA11R) '91|19,900|
 |Suzuki|Swift Sport '07|12,400|
 |Toyota|MR2 GT-S '97|52,600|
