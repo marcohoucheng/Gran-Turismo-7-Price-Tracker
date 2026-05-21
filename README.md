@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 20-May-2026
+# Gran Turismo 7 Shops for 21-May-2026
 
 
 
@@ -57,17 +57,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lancia|Delta HF Integrale Evoluzione '91|100,100|
-|Nissan|R33 GT-R V-spec '97|158,300|
-|TVR|Tuscan Speed 6 '00|75,900|
+|Mercedes-Benz|SLR McLaren '09|491,700|
+|Peugeot|205 GTI '88|57,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|430 Scuderia '07|358,700|
 |Honda|Integra Type R (DC2) '95|61,500|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|51,500|
 |Pontiac|Firebird Trans Am '78|79,600|
-|Renault|Clio V6 24V '00|78,400|
+|Suzuki|Swift Sport '07|12,400|
+|Toyota|MR2 GT-S '97|52,600|
+|Volkswagen|Golf I GTI '83|42,900|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -78,18 +80,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 '89|74,100|
 |Chevrolet|Corvette Stingray (C3) '69|53,700|
 |Dodge|Viper GTS '02|105,200|
-|Ferrari|430 Scuderia '07|358,700|
 |Ferrari|F430 '06|203,100|
 |Ford|Sierra RS 500 Cosworth '87|181,200|
 |Honda|Civic Type R (EK) '98|56,700|
+|Lancia|Delta HF Integrale Evoluzione '91|100,100|
 |Nissan|GT-R NISMO (R32) '90|396,300|
+|Nissan|R33 GT-R V-spec '97|158,300|
 |Nissan|SILVIA spec-R Aero (S15) '02|60,600|
 |Nissan|Silvia K's Type S (S14) '94|44,700|
 |Porsche|911 Carrera RS (964) '92|210,300|
 |Subaru|Impreza 22B-STi '98|165,000|
 |Suzuki|Cappuccino (EA11R) '91|19,900|
-|Suzuki|Swift Sport '07|12,400|
-|Toyota|MR2 GT-S '97|52,600|
+|TVR|Tuscan Speed 6 '00|75,900|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|53,300|
-|Volkswagen|Golf I GTI '83|42,900|
 |Volkswagen|Scirocco R '10|37,500|
