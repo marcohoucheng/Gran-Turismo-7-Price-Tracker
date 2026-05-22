@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-May-2026
+# Gran Turismo 7 Shops for 22-May-2026
 
 
 
@@ -36,16 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Aston Martin|DB3S '53|6,000,000|
-|Ferrari|365 GTB4 '71|595,000|
-|McLaren|McLaren F1 '94|20,000,000|
+|De Tomaso|Mangusta (Christian Dior)|500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
-|De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ford|Mustang Boss 429 '69|335,000|
 |Mercedes-Benz|CLK-LM '98|8,500,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
@@ -57,16 +54,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|SLR McLaren '09|491,700|
-|Peugeot|205 GTI '88|57,600|
+|BMW|M3 Sport Evolution '89|166,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Corvette Stingray (C3) '69|53,700|
 |Ferrari|430 Scuderia '07|358,700|
-|Honda|Integra Type R (DC2) '95|61,500|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|51,500|
-|Pontiac|Firebird Trans Am '78|79,600|
 |Suzuki|Swift Sport '07|12,400|
 |Toyota|MR2 GT-S '97|52,600|
 |Volkswagen|Golf I GTI '83|42,900|
@@ -78,16 +72,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |BMW|M3 '03|65,900|
 |BMW|M3 '07|81,700|
 |BMW|M3 '89|74,100|
-|Chevrolet|Corvette Stingray (C3) '69|53,700|
 |Dodge|Viper GTS '02|105,200|
 |Ferrari|F430 '06|203,100|
 |Ford|Sierra RS 500 Cosworth '87|181,200|
 |Honda|Civic Type R (EK) '98|56,700|
 |Lancia|Delta HF Integrale Evoluzione '91|100,100|
+|Mercedes-Benz|SLR McLaren '09|491,700|
 |Nissan|GT-R NISMO (R32) '90|396,300|
 |Nissan|R33 GT-R V-spec '97|158,300|
 |Nissan|SILVIA spec-R Aero (S15) '02|60,600|
 |Nissan|Silvia K's Type S (S14) '94|44,700|
+|Peugeot|205 GTI '88|57,600|
 |Porsche|911 Carrera RS (964) '92|210,300|
 |Subaru|Impreza 22B-STi '98|165,000|
 |Suzuki|Cappuccino (EA11R) '91|19,900|
