@@ -27,16 +27,24 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 22-May-2026
+# Gran Turismo 7 Shops for 23-May-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Chevrolet|Corvette (C1) '58|110,000|
+|Jaguar|XJR-9 '88|3,000,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|200,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |De Tomaso|Mangusta (Christian Dior)|500,000|
+|Mercedes-Benz|CLK-LM '98|8,500,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -44,7 +52,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |Ford|Mustang Boss 429 '69|335,000|
-|Mercedes-Benz|CLK-LM '98|8,500,000|
 |Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 |Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
 
@@ -54,36 +61,35 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 Sport Evolution '89|166,100|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|168,600|
+|Mitsubishi|Lancer Evolution III GSR '95|82,200|
+|Subaru|Impreza Sedan WRX STi '04|41,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Autobianchi|A112 Abarth '85|29,200|
+|BMW|M3 '07|81,700|
 |Chevrolet|Corvette Stingray (C3) '69|53,700|
-|Ferrari|430 Scuderia '07|358,700|
-|Suzuki|Swift Sport '07|12,400|
-|Toyota|MR2 GT-S '97|52,600|
-|Volkswagen|Golf I GTI '83|42,900|
+|Dodge|Viper GTS '02|105,200|
+|Ferrari|F430 '06|203,100|
+|Honda|Civic Type R (EK) '98|56,700|
+|Nissan|SILVIA spec-R Aero (S15) '02|60,600|
+|Porsche|911 Carrera RS (964) '92|210,300|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|29,200|
 |BMW|M3 '03|65,900|
-|BMW|M3 '07|81,700|
 |BMW|M3 '89|74,100|
-|Dodge|Viper GTS '02|105,200|
-|Ferrari|F430 '06|203,100|
+|BMW|M3 Sport Evolution '89|166,100|
 |Ford|Sierra RS 500 Cosworth '87|181,200|
-|Honda|Civic Type R (EK) '98|56,700|
 |Lancia|Delta HF Integrale Evoluzione '91|100,100|
 |Mercedes-Benz|SLR McLaren '09|491,700|
 |Nissan|GT-R NISMO (R32) '90|396,300|
 |Nissan|R33 GT-R V-spec '97|158,300|
-|Nissan|SILVIA spec-R Aero (S15) '02|60,600|
 |Nissan|Silvia K's Type S (S14) '94|44,700|
 |Peugeot|205 GTI '88|57,600|
-|Porsche|911 Carrera RS (964) '92|210,300|
 |Subaru|Impreza 22B-STi '98|165,000|
 |Suzuki|Cappuccino (EA11R) '91|19,900|
 |TVR|Tuscan Speed 6 '00|75,900|
