@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 26-May-2026
+# Gran Turismo 7 Shops for 27-May-2026
 
 
 
@@ -36,21 +36,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|250 GTO '62|20,000,000|
+|BMW|McLaren F1 GTR Race Car '97|20,000,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 |Ford|Mustang Boss 429 '69|335,000|
+|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette (C1) '58|110,000|
+|Ferrari|250 GTO '62|20,000,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Jaguar|XJR-9 '88|3,000,000|
-|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
 |Toyota|Celica GT-FOUR Rally Car (ST205) '95|200,000|
 
 
@@ -59,36 +60,36 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|8C Competizione '08|301,900|
-|BMW|Z4 3.0i '03|51,200|
-|Chevrolet|Corvette ZR1 (C6) '09|101,000|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|95,800|
-|Nissan|Fairlady 240ZG (HS30) '71|98,500|
-|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
+|Alfa Romeo|MiTo '09|20,600|
+|BMW|3.0 CSL '71|146,100|
+|BMW|M3 '97|89,000|
+|Honda|Civic SiR-II (EG) '93|50,100|
+|Porsche|911 Carrera RS CS (993) '95|406,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|BMW|M3 Sport Evolution '89|166,100|
 |Ford|Sierra RS 500 Cosworth '87|181,200|
-|Lancia|Delta HF Integrale Evoluzione '91|100,100|
-|Nissan|GT-R NISMO (R32) '90|396,300|
-|Nissan|R33 GT-R V-spec '97|158,300|
-|Subaru|Impreza 22B-STi '98|165,000|
-|TVR|Tuscan Speed 6 '00|75,900|
 |Volkswagen|Scirocco R '10|37,500|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|49,500|
+|Alfa Romeo|8C Competizione '08|301,900|
 |Alfa Romeo|Giulia Sprint GT Veloce '67|168,600|
-|BMW|M3 Sport Evolution '89|166,100|
+|BMW|Z4 3.0i '03|51,200|
+|Chevrolet|Corvette ZR1 (C6) '09|101,000|
 |Fiat|500 F '68|15,100|
 |Honda|Integra Type R (DC2) '98|56,900|
 |Honda|S2000 '99|106,700|
 |Mazda|RX-7 Spirit R Type A (FD) '02|215,700|
 |Mercedes-Benz|SLR McLaren '09|491,700|
 |Mitsubishi|Lancer Evolution III GSR '95|82,200|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|95,800|
+|Nissan|Fairlady 240ZG (HS30) '71|98,500|
+|Nissan|Silvia K's Dia Selection (S13) '90|52,100|
 |Peugeot|205 GTI '88|57,600|
 |Subaru|Impreza Sedan WRX STi '04|41,400|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
