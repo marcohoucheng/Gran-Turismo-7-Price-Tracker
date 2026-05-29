@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 28-May-2026
+# Gran Turismo 7 Shops for 29-May-2026
 
 
 
@@ -36,16 +36,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|AMG|300 SEL 6.8 AMG '71|700,000|
+|Toyota|2000GT '67|982,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Peugeot|205 Turbo 16 Evolution 2 '86|1,000,000|
+|Toyota|Celica GT-FOUR Rally Car (ST205) '95|200,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|AMG|300 SEL 6.8 AMG '71|700,000|
 |BMW|McLaren F1 GTR Race Car '97|20,000,000|
 |Chevrolet|Corvette (C1) '58|110,000|
 |Ferrari|250 GTO '62|20,000,000|
@@ -54,7 +55,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Jaguar|XJR-9 '88|3,000,000|
 |Pontiac|GTO 'The Judge' '69|196,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
-|Toyota|Celica GT-FOUR Rally Car (ST205) '95|200,000|
 
 
 ## Used shop
@@ -62,17 +62,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette Z06 (C5) '01|56,200|
-|Lamborghini|Countach 25th Anniversary '88|659,700|
-|Nissan|Silvia K's Aero (S14) '96|57,600|
-|Porsche|911 Carrera RS (993) '95|215,200|
-|Volkswagen|Volkswagen 1200 '66|32,700|
+|Ford|Mustang Mach 1 '71|43,600|
+|Mitsubishi|GTO Twin Turbo '91|39,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 Sport Evolution '89|166,100|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|168,600|
+|Mazda|RX-7 Spirit R Type A (FD) '02|215,700|
 |Mercedes-Benz|SLR McLaren '09|491,700|
+|Mitsubishi|Lancer Evolution III GSR '95|82,200|
 |Peugeot|205 GTI '88|57,600|
 
 ### Available
@@ -80,23 +79,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|49,500|
 |Alfa Romeo|8C Competizione '08|301,900|
-|Alfa Romeo|Giulia Sprint GT Veloce '67|168,600|
 |Alfa Romeo|MiTo '09|20,600|
 |BMW|3.0 CSL '71|146,100|
 |BMW|M3 '97|89,000|
 |BMW|Z4 3.0i '03|51,200|
+|Chevrolet|Corvette Z06 (C5) '01|56,200|
 |Chevrolet|Corvette ZR1 (C6) '09|101,000|
 |Fiat|500 F '68|15,100|
 |Honda|Civic SiR-II (EG) '93|50,100|
 |Honda|Integra Type R (DC2) '98|56,900|
 |Honda|S2000 '99|106,700|
-|Mazda|RX-7 Spirit R Type A (FD) '02|215,700|
-|Mitsubishi|Lancer Evolution III GSR '95|82,200|
+|Lamborghini|Countach 25th Anniversary '88|659,700|
 |Mitsubishi|Lancer Evolution IX MR GSR '06|95,800|
 |Mitsubishi|Lancer Evolution V GSR '98|90,000|
 |Nissan|Fairlady 240ZG (HS30) '71|98,500|
+|Nissan|Silvia K's Aero (S14) '96|57,600|
 |Nissan|Silvia K's Dia Selection (S13) '90|52,100|
+|Porsche|911 Carrera RS (993) '95|215,200|
 |Porsche|911 Carrera RS CS (993) '95|406,400|
 |Renault|Twingo '93|14,000|
 |Subaru|Impreza Sedan WRX STi '04|41,400|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
+|Volkswagen|Volkswagen 1200 '66|32,700|
