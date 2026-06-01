@@ -27,19 +27,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 31-May-2026
+# Gran Turismo 7 Shops for 01-June-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Dodge|Challenger R/T '70|168,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Chevrolet|Corvette (C1) '58|110,000|
-|Ferrari|500 Mondial Pinin Farina Coupe '54|2,000,000|
 |Jaguar|XJR-9 '88|3,000,000|
-|Pontiac|GTO 'The Judge' '69|196,000|
+|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -49,7 +52,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|250 GTO '62|20,000,000|
 |Ferrari|F40 '92|3,400,000|
 |Jaguar|XJ13 '66|12,000,000|
-|Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
 |Toyota|2000GT '67|982,000|
 
 
@@ -58,8 +60,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Type R (EK) Touring Car|123,400|
-|Renault|Avantime 3.0 V6 24V '02|44,900|
+|AMG|SLS AMG '10|319,400|
+|Fiat|Panda 30 CL '85|11,300|
+|Mazda|RX-7 GT-X (FC) '90|57,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -67,10 +70,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alfa Romeo|8C Competizione '08|301,900|
 |BMW|Z4 3.0i '03|51,200|
 |Honda|Integra Type R (DC2) '98|56,900|
-|Honda|S2000 '99|106,700|
-|Mitsubishi|Lancer Evolution V GSR '98|90,000|
-|Renault|Twingo '93|14,000|
-|Subaru|Impreza Sedan WRX STi '04|41,400|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|95,800|
+|Porsche|911 Carrera RS (993) '95|215,200|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -85,13 +86,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Fiat|500 F '68|15,100|
 |Ford|Mustang Mach 1 '71|43,600|
 |Honda|Civic SiR-II (EG) '93|50,100|
+|Honda|Civic Type R (EK) Touring Car|123,400|
 |Lamborghini|Countach 25th Anniversary '88|659,700|
 |Mitsubishi|GTO Twin Turbo '91|39,600|
-|Mitsubishi|Lancer Evolution IX MR GSR '06|95,800|
 |Nissan|Fairlady 240ZG (HS30) '71|98,500|
 |Nissan|Silvia K's Aero (S14) '96|57,600|
 |Nissan|Silvia K's Dia Selection (S13) '90|52,100|
-|Porsche|911 Carrera RS (993) '95|215,200|
 |Porsche|911 Carrera RS CS (993) '95|406,400|
+|Renault|Avantime 3.0 V6 24V '02|44,900|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|105,800|
 |Volkswagen|Volkswagen 1200 '66|32,700|
