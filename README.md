@@ -27,30 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 07-June-2026
+# Gran Turismo 7 Shops for 08-June-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Dodge|Challenger R/T '70|168,000|
-|Ferrari|F40 '92|3,400,000|
-|Plymouth|Superbird '70|450,000|
-|Porsche|911 Carrera RS (901) '73|740,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Chevrolet|Corvette Stingray Racer Concept '59|7,000,000|
 |Ford|Mark IV Race Car '67|6,750,000|
+|Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
 |Nissan|R92CP '92|2,000,000|
 |Pontiac|GTO 'The Judge' '69|196,000|
 |Renault|R8 Gordini '66|32,500|
@@ -63,21 +56,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|S800 '66|42,300|
-|McLaren|MP4-12C '10|195,700|
-|Nissan|Silvia Q's (S13) '88|34,900|
-|Renault|R5 Turbo '80|152,900|
+|BMW|Z8 '01|269,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|MiTo '09|20,600|
 |BMW|3.0 CSL '71|146,100|
-|BMW|M3 '97|89,000|
 |Chevrolet|Corvette Z06 (C5) '01|56,200|
-|Ford|Mustang Mach 1 '71|43,600|
-|Lancia|Stratos '73|600,000|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|70,000|
+|Ferrari|Dino 246 GT '71|346,000|
+|Nissan|Silvia K's Aero (S14) '96|57,600|
+|RUF|CTR3 '07|788,800|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -85,20 +74,21 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |AMG|SLS AMG '10|319,400|
 |BMW|3.0 CSL '73|206,600|
 |Citroen|BX 19 TRS '87|23,100|
-|Ferrari|Dino 246 GT '71|346,000|
 |Ferrari|Testarossa '91|368,500|
 |Fiat|Panda 30 CL '85|11,300|
 |Honda|Civic Type R (EK) Touring Car|123,400|
+|Honda|S800 '66|42,300|
 |Lamborghini|Diablo GT '00|785,300|
 |Maserati|GranTurismo S '08|138,200|
 |Mazda|RX-7 GT-X (FC) '90|57,100|
+|McLaren|MP4-12C '10|195,700|
 |Mitsubishi|GTO Twin Turbo '91|39,600|
 |Mitsubishi|Lancer Evolution V GSR '98|73,400|
 |Nissan|R34 GT-R V-spec II Nur '02|398,700|
-|Nissan|Silvia K's Aero (S14) '96|57,600|
+|Nissan|Silvia Q's (S13) '88|34,900|
 |Porsche|911 Turbo (930) '81|213,800|
-|RUF|CTR3 '07|788,800|
 |Renault|Kangoo 1.4 '01|14,100|
+|Renault|R5 Turbo '80|152,900|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
 |Toyota|Prius G '09|20,700|
 |Toyota|Supra 3.0GT Turbo A '88|116,800|
