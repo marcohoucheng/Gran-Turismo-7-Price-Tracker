@@ -27,16 +27,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 08-June-2026
+# Gran Turismo 7 Shops for 09-June-2026
 
 
 
 ## Legend shop
 
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Aston Martin|DB5 '64|883,000|
+|McLaren|McLaren F1 '94|20,000,000|
+|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,400,000|
+
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Challenger R/T '70|168,000|
+|Subaru|Impreza Rally Car '98|650,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -47,7 +54,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Nissan|R92CP '92|2,000,000|
 |Pontiac|GTO 'The Judge' '69|196,000|
 |Renault|R8 Gordini '66|32,500|
-|Subaru|Impreza Rally Car '98|650,000|
 |Toyota|Land Cruiser FJ40V '74|50,900|
 
 
@@ -56,15 +62,18 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z8 '01|269,600|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
+|Dodge|Super Bee '70|61,100|
+|Honda|S2000 '99|120,000|
+|Nissan|Skyline GTS-R (R31) '87|169,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|MiTo '09|20,600|
-|BMW|3.0 CSL '71|146,100|
-|Chevrolet|Corvette Z06 (C5) '01|56,200|
 |Ferrari|Dino 246 GT '71|346,000|
+|Fiat|Panda 30 CL '85|11,300|
+|Mazda|RX-7 GT-X (FC) '90|57,100|
+|Mitsubishi|GTO Twin Turbo '91|39,600|
 |Nissan|Silvia K's Aero (S14) '96|57,600|
 |RUF|CTR3 '07|788,800|
 
@@ -73,16 +82,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |AMG|SLS AMG '10|319,400|
 |BMW|3.0 CSL '73|206,600|
+|BMW|Z8 '01|269,600|
 |Citroen|BX 19 TRS '87|23,100|
 |Ferrari|Testarossa '91|368,500|
-|Fiat|Panda 30 CL '85|11,300|
 |Honda|Civic Type R (EK) Touring Car|123,400|
 |Honda|S800 '66|42,300|
 |Lamborghini|Diablo GT '00|785,300|
 |Maserati|GranTurismo S '08|138,200|
-|Mazda|RX-7 GT-X (FC) '90|57,100|
 |McLaren|MP4-12C '10|195,700|
-|Mitsubishi|GTO Twin Turbo '91|39,600|
 |Mitsubishi|Lancer Evolution V GSR '98|73,400|
 |Nissan|R34 GT-R V-spec II Nur '02|398,700|
 |Nissan|Silvia Q's (S13) '88|34,900|
