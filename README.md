@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 13-June-2026
+# Gran Turismo 7 Shops for 14-June-2026
 
 
 
@@ -36,7 +36,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mercedes-Benz|300 SL (W194) '52|20,000,000|
+|Ferrari|GTO '84|3,500,000|
+|Mazda|787B '91|3,300,000|
+|Plymouth|Superbird '70|450,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -45,13 +47,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ford|Mark IV Race Car '67|6,750,000|
 |Lamborghini|Miura P400 Bertone Prototype '67|4,300,000|
 |McLaren|McLaren F1 '94|20,000,000|
-|Nissan|R92CP '92|2,000,000|
+|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,400,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
-|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,400,000|
 |Porsche|911 Turbo S Leichtbau (964) '93|1,200,000|
 |Renault|Espace F1 '95|2,000,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
@@ -62,41 +64,38 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Audi|R8 4.2 '07|137,900|
-|Honda|Civic Si Extra (EF) '87|55,100|
-|Lamborghini|Gallardo LP 560-4 '08|251,300|
+|Lancia|Stratos '73|539,800|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|Giulia Sprint GT Veloce '67|180,000|
-|Citroen|BX 19 TRS '87|23,100|
-|Ferrari|Testarossa '91|368,500|
+|BMW|Z8 '01|269,600|
+|Dodge|Super Bee '70|61,100|
 |Honda|S2000 '99|120,000|
-|Lamborghini|Diablo GT '00|785,300|
+|Honda|S800 '66|42,300|
 |Maserati|GranTurismo S '08|138,200|
-|Mitsubishi|Lancer Evolution V GSR '98|73,400|
+|McLaren|MP4-12C '10|195,700|
 |Nissan|R34 GT-R V-spec II Nur '02|398,700|
-|Renault|Kangoo 1.4 '01|14,100|
+|Nissan|Silvia Q's (S13) '88|34,900|
+|Renault|R5 Turbo '80|152,900|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|62,700|
 |Toyota|Prius G '09|20,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z8 '01|269,600|
+|Audi|R8 4.2 '07|137,900|
 |Chevrolet|Corvette Convertible (C3) '69|47,000|
 |Chevrolet|Corvette ZR-1 (C4) '89|86,500|
-|Dodge|Super Bee '70|61,100|
 |Dodge|Viper SRT10 Coupe '06|114,400|
 |Honda|Beat '91|15,000|
-|Honda|S800 '66|42,300|
+|Honda|Civic Si Extra (EF) '87|55,100|
+|Lamborghini|Gallardo LP 560-4 '08|251,300|
 |Mazda|efini RX-7 Type R (FD) '91|69,600|
-|McLaren|MP4-12C '10|195,700|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 |Nissan|R32 GT-R V-spec II '94|173,400|
-|Nissan|Silvia Q's (S13) '88|34,900|
 |Nissan|Skyline GTS-R (R31) '87|169,000|
 |Renault|R4 GTL '85|29,200|
-|Renault|R5 Turbo '80|152,900|
 |Volkswagen|Sambabus Typ 2 '62|55,300|
