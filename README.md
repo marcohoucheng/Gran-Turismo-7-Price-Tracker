@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-June-2026
+# Gran Turismo 7 Shops for 16-June-2026
 
 
 
@@ -36,17 +36,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,850,000|
+|Chevrolet|Chevelle SS 454 Sport Coupé '70|150,000|
+|Ford|GT40 Mark I '66|6,700,000|
+|Lamborghini|Countach LP400 '74|1,250,000|
+|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Mercedes-Benz|Unimog Type 411 '62|46,000|
-|Porsche|356 A/1500 GS GT Carrera Speedster '56|1,400,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,850,000|
 |Ferrari|GTO '84|3,500,000|
 |Mazda|787B '91|3,300,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
@@ -61,24 +64,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|458 Italia '09|254,300|
-|Honda|NSX Type R '92|396,200|
-|Mazda|Eunos Roadster (NA) '89|29,600|
-|Nissan|Sileighty '98|84,800|
-|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,200|
+|Abarth|Abarth 500 '09|23,500|
+|BMW|M3 '97|90,000|
+|Ferrari|512 BB '76|350,000|
+|Ford|Escort RS Cosworth '92|128,900|
+|Mitsubishi|Lancer Evolution VIII MR GSR '04|69,200|
+|Porsche|911 GT3 (996) '01|158,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z8 '01|269,600|
-|Dodge|Super Bee '70|61,100|
+|Chevrolet|Corvette ZR-1 (C4) '89|86,500|
 |Dodge|Viper SRT10 Coupe '06|114,400|
-|Honda|S800 '66|42,300|
-|McLaren|MP4-12C '10|195,700|
-|Nissan|Silvia Q's (S13) '88|34,900|
 |Nissan|Skyline GTS-R (R31) '87|169,000|
 |Renault|R4 GTL '85|29,200|
-|Renault|R5 Turbo '80|152,900|
 |Volkswagen|Sambabus Typ 2 '62|55,300|
 
 ### Available
@@ -86,12 +85,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Audi|R8 4.2 '07|137,900|
 |Chevrolet|Corvette Convertible (C3) '69|47,000|
-|Chevrolet|Corvette ZR-1 (C4) '89|86,500|
+|Ferrari|458 Italia '09|254,300|
 |Honda|Beat '91|15,000|
 |Honda|Civic Si Extra (EF) '87|55,100|
+|Honda|NSX Type R '92|396,200|
 |Lamborghini|Gallardo LP 560-4 '08|251,300|
 |Lancia|Stratos '73|539,800|
+|Mazda|Eunos Roadster (NA) '89|29,600|
 |Mazda|efini RX-7 Type R (FD) '91|69,600|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 |Nissan|R32 GT-R V-spec II '94|173,400|
+|Nissan|Sileighty '98|84,800|
+|Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,200|
