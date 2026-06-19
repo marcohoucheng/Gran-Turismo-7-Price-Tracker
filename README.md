@@ -27,34 +27,30 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 18-June-2026
+# Gran Turismo 7 Shops for 19-June-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Alpine|A220 Race Car '68|330,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|GTO '84|3,500,000|
+|Plymouth|Superbird '70|450,000|
 |Porsche|911 Turbo S Leichtbau (964) '93|1,200,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|GIULIA TZ2 carrozzata da ZAGATO '65|3,850,000|
+|Alpine|A220 Race Car '68|330,000|
 |Chevrolet|Chevelle SS 454 Sport Coupé '70|150,000|
-|Ferrari|GTO '84|3,500,000|
 |Ford|GT40 Mark I '66|6,700,000|
 |Lamborghini|Countach LP400 '74|1,250,000|
 |Mazda|787B '91|3,300,000|
 |Mercedes-Benz|300 SL (W194) '52|20,000,000|
 |Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
-|Plymouth|Superbird '70|450,000|
 |Renault|Espace F1 '95|2,000,000|
 |Shelby|G.T.350 '65|501,000|
 |Suzuki|V6 Escudo Pikes Peak Special spec.98|1,700,000|
@@ -65,13 +61,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Type R (EK) '97|57,000|
-|MINI|Mini-Cooper 'S' '65|42,800|
-|Mitsubishi|FTO GP Version R '97|26,200|
-|Nissan|Fairlady Z (Z34) '08|32,900|
-|Renault|Twingo '93|14,000|
-|Renault|Twingo '93|14,000|
-|Renault|Twingo '93|14,000|
+|Nissan|Fairlady Z Version S (Z33) '07|28,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -81,7 +71,6 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Lamborghini|Gallardo LP 560-4 '08|251,300|
 |Mazda|efini RX-7 Type R (FD) '91|69,600|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,300|
-|Nissan|R32 GT-R V-spec II '94|173,400|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -94,15 +83,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Fiat|500 1.2 8V Lounge SS '08|12,500|
 |Ford|Escort RS Cosworth '92|128,900|
 |Honda|Beat '91|15,000|
+|Honda|Civic Type R (EK) '97|57,000|
 |Honda|NSX Type R '92|396,200|
 |Lamborghini|Murcielago LP 640 '09|316,200|
 |Lancia|Stratos '73|539,800|
+|MINI|Mini-Cooper 'S' '65|42,800|
 |Mazda|Eunos Roadster (NA) '89|29,600|
+|Mitsubishi|FTO GP Version R '97|26,200|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|69,200|
+|Nissan|Fairlady Z (Z34) '08|32,900|
 |Nissan|Sileighty '98|84,800|
 |Porsche|911 GT3 (996) '01|158,500|
 |Porsche|911 GT3 (997) '09|141,900|
+|Renault|Twingo '93|14,000|
+|Renault|Twingo '93|14,000|
+|Renault|Twingo '93|14,000|
 |Toyota|Celica GT-Four (ST205) '94|65,500|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,200|
 |Toyota|Sports 800 '65|43,800|
