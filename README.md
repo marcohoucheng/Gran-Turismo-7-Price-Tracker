@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-June-2026
+# Gran Turismo 7 Shops for 25-June-2026
 
 
 
@@ -36,21 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+|Audi|Sport quattro S1 Pikes Peak '87|1,700,000|
+|Citroen|DS 21 Pallas '70|44,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alpine|A220 Race Car '68|330,000|
-|Mercedes-Benz|Sauber Mercedes C9 '89|3,500,000|
 |Shelby|G.T.350 '65|501,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Chevrolet|Camaro Z28 '69|101,000|
 |Ferrari|330 P4 '67|20,000,000|
 |Jeep|Willys MB '45|33,500|
 |NISMO|400R '95|1,300,000|
+|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+|Porsche|356 A/1500 GS Carrera '56|606,000|
 |Porsche|911 Carrera RS (901) '73|740,000|
 
 
@@ -59,20 +61,26 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|De Tomaso|Pantera '71|173,100|
-|Ferrari|512 BB '76|313,400|
+|Autobianchi|A112 Abarth '85|28,900|
+|Ferrari|430 Scuderia '07|370,400|
+|Honda|Civic Type R (EK) '98|51,700|
+|MINI|MINI Cooper S '05|22,900|
+|Pontiac|Firebird Trans Am '78|86,900|
+|Toyota|Supra RZ '97|190,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Fiat|500 1.2 8V Lounge SS '08|12,500|
-|Honda|Civic Type R (EK) '97|57,000|
-|Lancia|Stratos '73|539,800|
+|MINI|Mini-Cooper 'S' '65|42,800|
 |Mitsubishi|FTO GP Version R '97|26,200|
-|Nissan|Sileighty '98|84,800|
-|Porsche|911 GT3 (996) '01|158,500|
-|Porsche|911 GT3 (997) '09|141,900|
+|Nissan|Fairlady Z (Z34) '08|32,900|
+|Nissan|Fairlady Z Version S (Z33) '07|28,000|
+|Renault|Twingo '93|14,000|
+|Renault|Twingo '93|14,000|
+|Renault|Twingo '93|14,000|
 |Toyota|Celica GT-Four (ST205) '94|65,500|
+|Toyota|Sports 800 '65|43,800|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -80,17 +88,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Alpine|A110 '72|137,300|
 |Audi|TT Coupe 3.2 quattro '03|49,800|
 |Audi|TTS Coupe '09|61,200|
+|BMW|3.0 CSL '71|167,000|
 |DMC|DeLorean S2 '04|462,300|
 |Daihatsu|Copen '02|14,300|
+|De Tomaso|Pantera '71|173,100|
 |Ferrari|308 GTB '75|178,300|
+|Ferrari|512 BB '76|313,400|
 |Ford|Ford GT '06|398,300|
 |Honda|NSX Type R '02|431,500|
-|MINI|Mini-Cooper 'S' '65|42,800|
+|Mazda|RX-7 GT-X (FC) '90|70,000|
 |Nissan|180SX Type X '96|49,700|
-|Nissan|Fairlady Z (Z34) '08|32,900|
-|Nissan|Fairlady Z Version S (Z33) '07|28,000|
-|Renault|Twingo '93|14,000|
-|Renault|Twingo '93|14,000|
-|Renault|Twingo '93|14,000|
 |Suzuki|Swift Sport '07|12,900|
-|Toyota|Sports 800 '65|43,800|
