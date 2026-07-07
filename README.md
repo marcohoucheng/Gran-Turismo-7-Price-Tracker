@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 06-July-2026
+# Gran Turismo 7 Shops for 07-July-2026
 
 
 
@@ -36,18 +36,13 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Charger R/T 426 Hemi '68|134,000|
-|Ferrari|250 GT Berlinetta passo corto '61|6,600,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Chevrolet|Camaro Z28 '69|101,000|
-|Mercedes-Benz|190 E 2.5-16 Evolution II '91|250,000|
+|Nissan|GT-R GT500 '99|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Dodge|Charger R/T 426 Hemi '68|134,000|
+|Ferrari|250 GT Berlinetta passo corto '61|6,600,000|
 |Honda|NSX GT500 '00|1,650,000|
 |McLaren|McLaren F1 GTR - BMW '95|17,500,000|
 |Mercedes-Benz|300 SL Coupe '54|1,650,000|
@@ -60,17 +55,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Alfa Romeo|MiTo '09|21,200|
-|Mitsubishi|Lancer Evolution III GSR '95|84,600|
-|Nissan|Fairlady 240ZG (HS30) '71|107,800|
+|BMW|3.0 CSL '71|139,300|
+|Chevrolet|Corvette ZR1 (C6) '09|106,000|
+|Honda|Civic SiR-II (EG) '93|54,700|
+|Mitsubishi|Lancer Evolution IX MR GSR '06|94,400|
+|Subaru|Impreza Sedan WRX STi '04|41,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|65,500|
-|BMW|M3 '07|68,500|
+|BMW|M3 '89|73,100|
 |Chevrolet|Corvette Stingray (C3) '69|62,000|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
+|Ferrari|F430 '06|206,600|
+|Lancia|Delta HF Integrale Evoluzione '91|104,400|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,800|
 
 ### Available
@@ -78,14 +75,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | --- | --- | --: |
 |Abarth|Abarth 595 SS '70|47,000|
 |Alfa Romeo|Giulia Sprint GT Veloce '67|164,900|
-|BMW|M3 '89|73,100|
+|Alfa Romeo|MiTo '09|21,200|
 |BMW|M3 Sport Evolution '89|162,800|
-|Ferrari|F430 '06|206,600|
 |Fiat|500 F '68|18,300|
 |Ford|Sierra RS 500 Cosworth '87|183,500|
-|Lancia|Delta HF Integrale Evoluzione '91|104,400|
 |Mazda|RX-7 Spirit R Type A (FD) '02|216,900|
 |Mercedes-Benz|SLR McLaren '09|505,500|
+|Mitsubishi|Lancer Evolution III GSR '95|84,600|
+|Nissan|Fairlady 240ZG (HS30) '71|107,800|
 |Nissan|GT-R NISMO (R32) '90|397,700|
 |Nissan|R33 GT-R V-spec '97|155,800|
 |Nissan|Silvia K's Dia Selection (S13) '90|50,700|
