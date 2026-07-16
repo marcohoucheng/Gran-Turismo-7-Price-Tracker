@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-July-2026
+# Gran Turismo 7 Shops for 16-July-2026
 
 
 
@@ -36,21 +36,22 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|D-type '54|5,300,000|
+|Mazda|RX500 '70|600,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|250 GT Berlinetta passo corto '61|6,600,000|
+|Shelby|Cobra Daytona Coupe '64|20,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Aston Martin|DB5 '64|883,000|
+|Jaguar|D-type '54|5,300,000|
 |Jaguar|XJ13 '66|12,000,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Porsche|Carrera GTS (904) '64|2,250,000|
-|Shelby|Cobra Daytona Coupe '64|20,000,000|
 |Toyota|Supra GT500 '97|1,600,000|
 
 
@@ -59,32 +60,29 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mitsubishi|GTO Twin Turbo '91|45,600|
-|Mitsubishi|Lancer Evolution V GSR '98|64,800|
+|Dodge|Viper SRT10 Coupe '06|115,800|
+|Lamborghini|Diablo GT '00|786,300|
+|Toyota|Prius G '09|19,600|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '71|139,300|
-|BMW|Z4 3.0i '03|45,500|
-|Chevrolet|Corvette ZR1 (C6) '09|106,000|
-|Honda|Civic SiR-II (EG) '93|54,700|
+|BMW|M3 '97|85,400|
 |Honda|Integra Type R (DC2) '98|65,900|
-|Honda|S2000 '99|98,700|
-|Nissan|Fairlady 240ZG (HS30) '71|107,800|
-|Nissan|Silvia K's Dia Selection (S13) '90|50,700|
-|Subaru|Impreza Sedan WRX STi '04|41,100|
+|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|103,100|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |AMG|SLS AMG '10|308,300|
-|BMW|M3 '97|85,400|
 |Chevrolet|Corvette Z06 (C5) '01|50,900|
 |Dodge|Super Bee '70|60,500|
 |Ford|Mustang Mach 1 '71|43,100|
 |Lamborghini|Countach 25th Anniversary '88|661,000|
 |Mazda|RX-7 GT-X (FC) '90|61,100|
+|Mitsubishi|GTO Twin Turbo '91|45,600|
+|Mitsubishi|Lancer Evolution V GSR '98|64,800|
 |Nissan|R34 GT-R V-spec II Nur '02|396,600|
 |Porsche|911 Carrera RS (993) '95|224,100|
 |Porsche|911 Carrera RS CS (993) '95|413,100|
@@ -92,5 +90,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Renault|Kangoo 1.4 '01|12,900|
 |Renault|R5 Turbo '80|149,600|
 |Renault|Twingo '93|12,400|
-|Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|103,100|
 |Volkswagen|Volkswagen 1200 '66|32,900|
