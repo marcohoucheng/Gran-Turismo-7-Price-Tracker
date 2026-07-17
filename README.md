@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 16-July-2026
+# Gran Turismo 7 Shops for 17-July-2026
 
 
 
@@ -36,8 +36,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|RX500 '70|600,000|
-|Toyota|GT-One (TS020) '99|2,500,000|
+|McLaren|MP4/4 '88|12,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -50,8 +49,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Aston Martin|DB5 '64|883,000|
 |Jaguar|D-type '54|5,300,000|
 |Jaguar|XJ13 '66|12,000,000|
+|Mazda|RX500 '70|600,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 |Porsche|Carrera GTS (904) '64|2,250,000|
+|Toyota|GT-One (TS020) '99|2,500,000|
 |Toyota|Supra GT500 '97|1,600,000|
 
 
@@ -60,17 +61,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Dodge|Viper SRT10 Coupe '06|115,800|
-|Lamborghini|Diablo GT '00|786,300|
-|Toyota|Prius G '09|19,600|
+|BMW|3.0 CSL '73|205,300|
+|Honda|Civic Type R (EK) Touring Car|115,400|
+|Nissan|Silvia K's Aero (S14) '96|57,000|
+|Nissan|Silvia Q's (S13) '88|28,900|
+|Nissan|Skyline GTS-R (R31) '87|171,600|
+|Toyota|Supra 3.0GT Turbo A '88|116,700|
+|Volkswagen|Sambabus Typ 2 '62|56,400|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '71|139,300|
 |BMW|M3 '97|85,400|
-|Honda|Integra Type R (DC2) '98|65,900|
 |Toyota|Sprinter Trueno 1600GT APEX (S.Shigeno Version)|103,100|
+|Volkswagen|Volkswagen 1200 '66|32,900|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -78,8 +82,10 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |AMG|SLS AMG '10|308,300|
 |Chevrolet|Corvette Z06 (C5) '01|50,900|
 |Dodge|Super Bee '70|60,500|
+|Dodge|Viper SRT10 Coupe '06|115,800|
 |Ford|Mustang Mach 1 '71|43,100|
 |Lamborghini|Countach 25th Anniversary '88|661,000|
+|Lamborghini|Diablo GT '00|786,300|
 |Mazda|RX-7 GT-X (FC) '90|61,100|
 |Mitsubishi|GTO Twin Turbo '91|45,600|
 |Mitsubishi|Lancer Evolution V GSR '98|64,800|
@@ -90,4 +96,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Renault|Kangoo 1.4 '01|12,900|
 |Renault|R5 Turbo '80|149,600|
 |Renault|Twingo '93|12,400|
-|Volkswagen|Volkswagen 1200 '66|32,900|
+|Toyota|Prius G '09|19,600|
