@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 21-July-2026
+# Gran Turismo 7 Shops for 22-July-2026
 
 
 
@@ -36,22 +36,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lancia|Lancia Delta HF Integrale Rally Car '92|350,000|
+|Maserati|A6GCS/53 Spyder '54|2,800,000|
+|Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Mazda|RX500 '70|600,000|
+|Mercedes-Benz|W 196 R '55|20,000,000|
+|Porsche|Carrera GTS (904) '64|2,250,000|
 |Toyota|GT-One (TS020) '99|2,500,000|
-|Toyota|Supra GT500 '97|1,600,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Lamborghini|Countach LP400 '74|1,250,000|
-|Mazda|RX500 '70|600,000|
+|Lancia|Lancia Delta HF Integrale Rally Car '92|350,000|
 |McLaren|MP4/4 '88|12,000,000|
-|Mercedes-Benz|W 196 R '55|20,000,000|
-|Porsche|Carrera GTS (904) '64|2,250,000|
 
 
 ## Used shop
@@ -59,16 +60,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|Z8 '01|266,200|
-|Citroen|BX 19 TRS '87|26,900|
-|RUF|CTR3 '07|788,800|
-|Renault|R4 GTL '85|27,100|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,500|
+|Chevrolet|Corvette ZR-1 (C4) '89|88,700|
+|Ferrari|Testarossa '91|372,000|
+|McLaren|MP4-12C '10|184,200|
+|Nissan|R32 GT-R V-spec II '94|174,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mitsubishi|GTO Twin Turbo '91|45,600|
+|Ferrari|Dino 246 GT '71|343,200|
+|Nissan|R34 GT-R V-spec II Nur '02|396,600|
 |Nissan|Silvia K's Aero (S14) '96|57,000|
 |Renault|Kangoo 1.4 '01|12,900|
 
@@ -76,20 +77,23 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '73|205,300|
+|BMW|Z8 '01|266,200|
+|Citroen|BX 19 TRS '87|26,900|
 |Dodge|Super Bee '70|60,500|
 |Dodge|Viper SRT10 Coupe '06|115,800|
-|Ferrari|Dino 246 GT '71|343,200|
 |Fiat|Panda 30 CL '85|11,400|
 |Honda|Civic Type R (EK) Touring Car|115,400|
 |Honda|S800 '66|49,300|
 |Lamborghini|Diablo GT '00|786,300|
 |Maserati|GranTurismo S '08|147,200|
 |Mitsubishi|Lancer Evolution V GSR '98|64,800|
-|Nissan|R34 GT-R V-spec II Nur '02|396,600|
 |Nissan|Silvia Q's (S13) '88|28,900|
 |Nissan|Skyline GTS-R (R31) '87|171,600|
 |Porsche|911 Turbo (930) '81|224,800|
+|RUF|CTR3 '07|788,800|
+|Renault|R4 GTL '85|27,100|
 |Renault|R5 Turbo '80|149,600|
+|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,500|
 |Toyota|Prius G '09|19,600|
 |Toyota|Supra 3.0GT Turbo A '88|116,700|
 |Volkswagen|Sambabus Typ 2 '62|56,400|
