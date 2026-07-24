@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 23-July-2026
+# Gran Turismo 7 Shops for 24-July-2026
 
 
 
@@ -36,22 +36,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Jaguar|XJ220 '92|548,000|
+|Maserati|Merak SS '80|61,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|RX500 '70|600,000|
-|Mercedes-Benz|W 196 R '55|20,000,000|
-|Porsche|Carrera GTS (904) '64|2,250,000|
+|Lamborghini|Countach LP400 '74|1,250,000|
+|McLaren|MP4/4 '88|12,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Lamborghini|Countach LP400 '74|1,250,000|
+|Jaguar|XJ220 '92|548,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|350,000|
 |Maserati|A6GCS/53 Spyder '54|2,800,000|
-|McLaren|MP4/4 '88|12,000,000|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 
 
@@ -60,18 +58,19 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Mazda|efini RX-7 Type R (FD) '91|66,700|
+|Honda|Beat '91|15,000|
+|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |BMW|3.0 CSL '73|205,300|
 |Dodge|Super Bee '70|60,500|
-|Ferrari|Dino 246 GT '71|343,200|
 |Honda|Civic Type R (EK) Touring Car|115,400|
+|Lamborghini|Diablo GT '00|786,300|
 |Mitsubishi|Lancer Evolution V GSR '98|64,800|
-|Nissan|R34 GT-R V-spec II Nur '02|396,600|
 |Renault|R5 Turbo '80|149,600|
+|Toyota|Supra 3.0GT Turbo A '88|116,700|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -83,8 +82,8 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Ferrari|Testarossa '91|372,000|
 |Fiat|Panda 30 CL '85|11,400|
 |Honda|S800 '66|49,300|
-|Lamborghini|Diablo GT '00|786,300|
 |Maserati|GranTurismo S '08|147,200|
+|Mazda|efini RX-7 Type R (FD) '91|66,700|
 |McLaren|MP4-12C '10|184,200|
 |Nissan|R32 GT-R V-spec II '94|174,500|
 |Nissan|Silvia Q's (S13) '88|28,900|
@@ -94,5 +93,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Renault|R4 GTL '85|27,100|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,500|
 |Toyota|Prius G '09|19,600|
-|Toyota|Supra 3.0GT Turbo A '88|116,700|
 |Volkswagen|Sambabus Typ 2 '62|56,400|
