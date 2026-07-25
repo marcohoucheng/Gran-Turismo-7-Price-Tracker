@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 24-July-2026
+# Gran Turismo 7 Shops for 25-July-2026
 
 
 
@@ -36,7 +36,9 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Maserati|Merak SS '80|61,500|
+|Alfa Romeo|155 2.5 V6 TI '93|650,000|
+|Ford|Mark IV Race Car '67|6,750,000|
+|Plymouth|XNR Ghia Roadster '60|3,000,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
@@ -50,6 +52,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Jaguar|XJ220 '92|548,000|
 |Lancia|Lancia Delta HF Integrale Rally Car '92|350,000|
 |Maserati|A6GCS/53 Spyder '54|2,800,000|
+|Maserati|Merak SS '80|61,500|
 |Nissan|Skyline Super Silhouette Group 5 '84|1,150,000|
 
 
@@ -58,18 +61,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Beat '91|15,000|
-|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
+|Audi|R8 4.2 '07|137,900|
+|Chevrolet|Corvette Convertible (C3) '69|47,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|3.0 CSL '73|205,300|
-|Dodge|Super Bee '70|60,500|
-|Honda|Civic Type R (EK) Touring Car|115,400|
+|Fiat|Panda 30 CL '85|11,400|
 |Lamborghini|Diablo GT '00|786,300|
-|Mitsubishi|Lancer Evolution V GSR '98|64,800|
-|Renault|R5 Turbo '80|149,600|
+|RUF|CTR3 '07|788,800|
+|Toyota|Prius G '09|19,600|
 |Toyota|Supra 3.0GT Turbo A '88|116,700|
 
 ### Available
@@ -80,17 +81,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Citroen|BX 19 TRS '87|26,900|
 |Dodge|Viper SRT10 Coupe '06|115,800|
 |Ferrari|Testarossa '91|372,000|
-|Fiat|Panda 30 CL '85|11,400|
+|Honda|Beat '91|15,000|
 |Honda|S800 '66|49,300|
 |Maserati|GranTurismo S '08|147,200|
 |Mazda|efini RX-7 Type R (FD) '91|66,700|
 |McLaren|MP4-12C '10|184,200|
+|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
 |Nissan|R32 GT-R V-spec II '94|174,500|
 |Nissan|Silvia Q's (S13) '88|28,900|
 |Nissan|Skyline GTS-R (R31) '87|171,600|
 |Porsche|911 Turbo (930) '81|224,800|
-|RUF|CTR3 '07|788,800|
 |Renault|R4 GTL '85|27,100|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,500|
-|Toyota|Prius G '09|19,600|
 |Volkswagen|Sambabus Typ 2 '62|56,400|
