@@ -27,11 +27,17 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 26-July-2026
+# Gran Turismo 7 Shops for 27-July-2026
 
 
 
 ## Legend shop
+
+### New
+ | Manufacturer | Model | Credits |
+ | --- | --- | --: |
+|Ferrari|F50 '95|4,700,000|
+|Renault|Espace F1 '95|2,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -51,19 +57,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Honda|Civic Si Extra (EF) '87|55,100|
-|Lamborghini|Gallardo LP 560-4 '08|251,300|
-|Lancia|Stratos '73|539,800|
-|Mazda|Eunos Roadster (NA) '89|29,600|
-|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
+|Ferrari|458 Italia '09|254,300|
+|Nissan|Sileighty '98|84,800|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Fiat|Panda 30 CL '85|11,400|
+|Chevrolet|Corvette ZR-1 (C4) '89|88,700|
+|Dodge|Viper SRT10 Coupe '06|115,800|
+|Nissan|Silvia Q's (S13) '88|28,900|
 |Porsche|911 Turbo (930) '81|224,800|
-|RUF|CTR3 '07|788,800|
-|Toyota|Prius G '09|19,600|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -71,18 +74,20 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Audi|R8 4.2 '07|137,900|
 |BMW|Z8 '01|266,200|
 |Chevrolet|Corvette Convertible (C3) '69|47,000|
-|Chevrolet|Corvette ZR-1 (C4) '89|88,700|
 |Citroen|BX 19 TRS '87|26,900|
-|Dodge|Viper SRT10 Coupe '06|115,800|
 |Ferrari|Testarossa '91|372,000|
 |Honda|Beat '91|15,000|
+|Honda|Civic Si Extra (EF) '87|55,100|
 |Honda|S800 '66|49,300|
+|Lamborghini|Gallardo LP 560-4 '08|251,300|
+|Lancia|Stratos '73|539,800|
 |Maserati|GranTurismo S '08|147,200|
+|Mazda|Eunos Roadster (NA) '89|29,600|
 |Mazda|efini RX-7 Type R (FD) '91|66,700|
 |McLaren|MP4-12C '10|184,200|
 |Mitsubishi|Lancer Evolution IV GSR '96|46,300|
+|Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 |Nissan|R32 GT-R V-spec II '94|174,500|
-|Nissan|Silvia Q's (S13) '88|28,900|
 |Nissan|Skyline GTS-R (R31) '87|171,600|
 |Renault|R4 GTL '85|27,100|
 |Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,500|
