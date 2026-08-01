@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 31-July-2026
+# Gran Turismo 7 Shops for 01-August-2026
 
 
 
@@ -36,25 +36,25 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Porsche|959 '87|1,950,000|
+|Porsche|356 A/1500 GS Carrera '56|606,000|
+|Porsche|911 GT1 Strassenversion '97|10,000,000|
+|Porsche|962 C '88|1,250,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ferrari|365 GTB4 '71|595,000|
+|Ford|Mark IV Race Car '67|6,750,000|
 |Maserati|Merak SS '80|61,500|
-|NISMO|400R '95|1,300,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
-|Nissan|Skyline Hard Top 2000GT-R (KPGC10) '70|194,000|
+|Nissan|Fairlady Z 432 '69|312,000|
 |Plymouth|XNR Ghia Roadster '60|3,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Alfa Romeo|155 2.5 V6 TI '93|650,000|
-|Ferrari|365 GTB4 '71|595,000|
 |Ferrari|F50 '95|4,700,000|
-|Ford|Mark IV Race Car '67|6,750,000|
-|Nissan|Fairlady Z 432 '69|312,000|
+|Porsche|959 '87|1,950,000|
 |Renault|Espace F1 '95|2,000,000|
 
 
@@ -63,45 +63,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Fiat|500 1.2 8V Lounge SS '08|12,500|
-|Mitsubishi|FTO GP Version R '97|26,200|
-|Porsche|911 GT3 (997) '09|141,900|
-|Toyota|Celica GT-Four (ST205) '94|65,500|
-|Toyota|Sports 800 '65|43,800|
+|Honda|Civic Type R (EK) '97|57,000|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Audi|R8 4.2 '07|137,900|
+|Autobianchi|A112 Abarth '85|39,000|
 |BMW|Z8 '01|266,200|
 |Chevrolet|Corvette Convertible (C3) '69|47,000|
-|Ferrari|Testarossa '91|372,000|
+|Honda|Beat '91|15,000|
 |Honda|Civic Si Extra (EF) '87|55,100|
 |Lamborghini|Gallardo LP 560-4 '08|251,300|
 |Mazda|Eunos Roadster (NA) '89|29,600|
-|Mazda|efini RX-7 Type R (FD) '91|66,700|
-|Mitsubishi|Lancer Evolution IV GSR '96|46,300|
-|Nissan|GT-R NISMO (R32) '90|400,000|
-|Nissan|R32 GT-R V-spec II '94|200,000|
-|Nissan|R33 GT-R V-spec '97|180,000|
-|Subaru|Impreza Coupe WRX Type R STi Ver.VI '99|53,500|
+|McLaren|MP4-12C '10|184,200|
+|Renault|R4 GTL '85|27,100|
+|TVR|Tuscan Speed 6 '00|95,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|Abarth 500 '09|23,500|
-|Audi|R8 4.2 '07|137,900|
-|Autobianchi|A112 Abarth '85|39,000|
 |Ferrari|458 Italia '09|254,300|
+|Fiat|500 1.2 8V Lounge SS '08|12,500|
 |Ford|Escort RS Cosworth '92|128,900|
-|Honda|Beat '91|15,000|
 |Honda|NSX Type R '92|396,200|
 |Lancia|Stratos '73|539,800|
-|McLaren|MP4-12C '10|184,200|
+|Mitsubishi|FTO GP Version R '97|26,200|
 |Mitsubishi|Lancer Evolution VI GSR T.M. SCP '99|165,200|
 |Mitsubishi|Lancer Evolution VIII MR GSR '04|69,200|
 |Nissan|Sileighty '98|84,800|
 |Porsche|911 GT3 (996) '01|158,500|
-|Renault|R4 GTL '85|27,100|
-|TVR|Tuscan Speed 6 '00|95,000|
+|Porsche|911 GT3 (997) '09|141,900|
+|Toyota|Celica GT-Four (ST205) '94|65,500|
 |Toyota|Corolla Levin 1600GT APEX (AE86) '83|50,200|
+|Toyota|Sports 800 '65|43,800|
 |Volvo|240 SE Estate '93|48,600|
