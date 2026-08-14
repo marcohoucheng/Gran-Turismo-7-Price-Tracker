@@ -27,7 +27,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 13-August-2026
+# Gran Turismo 7 Shops for 14-August-2026
 
 
 
@@ -36,14 +36,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ferrari|365 GTB4 '71|595,000|
-
-### Leaving Soon
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Chaparral|2J '70|2,500,000|
-|Chevrolet|Chevelle SS 454 Sport Coupé '70|150,000|
-|Jaguar|E-type Coupe '61|186,000|
+|Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
 
 ### Available
  | Manufacturer | Model | Credits |
@@ -51,6 +44,7 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Aston Martin|DB3S '53|6,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|330 P4 '67|20,000,000|
+|Ferrari|365 GTB4 '71|595,000|
 |Ford|1932 Ford Roadster Hot Rod|300,000|
 |McLaren|McLaren F1 '94|20,000,000|
 
@@ -60,32 +54,33 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|BMW|M3 '03|65,500|
-|BMW|M3 '89|73,100|
-|Ferrari|F430 '06|206,600|
-|Ford|Sierra RS 500 Cosworth '87|183,500|
-|Lancia|Delta HF Integrale Evoluzione '91|104,400|
-|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|58,200|
+|Alfa Romeo|Giulia Sprint GT Veloce '67|164,900|
+|Nissan|GT-R NISMO (R32) '90|397,700|
+|Peugeot|205 GTI '88|53,500|
+|Subaru|Impreza 22B-STi '98|164,100|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Ford|Ford GT '06|398,300|
-|Honda|NSX Type R '02|431,500|
-|Pontiac|Firebird Trans Am '78|86,900|
+|Autobianchi|A112 Abarth '85|28,900|
+|Honda|Civic Type R (EK) '98|51,700|
+|MINI|MINI Cooper S '05|22,900|
 |Toyota|Supra RZ '97|190,800|
+|Volkswagen|Golf I GTI '83|41,700|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|28,900|
+|BMW|M3 '03|65,500|
 |BMW|M3 '07|68,500|
+|BMW|M3 '89|73,100|
 |Chevrolet|Corvette Stingray (C3) '69|62,000|
 |Dodge|Viper GTS '02|102,800|
 |Ferrari|430 Scuderia '07|370,400|
-|Honda|Civic Type R (EK) '98|51,700|
+|Ferrari|F430 '06|206,600|
+|Ford|Sierra RS 500 Cosworth '87|183,500|
 |Honda|Integra Type R (DC2) '95|56,400|
-|MINI|MINI Cooper S '05|22,900|
+|Lancia|Delta HF Integrale Evoluzione '91|104,400|
 |Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,800|
 |Nissan|Silvia K's Type S (S14) '94|47,200|
@@ -93,4 +88,4 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 |Renault|Clio V6 24V '00|73,600|
 |Suzuki|Cappuccino (EA11R) '91|19,800|
 |Toyota|MR2 GT-S '97|54,900|
-|Volkswagen|Golf I GTI '83|41,700|
+|Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|58,200|
