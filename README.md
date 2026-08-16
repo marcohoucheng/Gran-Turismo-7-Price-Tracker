@@ -27,22 +27,16 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 4. Running `today.py` returns items available in the shops in terminal. With flag `new` the script will only return new days of the day.
 
 
-# Gran Turismo 7 Shops for 15-August-2026
+# Gran Turismo 7 Shops for 16-August-2026
 
 
 
 ## Legend shop
 
-### New
- | Manufacturer | Model | Credits |
- | --- | --- | --: |
-|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
-|Mercedes-Benz|CLK-LM '98|8,500,000|
-|Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
-
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Ford|1932 Ford Roadster Hot Rod|300,000|
 |Honda|RA272 '65|2,500,000|
 |Mercedes-Benz|W 196 R '55|20,000,000|
 
@@ -50,12 +44,14 @@ A scheduled Github Action is currently set up. However, the user can easily set 
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
 |Abarth|1500 Biposto Bertone B.A.T 1 '52|1,000,000|
+|Alfa Romeo|8C 2900B Touring Berlinetta '38|20,000,000|
 |Aston Martin|DB3S '53|6,000,000|
 |De Tomaso|Mangusta (Christian Dior)|500,000|
 |Ferrari|330 P4 '67|20,000,000|
 |Ferrari|365 GTB4 '71|595,000|
-|Ford|1932 Ford Roadster Hot Rod|300,000|
 |McLaren|McLaren F1 '94|20,000,000|
+|Mercedes-Benz|CLK-LM '98|8,500,000|
+|Nissan|Skyline 2000GT-R (KPGC110) '73|537,000|
 
 
 ## Used shop
@@ -63,42 +59,39 @@ A scheduled Github Action is currently set up. However, the user can easily set 
 ### New
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Abarth|Abarth 595 SS '70|47,000|
-|Nissan|R33 GT-R V-spec '97|155,800|
-|TVR|Tuscan Speed 6 '00|76,700|
+|Mercedes-Benz|SLR McLaren '09|505,500|
 
 ### Leaving Soon
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
-|Autobianchi|A112 Abarth '85|28,900|
-|Honda|Civic Type R (EK) '98|51,700|
+|Ferrari|430 Scuderia '07|370,400|
 |Honda|Integra Type R (DC2) '95|56,400|
 |Honda|S800 '66|58,000|
-|MINI|MINI Cooper S '05|22,900|
+|Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
 |Renault|Clio V6 24V '00|73,600|
 |Toyota|MR2 GT-S '97|54,900|
-|Volkswagen|Golf I GTI '83|41,700|
 |Volkswagen|Volkswagen 1200 '66|40,000|
 
 ### Available
  | Manufacturer | Model | Credits |
  | --- | --- | --: |
+|Abarth|Abarth 595 SS '70|47,000|
 |Alfa Romeo|Giulia Sprint GT Veloce '67|164,900|
 |BMW|M3 '03|65,500|
 |BMW|M3 '07|68,500|
 |BMW|M3 '89|73,100|
 |Chevrolet|Corvette Stingray (C3) '69|62,000|
 |Dodge|Viper GTS '02|102,800|
-|Ferrari|430 Scuderia '07|370,400|
 |Ferrari|F430 '06|206,600|
 |Ford|Sierra RS 500 Cosworth '87|183,500|
 |Lancia|Delta HF Integrale Evoluzione '91|104,400|
-|Nissan|Fairlady Z 300ZX TT 2seater '89|58,000|
 |Nissan|GT-R NISMO (R32) '90|397,700|
+|Nissan|R33 GT-R V-spec '97|155,800|
 |Nissan|SILVIA spec-R Aero (S15) '02|59,800|
 |Nissan|Silvia K's Type S (S14) '94|47,200|
 |Peugeot|205 GTI '88|53,500|
 |Porsche|911 Carrera RS (964) '92|218,000|
 |Subaru|Impreza 22B-STi '98|164,100|
 |Suzuki|Cappuccino (EA11R) '91|19,800|
+|TVR|Tuscan Speed 6 '00|76,700|
 |Toyota|Sprinter Trueno 1600GT APEX (AE86) '83|58,200|
